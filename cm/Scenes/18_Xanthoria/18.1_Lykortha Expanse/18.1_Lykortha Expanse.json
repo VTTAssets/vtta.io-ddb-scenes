@@ -1,0 +1,67 @@
+{
+   "name": "Lykortha Expanse",
+   "id": "scenes/cm-scene-18.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3000,
+      "height": 2073
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-18.1-L11",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-18.1-L10",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-18.1-L09",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-18.1-L08",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-18.1-L07",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-18.1-L06",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-18.1-L05",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-18.1-L04",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-18.1-L03",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-18.1-L02",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-18.1-L01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": []
+}

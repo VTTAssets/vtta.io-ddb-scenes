@@ -1,0 +1,75 @@
+{
+   "name": "The Worm Nursery",
+   "id": "scenes/oota-scene-13.2",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3375,
+      "height": 2750
+   },
+   "journals": [
+      {
+         "id": "journals/oota-scene-13.2-13",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-13.2-12",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-13.2-11",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-13.2-10",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-13.2-09",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-13.2-08",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-13.2-07",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-13.2-06",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-13.2-05",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-13.2-04",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-13.2-03",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-13.2-02",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-13.2-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": []
+}

@@ -1,0 +1,66 @@
+{
+   "name": "Neronvain’s Stronghold",
+   "id": "scenes/rot-scene-12.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -100,
+         "y": -180
+      },
+      "width": 5973,
+      "height": 4461
+   },
+   "journals": [
+      {
+         "id": "journals/rot-scene-12.1-10",
+         "positions": []
+      },
+      {
+         "id": "journals/rot-scene-12.1-09",
+         "positions": []
+      },
+      {
+         "id": "journals/rot-scene-12.1-08",
+         "positions": []
+      },
+      {
+         "id": "journals/rot-scene-12.1-07",
+         "positions": []
+      },
+      {
+         "id": "journals/rot-scene-12.1-06",
+         "positions": []
+      },
+      {
+         "id": "journals/rot-scene-12.1-05",
+         "positions": []
+      },
+      {
+         "id": "journals/rot-scene-12.1-04",
+         "positions": []
+      },
+      {
+         "id": "journals/rot-scene-12.1-03",
+         "positions": []
+      },
+      {
+         "id": "journals/rot-scene-12.1-02",
+         "positions": []
+      },
+      {
+         "id": "journals/rot-scene-12.1-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 191,
+      "type": 1,
+      "distance": 15,
+      "units": "ft"
+   },
+   "backgroundColor": "#816756",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

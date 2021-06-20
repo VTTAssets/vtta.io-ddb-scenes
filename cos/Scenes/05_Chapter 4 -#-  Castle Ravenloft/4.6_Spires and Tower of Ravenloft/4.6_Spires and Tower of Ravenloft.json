@@ -1,0 +1,70 @@
+{
+   "name": "Spires and Tower of Ravenloft",
+   "id": "scenes/cos-scene-4.6",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -22,
+         "y": -19
+      },
+      "width": 1167,
+      "height": 3344
+   },
+   "journals": [
+      {
+         "id": "journals/cos-scene-4.6-K60a",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.6-K60",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.6-K59",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.6-K58",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.6-K57",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.6-K56",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.6-K55",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.6-K48",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.6-K20",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.6-K18a",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.6-K18",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 64,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#c1c3c4",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

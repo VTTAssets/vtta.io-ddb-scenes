@@ -1,0 +1,54 @@
+{
+   "name": "Cove Reef",
+   "id": "scenes/gos-scene-9.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -115,
+         "y": -14
+      },
+      "width": 4209,
+      "height": 5695
+   },
+   "journals": [
+      {
+         "id": "journals/gos-scene-9.1-C07",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-9.1-C06",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-9.1-C05",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-9.1-C04",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-9.1-C03",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-9.1-C02",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-9.1-C01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 120,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#fafafb",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

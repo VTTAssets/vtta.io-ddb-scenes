@@ -1,0 +1,55 @@
+{
+   "name": "Dragon Barrow",
+   "id": "scenes/doip-scene-4.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2888,
+      "height": 1838
+   },
+   "journals": [
+      {
+         "id": "journals/doip-scene-4.1-D08",
+         "positions": []
+      },
+      {
+         "id": "journals/doip-scene-4.1-D07",
+         "positions": []
+      },
+      {
+         "id": "journals/doip-scene-4.1-D06",
+         "positions": []
+      },
+      {
+         "id": "journals/doip-scene-4.1-D05",
+         "positions": []
+      },
+      {
+         "id": "journals/doip-scene-4.1-D04",
+         "positions": []
+      },
+      {
+         "id": "journals/doip-scene-4.1-D03",
+         "positions": []
+      },
+      {
+         "id": "journals/doip-scene-4.1-D02",
+         "positions": []
+      },
+      {
+         "id": "journals/doip-scene-4.1-D01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": []
+}

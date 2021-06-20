@@ -1,0 +1,114 @@
+{
+   "name": "Mantol-Derith",
+   "id": "scenes/oota-scene-9.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -23,
+         "y": -14
+      },
+      "width": 3392,
+      "height": 2764
+   },
+   "journals": [
+      {
+         "id": "journals/oota-scene-9.1-07b",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-9.1-07a",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-9.1-07",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-9.1-06b",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-9.1-06a",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-9.1-06",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-9.1-05b",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-9.1-05a",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-9.1-05",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-9.1-04b",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-9.1-04a",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-9.1-04",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-9.1-03b",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-9.1-03a",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-9.1-03",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-9.1-02",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-9.1-01e",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-9.1-01d",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-9.1-01c",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-9.1-01b",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-9.1-01a",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-9.1-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 76,
+      "type": 1,
+      "distance": 20,
+      "units": "ft"
+   },
+   "backgroundColor": "#816e62",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

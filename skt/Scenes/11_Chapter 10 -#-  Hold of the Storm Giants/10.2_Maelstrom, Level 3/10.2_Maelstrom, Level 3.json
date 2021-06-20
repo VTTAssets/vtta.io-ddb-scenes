@@ -1,0 +1,83 @@
+{
+   "name": "Maelstrom, Level 3",
+   "id": "scenes/skt-scene-10.2",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2400,
+      "height": 1650
+   },
+   "journals": [
+      {
+         "id": "journals/skt-scene-10.2-34",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.2-33C",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.2-33B",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.2-33A",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.2-33",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.2-32B",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.2-32A",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.2-32",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.2-31B",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.2-31A",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.2-31",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.2-30C",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.2-30B",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.2-30A",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.2-30",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": []
+}

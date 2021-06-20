@@ -1,0 +1,25 @@
+{
+   "name": "Backlot in Town",
+   "id": "scenes/slw-scene-4",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -76,
+         "y": -96
+      },
+      "width": 2841,
+      "height": 3606
+   },
+   "journals": [],
+   "grid": {
+      "value": 136,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#473d2b",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

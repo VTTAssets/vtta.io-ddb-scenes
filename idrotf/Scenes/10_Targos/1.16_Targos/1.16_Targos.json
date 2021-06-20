@@ -1,0 +1,37 @@
+{
+   "name": "Targos",
+   "id": "scenes/idrotf-scene-1.16",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2196,
+      "height": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-1.16-03",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-1.16-02",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-1.16-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#aeadab",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

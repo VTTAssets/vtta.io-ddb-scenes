@@ -1,0 +1,25 @@
+{
+   "name": "Baldur’s Gate",
+   "id": "scenes/bgdia-scene-1.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -51,
+         "y": -51
+      },
+      "width": 2566,
+      "height": 1652
+   },
+   "journals": [],
+   "grid": {
+      "value": 51,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#aeb499",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

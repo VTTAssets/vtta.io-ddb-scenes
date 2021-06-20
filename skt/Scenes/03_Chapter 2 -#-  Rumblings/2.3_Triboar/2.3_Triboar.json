@@ -1,0 +1,365 @@
+{
+   "name": "Triboar",
+   "id": "scenes/skt-scene-2.3",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -55,
+         "y": -23
+      },
+      "width": 2471,
+      "height": 3286
+   },
+   "journals": [
+      {
+         "id": "journals/skt-scene-2.3-T25",
+         "positions": [
+            {
+               "x": 993.92,
+               "y": 3291.18
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T24",
+         "positions": [
+            {
+               "x": 1018.19,
+               "y": 2110.98
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T23",
+         "positions": [
+            {
+               "x": 2734.61,
+               "y": 2499.04
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T22",
+         "positions": [
+            {
+               "x": 1787.95,
+               "y": 3277.75
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T21",
+         "positions": [
+            {
+               "x": 2337.2,
+               "y": 2997.97
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T20",
+         "positions": [
+            {
+               "x": 2158.1,
+               "y": 3189.01
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T19",
+         "positions": [
+            {
+               "x": 2726,
+               "y": 2875
+            },
+            {
+               "x": 2595,
+               "y": 3028
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T18",
+         "positions": [
+            {
+               "x": 2255,
+               "y": 1689
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T17",
+         "positions": [
+            {
+               "x": 2586.76,
+               "y": 1591.72
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T16",
+         "positions": [
+            {
+               "x": 1677.5,
+               "y": 2965.13
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T15",
+         "positions": [
+            {
+               "x": 1827.06,
+               "y": 1767.84
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T14",
+         "positions": [
+            {
+               "x": 1439,
+               "y": 1963.36
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T13",
+         "positions": [
+            {
+               "x": 1764,
+               "y": 1974
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T12",
+         "positions": [
+            {
+               "x": 1996,
+               "y": 1954
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T11",
+         "positions": [
+            {
+               "x": 2386.76,
+               "y": 2084.26
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T10",
+         "positions": [
+            {
+               "x": 2467.45,
+               "y": 2561.73
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T09",
+         "positions": [
+            {
+               "x": 1609,
+               "y": 2317
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T08",
+         "positions": [
+            {
+               "x": 1800.96,
+               "y": 2138.4
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T07",
+         "positions": [
+            {
+               "x": 2309.55,
+               "y": 2189.14
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T06",
+         "positions": [
+            {
+               "x": 2194.31,
+               "y": 2625.91
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T05",
+         "positions": [
+            {
+               "x": 1768.94,
+               "y": 2769.19
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T04",
+         "positions": [
+            {
+               "x": 1104.76,
+               "y": 2749.79
+            },
+            {
+               "x": 1371.93,
+               "y": 2825.91
+            },
+            {
+               "x": 1539.09,
+               "y": 2596.06
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T03",
+         "positions": [
+            {
+               "x": 1716.7,
+               "y": 2391.58
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T02",
+         "positions": [
+            {
+               "x": 2040.58,
+               "y": 2342.32
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-T01",
+         "positions": [
+            {
+               "x": 1936,
+               "y": 2583
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-02",
+         "positions": [
+            {
+               "x": 1867.11,
+               "y": 3109.84
+            },
+            {
+               "x": 2090,
+               "y": 2945
+            },
+            {
+               "x": 2013,
+               "y": 2831
+            },
+            {
+               "x": 2156,
+               "y": 2758
+            },
+            {
+               "x": 2369,
+               "y": 2726
+            },
+            {
+               "x": 2471,
+               "y": 2856
+            },
+            {
+               "x": 2608,
+               "y": 2707
+            },
+            {
+               "x": 2826,
+               "y": 2678
+            },
+            {
+               "x": 2796,
+               "y": 2602
+            },
+            {
+               "x": 2602,
+               "y": 2391
+            },
+            {
+               "x": 2416,
+               "y": 2370
+            },
+            {
+               "x": 1410,
+               "y": 2442
+            },
+            {
+               "x": 1363,
+               "y": 2367
+            },
+            {
+               "x": 1470,
+               "y": 2176
+            },
+            {
+               "x": 1736,
+               "y": 1848
+            },
+            {
+               "x": 2478,
+               "y": 1877
+            },
+            {
+               "x": 1506,
+               "y": 1491
+            },
+            {
+               "x": 1741,
+               "y": 1505
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.3-01",
+         "positions": [
+            {
+               "x": 2632.21,
+               "y": 1433.54
+            },
+            {
+               "x": 2401,
+               "y": 1458
+            },
+            {
+               "x": 2293,
+               "y": 2363
+            },
+            {
+               "x": 1416,
+               "y": 3375
+            },
+            {
+               "x": 1413,
+               "y": 3618
+            }
+         ]
+      }
+   ],
+   "grid": {
+      "value": 72,
+      "type": 0,
+      "distance": 40,
+      "units": "ft"
+   },
+   "backgroundColor": "#0f0e0e",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

@@ -1,0 +1,54 @@
+{
+   "name": "The Morkoth",
+   "id": "scenes/skt-scene-11.2",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -50,
+         "y": -48
+      },
+      "width": 2429,
+      "height": 1632
+   },
+   "journals": [
+      {
+         "id": "journals/skt-scene-11.2-07",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-11.2-06",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-11.2-05",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-11.2-04",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-11.2-03",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-11.2-02",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-11.2-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 51,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#7e5d39",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

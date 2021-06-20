@@ -1,0 +1,25 @@
+{
+   "name": "Dellmon Ranch",
+   "id": "scenes/pota-scene-6.5",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -62,
+         "y": -18
+      },
+      "width": 1441,
+      "height": 2000
+   },
+   "journals": [],
+   "grid": {
+      "value": 82,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#b9ad84",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

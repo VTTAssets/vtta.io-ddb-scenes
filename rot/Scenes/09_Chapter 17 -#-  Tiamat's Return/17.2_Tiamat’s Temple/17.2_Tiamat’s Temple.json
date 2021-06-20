@@ -1,0 +1,25 @@
+{
+   "name": "Tiamat’s Temple",
+   "id": "scenes/rot-scene-17.2",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -7,
+         "y": -31
+      },
+      "width": 3624,
+      "height": 5233
+   },
+   "journals": [],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#6f5a4c",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

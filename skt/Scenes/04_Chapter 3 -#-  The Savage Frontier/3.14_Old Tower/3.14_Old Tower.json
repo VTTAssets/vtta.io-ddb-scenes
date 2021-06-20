@@ -1,0 +1,22 @@
+{
+   "name": "Old Tower",
+   "id": "scenes/skt-scene-3.14",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 1000,
+      "height": 688
+   },
+   "journals": [],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": []
+}

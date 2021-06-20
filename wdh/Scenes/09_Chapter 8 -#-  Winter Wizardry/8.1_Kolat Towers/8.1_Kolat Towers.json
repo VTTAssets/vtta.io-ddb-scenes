@@ -1,0 +1,113 @@
+{
+   "name": "Kolat Towers",
+   "id": "scenes/wdh-scene-8.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2100,
+      "height": 2595
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-8.1-K22",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-8.1-K21",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-8.1-K20",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-8.1-K19",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-8.1-K18",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-8.1-K17",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-8.1-K16",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-8.1-K15",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-8.1-K14",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-8.1-K13",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-8.1-K12",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-8.1-K11",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-8.1-K10",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-8.1-K09",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-8.1-K08",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-8.1-K07",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-8.1-K06",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-8.1-K05",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-8.1-K04",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-8.1-K03",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-8.1-K02",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-8.1-K01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#ffffff",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

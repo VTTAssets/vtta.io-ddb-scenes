@@ -1,0 +1,53 @@
+{
+   "name": "Easthaven",
+   "id": "scenes/idrotf-scene-1.9",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -24,
+         "y": 1
+      },
+      "width": 3000,
+      "height": 2139
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-1.9-03",
+         "positions": [
+            {
+               "x": 1888,
+               "y": 1632
+            }
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.9-02",
+         "positions": [
+            {
+               "x": 3232,
+               "y": 928
+            }
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.9-01",
+         "positions": [
+            {
+               "x": 1766.5882352941178,
+               "y": 1457.6470588235295
+            }
+         ]
+      }
+   ],
+   "grid": {
+      "value": 64,
+      "type": 1,
+      "distance": 100,
+      "units": "ft"
+   },
+   "backgroundColor": "#babab8",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

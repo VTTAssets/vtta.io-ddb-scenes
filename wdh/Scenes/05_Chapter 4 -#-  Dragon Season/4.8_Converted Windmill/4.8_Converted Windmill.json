@@ -1,0 +1,38 @@
+{
+   "name": "Converted Windmill",
+   "id": "scenes/wdh-scene-4.8",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -25,
+         "y": -52
+      },
+      "width": 2049,
+      "height": 1437
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-4.8-W03",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.8-W02",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.8-W01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 61,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#fbfbfb",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

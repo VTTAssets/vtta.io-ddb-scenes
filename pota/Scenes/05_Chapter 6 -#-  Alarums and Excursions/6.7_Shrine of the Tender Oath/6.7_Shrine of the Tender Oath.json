@@ -1,0 +1,54 @@
+{
+   "name": "Shrine of the Tender Oath",
+   "id": "scenes/pota-scene-6.7",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -37,
+         "y": -58
+      },
+      "width": 1452,
+      "height": 2011
+   },
+   "journals": [
+      {
+         "id": "journals/pota-scene-6.7-D07",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.7-D06",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.7-D05",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.7-D04",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.7-D03",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.7-D02",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.7-D01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 64,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#c3b389",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

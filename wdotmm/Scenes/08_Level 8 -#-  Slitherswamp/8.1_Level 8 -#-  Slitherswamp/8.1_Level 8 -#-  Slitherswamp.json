@@ -1,0 +1,234 @@
+{
+   "name": "Level 8: Slitherswamp",
+   "id": "scenes/wdotmm-scene-8.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -3,
+         "y": -38
+      },
+      "width": 2862,
+      "height": 3881
+   },
+   "journals": [
+      {
+         "id": "journals/wdotmm-scene-8.1-24",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-23",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-22b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-22a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-22",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-21c",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-21b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-21a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-21",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-20",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-19d",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-19c",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-19b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-19a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-19",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-18b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-18a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-18",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-17c",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-17b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-17a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-17",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-16",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-15f",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-15e",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-15d",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-15c",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-15b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-15a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-15",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-14",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-13",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-12",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-11b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-11a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-11",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-10b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-10a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-10",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-09",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-08b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-08a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-08",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-07",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-06",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-05",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-04b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-04a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-04",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-03",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-02",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-8.1-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#fefefe",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

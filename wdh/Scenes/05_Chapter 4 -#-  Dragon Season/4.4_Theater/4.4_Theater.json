@@ -1,0 +1,58 @@
+{
+   "name": "Theater",
+   "id": "scenes/wdh-scene-4.4",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -32,
+         "y": -14
+      },
+      "width": 2066,
+      "height": 1435
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-4.4-P08",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.4-P07",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.4-P06",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.4-P05",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.4-P04",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.4-P03",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.4-P02",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.4-P01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 61,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#f7f7f7",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

@@ -1,0 +1,143 @@
+{
+   "name": "Hall of the Fire Giant King - Entrance Level",
+   "id": "scenes/tftyp-scene-6.5",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2252,
+      "height": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/tftyp-scene-6.5-25",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-24",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-23",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-22",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-21",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-20",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-19",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-18",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-17",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-16",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-15",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-14",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-13B",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-13A",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-13",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-12B",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-12A",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-12",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-11",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-10",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-09",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-08",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-07",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-06",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-05",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-04",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-03",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-02",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-01A",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.5-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": []
+}

@@ -1,0 +1,25 @@
+{
+   "name": "Stone Stand",
+   "id": "scenes/skt-scene-3.12",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -47,
+         "y": -1
+      },
+      "width": 1601,
+      "height": 2202
+   },
+   "journals": [],
+   "grid": {
+      "value": 105,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#6c584a",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

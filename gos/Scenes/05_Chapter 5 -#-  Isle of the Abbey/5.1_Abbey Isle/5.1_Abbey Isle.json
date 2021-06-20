@@ -1,0 +1,25 @@
+{
+   "name": "Abbey Isle",
+   "id": "scenes/gos-scene-5.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -85,
+         "y": -54
+      },
+      "width": 2100,
+      "height": 2871
+   },
+   "journals": [],
+   "grid": {
+      "value": 109,
+      "type": 1,
+      "distance": 500,
+      "units": "ft"
+   },
+   "backgroundColor": "#fdfdfd",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

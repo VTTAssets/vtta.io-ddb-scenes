@@ -1,0 +1,63 @@
+{
+   "name": "The Manor",
+   "id": "scenes/cm-scene-13.2",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3000,
+      "height": 2044
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-13.2-M10",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-13.2-M09",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-13.2-M08",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-13.2-M07",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-13.2-M06",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-13.2-M05",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-13.2-M04",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-13.2-M03",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-13.2-M02",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-13.2-M01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": []
+}

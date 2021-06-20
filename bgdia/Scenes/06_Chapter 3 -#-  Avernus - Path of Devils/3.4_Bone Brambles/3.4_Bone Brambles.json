@@ -1,0 +1,38 @@
+{
+   "name": "Bone Brambles",
+   "id": "scenes/bgdia-scene-3.4",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -136,
+         "y": -4
+      },
+      "width": 6097,
+      "height": 3996
+   },
+   "journals": [
+      {
+         "id": "journals/bgdia-scene-3.4-B03",
+         "positions": []
+      },
+      {
+         "id": "journals/bgdia-scene-3.4-B02",
+         "positions": []
+      },
+      {
+         "id": "journals/bgdia-scene-3.4-B01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 140,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#fefefe",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

@@ -1,0 +1,38 @@
+{
+   "name": "Mistshore",
+   "id": "scenes/wdh-scene-4.2",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -3,
+         "y": -5
+      },
+      "width": 2688,
+      "height": 1862
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-4.2-D03",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.2-D02",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.2-D01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#f9f9f9",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

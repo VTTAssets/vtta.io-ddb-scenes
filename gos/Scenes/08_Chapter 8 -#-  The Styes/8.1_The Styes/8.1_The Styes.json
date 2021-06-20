@@ -1,0 +1,70 @@
+{
+   "name": "The Styes",
+   "id": "scenes/gos-scene-8.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -76,
+         "y": -6
+      },
+      "width": 2099,
+      "height": 1536
+   },
+   "journals": [
+      {
+         "id": "journals/gos-scene-8.1-11",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-8.1-10",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-8.1-09",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-8.1-08",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-8.1-07",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-8.1-06",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-8.1-05",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-8.1-04",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-8.1-03",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-8.1-02",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-8.1-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 78,
+      "type": 1,
+      "distance": 150,
+      "units": "ft"
+   },
+   "backgroundColor": "#f3f5f8",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

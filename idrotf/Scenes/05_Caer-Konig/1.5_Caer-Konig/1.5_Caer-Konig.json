@@ -1,0 +1,53 @@
+{
+   "name": "Caer-Konig",
+   "id": "scenes/idrotf-scene-1.5",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -25,
+         "y": 21
+      },
+      "width": 2206,
+      "height": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-1.5-03",
+         "positions": [
+            {
+               "x": 2533.363636363636,
+               "y": 1965.3636363636363
+            }
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.5-02",
+         "positions": [
+            {
+               "x": 1980.4545454545455,
+               "y": 1451.909090909091
+            }
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.5-01",
+         "positions": [
+            {
+               "x": 2136.090909090909,
+               "y": 2046.818181818182
+            }
+         ]
+      }
+   ],
+   "grid": {
+      "value": 98,
+      "type": 1,
+      "distance": 100,
+      "units": "ft"
+   },
+   "backgroundColor": "#acaca8",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

@@ -1,0 +1,62 @@
+{
+   "name": "Tomb of Moving Stones",
+   "id": "scenes/pota-scene-6.3",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -14,
+         "y": -50
+      },
+      "width": 4002,
+      "height": 2769
+   },
+   "journals": [
+      {
+         "id": "journals/pota-scene-6.3-T09",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.3-T08",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.3-T07",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.3-T06",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.3-T05",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.3-T04",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.3-T03",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.3-T02",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.3-T01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 68,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#d0bf9d",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

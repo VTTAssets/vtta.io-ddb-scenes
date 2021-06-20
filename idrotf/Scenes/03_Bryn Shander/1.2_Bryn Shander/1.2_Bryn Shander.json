@@ -1,0 +1,53 @@
+{
+   "name": "Bryn Shander",
+   "id": "scenes/idrotf-scene-1.2",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -21,
+         "y": 5
+      },
+      "width": 3000,
+      "height": 2143
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-1.2-03",
+         "positions": [
+            {
+               "x": 2048.530120481928,
+               "y": 901.6385542168674
+            }
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.2-02",
+         "positions": [
+            {
+               "x": 2774.3614457831322,
+               "y": 1179.1807228915663
+            }
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.2-01",
+         "positions": [
+            {
+               "x": 2191.671528218136,
+               "y": 1326.4895370957518
+            }
+         ]
+      }
+   ],
+   "grid": {
+      "value": 64,
+      "type": 1,
+      "distance": 100,
+      "units": "ft"
+   },
+   "backgroundColor": "#b8b8b5",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

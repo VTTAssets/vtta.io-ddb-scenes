@@ -1,0 +1,43 @@
+{
+   "name": "Elevator Trap",
+   "id": "scenes/cos-scene-4.8",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 1200,
+      "height": 3300
+   },
+   "journals": [
+      {
+         "id": "journals/cos-scene-4.8-K61",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.8-K47",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.8-K31b",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.8-K31a",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.8-K31",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": []
+}

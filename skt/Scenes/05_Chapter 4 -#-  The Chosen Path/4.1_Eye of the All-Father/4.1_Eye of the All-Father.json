@@ -1,0 +1,110 @@
+{
+   "name": "Eye of the All-Father",
+   "id": "scenes/skt-scene-4.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -22,
+         "y": -14
+      },
+      "width": 2722,
+      "height": 3737
+   },
+   "journals": [
+      {
+         "id": "journals/skt-scene-4.1-11",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-4.1-10A",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-4.1-10",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-4.1-09B",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-4.1-09A",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-4.1-09",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-4.1-08C",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-4.1-08B",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-4.1-08A",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-4.1-08",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-4.1-07",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-4.1-06",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-4.1-05B",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-4.1-05A",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-4.1-05",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-4.1-04",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-4.1-03",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-4.1-02B",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-4.1-02A",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-4.1-02",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-4.1-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 20,
+      "units": "ft"
+   },
+   "backgroundColor": "#4a3d32",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

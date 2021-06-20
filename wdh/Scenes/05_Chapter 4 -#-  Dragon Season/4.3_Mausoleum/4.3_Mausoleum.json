@@ -1,0 +1,34 @@
+{
+   "name": "Mausoleum",
+   "id": "scenes/wdh-scene-4.3",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -7,
+         "y": -17
+      },
+      "width": 2046,
+      "height": 1425
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-4.3-M02",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.3-M01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 59,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#fefefe",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

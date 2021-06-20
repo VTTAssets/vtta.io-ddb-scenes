@@ -1,0 +1,71 @@
+{
+   "name": "Red Larch Surroundings",
+   "id": "scenes/pota-scene-6.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -6,
+         "y": -48
+      },
+      "width": 1775,
+      "height": 2444
+   },
+   "journals": [
+      {
+         "id": "journals/pota-scene-6.1-05",
+         "positions": [
+            {
+               "x": 808.4230769230769,
+               "y": 1193.6784615384618
+            }
+         ]
+      },
+      {
+         "id": "journals/pota-scene-6.1-04",
+         "positions": [
+            {
+               "x": 1715.9615384615386,
+               "y": 2090.447692307692
+            }
+         ]
+      },
+      {
+         "id": "journals/pota-scene-6.1-03",
+         "positions": [
+            {
+               "x": 1430.7307692307693,
+               "y": 2211.3707692307694
+            }
+         ]
+      },
+      {
+         "id": "journals/pota-scene-6.1-02",
+         "positions": [
+            {
+               "x": 1353,
+               "y": 1804.14
+            }
+         ]
+      },
+      {
+         "id": "journals/pota-scene-6.1-01",
+         "positions": [
+            {
+               "x": 871.5,
+               "y": 1891.39
+            }
+         ]
+      }
+   ],
+   "grid": {
+      "value": 95,
+      "type": 5,
+      "distance": 2,
+      "units": "ft"
+   },
+   "backgroundColor": "#a3a68f",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

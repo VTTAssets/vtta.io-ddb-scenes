@@ -1,0 +1,290 @@
+{
+   "name": "Level 16: Crystal Labyrinth",
+   "id": "scenes/wdotmm-scene-16.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -3,
+         "y": -2
+      },
+      "width": 2862,
+      "height": 3854
+   },
+   "journals": [
+      {
+         "id": "journals/wdotmm-scene-16.1-32",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-31",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-30",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-29d",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-29c",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-29b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-29a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-29",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-28b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-28a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-28",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-27",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-26",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-25",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-24",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-23",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-22",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-21b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-21a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-21",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-20",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-19b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-19a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-19",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-18c",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-18b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-18a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-18",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-17c",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-17b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-17a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-17",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-16b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-16a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-16",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-15c",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-15b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-15a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-15",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-14",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-13",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-12f",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-12e",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-12d",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-12c",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-12b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-12a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-12",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-11",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-10",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-09",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-08",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-07",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-06b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-06a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-06",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-05",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-04",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-03b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-03a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-03",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-02c",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-02b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-02a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-02",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-16.1-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#ffffff",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

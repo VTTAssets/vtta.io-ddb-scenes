@@ -1,0 +1,70 @@
+{
+   "name": "Halls of the Hunting Axe",
+   "id": "scenes/pota-scene-6.9",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -64,
+         "y": -46
+      },
+      "width": 2900,
+      "height": 2025
+   },
+   "journals": [
+      {
+         "id": "journals/pota-scene-6.9-X11",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.9-X10",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.9-X09",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.9-X08",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.9-X07",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.9-X06",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.9-X05",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.9-X04",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.9-X03",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.9-X02",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-6.9-X01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 67,
+      "type": 1,
+      "distance": 20,
+      "units": "ft"
+   },
+   "backgroundColor": "#e1d9ba",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

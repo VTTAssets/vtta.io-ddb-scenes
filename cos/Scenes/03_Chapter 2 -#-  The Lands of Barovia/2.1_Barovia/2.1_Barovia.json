@@ -1,0 +1,284 @@
+{
+   "name": "Barovia",
+   "id": "scenes/cos-scene-2.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -35,
+         "y": 7
+      },
+      "width": 5040,
+      "height": 3235
+   },
+   "journals": [
+      {
+         "id": "journals/cos-scene-2.1-26",
+         "positions": [
+            {
+               "x": 2220,
+               "y": 1593.6410161513775
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-25",
+         "positions": [
+            {
+               "x": 1680,
+               "y": 2945.3589838486223
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-24",
+         "positions": [
+            {
+               "x": 3000,
+               "y": 3568.3589838486223
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-23",
+         "positions": [
+            {
+               "x": 1900,
+               "y": 2425.64
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-22",
+         "positions": [
+            {
+               "x": 2580,
+               "y": 1732.6410161513775
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-21",
+         "positions": [
+            {
+               "x": 2960,
+               "y": 2806.6410161513777
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-20",
+         "positions": [
+            {
+               "x": 2580,
+               "y": 3326.3589838486223
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-19",
+         "positions": [
+            {
+               "x": 1980,
+               "y": 1870.6410161513775
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-18",
+         "positions": [
+            {
+               "x": 2420,
+               "y": 1940.3589838486225
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-17",
+         "positions": [
+            {
+               "x": 2980,
+               "y": 2494.64
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-16",
+         "positions": [
+            {
+               "x": 3100,
+               "y": 2078.64
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-15",
+         "positions": [
+            {
+               "x": 3760,
+               "y": 2182.64
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-14",
+         "positions": [
+            {
+               "x": 3320,
+               "y": 2044.6410161513775
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-13",
+         "positions": [
+            {
+               "x": 4300,
+               "y": 1385.64
+            },
+            {
+               "x": 4100,
+               "y": 1316.3589838486225
+            },
+            {
+               "x": 3760,
+               "y": 1351.64
+            },
+            {
+               "x": 3320,
+               "y": 1282.6410161513775
+            },
+            {
+               "x": 3000,
+               "y": 1420.6410161513775
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-12",
+         "positions": [
+            {
+               "x": 3420,
+               "y": 1663.3589838486225
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-11",
+         "positions": [
+            {
+               "x": 4940,
+               "y": 2564.3589838486223
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-10",
+         "positions": [
+            {
+               "x": 4680,
+               "y": 2495
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-09",
+         "positions": [
+            {
+               "x": 4380,
+               "y": 2425.3589838486223
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-08",
+         "positions": [
+            {
+               "x": 4320,
+               "y": 2633
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-07",
+         "positions": [
+            {
+               "x": 4560,
+               "y": 2841
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-06",
+         "positions": [
+            {
+               "x": 4740,
+               "y": 3222
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-05",
+         "positions": [
+            {
+               "x": 5240,
+               "y": 2806.6410161513777
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-04",
+         "positions": [
+            {
+               "x": 5760,
+               "y": 3152.6410161513777
+            },
+            {
+               "x": 5220,
+               "y": 3049.3589838486223
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-03",
+         "positions": [
+            {
+               "x": 5940,
+               "y": 2806
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-02",
+         "positions": [
+            {
+               "x": 6020,
+               "y": 2564.3589838486223
+            },
+            {
+               "x": 4380,
+               "y": 2286.3589838486223
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-2.1-01",
+         "positions": [
+            {
+               "x": 6140,
+               "y": 2702.3589838486223
+            }
+         ]
+      }
+   ],
+   "grid": {
+      "value": 80,
+      "type": 5,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#959783",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

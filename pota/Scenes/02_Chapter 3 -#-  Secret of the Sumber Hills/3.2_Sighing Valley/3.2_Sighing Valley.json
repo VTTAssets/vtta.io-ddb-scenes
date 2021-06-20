@@ -1,0 +1,62 @@
+{
+   "name": "Sighing Valley",
+   "id": "scenes/pota-scene-3.2",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -10,
+         "y": -79
+      },
+      "width": 1897,
+      "height": 2805
+   },
+   "journals": [
+      {
+         "id": "journals/pota-scene-3.2-V09",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.2-V08",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.2-V07",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.2-V06",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.2-V05",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.2-V04",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.2-V03",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.2-V02",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.2-V01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 80,
+      "type": 1,
+      "distance": 250,
+      "units": "ft"
+   },
+   "backgroundColor": "#beaf94",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

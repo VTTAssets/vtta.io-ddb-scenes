@@ -1,0 +1,70 @@
+{
+   "name": "Level 10: Muiral’s Gauntlet",
+   "id": "scenes/wdotmm-scene-10.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -5,
+         "y": -21
+      },
+      "width": 4541,
+      "height": 6112
+   },
+   "journals": [
+      {
+         "id": "journals/wdotmm-scene-10.1-05c",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-10.1-05b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-10.1-05a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-10.1-04b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-10.1-04a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-10.1-04",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-10.1-03b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-10.1-03a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-10.1-03",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-10.1-02",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-10.1-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#fefefe",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

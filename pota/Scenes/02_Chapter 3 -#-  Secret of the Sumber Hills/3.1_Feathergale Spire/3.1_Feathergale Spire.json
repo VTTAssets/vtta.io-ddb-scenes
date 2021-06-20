@@ -1,0 +1,70 @@
+{
+   "name": "Feathergale Spire",
+   "id": "scenes/pota-scene-3.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -79,
+         "y": -40
+      },
+      "width": 1941,
+      "height": 4925
+   },
+   "journals": [
+      {
+         "id": "journals/pota-scene-3.1-S11",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.1-S10",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.1-S09",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.1-S08",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.1-S07",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.1-S06",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.1-S05",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.1-S04",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.1-S03",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.1-S02",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.1-S01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 91,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#b2a98f",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

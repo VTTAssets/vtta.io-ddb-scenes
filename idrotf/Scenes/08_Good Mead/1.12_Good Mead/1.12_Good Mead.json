@@ -1,0 +1,33 @@
+{
+   "name": "Good Mead",
+   "id": "scenes/idrotf-scene-1.12",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2196,
+      "height": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-1.12-02",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-1.12-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#b0b0ad",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

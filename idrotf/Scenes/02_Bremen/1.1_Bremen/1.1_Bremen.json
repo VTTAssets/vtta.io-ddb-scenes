@@ -1,0 +1,44 @@
+{
+   "name": "Bremen",
+   "id": "scenes/idrotf-scene-1.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 136,
+         "y": -69
+      },
+      "width": 2208,
+      "height": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-1.1-02",
+         "positions": [
+            {
+               "x": 1204.2619047619048,
+               "y": 2122.261904761905
+            }
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.1-01",
+         "positions": [
+            {
+               "x": 665.5,
+               "y": 3085.5
+            }
+         ]
+      }
+   ],
+   "grid": {
+      "value": 123,
+      "type": 1,
+      "distance": 100,
+      "units": "ft"
+   },
+   "backgroundColor": "#acaca8",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

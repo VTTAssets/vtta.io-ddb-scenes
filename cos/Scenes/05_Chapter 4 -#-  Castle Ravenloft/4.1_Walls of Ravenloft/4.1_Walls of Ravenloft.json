@@ -1,0 +1,50 @@
+{
+   "name": "Walls of Ravenloft",
+   "id": "scenes/cos-scene-4.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -50,
+         "y": -31
+      },
+      "width": 2159,
+      "height": 3141
+   },
+   "journals": [
+      {
+         "id": "journals/cos-scene-4.1-K06",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.1-K05",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.1-K04",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.1-K03",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.1-K02",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.1-K01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 73,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#c6c8c9",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

@@ -1,0 +1,50 @@
+{
+   "name": "The Ruins of Berez (Area U)",
+   "id": "scenes/cos-scene-10.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -20,
+         "y": -1
+      },
+      "width": 1921,
+      "height": 1915
+   },
+   "journals": [
+      {
+         "id": "journals/cos-scene-10.1-U06",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-10.1-U05",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-10.1-U04",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-10.1-U03",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-10.1-U02",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-10.1-U01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 100,
+      "units": "ft"
+   },
+   "backgroundColor": "#949a8b",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

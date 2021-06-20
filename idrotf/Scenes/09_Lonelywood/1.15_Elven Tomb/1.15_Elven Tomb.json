@@ -1,0 +1,61 @@
+{
+   "name": "Elven Tomb",
+   "id": "scenes/idrotf-scene-1.15",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 4000,
+      "height": 2765
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-1.15-E09",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-1.15-E08",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-1.15-E07",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-1.15-E06",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-1.15-E05",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-1.15-E04",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-1.15-E03",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-1.15-E02",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-1.15-E01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#62717f",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

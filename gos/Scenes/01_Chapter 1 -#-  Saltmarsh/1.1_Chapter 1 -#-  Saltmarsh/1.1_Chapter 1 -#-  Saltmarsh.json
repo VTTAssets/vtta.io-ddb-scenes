@@ -1,0 +1,296 @@
+{
+   "name": "Chapter 1: Saltmarsh",
+   "id": "scenes/gos-scene-1.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 8,
+         "y": 0
+      },
+      "width": 2436,
+      "height": 3189
+   },
+   "journals": [
+      {
+         "id": "journals/gos-scene-1.1-30",
+         "positions": [
+            {
+               "x": 2688,
+               "y": 2632
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-29",
+         "positions": [
+            {
+               "x": 1316,
+               "y": 2100
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-28",
+         "positions": [
+            {
+               "x": 1904,
+               "y": 1708
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-27",
+         "positions": [
+            {
+               "x": 1876,
+               "y": 1484
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-26",
+         "positions": [
+            {
+               "x": 2072,
+               "y": 1596
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-25",
+         "positions": [
+            {
+               "x": 2296,
+               "y": 1260
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-24",
+         "positions": [
+            {
+               "x": 2520,
+               "y": 1540
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-23",
+         "positions": [
+            {
+               "x": 2380,
+               "y": 1792
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-22",
+         "positions": [
+            {
+               "x": 2240,
+               "y": 1792
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-21",
+         "positions": [
+            {
+               "x": 2044,
+               "y": 2100
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-20",
+         "positions": [
+            {
+               "x": 1960,
+               "y": 2212
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-19",
+         "positions": [
+            {
+               "x": 2156,
+               "y": 2240
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-18",
+         "positions": [
+            {
+               "x": 2240,
+               "y": 2464
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-17",
+         "positions": [
+            {
+               "x": 2072,
+               "y": 2492
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-16",
+         "positions": [
+            {
+               "x": 2072,
+               "y": 2744
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-15",
+         "positions": [
+            {
+               "x": 1960,
+               "y": 2716
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-14",
+         "positions": [
+            {
+               "x": 1932,
+               "y": 2604
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-13",
+         "positions": [
+            {
+               "x": 1820,
+               "y": 2604
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-12",
+         "positions": [
+            {
+               "x": 1316,
+               "y": 2688
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-11",
+         "positions": [
+            {
+               "x": 1484,
+               "y": 2688
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-10",
+         "positions": [
+            {
+               "x": 1764,
+               "y": 2828
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-09",
+         "positions": [
+            {
+               "x": 1932,
+               "y": 2940
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-08",
+         "positions": [
+            {
+               "x": 1988,
+               "y": 2856
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-07",
+         "positions": [
+            {
+               "x": 2156,
+               "y": 3052
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-06",
+         "positions": [
+            {
+               "x": 1932,
+               "y": 3304
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-05",
+         "positions": [
+            {
+               "x": 1820,
+               "y": 3164
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-04",
+         "positions": [
+            {
+               "x": 1764,
+               "y": 3500
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-03",
+         "positions": [
+            {
+               "x": 1484,
+               "y": 3164
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-02",
+         "positions": [
+            {
+               "x": 1372,
+               "y": 2996
+            }
+         ]
+      },
+      {
+         "id": "journals/gos-scene-1.1-01",
+         "positions": [
+            {
+               "x": 1064,
+               "y": 3220
+            }
+         ]
+      }
+   ],
+   "grid": {
+      "value": 56,
+      "type": 1,
+      "distance": 100,
+      "units": "ft"
+   },
+   "backgroundColor": "#7d7f6b",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

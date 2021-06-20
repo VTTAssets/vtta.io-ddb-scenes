@@ -1,0 +1,102 @@
+{
+   "name": "Vallaki (Area N)",
+   "id": "scenes/cos-scene-5.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -51,
+         "y": -18
+      },
+      "width": 1950,
+      "height": 1200
+   },
+   "journals": [
+      {
+         "id": "journals/cos-scene-5.1-N09",
+         "positions": [
+            {
+               "x": 750,
+               "y": 1320
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-5.1-N08",
+         "positions": [
+            {
+               "x": 1920,
+               "y": 1020
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-5.1-N07",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-5.1-N06",
+         "positions": [
+            {
+               "x": 2070,
+               "y": 1110
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-5.1-N05",
+         "positions": [
+            {
+               "x": 2280,
+               "y": 1080
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-5.1-N04",
+         "positions": [
+            {
+               "x": 1920,
+               "y": 810
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-5.1-N03",
+         "positions": [
+            {
+               "x": 1710,
+               "y": 1080
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-5.1-N02",
+         "positions": [
+            {
+               "x": 1770,
+               "y": 870
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-5.1-N01",
+         "positions": [
+            {
+               "x": 1350,
+               "y": 900
+            }
+         ]
+      }
+   ],
+   "grid": {
+      "value": 60,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#8f9a91",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

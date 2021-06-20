@@ -1,0 +1,46 @@
+{
+   "name": "Neverlight Grove",
+   "id": "scenes/oota-scene-5.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -46,
+         "y": -44
+      },
+      "width": 3386,
+      "height": 2761
+   },
+   "journals": [
+      {
+         "id": "journals/oota-scene-5.1-05",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-5.1-04",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-5.1-03",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-5.1-02",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-5.1-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 93,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#644e38",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

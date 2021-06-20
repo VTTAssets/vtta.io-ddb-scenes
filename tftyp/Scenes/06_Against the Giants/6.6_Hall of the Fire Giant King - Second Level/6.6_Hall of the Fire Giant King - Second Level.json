@@ -1,0 +1,95 @@
+{
+   "name": "Hall of the Fire Giant King - Second Level",
+   "id": "scenes/tftyp-scene-6.6",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2254,
+      "height": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/tftyp-scene-6.6-17",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.6-16",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.6-15",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.6-14",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.6-13",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.6-12",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.6-11",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.6-10",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.6-09",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.6-08",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.6-08",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.6-07",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.6-06",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.6-05",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.6-04",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.6-03",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.6-02",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.6-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": []
+}

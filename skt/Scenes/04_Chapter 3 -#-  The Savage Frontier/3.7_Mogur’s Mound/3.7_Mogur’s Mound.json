@@ -1,0 +1,25 @@
+{
+   "name": "Mogur’s Mound",
+   "id": "scenes/skt-scene-3.7",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -39,
+         "y": -47
+      },
+      "width": 1606,
+      "height": 2205
+   },
+   "journals": [],
+   "grid": {
+      "value": 108,
+      "type": 1,
+      "distance": 50,
+      "units": "ft"
+   },
+   "backgroundColor": "#785c49",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

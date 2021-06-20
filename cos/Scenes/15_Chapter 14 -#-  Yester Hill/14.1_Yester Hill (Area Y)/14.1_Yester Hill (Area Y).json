@@ -1,0 +1,87 @@
+{
+   "name": "Yester Hill (Area Y)",
+   "id": "scenes/cos-scene-14.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -22,
+         "y": -7
+      },
+      "width": 1956,
+      "height": 2477
+   },
+   "journals": [
+      {
+         "id": "journals/cos-scene-14.1-Y05",
+         "positions": [
+            {
+               "x": 729,
+               "y": 1755
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-14.1-Y04",
+         "positions": [
+            {
+               "x": 1323,
+               "y": 2295
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-14.1-Y03",
+         "positions": [
+            {
+               "x": 1593,
+               "y": 1917
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-14.1-Y02",
+         "positions": [
+            {
+               "x": 1971,
+               "y": 1755
+            },
+            {
+               "x": 1863,
+               "y": 2403
+            },
+            {
+               "x": 1269,
+               "y": 2565
+            },
+            {
+               "x": 1107,
+               "y": 2025
+            },
+            {
+               "x": 1485,
+               "y": 1377
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-14.1-Y01",
+         "positions": [
+            {
+               "x": 2025,
+               "y": 1215
+            }
+         ]
+      }
+   ],
+   "grid": {
+      "value": 54,
+      "type": 1,
+      "distance": 50,
+      "units": "ft"
+   },
+   "backgroundColor": "#7d8379",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

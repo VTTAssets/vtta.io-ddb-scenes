@@ -1,0 +1,25 @@
+{
+   "name": "Raven Rock",
+   "id": "scenes/skt-scene-3.9",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -34,
+         "y": -21
+      },
+      "width": 1603,
+      "height": 2207
+   },
+   "journals": [],
+   "grid": {
+      "value": 96,
+      "type": 1,
+      "distance": 50,
+      "units": "ft"
+   },
+   "backgroundColor": "#6d645f",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

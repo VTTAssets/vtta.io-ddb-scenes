@@ -1,0 +1,62 @@
+{
+   "name": "Courthouse",
+   "id": "scenes/wdh-scene-4.6",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -50,
+         "y": -44
+      },
+      "width": 2071,
+      "height": 1422
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-4.6-H09",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H08",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H07",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H06",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H05",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H04",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H03",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H02",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 59,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#fefefe",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

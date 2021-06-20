@@ -1,0 +1,142 @@
+{
+   "name": "Maelstrom, Levels 1 and 2",
+   "id": "scenes/skt-scene-10.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -31,
+         "y": -30
+      },
+      "width": 4165,
+      "height": 5715
+   },
+   "journals": [
+      {
+         "id": "journals/skt-scene-10.1-29",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-28",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-27",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-26",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-25",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-24",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-23",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-22",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-21",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-20",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-19",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-18",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-17",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-16",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-15",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-14",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-13",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-12",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-11",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-10",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-09",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-08",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-07",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-06",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-05",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-04",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-03",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-02",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-10.1-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#2e3448",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

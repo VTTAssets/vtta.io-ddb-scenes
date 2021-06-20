@@ -1,0 +1,57 @@
+{
+   "name": "Black Cabin",
+   "id": "scenes/idrotf-scene-2.3",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2210,
+      "height": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-2.3-B08",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.3-B07",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.3-B06",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.3-B05",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.3-B04",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.3-B03",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.3-B02",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.3-B01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#a3b7c0",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

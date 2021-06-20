@@ -1,0 +1,62 @@
+{
+   "name": "Leilon Under Construction",
+   "id": "scenes/slw-scene-3",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -52,
+         "y": -62
+      },
+      "width": 3403,
+      "height": 2416
+   },
+   "journals": [
+      {
+         "id": "journals/slw-scene-3-09",
+         "positions": []
+      },
+      {
+         "id": "journals/slw-scene-3-08",
+         "positions": []
+      },
+      {
+         "id": "journals/slw-scene-3-07",
+         "positions": []
+      },
+      {
+         "id": "journals/slw-scene-3-06",
+         "positions": []
+      },
+      {
+         "id": "journals/slw-scene-3-05",
+         "positions": []
+      },
+      {
+         "id": "journals/slw-scene-3-04",
+         "positions": []
+      },
+      {
+         "id": "journals/slw-scene-3-03",
+         "positions": []
+      },
+      {
+         "id": "journals/slw-scene-3-02",
+         "positions": []
+      },
+      {
+         "id": "journals/slw-scene-3-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 70,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#80817b",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

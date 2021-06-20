@@ -1,0 +1,25 @@
+{
+   "name": "Everlund",
+   "id": "scenes/skt-scene-3.3",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -34,
+         "y": -57
+      },
+      "width": 2321,
+      "height": 1736
+   },
+   "journals": [],
+   "grid": {
+      "value": 68,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#3e2b1b",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

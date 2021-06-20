@@ -1,0 +1,116 @@
+{
+   "name": "Phandalin",
+   "id": "scenes/lmop-scene-2.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -42,
+         "y": 36
+      },
+      "width": 3873,
+      "height": 2892
+   },
+   "journals": [
+      {
+         "id": "journals/lmop-scene-2.1-10",
+         "positions": [
+            {
+               "x": 4404.142857142857,
+               "y": 1877.9166666666667
+            }
+         ]
+      },
+      {
+         "id": "journals/lmop-scene-2.1-09",
+         "positions": [
+            {
+               "x": 2676.3452380952385,
+               "y": 2221.6309523809523
+            }
+         ]
+      },
+      {
+         "id": "journals/lmop-scene-2.1-08",
+         "positions": [
+            {
+               "x": 3415.261904761905,
+               "y": 1939.5238095238094
+            }
+         ]
+      },
+      {
+         "id": "journals/lmop-scene-2.1-07",
+         "positions": [
+            {
+               "x": 2468.928571428572,
+               "y": 1894.8809523809525
+            }
+         ]
+      },
+      {
+         "id": "journals/lmop-scene-2.1-06",
+         "positions": [
+            {
+               "x": 3539.357142857143,
+               "y": 2658.5
+            }
+         ]
+      },
+      {
+         "id": "journals/lmop-scene-2.1-05",
+         "positions": [
+            {
+               "x": 2285.9166666666665,
+               "y": 2672.1785714285706
+            }
+         ]
+      },
+      {
+         "id": "journals/lmop-scene-2.1-04",
+         "positions": [
+            {
+               "x": 2347.2261904761904,
+               "y": 2262.999999999999
+            }
+         ]
+      },
+      {
+         "id": "journals/lmop-scene-2.1-03",
+         "positions": [
+            {
+               "x": 1934.452380952381,
+               "y": 1638.0714285714287
+            }
+         ]
+      },
+      {
+         "id": "journals/lmop-scene-2.1-02",
+         "positions": [
+            {
+               "x": 3008.75,
+               "y": 1603.25
+            }
+         ]
+      },
+      {
+         "id": "journals/lmop-scene-2.1-01",
+         "positions": [
+            {
+               "x": 2782.8928571428573,
+               "y": 1887.7380952380956
+            }
+         ]
+      }
+   ],
+   "grid": {
+      "value": 98,
+      "type": 1,
+      "distance": 50,
+      "units": "ft"
+   },
+   "backgroundColor": "#6c7062",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

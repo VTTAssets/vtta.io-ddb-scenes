@@ -1,0 +1,67 @@
+{
+   "name": "Tomb of Valin Sarnaster",
+   "id": "scenes/cm-scene-15.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2094,
+      "height": 2840
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-15.1-T11",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-15.1-T10",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-15.1-T09",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-15.1-T08",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-15.1-T07",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-15.1-T06",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-15.1-T05",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-15.1-T04",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-15.1-T03",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-15.1-T02",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-15.1-T01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": []
+}

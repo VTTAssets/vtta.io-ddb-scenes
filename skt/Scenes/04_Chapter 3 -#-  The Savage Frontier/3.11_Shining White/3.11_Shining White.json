@@ -1,0 +1,25 @@
+{
+   "name": "Shining White",
+   "id": "scenes/skt-scene-3.11",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -83,
+         "y": -62
+      },
+      "width": 1603,
+      "height": 2204
+   },
+   "journals": [],
+   "grid": {
+      "value": 96,
+      "type": 1,
+      "distance": 50,
+      "units": "ft"
+   },
+   "backgroundColor": "#72635c",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

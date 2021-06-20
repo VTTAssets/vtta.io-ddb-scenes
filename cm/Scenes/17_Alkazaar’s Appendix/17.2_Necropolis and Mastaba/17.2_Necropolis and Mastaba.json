@@ -1,0 +1,43 @@
+{
+   "name": "Necropolis and Mastaba",
+   "id": "scenes/cm-scene-17.2",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2186,
+      "height": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-17.2-V05",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-17.2-V04",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-17.2-V03",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-17.2-V02",
+         "positions": []
+      },
+      {
+         "id": "journals/cm-scene-17.2-V01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": []
+}

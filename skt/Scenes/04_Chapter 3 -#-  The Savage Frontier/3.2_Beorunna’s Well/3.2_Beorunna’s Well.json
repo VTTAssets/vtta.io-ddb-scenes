@@ -1,0 +1,25 @@
+{
+   "name": "Beorunna’s Well",
+   "id": "scenes/skt-scene-3.2",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -76,
+         "y": -90
+      },
+      "width": 3189,
+      "height": 2206
+   },
+   "journals": [],
+   "grid": {
+      "value": 101,
+      "type": 1,
+      "distance": 50,
+      "units": "ft"
+   },
+   "backgroundColor": "#77685b",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

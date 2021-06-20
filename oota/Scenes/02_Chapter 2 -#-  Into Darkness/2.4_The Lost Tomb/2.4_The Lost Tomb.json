@@ -1,0 +1,46 @@
+{
+   "name": "The Lost Tomb",
+   "id": "scenes/oota-scene-2.4",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -175,
+         "y": -66
+      },
+      "width": 3383,
+      "height": 2757
+   },
+   "journals": [
+      {
+         "id": "journals/oota-scene-2.4-05",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-2.4-04",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-2.4-03",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-2.4-02",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-2.4-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 185,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#8d786b",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

@@ -1,0 +1,218 @@
+{
+   "name": "Level 23: Mad Wizard’s Lair",
+   "id": "scenes/wdotmm-scene-23.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -3,
+         "y": -49
+      },
+      "width": 2859,
+      "height": 3849
+   },
+   "journals": [
+      {
+         "id": "journals/wdotmm-scene-23.1-36",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-35",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-34",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-33",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-32",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-31",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-30",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-29",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-28",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-27",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-26",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-25",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-24",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-23",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-22",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-21b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-21a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-21",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-20",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-19",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-18",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-17",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-16",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-15",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-14",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-13",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-12",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-11c",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-11b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-11a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-11",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-10b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-10a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-10",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-09b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-09a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-09",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-08",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-07",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-06c",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-06b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-06a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-06",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-05",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-04",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-03",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-02",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-23.1-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#ffffff",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

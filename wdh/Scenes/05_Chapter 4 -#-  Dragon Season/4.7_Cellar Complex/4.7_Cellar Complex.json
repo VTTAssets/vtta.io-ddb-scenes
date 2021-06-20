@@ -1,0 +1,70 @@
+{
+   "name": "Cellar Complex",
+   "id": "scenes/wdh-scene-4.7",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -61,
+         "y": -57
+      },
+      "width": 2072,
+      "height": 1453
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-4.7-B11",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.7-B10",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.7-B09",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.7-B08",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.7-B07",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.7-B06",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.7-B05",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.7-B04",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.7-B03",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.7-B02",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.7-B01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 62,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#f9f9f9",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

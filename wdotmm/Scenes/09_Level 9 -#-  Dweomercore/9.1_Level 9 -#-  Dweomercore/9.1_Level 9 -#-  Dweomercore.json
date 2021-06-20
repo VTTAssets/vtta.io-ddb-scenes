@@ -1,0 +1,362 @@
+{
+   "name": "Level 9: Dweomercore",
+   "id": "scenes/wdotmm-scene-9.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -1,
+         "y": -25
+      },
+      "width": 2862,
+      "height": 3861
+   },
+   "journals": [
+      {
+         "id": "journals/wdotmm-scene-9.1-49",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-48",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-47c",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-47b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-47a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-47",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-46b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-46a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-46",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-45b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-45a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-45",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-44",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-43",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-42",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-41",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-40",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-39",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-38",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-37",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-36",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-35",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-34",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-33",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-32",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-31",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-30",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-29",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-28",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-27c",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-27b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-27a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-27",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-26b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-26a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-26",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-25",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-24",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-23c",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-23b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-23a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-23",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-22",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-21b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-21a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-21",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-20",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-19",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-18",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-17",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-16",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-15b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-15a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-15",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-14",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-13b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-13a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-13",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-12",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-11f",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-11e",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-11d",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-11c",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-11b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-11a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-11",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-10",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-09",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-08d",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-08c",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-08b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-08a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-08",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-07",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-06",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-05",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-04",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-03",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-02",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-01d",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-01c",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-01b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-01a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-9.1-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#ffffff",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

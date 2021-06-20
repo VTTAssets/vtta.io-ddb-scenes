@@ -1,0 +1,66 @@
+{
+   "name": "Spires of Ravenloft",
+   "id": "scenes/cos-scene-4.5",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -41,
+         "y": -15
+      },
+      "width": 2359,
+      "height": 1702
+   },
+   "journals": [
+      {
+         "id": "journals/cos-scene-4.5-K56",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.5-K55",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.5-K54",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.5-K53",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.5-K52",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.5-K51",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.5-K50",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.5-K49",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.5-K48",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.5-K47",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 61,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#dadcdd",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

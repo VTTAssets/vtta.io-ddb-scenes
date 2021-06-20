@@ -1,0 +1,122 @@
+{
+   "name": "Sacred Stone Monastery",
+   "id": "scenes/pota-scene-3.4",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -12,
+         "y": -94
+      },
+      "width": 3769,
+      "height": 4744
+   },
+   "journals": [
+      {
+         "id": "journals/pota-scene-3.4-M24",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M23",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M22",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M21",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M20",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M19",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M18",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M17",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M16",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M15",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M14",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M13",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M12",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M11",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M10",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M09",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M08",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M07",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M06",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M05",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M04",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M03",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M02",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.4-M01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 105,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#948d7c",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

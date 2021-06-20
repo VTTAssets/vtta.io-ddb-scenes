@@ -1,0 +1,117 @@
+{
+   "name": "Reghed Tribe Camp",
+   "id": "scenes/idrotf-scene-2.11",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2210,
+      "height": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-2.11-R23",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R22",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R21",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R20",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R19",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R18",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R17",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R16",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R15",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R14",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R13",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R12",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R11",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R10",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R09",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R08",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R07",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R06",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R05",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R04",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R03",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R02",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.11-R01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#8498a7",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

@@ -1,0 +1,53 @@
+{
+   "name": "Caer Dineval",
+   "id": "scenes/idrotf-scene-1.3",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 43,
+         "y": 8
+      },
+      "width": 2201,
+      "height": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-1.3-03",
+         "positions": [
+            {
+               "x": 2279,
+               "y": 1855
+            }
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.3-02",
+         "positions": [
+            {
+               "x": 1387.962962962963,
+               "y": 2859.4444444444443
+            }
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.3-01",
+         "positions": [
+            {
+               "x": 2438.7037037037035,
+               "y": 2336.407407407408
+            }
+         ]
+      }
+   ],
+   "grid": {
+      "value": 106,
+      "type": 1,
+      "distance": 100,
+      "units": "ft"
+   },
+   "backgroundColor": "#acaca9",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

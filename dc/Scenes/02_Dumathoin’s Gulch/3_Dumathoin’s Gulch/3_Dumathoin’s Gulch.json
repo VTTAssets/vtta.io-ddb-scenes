@@ -1,0 +1,42 @@
+{
+   "name": "Dumathoin’s Gulch",
+   "id": "scenes/dc-scene-3",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -80,
+         "y": -96
+      },
+      "width": 2837,
+      "height": 3604
+   },
+   "journals": [
+      {
+         "id": "journals/dc-scene-3-04",
+         "positions": []
+      },
+      {
+         "id": "journals/dc-scene-3-03",
+         "positions": []
+      },
+      {
+         "id": "journals/dc-scene-3-02",
+         "positions": []
+      },
+      {
+         "id": "journals/dc-scene-3-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 136,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#453b2e",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

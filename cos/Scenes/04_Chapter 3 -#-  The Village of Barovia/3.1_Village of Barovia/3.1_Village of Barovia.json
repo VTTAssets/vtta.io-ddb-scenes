@@ -1,0 +1,89 @@
+{
+   "name": "Village of Barovia",
+   "id": "scenes/cos-scene-3.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -31,
+         "y": -5
+      },
+      "width": 1958,
+      "height": 2477
+   },
+   "journals": [
+      {
+         "id": "journals/cos-scene-3.1-E07",
+         "positions": [
+            {
+               "x": 2280,
+               "y": 1860
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-3.1-E06",
+         "positions": [
+            {
+               "x": 1200,
+               "y": 1080
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-3.1-E05",
+         "positions": [
+            {
+               "x": 1140,
+               "y": 1440
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-3.1-E04",
+         "positions": [
+            {
+               "x": 1500,
+               "y": 2940
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-3.1-E03",
+         "positions": [
+            {
+               "x": 1500,
+               "y": 2400
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-3.1-E02",
+         "positions": [
+            {
+               "x": 1620,
+               "y": 1920
+            }
+         ]
+      },
+      {
+         "id": "journals/cos-scene-3.1-E01",
+         "positions": [
+            {
+               "x": 1560,
+               "y": 2220
+            }
+         ]
+      }
+   ],
+   "grid": {
+      "value": 120,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#778079",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

@@ -1,0 +1,198 @@
+{
+   "name": "Larders of Ill Omen, Dungeon and Catacombs",
+   "id": "scenes/cos-scene-4.7",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -39,
+         "y": -34
+      },
+      "width": 2274,
+      "height": 3269
+   },
+   "journals": [
+      {
+         "id": "journals/cos-scene-4.7-K86",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K85",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K84",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K83a",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K83",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K82",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K81",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K80",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K79",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K78",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K77",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K76",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K75h",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K75g",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K75f",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K75e",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K75d",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K75c",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K75b",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K75a",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K75",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K74h",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K74g",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K74f",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K74e",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K74d",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K74c",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K74b",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K74a",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K74",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K73",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K72",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K71",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K70",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K69",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K68",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K67",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K66",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K65",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K64",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K63",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K62",
+         "positions": []
+      },
+      {
+         "id": "journals/cos-scene-4.7-K61",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 76,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#b1b4b7",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

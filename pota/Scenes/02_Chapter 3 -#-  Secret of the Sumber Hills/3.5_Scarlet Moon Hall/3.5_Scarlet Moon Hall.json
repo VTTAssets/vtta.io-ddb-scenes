@@ -1,0 +1,90 @@
+{
+   "name": "Scarlet Moon Hall",
+   "id": "scenes/pota-scene-3.5",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -41,
+         "y": -45
+      },
+      "width": 3752,
+      "height": 2599
+   },
+   "journals": [
+      {
+         "id": "journals/pota-scene-3.5-H09",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.5-H08",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.5-H07",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.5-H06",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.5-H05",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.5-H04",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.5-H03",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.5-H02",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.5-H01",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.5-c07",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.5-c06",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.5-c05",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.5-c04",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.5-c03",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.5-c02",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-3.5-c01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 77,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#b0a590",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

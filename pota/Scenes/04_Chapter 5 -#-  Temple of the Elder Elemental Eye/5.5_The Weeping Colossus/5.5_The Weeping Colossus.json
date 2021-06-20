@@ -1,0 +1,74 @@
+{
+   "name": "The Weeping Colossus",
+   "id": "scenes/pota-scene-5.5",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -9,
+         "y": -16
+      },
+      "width": 1894,
+      "height": 4762
+   },
+   "journals": [
+      {
+         "id": "journals/pota-scene-5.5-W12",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-5.5-W11",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-5.5-W10",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-5.5-W09",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-5.5-W08",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-5.5-W07",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-5.5-W06",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-5.5-W05",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-5.5-W04",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-5.5-W03",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-5.5-W02",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-5.5-W01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 96,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#6a5c54",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

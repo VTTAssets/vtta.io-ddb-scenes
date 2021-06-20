@@ -1,0 +1,25 @@
+{
+   "name": "Bargewright Inn",
+   "id": "scenes/pota-scene-6.4",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -6,
+         "y": -3
+      },
+      "width": 1526,
+      "height": 1944
+   },
+   "journals": [],
+   "grid": {
+      "value": 59,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#cbbca0",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

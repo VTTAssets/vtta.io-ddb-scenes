@@ -1,0 +1,77 @@
+{
+   "name": "Karkolohk",
+   "id": "scenes/idrotf-scene-2.9",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 4000,
+      "height": 2765
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-2.9-K13",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.9-K12",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.9-K11",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.9-K10",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.9-K09",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.9-K08",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.9-K07",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.9-K06",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.9-K05",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.9-K04",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.9-K03",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.9-K02",
+         "positions": []
+      },
+      {
+         "id": "journals/idrotf-scene-2.9-K01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#6e7f8a",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

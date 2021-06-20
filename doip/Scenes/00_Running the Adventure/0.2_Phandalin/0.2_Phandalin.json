@@ -1,0 +1,80 @@
+{
+   "name": "Phandalin",
+   "id": "scenes/doip-scene-0.2",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -60,
+         "y": -19
+      },
+      "width": 2891,
+      "height": 2267
+   },
+   "journals": [
+      {
+         "id": "journals/doip-scene-0.2-06",
+         "positions": [
+            {
+               "x": 2037.8809523809523,
+               "y": 1780.9285714285713
+            }
+         ]
+      },
+      {
+         "id": "journals/doip-scene-0.2-05",
+         "positions": [
+            {
+               "x": 1921.3095238095236,
+               "y": 1488.2619047619048
+            }
+         ]
+      },
+      {
+         "id": "journals/doip-scene-0.2-04",
+         "positions": [
+            {
+               "x": 1759.5,
+               "y": 2104.5
+            }
+         ]
+      },
+      {
+         "id": "journals/doip-scene-0.2-03",
+         "positions": [
+            {
+               "x": 1788.0714285714287,
+               "y": 1814.2142857142858
+            }
+         ]
+      },
+      {
+         "id": "journals/doip-scene-0.2-02",
+         "positions": [
+            {
+               "x": 2297.214285714286,
+               "y": 1305.0714285714284
+            }
+         ]
+      },
+      {
+         "id": "journals/doip-scene-0.2-01",
+         "positions": [
+            {
+               "x": 2104.5,
+               "y": 1518
+            }
+         ]
+      }
+   ],
+   "grid": {
+      "value": 71,
+      "type": 1,
+      "distance": 50,
+      "units": "ft"
+   },
+   "backgroundColor": "#606356",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

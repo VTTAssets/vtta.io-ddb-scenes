@@ -1,0 +1,142 @@
+{
+   "name": "Temple of Eternal Flame",
+   "id": "scenes/pota-scene-4.4",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -22,
+         "y": -87
+      },
+      "width": 3154,
+      "height": 4009
+   },
+   "journals": [
+      {
+         "id": "journals/pota-scene-4.4-E31",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E30",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E29",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E28",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E27",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E26",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E25",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E24",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E23",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E22",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E19",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E18",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E17",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E16",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E15",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E14",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E13",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E12",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E11",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E10",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E09",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E08",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E07",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E06",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E05",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E04",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E03",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E02",
+         "positions": []
+      },
+      {
+         "id": "journals/pota-scene-4.4-E01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 89,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#cebc93",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

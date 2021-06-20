@@ -1,0 +1,34 @@
+{
+   "name": "Dougan’s Hole",
+   "id": "scenes/idrotf-scene-1.7",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 12,
+         "y": 46
+      },
+      "width": 2202,
+      "height": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-1.7-01",
+         "positions": [
+            {
+               "x": 1168.5,
+               "y": 2890.5
+            }
+         ]
+      }
+   ],
+   "grid": {
+      "type": 1,
+      "distance": 100,
+      "units": "ft"
+   },
+   "backgroundColor": "#adadaa",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

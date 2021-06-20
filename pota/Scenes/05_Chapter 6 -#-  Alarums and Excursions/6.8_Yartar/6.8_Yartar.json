@@ -1,0 +1,25 @@
+{
+   "name": "Yartar",
+   "id": "scenes/pota-scene-6.8",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -48,
+         "y": -43
+      },
+      "width": 3072,
+      "height": 1951
+   },
+   "journals": [],
+   "grid": {
+      "value": 51,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#d4c5a8",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

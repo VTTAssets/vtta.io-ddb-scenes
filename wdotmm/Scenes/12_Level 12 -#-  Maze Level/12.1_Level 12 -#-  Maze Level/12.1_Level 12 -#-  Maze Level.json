@@ -1,0 +1,42 @@
+{
+   "name": "Level 12: Maze Level",
+   "id": "scenes/wdotmm-scene-12.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -2,
+         "y": -1
+      },
+      "width": 2866,
+      "height": 3849
+   },
+   "journals": [
+      {
+         "id": "journals/wdotmm-scene-12.1-02b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-12.1-02a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-12.1-01a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdotmm-scene-12.1-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#ffffff",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

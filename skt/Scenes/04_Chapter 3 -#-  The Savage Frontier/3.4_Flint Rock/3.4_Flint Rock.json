@@ -1,0 +1,25 @@
+{
+   "name": "Flint Rock",
+   "id": "scenes/skt-scene-3.4",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -56,
+         "y": -24
+      },
+      "width": 1597,
+      "height": 2204
+   },
+   "journals": [],
+   "grid": {
+      "value": 102,
+      "type": 1,
+      "distance": 50,
+      "units": "ft"
+   },
+   "backgroundColor": "#705745",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

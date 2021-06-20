@@ -1,0 +1,62 @@
+{
+   "name": "Vault",
+   "id": "scenes/wdh-scene-4.9",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -5,
+         "y": -28
+      },
+      "width": 2066,
+      "height": 1426
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-4.9-V09",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.9-V08",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.9-V07",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.9-V06",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.9-V05",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.9-V04",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.9-V03",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.9-V02",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-4.9-V01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 51,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#fafafa",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

@@ -1,0 +1,25 @@
+{
+   "name": "Avernus",
+   "id": "scenes/bgdia-scene-3.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -57,
+         "y": -46
+      },
+      "width": 2461,
+      "height": 1893
+   },
+   "journals": [],
+   "grid": {
+      "value": 80,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#b48868",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

@@ -1,0 +1,102 @@
+{
+   "name": "The Mission Begins",
+   "id": "scenes/gos-scene-6.3",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -75,
+         "y": -63
+      },
+      "width": 4207,
+      "height": 5703
+   },
+   "journals": [
+      {
+         "id": "journals/gos-scene-6.3-61",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-6.3-60",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-6.3-59",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-6.3-58",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-6.3-57",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-6.3-56",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-6.3-55",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-6.3-54",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-6.3-53",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-6.3-52",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-6.3-51",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-6.3-50e",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-6.3-50d",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-6.3-50c",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-6.3-50b",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-6.3-50a",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-6.3-50",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-6.3-49",
+         "positions": []
+      },
+      {
+         "id": "journals/gos-scene-6.3-48",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 91,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#ffffff",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

@@ -1,0 +1,22 @@
+{
+   "name": "Map of the Sword Coast",
+   "id": "scenes/rot-scene-0.0",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2655,
+      "height": 3804
+   },
+   "journals": [],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": []
+}

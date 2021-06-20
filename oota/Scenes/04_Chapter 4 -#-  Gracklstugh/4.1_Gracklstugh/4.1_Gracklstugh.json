@@ -1,0 +1,25 @@
+{
+   "name": "Gracklstugh",
+   "id": "scenes/oota-scene-4.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -29,
+         "y": -27
+      },
+      "width": 3313,
+      "height": 2834
+   },
+   "journals": [],
+   "grid": {
+      "value": 58,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#76655a",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

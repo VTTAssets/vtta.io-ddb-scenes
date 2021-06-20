@@ -1,0 +1,82 @@
+{
+   "name": "Melkynvelve",
+   "id": "scenes/oota-scene-1.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -56,
+         "y": -42
+      },
+      "width": 3331,
+      "height": 4740
+   },
+   "journals": [
+      {
+         "id": "journals/oota-scene-1.1-14",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-1.1-13",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-1.1-12",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-1.1-11",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-1.1-10",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-1.1-09",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-1.1-08",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-1.1-07",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-1.1-06",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-1.1-05",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-1.1-04",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-1.1-03",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-1.1-02",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-1.1-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 107,
+      "type": 1,
+      "distance": 15,
+      "units": "ft"
+   },
+   "backgroundColor": "#7b6a53",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

@@ -1,0 +1,25 @@
+{
+   "name": "Map of the Sword Coast",
+   "id": "scenes/lmop-scene-0.0",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -18,
+         "y": -10
+      },
+      "width": 2652,
+      "height": 3617
+   },
+   "journals": [],
+   "grid": {
+      "value": 143,
+      "type": 5,
+      "distance": 5,
+      "units": "mi"
+   },
+   "backgroundColor": "#5f5743",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

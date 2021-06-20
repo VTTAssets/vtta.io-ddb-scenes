@@ -1,0 +1,134 @@
+{
+   "name": "White Plume Mountain",
+   "id": "scenes/tftyp-scene-4.2",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -58,
+         "y": -7
+      },
+      "width": 5195,
+      "height": 3563
+   },
+   "journals": [
+      {
+         "id": "journals/tftyp-scene-4.2-27",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-26",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-25",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-24",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-23",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-22",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-21",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-20",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-19",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-18",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-17",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-16",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-15",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-14",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-13",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-12",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-11",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-10",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-09",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-08",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-07",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-06",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-05",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-04",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-03",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-02",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 78,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#000000",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

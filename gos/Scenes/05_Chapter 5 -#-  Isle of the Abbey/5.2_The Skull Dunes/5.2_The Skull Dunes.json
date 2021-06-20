@@ -1,0 +1,25 @@
+{
+   "name": "The Skull Dunes",
+   "id": "scenes/gos-scene-5.2",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -80,
+         "y": -17
+      },
+      "width": 4135,
+      "height": 2860
+   },
+   "journals": [],
+   "grid": {
+      "value": 164,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#e3e8ee",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

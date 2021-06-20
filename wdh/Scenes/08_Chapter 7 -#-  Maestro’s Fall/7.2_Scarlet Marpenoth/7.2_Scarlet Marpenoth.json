@@ -1,0 +1,78 @@
+{
+   "name": "Scarlet Marpenoth",
+   "id": "scenes/wdh-scene-7.2",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -32,
+         "y": -74
+      },
+      "width": 2045,
+      "height": 1442
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-7.2-U13",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-7.2-U12",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-7.2-U11",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-7.2-U10",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-7.2-U09",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-7.2-U08",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-7.2-U07",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-7.2-U06",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-7.2-U05",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-7.2-U04",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-7.2-U03",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-7.2-U02",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-7.2-U01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 76,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#ffffff",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

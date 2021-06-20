@@ -1,0 +1,162 @@
+{
+   "name": "Cassalanter Villa",
+   "id": "scenes/wdh-scene-6.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -16,
+         "y": -36
+      },
+      "width": 2121,
+      "height": 2877
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-6.1-C29",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C28",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C27",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C26",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C25a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C25",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C24a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C24",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C23",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C22",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C21",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C20",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C19",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C18b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C18",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C17",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C16b",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C16a",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C16",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C15",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C14",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C13",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C12",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C11",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C10",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C09",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C08",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C07",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C06",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C05",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C04",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C03",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C02",
+         "positions": []
+      },
+      {
+         "id": "journals/wdh-scene-6.1-C01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 52,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#fafafa",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

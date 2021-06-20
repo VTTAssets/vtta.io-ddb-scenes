@@ -1,0 +1,94 @@
+{
+   "name": "Gracklstugh - The Whorlstone Tunnels",
+   "id": "scenes/oota-scene-4.2",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -49,
+         "y": -11
+      },
+      "width": 3270,
+      "height": 4715
+   },
+   "journals": [
+      {
+         "id": "journals/oota-scene-4.2-14a",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-4.2-14",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-4.2-13",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-4.2-12",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-4.2-11",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-4.2-10",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-4.2-09",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-4.2-08",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-4.2-07",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-4.2-06",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-4.2-05",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-4.2-04",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-4.2-03",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-4.2-02",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-4.2-01b",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-4.2-01a",
+         "positions": []
+      },
+      {
+         "id": "journals/oota-scene-4.2-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 52,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#6d5f4d",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

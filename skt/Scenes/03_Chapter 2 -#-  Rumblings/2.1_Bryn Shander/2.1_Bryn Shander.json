@@ -1,0 +1,201 @@
+{
+   "name": "Bryn Shander",
+   "id": "scenes/skt-scene-2.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -1,
+         "y": -39
+      },
+      "width": 2649,
+      "height": 1712
+   },
+   "journals": [
+      {
+         "id": "journals/skt-scene-2.1-B14",
+         "positions": [
+            {
+               "x": 2524.5,
+               "y": 1249.5
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.1-B13",
+         "positions": [
+            {
+               "x": 1861.5,
+               "y": 790.5
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.1-B12",
+         "positions": [
+            {
+               "x": 2116.5,
+               "y": 1096.5
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.1-B11",
+         "positions": [
+            {
+               "x": 2065.5,
+               "y": 1045.5
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.1-B10",
+         "positions": [
+            {
+               "x": 1912.5,
+               "y": 1045.5
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.1-B09",
+         "positions": [
+            {
+               "x": 1810.5,
+               "y": 1249.5
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.1-B08",
+         "positions": [
+            {
+               "x": 1912.5,
+               "y": 1300.5
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.1-B07",
+         "positions": [
+            {
+               "x": 2014.5,
+               "y": 1147.5
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.1-B06",
+         "positions": [
+            {
+               "x": 2116.5,
+               "y": 1300.5
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.1-B05",
+         "positions": [
+            {
+               "x": 2014.5,
+               "y": 1504.5
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.1-B04",
+         "positions": [
+            {
+               "x": 1708.5,
+               "y": 1453.5
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.1-B03",
+         "positions": [
+            {
+               "x": 1759.5,
+               "y": 1708.5
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.1-B02",
+         "positions": [
+            {
+               "x": 1453.5,
+               "y": 1657.5
+            }
+         ]
+      },
+      {
+         "id": "journals/skt-scene-2.1-B01",
+         "positions": [
+            {
+               "x": 1402.5,
+               "y": 1810.5
+            },
+            {
+               "x": 2728.5,
+               "y": 1198.5
+            },
+            {
+               "x": 1912.5,
+               "y": 688.5
+            }
+         ]
+      }
+   ],
+   "grid": {
+      "value": 51,
+      "type": 1,
+      "distance": 100,
+      "units": "ft"
+   },
+   "backgroundColor": "#e1c69d",
+   "walls": [
+      {
+         "c": [
+            663,
+            2193,
+            663,
+            510
+         ]
+      },
+      {
+         "c": [
+            663,
+            510,
+            3264,
+            510
+         ]
+      },
+      {
+         "c": [
+            3264,
+            510,
+            3315,
+            510
+         ]
+      },
+      {
+         "c": [
+            3315,
+            510,
+            3315,
+            2193
+         ]
+      },
+      {
+         "c": [
+            3315,
+            2193,
+            663,
+            2193
+         ]
+      }
+   ],
+   "lights": [],
+   "monsters": []
+}

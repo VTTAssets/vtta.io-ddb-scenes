@@ -1,0 +1,59 @@
+{
+   "name": "Svardborg Lodges",
+   "id": "scenes/skt-scene-7.2",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2400,
+      "height": 3338
+   },
+   "journals": [
+      {
+         "id": "journals/skt-scene-7.2-09",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-7.2-08",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-7.2-07",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-7.2-06",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-7.2-05",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-7.2-04",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-7.2-03",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-7.2-02",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-7.2-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": []
+}

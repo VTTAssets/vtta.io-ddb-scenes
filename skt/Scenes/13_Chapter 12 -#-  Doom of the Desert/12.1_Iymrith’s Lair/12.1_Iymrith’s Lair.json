@@ -1,0 +1,46 @@
+{
+   "name": "Iymrith’s Lair",
+   "id": "scenes/skt-scene-12.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -42,
+         "y": -11
+      },
+      "width": 4124,
+      "height": 5646
+   },
+   "journals": [
+      {
+         "id": "journals/skt-scene-12.1-05",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-12.1-04",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-12.1-03",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-12.1-02",
+         "positions": []
+      },
+      {
+         "id": "journals/skt-scene-12.1-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#000000",
+   "walls": [],
+   "lights": [],
+   "monsters": []
+}

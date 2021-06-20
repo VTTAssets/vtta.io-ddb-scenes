@@ -1,0 +1,135 @@
+{
+   "name": "Hill Giant Stronghold - Upper Level",
+   "id": "scenes/tftyp-scene-6.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2625,
+      "height": 3500
+   },
+   "journals": [
+      {
+         "id": "journals/tftyp-scene-6.1-25",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-24",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-23",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-22",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-21",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-20",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-19",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-18A",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-18",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-17",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-16",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-15",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-14",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-13",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-12",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-11",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-10A",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-10",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-09",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-08",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-07",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-06",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-05",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-04",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-03",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-02",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-01B",
+         "positions": []
+      },
+      {
+         "id": "journals/tftyp-scene-6.1-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": []
+}
