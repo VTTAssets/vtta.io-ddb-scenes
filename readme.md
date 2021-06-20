@@ -49,3 +49,7 @@ const unsanitize = (str) => {
   return str;
 };
 ```
+
+## License: Attribution-NonCommercial-ShareAlike 4.0 International
+
+This data collection is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 International](.github/license.md). By contributing to this repository, you are willing to share your contributions to the public under the conditions of this license.
