@@ -1,5 +1,6 @@
 {
    "name": "Level 4: Twisted Caverns",
+   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-4.1",
    "type": "scene",
    "entity": "Scene",
@@ -13923,5 +13924,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Level 4: Twisted Caverns"
+         ]
+      }
+   }
 }

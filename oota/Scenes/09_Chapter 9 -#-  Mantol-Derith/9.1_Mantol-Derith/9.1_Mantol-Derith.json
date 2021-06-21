@@ -1,5 +1,6 @@
 {
    "name": "Mantol-Derith",
+   "code": "oota",
    "id": "scenes/oota-scene-9.1",
    "type": "scene",
    "entity": "Scene",
@@ -110,5 +111,12 @@
    "backgroundColor": "#816e62",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Chapter 9: Mantol-Derith"
+         ]
+      }
+   }
 }

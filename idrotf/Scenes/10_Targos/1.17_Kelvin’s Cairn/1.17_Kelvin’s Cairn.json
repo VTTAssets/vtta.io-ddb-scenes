@@ -1,5 +1,6 @@
 {
    "name": "Kelvin’s Cairn",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.17",
    "type": "scene",
    "entity": "Scene",
@@ -49,5 +50,12 @@
    "backgroundColor": "#86a6c0",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "10 Targos"
+         ]
+      }
+   }
 }

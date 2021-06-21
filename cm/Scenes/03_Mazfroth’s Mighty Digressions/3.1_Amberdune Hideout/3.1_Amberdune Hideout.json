@@ -1,5 +1,6 @@
 {
    "name": "Amberdune Hideout",
+   "code": "cm",
    "id": "scenes/cm-scene-3.1",
    "type": "scene",
    "entity": "Scene",
@@ -43,5 +44,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Mazfroth’s Mighty Digressions"
+         ]
+      }
+   }
 }

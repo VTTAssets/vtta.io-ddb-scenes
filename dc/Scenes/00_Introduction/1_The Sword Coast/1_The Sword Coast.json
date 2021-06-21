@@ -1,5 +1,6 @@
 {
    "name": "The Sword Coast",
+   "code": "dc",
    "id": "scenes/dc-scene-1",
    "type": "scene",
    "entity": "Scene",
@@ -69,5 +70,12 @@
    "backgroundColor": "#5a523d",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "00 Introduction"
+         ]
+      }
+   }
 }

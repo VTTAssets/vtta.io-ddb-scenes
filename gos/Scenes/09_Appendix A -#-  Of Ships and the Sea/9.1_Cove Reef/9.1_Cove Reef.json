@@ -1,5 +1,6 @@
 {
    "name": "Cove Reef",
+   "code": "gos",
    "id": "scenes/gos-scene-9.1",
    "type": "scene",
    "entity": "Scene",
@@ -50,5 +51,12 @@
    "backgroundColor": "#fafafb",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Appendix A: Of Ships and the Sea"
+         ]
+      }
+   }
 }

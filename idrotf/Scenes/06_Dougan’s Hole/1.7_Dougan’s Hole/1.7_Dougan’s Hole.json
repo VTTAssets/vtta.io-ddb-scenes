@@ -1,5 +1,6 @@
 {
    "name": "Dougan’s Hole",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.7",
    "type": "scene",
    "entity": "Scene",
@@ -30,5 +31,12 @@
    "backgroundColor": "#adadaa",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Dougan’s Hole"
+         ]
+      }
+   }
 }

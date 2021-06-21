@@ -1,5 +1,6 @@
 {
    "name": "Necropolis and Mastaba",
+   "code": "cm",
    "id": "scenes/cm-scene-17.2",
    "type": "scene",
    "entity": "Scene",
@@ -39,5 +40,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "17 Alkazaar’s Appendix"
+         ]
+      }
+   }
 }

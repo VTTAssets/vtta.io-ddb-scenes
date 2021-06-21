@@ -1,5 +1,6 @@
 {
    "name": "Candlekeep",
+   "code": "cm",
    "id": "scenes/cm-scene-1.1",
    "type": "scene",
    "entity": "Scene",
@@ -55,5 +56,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "01 Candlekeep"
+         ]
+      }
+   }
 }

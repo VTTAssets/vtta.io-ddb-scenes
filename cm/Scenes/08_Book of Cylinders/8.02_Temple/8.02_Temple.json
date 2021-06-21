@@ -1,5 +1,6 @@
 {
    "name": "Temple",
+   "code": "cm",
    "id": "scenes/cm-scene-8.02",
    "type": "scene",
    "entity": "Scene",
@@ -27,5 +28,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Book of Cylinders"
+         ]
+      }
+   }
 }

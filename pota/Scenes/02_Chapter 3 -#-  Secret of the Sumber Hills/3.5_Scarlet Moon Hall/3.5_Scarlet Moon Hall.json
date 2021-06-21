@@ -1,5 +1,6 @@
 {
    "name": "Scarlet Moon Hall",
+   "code": "pota",
    "id": "scenes/pota-scene-3.5",
    "type": "scene",
    "entity": "Scene",
@@ -86,5 +87,12 @@
    "backgroundColor": "#b0a590",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 3: Secret of the Sumber Hills"
+         ]
+      }
+   }
 }

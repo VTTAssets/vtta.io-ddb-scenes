@@ -1,5 +1,6 @@
 {
    "name": "Caves of Hunger",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-6.1",
    "type": "scene",
    "entity": "Scene",
@@ -177,5 +178,12 @@
    "backgroundColor": "#a0b4c2",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "17 Chapter 6: Caves of Hunger"
+         ]
+      }
+   }
 }

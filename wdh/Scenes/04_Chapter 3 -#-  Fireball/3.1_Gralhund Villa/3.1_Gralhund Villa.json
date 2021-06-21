@@ -1,5 +1,6 @@
 {
    "name": "Gralhund Villa",
+   "code": "wdh",
    "id": "scenes/wdh-scene-3.1",
    "type": "scene",
    "entity": "Scene",
@@ -2789,5 +2790,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 3: Fireball"
+         ]
+      }
+   }
 }

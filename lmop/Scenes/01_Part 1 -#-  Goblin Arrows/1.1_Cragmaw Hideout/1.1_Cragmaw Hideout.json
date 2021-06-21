@@ -1,5 +1,6 @@
 {
    "name": "Cragmaw Hideout",
+   "code": "lmop",
    "id": "scenes/lmop-scene-1.1",
    "type": "scene",
    "entity": "Scene",
@@ -3000,5 +3001,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "01 Part 1: Goblin Arrows"
+         ]
+      }
+   }
 }

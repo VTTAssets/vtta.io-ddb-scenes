@@ -1,5 +1,6 @@
 {
    "name": "Sighing Valley",
+   "code": "pota",
    "id": "scenes/pota-scene-3.2",
    "type": "scene",
    "entity": "Scene",
@@ -58,5 +59,12 @@
    "backgroundColor": "#beaf94",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 3: Secret of the Sumber Hills"
+         ]
+      }
+   }
 }

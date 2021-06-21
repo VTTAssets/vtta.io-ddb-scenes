@@ -1,5 +1,6 @@
 {
    "name": "High Hall Cathedral",
+   "code": "bgdia",
    "id": "scenes/bgdia-scene-2.1",
    "type": "scene",
    "entity": "Scene",
@@ -3552,5 +3553,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: Elturel Has Fallen"
+         ]
+      }
+   }
 }

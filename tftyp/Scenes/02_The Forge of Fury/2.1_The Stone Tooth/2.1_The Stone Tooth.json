@@ -1,5 +1,6 @@
 {
    "name": "The Stone Tooth",
+   "code": "tftyp",
    "id": "scenes/tftyp-scene-2.1",
    "type": "scene",
    "entity": "Scene",
@@ -18,5 +19,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 The Forge of Fury"
+         ]
+      }
+   }
 }

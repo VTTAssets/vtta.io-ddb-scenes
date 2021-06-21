@@ -1,5 +1,6 @@
 {
    "name": "The Low Lantern",
+   "code": "bgdia",
    "id": "scenes/bgdia-scene-1.4",
    "type": "scene",
    "entity": "Scene",
@@ -2065,5 +2066,12 @@
          "y": 2378
       }
    ],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 1: A Tale of Two Cities"
+         ]
+      }
+   }
 }

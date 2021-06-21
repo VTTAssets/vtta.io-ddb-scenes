@@ -1,5 +1,6 @@
 {
    "name": "Xanathar Guild Hideout",
+   "code": "wdh",
    "id": "scenes/wdh-scene-1.2",
    "type": "scene",
    "entity": "Scene",
@@ -1863,5 +1864,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 1: A Friend in Need"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Burgomaster’s Mansion (Area N3)",
+   "code": "cos",
    "id": "scenes/cos-scene-5.3",
    "type": "scene",
    "entity": "Scene",
@@ -1407,5 +1408,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 5: The Town of Vallaki"
+         ]
+      }
+   }
 }

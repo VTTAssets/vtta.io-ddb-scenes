@@ -1,5 +1,6 @@
 {
    "name": "Svardborg",
+   "code": "skt",
    "id": "scenes/skt-scene-7.1",
    "type": "scene",
    "entity": "Scene",
@@ -158,5 +159,12 @@
    "backgroundColor": "#12577c",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Chapter 7: Berg of the Frost Giants"
+         ]
+      }
+   }
 }

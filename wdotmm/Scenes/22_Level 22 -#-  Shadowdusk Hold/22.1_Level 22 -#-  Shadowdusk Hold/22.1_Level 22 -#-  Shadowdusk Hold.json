@@ -1,5 +1,6 @@
 {
    "name": "Level 22: Shadowdusk Hold",
+   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-22.1",
    "type": "scene",
    "entity": "Scene",
@@ -298,5 +299,12 @@
    "backgroundColor": "#ffffff",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "22 Level 22: Shadowdusk Hold"
+         ]
+      }
+   }
 }

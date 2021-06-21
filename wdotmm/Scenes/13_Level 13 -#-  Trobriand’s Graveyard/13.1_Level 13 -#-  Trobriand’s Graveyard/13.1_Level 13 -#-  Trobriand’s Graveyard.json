@@ -1,5 +1,6 @@
 {
    "name": "Level 13: Trobriand’s Graveyard",
+   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-13.1",
    "type": "scene",
    "entity": "Scene",
@@ -114,5 +115,12 @@
    "backgroundColor": "#fefefe",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Level 13: Trobriand’s Graveyard"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Scarlet Marpenoth",
+   "code": "wdh",
    "id": "scenes/wdh-scene-7.2",
    "type": "scene",
    "entity": "Scene",
@@ -74,5 +75,12 @@
    "backgroundColor": "#ffffff",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Chapter 7: Maestro’s Fall"
+         ]
+      }
+   }
 }

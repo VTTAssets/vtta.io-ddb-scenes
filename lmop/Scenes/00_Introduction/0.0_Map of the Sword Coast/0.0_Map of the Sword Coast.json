@@ -1,5 +1,6 @@
 {
    "name": "Map of the Sword Coast",
+   "code": "lmop",
    "id": "scenes/lmop-scene-0.0",
    "type": "scene",
    "entity": "Scene",
@@ -21,5 +22,12 @@
    "backgroundColor": "#5f5743",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "00 Introduction"
+         ]
+      }
+   }
 }

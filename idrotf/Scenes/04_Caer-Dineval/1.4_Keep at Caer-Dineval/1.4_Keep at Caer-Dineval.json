@@ -1,5 +1,6 @@
 {
    "name": "Keep at Caer-Dineval",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.4",
    "type": "scene",
    "entity": "Scene",
@@ -3157,5 +3158,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Caer-Dineval"
+         ]
+      }
+   }
 }

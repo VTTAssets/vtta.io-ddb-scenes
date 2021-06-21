@@ -1,5 +1,6 @@
 {
    "name": "Dwarven Excavation",
+   "code": "doip",
    "id": "scenes/doip-scene-5.1",
    "type": "scene",
    "entity": "Scene",
@@ -2534,5 +2535,12 @@
          "y": 1625
       }
    ],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Dwarven Excavation"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Level 23: Mad Wizard’s Lair",
+   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-23.1",
    "type": "scene",
    "entity": "Scene",
@@ -214,5 +215,12 @@
    "backgroundColor": "#ffffff",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "23 Level 23: Mad Wizard’s Lair"
+         ]
+      }
+   }
 }

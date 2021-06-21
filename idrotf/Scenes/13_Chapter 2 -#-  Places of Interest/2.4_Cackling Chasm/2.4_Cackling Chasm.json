@@ -1,5 +1,6 @@
 {
    "name": "Cackling Chasm",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-2.4",
    "type": "scene",
    "entity": "Scene",
@@ -53,5 +54,12 @@
    "backgroundColor": "#abbbc7",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 2: Places of Interest"
+         ]
+      }
+   }
 }

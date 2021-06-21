@@ -1,5 +1,6 @@
 {
    "name": "The Oozing Temple",
+   "code": "oota",
    "id": "scenes/oota-scene-2.3",
    "type": "scene",
    "entity": "Scene",
@@ -46,5 +47,12 @@
    "backgroundColor": "#7a685c",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 2: Into Darkness"
+         ]
+      }
+   }
 }

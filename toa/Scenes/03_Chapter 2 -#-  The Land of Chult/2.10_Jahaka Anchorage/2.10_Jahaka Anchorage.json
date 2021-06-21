@@ -1,5 +1,6 @@
 {
    "name": "Jahaka Anchorage",
+   "code": "toa",
    "id": "scenes/toa-scene-2.10",
    "type": "scene",
    "entity": "Scene",
@@ -57,5 +58,12 @@
    "backgroundColor": "#767060",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: The Land of Chult"
+         ]
+      }
+   }
 }

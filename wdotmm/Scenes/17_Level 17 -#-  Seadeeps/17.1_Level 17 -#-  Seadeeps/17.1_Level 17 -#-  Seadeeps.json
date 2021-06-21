@@ -1,5 +1,6 @@
 {
    "name": "Level 17: Seadeeps",
+   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-17.1",
    "type": "scene",
    "entity": "Scene",
@@ -198,5 +199,12 @@
    "backgroundColor": "#fefefe",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "17 Level 17: Seadeeps"
+         ]
+      }
+   }
 }

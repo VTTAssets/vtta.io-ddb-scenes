@@ -1,5 +1,6 @@
 {
    "name": "Id Ascendant",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-2.7",
    "type": "scene",
    "entity": "Scene",
@@ -57,5 +58,12 @@
    "backgroundColor": "#5c707a",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 2: Places of Interest"
+         ]
+      }
+   }
 }

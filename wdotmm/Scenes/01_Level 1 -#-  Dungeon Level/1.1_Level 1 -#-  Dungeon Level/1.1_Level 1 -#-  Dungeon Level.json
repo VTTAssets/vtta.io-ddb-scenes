@@ -1,5 +1,6 @@
 {
    "name": "Level 1: Dungeon Level",
+   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-1.1",
    "type": "scene",
    "entity": "Scene",
@@ -8120,5 +8121,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "01 Level 1: Dungeon Level"
+         ]
+      }
+   }
 }

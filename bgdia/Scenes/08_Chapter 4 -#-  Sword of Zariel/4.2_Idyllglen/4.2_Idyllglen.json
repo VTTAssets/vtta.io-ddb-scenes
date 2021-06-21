@@ -1,5 +1,6 @@
 {
    "name": "Idyllglen",
+   "code": "bgdia",
    "id": "scenes/bgdia-scene-4.2",
    "type": "scene",
    "entity": "Scene",
@@ -1367,5 +1368,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Chapter 4: Sword of Zariel"
+         ]
+      }
+   }
 }

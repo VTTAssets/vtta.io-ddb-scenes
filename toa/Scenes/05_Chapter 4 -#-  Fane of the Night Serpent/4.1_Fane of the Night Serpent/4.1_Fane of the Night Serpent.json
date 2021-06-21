@@ -1,5 +1,6 @@
 {
    "name": "Fane of the Night Serpent",
+   "code": "toa",
    "id": "scenes/toa-scene-4.1",
    "type": "scene",
    "entity": "Scene",
@@ -113,5 +114,12 @@
    "backgroundColor": "#655e51",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 4: Fane of the Night Serpent"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Hrakhamar",
+   "code": "toa",
    "id": "scenes/toa-scene-2.9",
    "type": "scene",
    "entity": "Scene",
@@ -4191,5 +4192,12 @@
          "y": 1250
       }
    ],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: The Land of Chult"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Nightstone",
+   "code": "skt",
    "id": "scenes/skt-scene-1.1",
    "type": "scene",
    "entity": "Scene",
@@ -206,5 +207,12 @@
    "backgroundColor": "#82874e",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 1: A Great Upheaval"
+         ]
+      }
+   }
 }

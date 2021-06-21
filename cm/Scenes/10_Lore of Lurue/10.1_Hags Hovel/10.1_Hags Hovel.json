@@ -1,5 +1,6 @@
 {
    "name": "Hags Hovel",
+   "code": "cm",
    "id": "scenes/cm-scene-10.1",
    "type": "scene",
    "entity": "Scene",
@@ -31,5 +32,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "10 Lore of Lurue"
+         ]
+      }
+   }
 }

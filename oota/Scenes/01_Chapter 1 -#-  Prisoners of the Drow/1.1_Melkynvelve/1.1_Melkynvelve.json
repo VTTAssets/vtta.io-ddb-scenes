@@ -1,5 +1,6 @@
 {
    "name": "Melkynvelve",
+   "code": "oota",
    "id": "scenes/oota-scene-1.1",
    "type": "scene",
    "entity": "Scene",
@@ -78,5 +79,12 @@
    "backgroundColor": "#7b6a53",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "01 Chapter 1: Prisoners of the Drow"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Cassalanter Villa",
+   "code": "wdh",
    "id": "scenes/wdh-scene-6.1",
    "type": "scene",
    "entity": "Scene",
@@ -158,5 +159,12 @@
    "backgroundColor": "#fafafa",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Chapter 6: Hell of a Summer"
+         ]
+      }
+   }
 }

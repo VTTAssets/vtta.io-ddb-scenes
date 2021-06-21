@@ -1,5 +1,6 @@
 {
    "name": "Deadstone Cleft",
+   "code": "skt",
    "id": "scenes/skt-scene-6.1",
    "type": "scene",
    "entity": "Scene",
@@ -98,5 +99,12 @@
    "backgroundColor": "#60604b",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Chapter 6: Canyon of the Stone Giants"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Grove Level",
+   "code": "tftyp",
    "id": "scenes/tftyp-scene-1.2",
    "type": "scene",
    "entity": "Scene",
@@ -5797,5 +5798,12 @@
          "y": 2700
       }
    ],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "01 The Sunless Citadel"
+         ]
+      }
+   }
 }

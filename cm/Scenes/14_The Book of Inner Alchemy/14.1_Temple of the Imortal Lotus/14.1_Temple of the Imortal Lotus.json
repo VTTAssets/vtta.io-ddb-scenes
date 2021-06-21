@@ -1,5 +1,6 @@
 {
    "name": "Temple of the Imortal Lotus",
+   "code": "cm",
    "id": "scenes/cm-scene-14.1",
    "type": "scene",
    "entity": "Scene",
@@ -63,5 +64,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "14 The Book of Inner Alchemy"
+         ]
+      }
+   }
 }

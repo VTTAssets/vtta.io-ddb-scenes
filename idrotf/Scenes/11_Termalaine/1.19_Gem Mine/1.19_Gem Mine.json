@@ -1,5 +1,6 @@
 {
    "name": "Gem Mine",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.19",
    "type": "scene",
    "entity": "Scene",
@@ -73,5 +74,12 @@
    "backgroundColor": "#8498a7",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "11 Termalaine"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Landgrave’s Folly",
+   "code": "gos",
    "id": "scenes/gos-scene-8.4",
    "type": "scene",
    "entity": "Scene",
@@ -34,5 +35,12 @@
    "backgroundColor": "#ffffff",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Chapter 8: The Styes"
+         ]
+      }
+   }
 }

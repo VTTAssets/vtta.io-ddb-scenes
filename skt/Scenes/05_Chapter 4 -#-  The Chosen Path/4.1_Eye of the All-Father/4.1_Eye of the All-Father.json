@@ -1,5 +1,6 @@
 {
    "name": "Eye of the All-Father",
+   "code": "skt",
    "id": "scenes/skt-scene-4.1",
    "type": "scene",
    "entity": "Scene",
@@ -106,5 +107,12 @@
    "backgroundColor": "#4a3d32",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 4: The Chosen Path"
+         ]
+      }
+   }
 }

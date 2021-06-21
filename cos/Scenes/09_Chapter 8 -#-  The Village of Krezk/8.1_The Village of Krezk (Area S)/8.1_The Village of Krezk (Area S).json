@@ -1,5 +1,6 @@
 {
    "name": "The Village of Krezk (Area S)",
+   "code": "cos",
    "id": "scenes/cos-scene-8.1",
    "type": "scene",
    "entity": "Scene",
@@ -67,5 +68,12 @@
    "backgroundColor": "#9a9d8c",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Chapter 8: The Village of Krezk"
+         ]
+      }
+   }
 }

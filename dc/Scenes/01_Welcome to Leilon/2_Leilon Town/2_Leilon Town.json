@@ -1,5 +1,6 @@
 {
    "name": "Leilon Town",
+   "code": "dc",
    "id": "scenes/dc-scene-2",
    "type": "scene",
    "entity": "Scene",
@@ -82,5 +83,12 @@
    "backgroundColor": "#80817b",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "01 Welcome to Leilon"
+         ]
+      }
+   }
 }

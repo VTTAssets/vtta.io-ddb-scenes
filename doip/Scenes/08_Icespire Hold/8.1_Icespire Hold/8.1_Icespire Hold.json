@@ -1,5 +1,6 @@
 {
    "name": "Icespire Hold",
+   "code": "doip",
    "id": "scenes/doip-scene-8.1",
    "type": "scene",
    "entity": "Scene",
@@ -4638,5 +4639,12 @@
          "y": 1450
       }
    ],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Icespire Hold"
+         ]
+      }
+   }
 }

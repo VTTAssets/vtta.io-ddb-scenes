@@ -1,5 +1,6 @@
 {
    "name": "Hall of the Fire Giant King - Second Level",
+   "code": "tftyp",
    "id": "scenes/tftyp-scene-6.6",
    "type": "scene",
    "entity": "Scene",
@@ -91,5 +92,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Against the Giants"
+         ]
+      }
+   }
 }

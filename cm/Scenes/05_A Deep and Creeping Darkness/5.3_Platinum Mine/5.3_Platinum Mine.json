@@ -1,5 +1,6 @@
 {
    "name": "Platinum Mine",
+   "code": "cm",
    "id": "scenes/cm-scene-5.3",
    "type": "scene",
    "entity": "Scene",
@@ -55,5 +56,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 A Deep and Creeping Darkness"
+         ]
+      }
+   }
 }

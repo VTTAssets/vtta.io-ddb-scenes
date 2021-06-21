@@ -1,5 +1,6 @@
 {
    "name": "Karkolohk",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-2.9",
    "type": "scene",
    "entity": "Scene",
@@ -73,5 +74,12 @@
    "backgroundColor": "#6e7f8a",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 2: Places of Interest"
+         ]
+      }
+   }
 }

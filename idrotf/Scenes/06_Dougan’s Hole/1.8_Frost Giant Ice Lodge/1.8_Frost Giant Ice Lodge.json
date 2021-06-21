@@ -1,5 +1,6 @@
 {
    "name": "Frost Giant Ice Lodge",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.8",
    "type": "scene",
    "entity": "Scene",
@@ -743,5 +744,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Dougan’s Hole"
+         ]
+      }
+   }
 }

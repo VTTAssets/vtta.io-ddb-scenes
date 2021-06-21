@@ -1,5 +1,6 @@
 {
    "name": "Cave of the Berserkers",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-2.5",
    "type": "scene",
    "entity": "Scene",
@@ -53,5 +54,12 @@
    "backgroundColor": "#9eadb8",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 2: Places of Interest"
+         ]
+      }
+   }
 }

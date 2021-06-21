@@ -1,5 +1,6 @@
 {
    "name": "Jarlmoot",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-2.8",
    "type": "scene",
    "entity": "Scene",
@@ -41,5 +42,12 @@
    "backgroundColor": "#99afbe",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 2: Places of Interest"
+         ]
+      }
+   }
 }

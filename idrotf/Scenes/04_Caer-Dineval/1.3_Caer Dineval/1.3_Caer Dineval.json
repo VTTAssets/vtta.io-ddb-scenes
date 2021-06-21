@@ -1,5 +1,6 @@
 {
    "name": "Caer Dineval",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.3",
    "type": "scene",
    "entity": "Scene",
@@ -49,5 +50,12 @@
    "backgroundColor": "#acaca9",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Caer-Dineval"
+         ]
+      }
+   }
 }

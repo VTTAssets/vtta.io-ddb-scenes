@@ -1,5 +1,6 @@
 {
    "name": "Spires and Tower of Ravenloft",
+   "code": "cos",
    "id": "scenes/cos-scene-4.6",
    "type": "scene",
    "entity": "Scene",
@@ -66,5 +67,12 @@
    "backgroundColor": "#c1c3c4",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 4: Castle Ravenloft"
+         ]
+      }
+   }
 }

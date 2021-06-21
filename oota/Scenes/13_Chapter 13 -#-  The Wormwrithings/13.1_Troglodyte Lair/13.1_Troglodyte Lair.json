@@ -1,5 +1,6 @@
 {
    "name": "Troglodyte Lair",
+   "code": "oota",
    "id": "scenes/oota-scene-13.1",
    "type": "scene",
    "entity": "Scene",
@@ -82,5 +83,12 @@
    "backgroundColor": "#423c38",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 13: The Wormwrithings"
+         ]
+      }
+   }
 }

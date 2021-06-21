@@ -1,5 +1,6 @@
 {
    "name": "Deathknight-Dreadnaught",
+   "code": "sdw",
    "id": "scenes/sdw-scene-5",
    "type": "scene",
    "entity": "Scene",
@@ -106,5 +107,12 @@
    "backgroundColor": "#294048",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Death Knight-Dreadnaught"
+         ]
+      }
+   }
 }

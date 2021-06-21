@@ -1,5 +1,6 @@
 {
    "name": "Ironslag",
+   "code": "skt",
    "id": "scenes/skt-scene-8.1",
    "type": "scene",
    "entity": "Scene",
@@ -158,5 +159,12 @@
    "backgroundColor": "#372c23",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Chapter 8: Forge of the Fire Giants"
+         ]
+      }
+   }
 }

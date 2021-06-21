@@ -1,5 +1,6 @@
 {
    "name": "Gracklstugh - The Whorlstone Tunnels",
+   "code": "oota",
    "id": "scenes/oota-scene-4.2",
    "type": "scene",
    "entity": "Scene",
@@ -90,5 +91,12 @@
    "backgroundColor": "#6d5f4d",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 4: Gracklstugh"
+         ]
+      }
+   }
 }

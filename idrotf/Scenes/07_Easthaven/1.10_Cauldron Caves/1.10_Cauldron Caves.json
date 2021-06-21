@@ -1,5 +1,6 @@
 {
    "name": "Cauldron Caves",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.10",
    "type": "scene",
    "entity": "Scene",
@@ -6521,5 +6522,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Easthaven"
+         ]
+      }
+   }
 }

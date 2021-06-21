@@ -1,5 +1,6 @@
 {
    "name": "Sacred Stone Monastery",
+   "code": "pota",
    "id": "scenes/pota-scene-3.4",
    "type": "scene",
    "entity": "Scene",
@@ -118,5 +119,12 @@
    "backgroundColor": "#948d7c",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 3: Secret of the Sumber Hills"
+         ]
+      }
+   }
 }

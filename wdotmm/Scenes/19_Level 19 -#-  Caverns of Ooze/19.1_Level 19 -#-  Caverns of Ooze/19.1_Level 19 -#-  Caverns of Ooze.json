@@ -1,5 +1,6 @@
 {
    "name": "Level 19: Caverns of Ooze",
+   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-19.1",
    "type": "scene",
    "entity": "Scene",
@@ -154,5 +155,12 @@
    "backgroundColor": "#ffffff",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "19 Level 19: Caverns of Ooze"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Baldur’s Gate",
+   "code": "bgdia",
    "id": "scenes/bgdia-scene-6.2",
    "type": "scene",
    "entity": "Scene",
@@ -234,5 +235,12 @@
    "backgroundColor": "#bdb092",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "10 Baldur’s Gate Gazetteer"
+         ]
+      }
+   }
 }

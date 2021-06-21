@@ -1,5 +1,6 @@
 {
    "name": "Gnomengarde",
+   "code": "doip",
    "id": "scenes/doip-scene-7.1",
    "type": "scene",
    "entity": "Scene",
@@ -3842,5 +3843,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Gnomengarde"
+         ]
+      }
+   }
 }

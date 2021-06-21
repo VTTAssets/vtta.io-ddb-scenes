@@ -1,5 +1,6 @@
 {
    "name": "Larders of Ill Omen, Dungeon and Catacombs",
+   "code": "cos",
    "id": "scenes/cos-scene-4.7",
    "type": "scene",
    "entity": "Scene",
@@ -194,5 +195,12 @@
    "backgroundColor": "#b1b4b7",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 4: Castle Ravenloft"
+         ]
+      }
+   }
 }

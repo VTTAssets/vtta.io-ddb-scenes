@@ -1,5 +1,6 @@
 {
    "name": "Skullport",
+   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-24.1",
    "type": "scene",
    "entity": "Scene",
@@ -182,5 +183,12 @@
    "backgroundColor": "#fdfdfd",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "24 Skullport"
+         ]
+      }
+   }
 }

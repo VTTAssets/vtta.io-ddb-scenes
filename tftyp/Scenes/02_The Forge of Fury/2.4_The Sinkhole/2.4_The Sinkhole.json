@@ -1,5 +1,6 @@
 {
    "name": "The Sinkhole",
+   "code": "tftyp",
    "id": "scenes/tftyp-scene-2.4",
    "type": "scene",
    "entity": "Scene",
@@ -2368,5 +2369,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 The Forge of Fury"
+         ]
+      }
+   }
 }

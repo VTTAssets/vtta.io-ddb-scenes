@@ -1,5 +1,6 @@
 {
    "name": "Lyn Armaal, Levels 2-6",
+   "code": "skt",
    "id": "scenes/skt-scene-9.2",
    "type": "scene",
    "entity": "Scene",
@@ -7850,5 +7851,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "10 Chapter 9: Castle of the Cloud Giants"
+         ]
+      }
+   }
 }

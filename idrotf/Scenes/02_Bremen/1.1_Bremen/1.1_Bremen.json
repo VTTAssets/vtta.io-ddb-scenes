@@ -1,5 +1,6 @@
 {
    "name": "Bremen",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.1",
    "type": "scene",
    "entity": "Scene",
@@ -40,5 +41,12 @@
    "backgroundColor": "#acaca8",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Bremen"
+         ]
+      }
+   }
 }

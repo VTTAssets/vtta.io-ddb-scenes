@@ -1,5 +1,6 @@
 {
    "name": "Targos",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.16",
    "type": "scene",
    "entity": "Scene",
@@ -33,5 +34,12 @@
    "backgroundColor": "#aeadab",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "10 Targos"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Revel's End",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-2.12",
    "type": "scene",
    "entity": "Scene",
@@ -113,5 +114,12 @@
    "backgroundColor": "#94a7b5",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 2: Places of Interest"
+         ]
+      }
+   }
 }

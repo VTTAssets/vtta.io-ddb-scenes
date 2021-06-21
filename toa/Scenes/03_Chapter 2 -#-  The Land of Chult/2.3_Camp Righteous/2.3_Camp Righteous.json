@@ -1,5 +1,6 @@
 {
    "name": "Camp Righteous",
+   "code": "toa",
    "id": "scenes/toa-scene-2.3",
    "type": "scene",
    "entity": "Scene",
@@ -65,5 +66,12 @@
    "backgroundColor": "#807a68",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: The Land of Chult"
+         ]
+      }
+   }
 }

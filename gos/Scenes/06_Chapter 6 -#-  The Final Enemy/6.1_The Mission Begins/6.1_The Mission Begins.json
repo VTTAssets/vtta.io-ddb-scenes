@@ -1,5 +1,6 @@
 {
    "name": "The Mission Begins",
+   "code": "gos",
    "id": "scenes/gos-scene-6.1",
    "type": "scene",
    "entity": "Scene",
@@ -98,5 +99,12 @@
    "backgroundColor": "#feffff",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 6: The Final Enemy"
+         ]
+      }
+   }
 }

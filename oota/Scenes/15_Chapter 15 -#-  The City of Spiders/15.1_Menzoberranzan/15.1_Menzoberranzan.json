@@ -1,5 +1,6 @@
 {
    "name": "Menzoberranzan",
+   "code": "oota",
    "id": "scenes/oota-scene-15.1",
    "type": "scene",
    "entity": "Scene",
@@ -67,5 +68,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "15 Chapter 15: The City of Spiders"
+         ]
+      }
+   }
 }

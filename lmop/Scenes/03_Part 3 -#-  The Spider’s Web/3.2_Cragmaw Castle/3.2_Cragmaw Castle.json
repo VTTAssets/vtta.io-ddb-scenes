@@ -1,5 +1,6 @@
 {
    "name": "Cragmaw Castle",
+   "code": "lmop",
    "id": "scenes/lmop-scene-3.2",
    "type": "scene",
    "entity": "Scene",
@@ -3600,5 +3601,12 @@
          "y": 1215
       }
    ],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Part 3: The Spider’s Web"
+         ]
+      }
+   }
 }

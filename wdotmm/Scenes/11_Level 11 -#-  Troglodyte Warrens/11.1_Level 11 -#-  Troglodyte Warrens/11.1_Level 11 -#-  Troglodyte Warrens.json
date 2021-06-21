@@ -1,5 +1,6 @@
 {
    "name": "Level 11: Troglodyte Warrens",
+   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-11.1",
    "type": "scene",
    "entity": "Scene",
@@ -210,5 +211,12 @@
    "backgroundColor": "#ffffff",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "11 Level 11: Troglodyte Warrens"
+         ]
+      }
+   }
 }

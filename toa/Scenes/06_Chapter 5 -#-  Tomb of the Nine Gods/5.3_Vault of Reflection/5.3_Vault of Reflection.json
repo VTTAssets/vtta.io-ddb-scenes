@@ -1,5 +1,6 @@
 {
    "name": "Vault of Reflection",
+   "code": "toa",
    "id": "scenes/toa-scene-5.3",
    "type": "scene",
    "entity": "Scene",
@@ -233,5 +234,12 @@
    "backgroundColor": "#504f4a",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 5: Tomb of the Nine Gods"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "The Lost Tomb",
+   "code": "oota",
    "id": "scenes/oota-scene-2.4",
    "type": "scene",
    "entity": "Scene",
@@ -42,5 +43,12 @@
    "backgroundColor": "#8d786b",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 2: Into Darkness"
+         ]
+      }
+   }
 }

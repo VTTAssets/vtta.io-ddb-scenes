@@ -1,5 +1,6 @@
 {
    "name": "Shrine of Savras",
+   "code": "doip",
    "id": "scenes/doip-scene-11.1",
    "type": "scene",
    "entity": "Scene",
@@ -3708,5 +3709,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "11 Shrine of Savras"
+         ]
+      }
+   }
 }

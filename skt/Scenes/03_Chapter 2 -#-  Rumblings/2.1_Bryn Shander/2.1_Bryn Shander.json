@@ -1,5 +1,6 @@
 {
    "name": "Bryn Shander",
+   "code": "skt",
    "id": "scenes/skt-scene-2.1",
    "type": "scene",
    "entity": "Scene",
@@ -197,5 +198,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: Rumblings"
+         ]
+      }
+   }
 }

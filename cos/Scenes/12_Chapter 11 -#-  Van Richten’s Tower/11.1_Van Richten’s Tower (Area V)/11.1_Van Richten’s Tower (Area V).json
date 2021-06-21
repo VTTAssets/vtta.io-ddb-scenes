@@ -1,5 +1,6 @@
 {
    "name": "Van Richten’s Tower (Area V)",
+   "code": "cos",
    "id": "scenes/cos-scene-11.1",
    "type": "scene",
    "entity": "Scene",
@@ -1396,5 +1397,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "12 Chapter 11: Van Richten’s Tower"
+         ]
+      }
+   }
 }

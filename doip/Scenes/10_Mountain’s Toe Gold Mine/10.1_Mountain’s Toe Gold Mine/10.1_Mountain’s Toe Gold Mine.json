@@ -1,5 +1,6 @@
 {
    "name": "Mountain’s Toe Gold Mine",
+   "code": "doip",
    "id": "scenes/doip-scene-10.1",
    "type": "scene",
    "entity": "Scene",
@@ -8559,5 +8560,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "10 Mountain’s Toe Gold Mine"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Port Nyanzaru",
+   "code": "toa",
    "id": "scenes/toa-scene-1.1",
    "type": "scene",
    "entity": "Scene",
@@ -121,5 +122,12 @@
    "backgroundColor": "#7d7562",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 1: Port Nyanzaru"
+         ]
+      }
+   }
 }

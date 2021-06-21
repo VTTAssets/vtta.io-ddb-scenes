@@ -1,5 +1,6 @@
 {
    "name": "Ebondeath’s Mausoleum",
+   "code": "dc",
    "id": "scenes/dc-scene-4",
    "type": "scene",
    "entity": "Scene",
@@ -3448,5 +3449,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Ebondeath’s Mausoleum"
+         ]
+      }
+   }
 }

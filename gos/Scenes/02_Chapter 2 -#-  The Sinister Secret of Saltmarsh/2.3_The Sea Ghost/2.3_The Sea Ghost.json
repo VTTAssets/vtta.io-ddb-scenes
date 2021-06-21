@@ -1,5 +1,6 @@
 {
    "name": "The Sea Ghost",
+   "code": "gos",
    "id": "scenes/gos-scene-2.3",
    "type": "scene",
    "entity": "Scene",
@@ -1304,5 +1305,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 2: The Sinister Secret of Saltmarsh"
+         ]
+      }
+   }
 }

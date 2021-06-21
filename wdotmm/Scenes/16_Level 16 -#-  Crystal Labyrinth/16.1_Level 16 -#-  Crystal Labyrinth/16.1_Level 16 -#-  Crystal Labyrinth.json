@@ -1,5 +1,6 @@
 {
    "name": "Level 16: Crystal Labyrinth",
+   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-16.1",
    "type": "scene",
    "entity": "Scene",
@@ -286,5 +287,12 @@
    "backgroundColor": "#ffffff",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "16 Level 16: Crystal Labyrinth"
+         ]
+      }
+   }
 }

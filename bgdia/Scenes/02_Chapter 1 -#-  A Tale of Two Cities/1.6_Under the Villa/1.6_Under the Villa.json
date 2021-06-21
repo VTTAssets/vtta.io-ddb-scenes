@@ -1,5 +1,6 @@
 {
    "name": "Under the Villa",
+   "code": "bgdia",
    "id": "scenes/bgdia-scene-1.6",
    "type": "scene",
    "entity": "Scene",
@@ -2805,5 +2806,12 @@
          "y": 2046
       }
    ],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 1: A Tale of Two Cities"
+         ]
+      }
+   }
 }

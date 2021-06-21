@@ -1,5 +1,6 @@
 {
    "name": "The Hermitage (Rest)",
+   "code": "gos",
    "id": "scenes/gos-scene-7.4",
    "type": "scene",
    "entity": "Scene",
@@ -38,5 +39,12 @@
    "backgroundColor": "#ffffff",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Chapter 7: Tammeraut’s Fate"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Vault",
+   "code": "wdh",
    "id": "scenes/wdh-scene-4.9",
    "type": "scene",
    "entity": "Scene",
@@ -58,5 +59,12 @@
    "backgroundColor": "#fafafa",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 4: Dragon Season"
+         ]
+      }
+   }
 }

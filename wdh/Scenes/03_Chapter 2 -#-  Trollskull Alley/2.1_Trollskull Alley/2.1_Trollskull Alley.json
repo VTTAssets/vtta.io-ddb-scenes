@@ -1,5 +1,6 @@
 {
    "name": "Trollskull Alley",
+   "code": "wdh",
    "id": "scenes/wdh-scene-2.1",
    "type": "scene",
    "entity": "Scene",
@@ -3074,5 +3075,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: Trollskull Alley"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Triboar",
+   "code": "skt",
    "id": "scenes/skt-scene-2.3",
    "type": "scene",
    "entity": "Scene",
@@ -361,5 +362,12 @@
    "backgroundColor": "#0f0e0e",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: Rumblings"
+         ]
+      }
+   }
 }

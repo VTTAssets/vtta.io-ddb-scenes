@@ -1,5 +1,6 @@
 {
    "name": "The Foundry",
+   "code": "tftyp",
    "id": "scenes/tftyp-scene-2.5",
    "type": "scene",
    "entity": "Scene",
@@ -4694,5 +4695,12 @@
          "y": 1652.0833333333333
       }
    ],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 The Forge of Fury"
+         ]
+      }
+   }
 }

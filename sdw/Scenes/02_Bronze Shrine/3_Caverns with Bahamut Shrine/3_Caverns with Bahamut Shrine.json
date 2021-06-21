@@ -1,5 +1,6 @@
 {
    "name": "Caverns with Bahamut Shrine",
+   "code": "sdw",
    "id": "scenes/sdw-scene-3",
    "type": "scene",
    "entity": "Scene",
@@ -1380,5 +1381,12 @@
          "y": 1333
       }
    ],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Bronze Shrine"
+         ]
+      }
+   }
 }

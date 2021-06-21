@@ -1,5 +1,6 @@
 {
    "name": "Tomb of Valin Sarnaster",
+   "code": "cm",
    "id": "scenes/cm-scene-15.1",
    "type": "scene",
    "entity": "Scene",
@@ -63,5 +64,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "15 The Canopic Being"
+         ]
+      }
+   }
 }

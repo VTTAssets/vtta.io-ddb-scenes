@@ -1,5 +1,6 @@
 {
    "name": "The Sword Coast",
+   "code": "slw",
    "id": "scenes/slw-scene-1",
    "type": "scene",
    "entity": "Scene",
@@ -61,5 +62,12 @@
    "backgroundColor": "#5a523d",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "00 Introduction"
+         ]
+      }
+   }
 }

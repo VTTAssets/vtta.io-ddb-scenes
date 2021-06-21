@@ -1,5 +1,6 @@
 {
    "name": "The Hermitage (2nd Floor)",
+   "code": "gos",
    "id": "scenes/gos-scene-7.3",
    "type": "scene",
    "entity": "Scene",
@@ -46,5 +47,12 @@
    "backgroundColor": "#fcfdfd",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Chapter 7: Tammeraut’s Fate"
+         ]
+      }
+   }
 }

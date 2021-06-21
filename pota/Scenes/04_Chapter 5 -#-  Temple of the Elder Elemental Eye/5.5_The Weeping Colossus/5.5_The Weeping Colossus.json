@@ -1,5 +1,6 @@
 {
    "name": "The Weeping Colossus",
+   "code": "pota",
    "id": "scenes/pota-scene-5.5",
    "type": "scene",
    "entity": "Scene",
@@ -70,5 +71,12 @@
    "backgroundColor": "#6a5c54",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 5: Temple of the Elder Elemental Eye"
+         ]
+      }
+   }
 }

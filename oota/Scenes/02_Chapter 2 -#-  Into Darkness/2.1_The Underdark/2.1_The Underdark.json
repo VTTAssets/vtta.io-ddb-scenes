@@ -1,5 +1,6 @@
 {
    "name": "The Underdark",
+   "code": "oota",
    "id": "scenes/oota-scene-2.1",
    "type": "scene",
    "entity": "Scene",
@@ -18,5 +19,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 2: Into Darkness"
+         ]
+      }
+   }
 }

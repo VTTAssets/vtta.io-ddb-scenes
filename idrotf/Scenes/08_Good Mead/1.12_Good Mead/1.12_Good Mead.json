@@ -1,5 +1,6 @@
 {
    "name": "Good Mead",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.12",
    "type": "scene",
    "entity": "Scene",
@@ -29,5 +30,12 @@
    "backgroundColor": "#b0b0ad",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Good Mead"
+         ]
+      }
+   }
 }

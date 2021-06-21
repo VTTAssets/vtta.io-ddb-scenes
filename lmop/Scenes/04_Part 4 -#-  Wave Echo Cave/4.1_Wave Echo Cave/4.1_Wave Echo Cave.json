@@ -1,5 +1,6 @@
 {
    "name": "Wave Echo Cave",
+   "code": "lmop",
    "id": "scenes/lmop-scene-4.1",
    "type": "scene",
    "entity": "Scene",
@@ -7966,5 +7967,12 @@
          "y": 6292
       }
    ],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Part 4: Wave Echo Cave"
+         ]
+      }
+   }
 }

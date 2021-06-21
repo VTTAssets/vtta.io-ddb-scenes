@@ -1,5 +1,6 @@
 {
    "name": "Mausoleum",
+   "code": "wdh",
    "id": "scenes/wdh-scene-4.3",
    "type": "scene",
    "entity": "Scene",
@@ -30,5 +31,12 @@
    "backgroundColor": "#fefefe",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 4: Dragon Season"
+         ]
+      }
+   }
 }

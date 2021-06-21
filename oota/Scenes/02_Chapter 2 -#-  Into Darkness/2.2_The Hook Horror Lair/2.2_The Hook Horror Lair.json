@@ -1,5 +1,6 @@
 {
    "name": "The Hook Horror Lair",
+   "code": "oota",
    "id": "scenes/oota-scene-2.2",
    "type": "scene",
    "entity": "Scene",
@@ -46,5 +47,12 @@
    "backgroundColor": "#6f5d53",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 2: Into Darkness"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Level 2: Arcane Chambers",
+   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-2.1",
    "type": "scene",
    "entity": "Scene",
@@ -7755,5 +7756,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Level 2: Arcane Chambers"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Wizard of Wines Winery (Area W)",
+   "code": "cos",
    "id": "scenes/cos-scene-12.1",
    "type": "scene",
    "entity": "Scene",
@@ -3473,5 +3474,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 12: The Wizard of Wines"
+         ]
+      }
+   }
 }

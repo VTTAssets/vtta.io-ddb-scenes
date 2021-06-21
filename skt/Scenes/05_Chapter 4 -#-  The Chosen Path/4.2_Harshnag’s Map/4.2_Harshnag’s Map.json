@@ -1,5 +1,6 @@
 {
    "name": "Harshnag’s Map",
+   "code": "skt",
    "id": "scenes/skt-scene-4.2",
    "type": "scene",
    "entity": "Scene",
@@ -18,5 +19,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 4: The Chosen Path"
+         ]
+      }
+   }
 }

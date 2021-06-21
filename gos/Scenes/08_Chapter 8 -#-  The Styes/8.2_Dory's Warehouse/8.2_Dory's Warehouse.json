@@ -1,5 +1,6 @@
 {
    "name": "Dory's Warehouse",
+   "code": "gos",
    "id": "scenes/gos-scene-8.2",
    "type": "scene",
    "entity": "Scene",
@@ -58,5 +59,12 @@
    "backgroundColor": "#ffffff",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Chapter 8: The Styes"
+         ]
+      }
+   }
 }

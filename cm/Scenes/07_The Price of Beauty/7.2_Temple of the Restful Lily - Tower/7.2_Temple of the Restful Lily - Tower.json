@@ -1,5 +1,6 @@
 {
    "name": "Temple of the Restful Lily - Tower",
+   "code": "cm",
    "id": "scenes/cm-scene-7.2",
    "type": "scene",
    "entity": "Scene",
@@ -47,5 +48,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 The Price of Beauty"
+         ]
+      }
+   }
 }

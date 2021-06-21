@@ -1,5 +1,6 @@
 {
    "name": "The Sword Coast",
+   "code": "doip",
    "id": "scenes/doip-scene-0.1",
    "type": "scene",
    "entity": "Scene",
@@ -67,5 +68,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "00 Running the Adventure"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Church",
+   "code": "cos",
    "id": "scenes/cos-scene-3.2",
    "type": "scene",
    "entity": "Scene",
@@ -880,5 +881,12 @@
          "y": 1296
       }
    ],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 3: The Village of Barovia"
+         ]
+      }
+   }
 }

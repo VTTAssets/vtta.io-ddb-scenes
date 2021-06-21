@@ -1,5 +1,6 @@
 {
    "name": "Abbey of Saint Markovia - Ground Floor",
+   "code": "cos",
    "id": "scenes/cos-scene-8.2",
    "type": "scene",
    "entity": "Scene",
@@ -1329,5 +1330,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Chapter 8: The Village of Krezk"
+         ]
+      }
+   }
 }

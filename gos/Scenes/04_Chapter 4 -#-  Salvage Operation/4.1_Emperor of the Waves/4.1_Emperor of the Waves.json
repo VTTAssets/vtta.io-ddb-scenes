@@ -1,5 +1,6 @@
 {
    "name": "Emperor of the Waves",
+   "code": "gos",
    "id": "scenes/gos-scene-4.1",
    "type": "scene",
    "entity": "Scene",
@@ -70,5 +71,12 @@
    "backgroundColor": "#ffffff",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 4: Salvage Operation"
+         ]
+      }
+   }
 }

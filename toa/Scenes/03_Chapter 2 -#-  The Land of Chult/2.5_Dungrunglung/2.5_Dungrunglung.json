@@ -1,5 +1,6 @@
 {
    "name": "Dungrunglung",
+   "code": "toa",
    "id": "scenes/toa-scene-2.5",
    "type": "scene",
    "entity": "Scene",
@@ -2218,5 +2219,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: The Land of Chult"
+         ]
+      }
+   }
 }

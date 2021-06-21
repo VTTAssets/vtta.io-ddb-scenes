@@ -1,5 +1,6 @@
 {
    "name": "Dumathoin’s Gulch",
+   "code": "dc",
    "id": "scenes/dc-scene-3",
    "type": "scene",
    "entity": "Scene",
@@ -38,5 +39,12 @@
    "backgroundColor": "#453b2e",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Dumathoin’s Gulch"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Elfsong Tavern",
+   "code": "bgdia",
    "id": "scenes/bgdia-scene-1.2",
    "type": "scene",
    "entity": "Scene",
@@ -1620,5 +1621,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 1: A Tale of Two Cities"
+         ]
+      }
+   }
 }

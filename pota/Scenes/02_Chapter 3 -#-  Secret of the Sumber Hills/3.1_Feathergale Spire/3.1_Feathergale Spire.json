@@ -1,5 +1,6 @@
 {
    "name": "Feathergale Spire",
+   "code": "pota",
    "id": "scenes/pota-scene-3.1",
    "type": "scene",
    "entity": "Scene",
@@ -66,5 +67,12 @@
    "backgroundColor": "#b2a98f",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 3: Secret of the Sumber Hills"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Main Floor",
+   "code": "cos",
    "id": "scenes/cos-scene-4.2",
    "type": "scene",
    "entity": "Scene",
@@ -102,5 +103,12 @@
    "backgroundColor": "#b2b5b8",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 4: Castle Ravenloft"
+         ]
+      }
+   }
 }

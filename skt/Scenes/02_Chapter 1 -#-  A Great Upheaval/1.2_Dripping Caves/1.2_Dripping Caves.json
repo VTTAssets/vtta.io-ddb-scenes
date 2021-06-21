@@ -1,5 +1,6 @@
 {
    "name": "Dripping Caves",
+   "code": "skt",
    "id": "scenes/skt-scene-1.2",
    "type": "scene",
    "entity": "Scene",
@@ -6564,5 +6565,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 1: A Great Upheaval"
+         ]
+      }
+   }
 }

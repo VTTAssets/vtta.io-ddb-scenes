@@ -1,5 +1,6 @@
 {
    "name": "Neverlight Grove",
+   "code": "oota",
    "id": "scenes/oota-scene-5.1",
    "type": "scene",
    "entity": "Scene",
@@ -42,5 +43,12 @@
    "backgroundColor": "#644e38",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 5: Neverlight Grove"
+         ]
+      }
+   }
 }

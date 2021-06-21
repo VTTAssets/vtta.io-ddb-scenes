@@ -1,5 +1,6 @@
 {
    "name": "Temple of Asmodeus",
+   "code": "wdh",
    "id": "scenes/wdh-scene-6.2",
    "type": "scene",
    "entity": "Scene",
@@ -66,5 +67,12 @@
    "backgroundColor": "#f8f8f8",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Chapter 6: Hell of a Summer"
+         ]
+      }
+   }
 }

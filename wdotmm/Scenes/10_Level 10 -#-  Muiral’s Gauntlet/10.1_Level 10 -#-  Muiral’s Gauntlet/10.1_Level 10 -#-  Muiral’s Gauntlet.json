@@ -1,5 +1,6 @@
 {
    "name": "Level 10: Muiral’s Gauntlet",
+   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-10.1",
    "type": "scene",
    "entity": "Scene",
@@ -66,5 +67,12 @@
    "backgroundColor": "#fefefe",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "10 Level 10: Muiral’s Gauntlet"
+         ]
+      }
+   }
 }

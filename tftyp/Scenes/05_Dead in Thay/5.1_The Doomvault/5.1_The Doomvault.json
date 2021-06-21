@@ -1,5 +1,6 @@
 {
    "name": "The Doomvault",
+   "code": "tftyp",
    "id": "scenes/tftyp-scene-5.1",
    "type": "scene",
    "entity": "Scene",
@@ -447,5 +448,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Dead in Thay"
+         ]
+      }
+   }
 }

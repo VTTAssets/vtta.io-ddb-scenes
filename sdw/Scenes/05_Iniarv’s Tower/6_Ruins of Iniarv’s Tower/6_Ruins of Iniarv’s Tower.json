@@ -1,5 +1,6 @@
 {
    "name": "Ruins of Iniarv’s Tower",
+   "code": "sdw",
    "id": "scenes/sdw-scene-6",
    "type": "scene",
    "entity": "Scene",
@@ -1538,5 +1539,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Iniarv’s Tower"
+         ]
+      }
+   }
 }

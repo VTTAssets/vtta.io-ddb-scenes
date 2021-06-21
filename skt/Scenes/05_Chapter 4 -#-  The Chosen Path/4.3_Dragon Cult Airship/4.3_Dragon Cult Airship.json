@@ -1,5 +1,6 @@
 {
    "name": "Dragon Cult Airship",
+   "code": "skt",
    "id": "scenes/skt-scene-4.3",
    "type": "scene",
    "entity": "Scene",
@@ -908,5 +909,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 4: The Chosen Path"
+         ]
+      }
+   }
 }

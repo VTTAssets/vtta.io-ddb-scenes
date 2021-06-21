@@ -1,5 +1,6 @@
 {
    "name": "Elven Tomb",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.15",
    "type": "scene",
    "entity": "Scene",
@@ -57,5 +58,12 @@
    "backgroundColor": "#62717f",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Lonelywood"
+         ]
+      }
+   }
 }

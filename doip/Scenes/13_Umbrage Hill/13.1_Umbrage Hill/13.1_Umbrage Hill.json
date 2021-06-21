@@ -1,5 +1,6 @@
 {
    "name": "Umbrage Hill",
+   "code": "doip",
    "id": "scenes/doip-scene-13.1",
    "type": "scene",
    "entity": "Scene",
@@ -751,5 +752,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Umbrage Hill"
+         ]
+      }
+   }
 }

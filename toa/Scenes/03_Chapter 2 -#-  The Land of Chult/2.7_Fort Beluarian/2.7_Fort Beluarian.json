@@ -1,5 +1,6 @@
 {
    "name": "Fort Beluarian",
+   "code": "toa",
    "id": "scenes/toa-scene-2.7",
    "type": "scene",
    "entity": "Scene",
@@ -29,5 +30,12 @@
    "backgroundColor": "#787062",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: The Land of Chult"
+         ]
+      }
+   }
 }

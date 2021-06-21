@@ -1,5 +1,6 @@
 {
    "name": "Lizardfolk Lair",
+   "code": "gos",
    "id": "scenes/gos-scene-3.1",
    "type": "scene",
    "entity": "Scene",
@@ -230,5 +231,12 @@
    "backgroundColor": "#fbfbfc",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 3: Danger at Dunwater"
+         ]
+      }
+   }
 }

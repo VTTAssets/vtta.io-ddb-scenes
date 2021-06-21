@@ -1,5 +1,6 @@
 {
    "name": "Argynvostholt (Area Q): Upper Levels",
+   "code": "cos",
    "id": "scenes/cos-scene-7.2",
    "type": "scene",
    "entity": "Scene",
@@ -2977,5 +2978,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Chapter 7: Argynvostholt"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Icingdeath and Twinkle",
+   "code": "dc",
    "id": "scenes/dc-scene-5",
    "type": "scene",
    "entity": "Scene",
@@ -2004,5 +2005,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Icingdeath and Twinkle"
+         ]
+      }
+   }
 }

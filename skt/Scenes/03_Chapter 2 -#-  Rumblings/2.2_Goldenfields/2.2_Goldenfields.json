@@ -1,5 +1,6 @@
 {
    "name": "Goldenfields",
+   "code": "skt",
    "id": "scenes/skt-scene-2.2",
    "type": "scene",
    "entity": "Scene",
@@ -286,5 +287,12 @@
    "backgroundColor": "#6f4e2b",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: Rumblings"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Extradimensional Sanctum",
+   "code": "wdh",
    "id": "scenes/wdh-scene-8.2",
    "type": "scene",
    "entity": "Scene",
@@ -74,5 +75,12 @@
    "backgroundColor": "#fcfcfc",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Chapter 8: Winter Wizardry"
+         ]
+      }
+   }
 }

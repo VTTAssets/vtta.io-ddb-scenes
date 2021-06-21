@@ -1,5 +1,6 @@
 {
    "name": "Werewolf Den (Area Z)",
+   "code": "cos",
    "id": "scenes/cos-scene-15.1",
    "type": "scene",
    "entity": "Scene",
@@ -3018,5 +3019,12 @@
          "y": 4070
       }
    ],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "16 Chapter 15: Werewolf Den"
+         ]
+      }
+   }
 }

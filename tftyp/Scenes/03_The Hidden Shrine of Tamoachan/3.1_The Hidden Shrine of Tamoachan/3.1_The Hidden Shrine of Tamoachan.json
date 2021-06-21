@@ -1,5 +1,6 @@
 {
    "name": "The Hidden Shrine of Tamoachan",
+   "code": "tftyp",
    "id": "scenes/tftyp-scene-3.1",
    "type": "scene",
    "entity": "Scene",
@@ -10298,5 +10299,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 The Hidden Shrine of Tamoachan"
+         ]
+      }
+   }
 }

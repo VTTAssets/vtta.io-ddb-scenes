@@ -1,5 +1,6 @@
 {
    "name": "Yester Hill (Area Y)",
+   "code": "cos",
    "id": "scenes/cos-scene-14.1",
    "type": "scene",
    "entity": "Scene",
@@ -83,5 +84,12 @@
    "backgroundColor": "#7d8379",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "15 Chapter 14: Yester Hill"
+         ]
+      }
+   }
 }

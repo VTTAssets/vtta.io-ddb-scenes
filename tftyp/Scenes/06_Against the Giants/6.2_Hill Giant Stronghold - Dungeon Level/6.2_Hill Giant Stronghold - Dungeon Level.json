@@ -1,5 +1,6 @@
 {
    "name": "Hill Giant Stronghold - Dungeon Level",
+   "code": "tftyp",
    "id": "scenes/tftyp-scene-6.2",
    "type": "scene",
    "entity": "Scene",
@@ -155,5 +156,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Against the Giants"
+         ]
+      }
+   }
 }

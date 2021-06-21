@@ -1,5 +1,6 @@
 {
    "name": "Baba Lysaga’s Creeping Hut",
+   "code": "cos",
    "id": "scenes/cos-scene-10.2",
    "type": "scene",
    "entity": "Scene",
@@ -67,5 +68,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "11 Chapter 10: The Ruins of Berez"
+         ]
+      }
+   }
 }

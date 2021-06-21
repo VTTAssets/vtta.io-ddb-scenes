@@ -1,5 +1,6 @@
 {
    "name": "Tser Pool Encampment",
+   "code": "cos",
    "id": "scenes/cos-scene-2.2",
    "type": "scene",
    "entity": "Scene",
@@ -614,5 +615,12 @@
          "y": 1072
       }
    ],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: The Lands of Barovia"
+         ]
+      }
+   }
 }

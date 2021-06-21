@@ -1,5 +1,6 @@
 {
    "name": "The Plunging Torrents",
+   "code": "pota",
    "id": "scenes/pota-scene-5.3",
    "type": "scene",
    "entity": "Scene",
@@ -102,5 +103,12 @@
    "backgroundColor": "#5d625f",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 5: Temple of the Elder Elemental Eye"
+         ]
+      }
+   }
 }

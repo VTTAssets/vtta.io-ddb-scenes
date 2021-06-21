@@ -1,5 +1,6 @@
 {
    "name": "Level 15: Obstacle Course",
+   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-15.1",
    "type": "scene",
    "entity": "Scene",
@@ -306,5 +307,12 @@
    "backgroundColor": "#fefefe",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "15 Level 15: Obstacle Course"
+         ]
+      }
+   }
 }

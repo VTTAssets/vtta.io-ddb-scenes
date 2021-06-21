@@ -1,5 +1,6 @@
 {
    "name": "Level 12: Maze Level",
+   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-12.1",
    "type": "scene",
    "entity": "Scene",
@@ -38,5 +39,12 @@
    "backgroundColor": "#ffffff",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "12 Level 12: Maze Level"
+         ]
+      }
+   }
 }

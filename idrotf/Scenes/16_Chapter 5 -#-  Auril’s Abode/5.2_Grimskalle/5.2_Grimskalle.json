@@ -1,5 +1,6 @@
 {
    "name": "Grimskalle",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-5.2",
    "type": "scene",
    "entity": "Scene",
@@ -113,5 +114,12 @@
    "backgroundColor": "#9cb1c0",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "16 Chapter 5: Auril’s Abode"
+         ]
+      }
+   }
 }

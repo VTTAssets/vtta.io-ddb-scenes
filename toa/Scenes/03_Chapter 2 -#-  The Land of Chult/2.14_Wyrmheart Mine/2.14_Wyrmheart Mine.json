@@ -1,5 +1,6 @@
 {
    "name": "Wyrmheart Mine",
+   "code": "toa",
    "id": "scenes/toa-scene-2.14",
    "type": "scene",
    "entity": "Scene",
@@ -3457,5 +3458,12 @@
          "y": 2225
       }
    ],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: The Land of Chult"
+         ]
+      }
+   }
 }

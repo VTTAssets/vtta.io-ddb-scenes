@@ -1,5 +1,6 @@
 {
    "name": "Easthaven",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.9",
    "type": "scene",
    "entity": "Scene",
@@ -49,5 +50,12 @@
    "backgroundColor": "#babab8",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Easthaven"
+         ]
+      }
+   }
 }

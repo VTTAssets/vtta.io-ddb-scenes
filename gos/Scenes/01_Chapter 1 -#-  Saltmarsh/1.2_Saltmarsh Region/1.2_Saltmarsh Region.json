@@ -1,5 +1,6 @@
 {
    "name": "Saltmarsh Region",
+   "code": "gos",
    "id": "scenes/gos-scene-1.2",
    "type": "scene",
    "entity": "Scene",
@@ -139,5 +140,12 @@
    "backgroundColor": "#d1dbe6",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "01 Chapter 1: Saltmarsh"
+         ]
+      }
+   }
 }

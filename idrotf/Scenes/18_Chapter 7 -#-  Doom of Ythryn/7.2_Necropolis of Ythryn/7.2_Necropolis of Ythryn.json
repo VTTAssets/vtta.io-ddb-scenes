@@ -1,5 +1,6 @@
 {
    "name": "Necropolis of Ythryn",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-7.2",
    "type": "scene",
    "entity": "Scene",
@@ -93,5 +94,12 @@
    "backgroundColor": "#7698b1",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "18 Chapter 7: Doom of Ythryn"
+         ]
+      }
+   }
 }

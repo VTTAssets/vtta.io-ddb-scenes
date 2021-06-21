@@ -1,5 +1,6 @@
 {
    "name": "Boiling Lake",
+   "code": "tftyp",
    "id": "scenes/tftyp-scene-4.4",
    "type": "scene",
    "entity": "Scene",
@@ -18,5 +19,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 White Plume Mountain"
+         ]
+      }
+   }
 }

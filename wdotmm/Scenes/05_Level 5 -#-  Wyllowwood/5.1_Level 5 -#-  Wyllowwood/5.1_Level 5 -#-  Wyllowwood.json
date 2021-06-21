@@ -1,5 +1,6 @@
 {
    "name": "Level 5: Wyllowwood",
+   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-5.1",
    "type": "scene",
    "entity": "Scene",
@@ -14470,5 +14471,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Level 5: Wyllowwood"
+         ]
+      }
+   }
 }

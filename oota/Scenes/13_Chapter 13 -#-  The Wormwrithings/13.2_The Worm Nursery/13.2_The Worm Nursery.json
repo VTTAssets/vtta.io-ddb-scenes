@@ -1,5 +1,6 @@
 {
    "name": "The Worm Nursery",
+   "code": "oota",
    "id": "scenes/oota-scene-13.2",
    "type": "scene",
    "entity": "Scene",
@@ -71,5 +72,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 13: The Wormwrithings"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Falcon’s Hunting Lodge",
+   "code": "doip",
    "id": "scenes/doip-scene-6.1",
    "type": "scene",
    "entity": "Scene",
@@ -3454,5 +3455,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Falcon’s Hunting Lodge"
+         ]
+      }
+   }
 }

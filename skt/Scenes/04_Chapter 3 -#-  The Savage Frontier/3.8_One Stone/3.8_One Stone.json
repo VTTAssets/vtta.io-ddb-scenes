@@ -1,5 +1,6 @@
 {
    "name": "One Stone",
+   "code": "skt",
    "id": "scenes/skt-scene-3.8",
    "type": "scene",
    "entity": "Scene",
@@ -21,5 +22,12 @@
    "backgroundColor": "#685144",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 3: The Savage Frontier"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Ataaz Muhahah",
+   "code": "toa",
    "id": "scenes/toa-scene-2.2",
    "type": "scene",
    "entity": "Scene",
@@ -20,5 +21,12 @@
    "backgroundColor": "#7c7564",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: The Land of Chult"
+         ]
+      }
+   }
 }

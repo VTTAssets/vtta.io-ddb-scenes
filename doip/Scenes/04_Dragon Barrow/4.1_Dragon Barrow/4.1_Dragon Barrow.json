@@ -1,5 +1,6 @@
 {
    "name": "Dragon Barrow",
+   "code": "doip",
    "id": "scenes/doip-scene-4.1",
    "type": "scene",
    "entity": "Scene",
@@ -51,5 +52,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Dragon Barrow"
+         ]
+      }
+   }
 }

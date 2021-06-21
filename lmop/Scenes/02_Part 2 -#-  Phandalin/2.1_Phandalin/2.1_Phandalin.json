@@ -1,5 +1,6 @@
 {
    "name": "Phandalin",
+   "code": "lmop",
    "id": "scenes/lmop-scene-2.1",
    "type": "scene",
    "entity": "Scene",
@@ -112,5 +113,12 @@
    "backgroundColor": "#6c7062",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Part 2: Phandalin"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Wayside Inn",
+   "code": "slw",
    "id": "scenes/slw-scene-2",
    "type": "scene",
    "entity": "Scene",
@@ -1275,5 +1276,12 @@
          "y": 1548
       }
    ],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Attack on the Wayside Inn"
+         ]
+      }
+   }
 }

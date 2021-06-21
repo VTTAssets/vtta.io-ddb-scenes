@@ -1,5 +1,6 @@
 {
    "name": "Tower of Storms",
+   "code": "doip",
    "id": "scenes/doip-scene-12.1",
    "type": "scene",
    "entity": "Scene",
@@ -955,5 +956,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "12 Tower of Storms"
+         ]
+      }
+   }
 }

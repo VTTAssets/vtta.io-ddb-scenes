@@ -1,5 +1,6 @@
 {
    "name": "Bryn Shander",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.2",
    "type": "scene",
    "entity": "Scene",
@@ -49,5 +50,12 @@
    "backgroundColor": "#b8b8b5",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Bryn Shander"
+         ]
+      }
+   }
 }

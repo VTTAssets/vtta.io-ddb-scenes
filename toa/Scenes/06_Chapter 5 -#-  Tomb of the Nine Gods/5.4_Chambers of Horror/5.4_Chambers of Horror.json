@@ -1,5 +1,6 @@
 {
    "name": "Chambers of Horror",
+   "code": "toa",
    "id": "scenes/toa-scene-5.4",
    "type": "scene",
    "entity": "Scene",
@@ -73,5 +74,12 @@
    "backgroundColor": "#5e584b",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 5: Tomb of the Nine Gods"
+         ]
+      }
+   }
 }

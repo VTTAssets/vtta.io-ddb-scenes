@@ -1,5 +1,6 @@
 {
    "name": "Maelstrom, Levels 1 and 2",
+   "code": "skt",
    "id": "scenes/skt-scene-10.1",
    "type": "scene",
    "entity": "Scene",
@@ -138,5 +139,12 @@
    "backgroundColor": "#2e3448",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "11 Chapter 10: Hold of the Storm Giants"
+         ]
+      }
+   }
 }

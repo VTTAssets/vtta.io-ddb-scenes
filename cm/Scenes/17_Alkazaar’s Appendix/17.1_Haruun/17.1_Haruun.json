@@ -1,5 +1,6 @@
 {
    "name": "Haruun",
+   "code": "cm",
    "id": "scenes/cm-scene-17.1",
    "type": "scene",
    "entity": "Scene",
@@ -18,5 +19,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "17 Alkazaar’s Appendix"
+         ]
+      }
+   }
 }

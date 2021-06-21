@@ -1,5 +1,6 @@
 {
    "name": "Kir Sabal",
+   "code": "toa",
    "id": "scenes/toa-scene-2.11",
    "type": "scene",
    "entity": "Scene",
@@ -41,5 +42,12 @@
    "backgroundColor": "#726b5a",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: The Land of Chult"
+         ]
+      }
+   }
 }

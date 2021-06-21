@@ -1,5 +1,6 @@
 {
    "name": "Amber Temple (Area X) - Upper Level",
+   "code": "cos",
    "id": "scenes/cos-scene-13.1",
    "type": "scene",
    "entity": "Scene",
@@ -3717,5 +3718,12 @@
          "y": 2546
       }
    ],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "14 Chapter 13: The Amber Temple"
+         ]
+      }
+   }
 }

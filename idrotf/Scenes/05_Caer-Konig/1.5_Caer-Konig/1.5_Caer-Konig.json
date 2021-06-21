@@ -1,5 +1,6 @@
 {
    "name": "Caer-Konig",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.5",
    "type": "scene",
    "entity": "Scene",
@@ -49,5 +50,12 @@
    "backgroundColor": "#acaca8",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Caer-Konig"
+         ]
+      }
+   }
 }

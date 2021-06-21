@@ -1,5 +1,6 @@
 {
    "name": "Angajuk's Bell",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-2.2",
    "type": "scene",
    "entity": "Scene",
@@ -37,5 +38,12 @@
    "backgroundColor": "#adbbc6",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 2: Places of Interest"
+         ]
+      }
+   }
 }

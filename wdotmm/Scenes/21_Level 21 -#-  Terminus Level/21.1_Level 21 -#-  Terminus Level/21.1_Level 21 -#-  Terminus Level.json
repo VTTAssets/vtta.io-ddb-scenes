@@ -1,5 +1,6 @@
 {
    "name": "Level 21: Terminus Level",
+   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-21.1",
    "type": "scene",
    "entity": "Scene",
@@ -262,5 +263,12 @@
    "backgroundColor": "#ffffff",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "21 Level 21: Terminus Level"
+         ]
+      }
+   }
 }

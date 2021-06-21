@@ -1,5 +1,6 @@
 {
    "name": "Kolat Towers",
+   "code": "wdh",
    "id": "scenes/wdh-scene-8.1",
    "type": "scene",
    "entity": "Scene",
@@ -109,5 +110,12 @@
    "backgroundColor": "#ffffff",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Chapter 8: Winter Wizardry"
+         ]
+      }
+   }
 }

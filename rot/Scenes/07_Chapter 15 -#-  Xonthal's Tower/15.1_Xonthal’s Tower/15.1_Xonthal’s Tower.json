@@ -1,5 +1,6 @@
 {
    "name": "Xonthal’s Tower",
+   "code": "rot",
    "id": "scenes/rot-scene-15.1",
    "type": "scene",
    "entity": "Scene",
@@ -114,5 +115,12 @@
    "backgroundColor": "#957866",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Chapter 15: Xonthal's Tower"
+         ]
+      }
+   }
 }

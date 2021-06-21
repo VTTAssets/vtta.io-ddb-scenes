@@ -1,5 +1,6 @@
 {
    "name": "Nine Shrines of Omu",
+   "code": "toa",
    "id": "scenes/toa-scene-3.2",
    "type": "scene",
    "entity": "Scene",
@@ -4396,5 +4397,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 3: Dwellers of the Forbidden City"
+         ]
+      }
+   }
 }

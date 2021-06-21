@@ -1,5 +1,6 @@
 {
    "name": "Level 14: Arcturiadoom",
+   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-14.1",
    "type": "scene",
    "entity": "Scene",
@@ -310,5 +311,12 @@
    "backgroundColor": "#fefefe",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "14 Level 14: Arcturiadoom"
+         ]
+      }
+   }
 }

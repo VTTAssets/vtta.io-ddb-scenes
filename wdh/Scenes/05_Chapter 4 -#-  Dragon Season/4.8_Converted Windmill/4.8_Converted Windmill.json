@@ -1,5 +1,6 @@
 {
    "name": "Converted Windmill",
+   "code": "wdh",
    "id": "scenes/wdh-scene-4.8",
    "type": "scene",
    "entity": "Scene",
@@ -34,5 +35,12 @@
    "backgroundColor": "#fbfbfb",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 4: Dragon Season"
+         ]
+      }
+   }
 }

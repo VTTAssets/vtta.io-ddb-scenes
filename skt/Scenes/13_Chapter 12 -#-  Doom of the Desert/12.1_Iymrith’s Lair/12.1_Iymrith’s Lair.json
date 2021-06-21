@@ -1,5 +1,6 @@
 {
    "name": "Iymrith’s Lair",
+   "code": "skt",
    "id": "scenes/skt-scene-12.1",
    "type": "scene",
    "entity": "Scene",
@@ -42,5 +43,12 @@
    "backgroundColor": "#000000",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 12: Doom of the Desert"
+         ]
+      }
+   }
 }

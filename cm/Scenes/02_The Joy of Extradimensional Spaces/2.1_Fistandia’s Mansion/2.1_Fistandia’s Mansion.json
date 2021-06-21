@@ -1,5 +1,6 @@
 {
    "name": "Fistandia’s Mansion",
+   "code": "cm",
    "id": "scenes/cm-scene-2.1",
    "type": "scene",
    "entity": "Scene",
@@ -95,5 +96,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 The Joy of Extradimensional Spaces"
+         ]
+      }
+   }
 }

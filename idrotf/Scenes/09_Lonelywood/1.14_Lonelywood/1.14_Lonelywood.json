@@ -1,5 +1,6 @@
 {
    "name": "Lonelywood",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.14",
    "type": "scene",
    "entity": "Scene",
@@ -33,5 +34,12 @@
    "backgroundColor": "#b0b0ad",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Lonelywood"
+         ]
+      }
+   }
 }

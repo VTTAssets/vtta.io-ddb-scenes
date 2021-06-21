@@ -1,5 +1,6 @@
 {
    "name": "Level 8: Slitherswamp",
+   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-8.1",
    "type": "scene",
    "entity": "Scene",
@@ -230,5 +231,12 @@
    "backgroundColor": "#fefefe",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Level 8: Slitherswamp"
+         ]
+      }
+   }
 }

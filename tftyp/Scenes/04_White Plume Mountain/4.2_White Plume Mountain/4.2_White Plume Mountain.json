@@ -1,5 +1,6 @@
 {
    "name": "White Plume Mountain",
+   "code": "tftyp",
    "id": "scenes/tftyp-scene-4.2",
    "type": "scene",
    "entity": "Scene",
@@ -130,5 +131,12 @@
    "backgroundColor": "#000000",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 White Plume Mountain"
+         ]
+      }
+   }
 }

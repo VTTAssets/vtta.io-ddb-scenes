@@ -1,5 +1,6 @@
 {
    "name": "Zikran’s Laboratory",
+   "code": "cm",
    "id": "scenes/cm-scene-12.1",
    "type": "scene",
    "entity": "Scene",
@@ -39,5 +40,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "12 Zikran’s Zephyrean Tome"
+         ]
+      }
+   }
 }

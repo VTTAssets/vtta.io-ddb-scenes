@@ -1,5 +1,6 @@
 {
    "name": "Verbeeg Lair",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.13",
    "type": "scene",
    "entity": "Scene",
@@ -61,5 +62,12 @@
    "backgroundColor": "#5c707a",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Good Mead"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Shrine of the Tender Oath",
+   "code": "pota",
    "id": "scenes/pota-scene-6.7",
    "type": "scene",
    "entity": "Scene",
@@ -50,5 +51,12 @@
    "backgroundColor": "#c3b389",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 6: Alarums and Excursions"
+         ]
+      }
+   }
 }

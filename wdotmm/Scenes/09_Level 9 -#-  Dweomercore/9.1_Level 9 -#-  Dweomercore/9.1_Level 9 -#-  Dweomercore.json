@@ -1,5 +1,6 @@
 {
    "name": "Level 9: Dweomercore",
+   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-9.1",
    "type": "scene",
    "entity": "Scene",
@@ -358,5 +359,12 @@
    "backgroundColor": "#ffffff",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Level 9: Dweomercore"
+         ]
+      }
+   }
 }

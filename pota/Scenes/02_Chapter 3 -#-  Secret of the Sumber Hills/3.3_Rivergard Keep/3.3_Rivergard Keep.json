@@ -1,5 +1,6 @@
 {
    "name": "Rivergard Keep",
+   "code": "pota",
    "id": "scenes/pota-scene-3.3",
    "type": "scene",
    "entity": "Scene",
@@ -110,5 +111,12 @@
    "backgroundColor": "#aca28d",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 3: Secret of the Sumber Hills"
+         ]
+      }
+   }
 }

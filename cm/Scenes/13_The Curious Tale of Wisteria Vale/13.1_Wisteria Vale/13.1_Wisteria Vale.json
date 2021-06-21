@@ -1,5 +1,6 @@
 {
    "name": "Wisteria Vale",
+   "code": "cm",
    "id": "scenes/cm-scene-13.1",
    "type": "scene",
    "entity": "Scene",
@@ -43,5 +44,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 The Curious Tale of Wisteria Vale"
+         ]
+      }
+   }
 }

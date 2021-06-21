@@ -1,5 +1,6 @@
 {
    "name": "Red Larch",
+   "code": "pota",
    "id": "scenes/pota-scene-2.1",
    "type": "scene",
    "entity": "Scene",
@@ -110,5 +111,12 @@
    "backgroundColor": "#bfb7a1",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "01 Chapter 2: The Dessarin Valley"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Svardborg Lodges",
+   "code": "skt",
    "id": "scenes/skt-scene-7.2",
    "type": "scene",
    "entity": "Scene",
@@ -55,5 +56,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Chapter 7: Berg of the Frost Giants"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Leilon Under Construction",
+   "code": "slw",
    "id": "scenes/slw-scene-3",
    "type": "scene",
    "entity": "Scene",
@@ -58,5 +59,12 @@
    "backgroundColor": "#80817b",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "01 Welcome to Leilon"
+         ]
+      }
+   }
 }

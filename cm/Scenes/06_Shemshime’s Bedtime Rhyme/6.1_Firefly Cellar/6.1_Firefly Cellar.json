@@ -1,5 +1,6 @@
 {
    "name": "Firefly Cellar",
+   "code": "cm",
    "id": "scenes/cm-scene-6.1",
    "type": "scene",
    "entity": "Scene",
@@ -75,5 +76,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Shemshime’s Bedtime Rhyme"
+         ]
+      }
+   }
 }

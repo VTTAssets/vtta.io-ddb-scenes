@@ -1,5 +1,6 @@
 {
    "name": "Amber Temple (Area X) - Lower Level",
+   "code": "cos",
    "id": "scenes/cos-scene-13.2",
    "type": "scene",
    "entity": "Scene",
@@ -3304,5 +3305,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "14 Chapter 13: The Amber Temple"
+         ]
+      }
+   }
 }

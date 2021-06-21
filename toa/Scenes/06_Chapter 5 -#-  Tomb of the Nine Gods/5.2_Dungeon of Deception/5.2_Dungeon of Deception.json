@@ -1,5 +1,6 @@
 {
    "name": "Dungeon of Deception",
+   "code": "toa",
    "id": "scenes/toa-scene-5.2",
    "type": "scene",
    "entity": "Scene",
@@ -65,5 +66,12 @@
    "backgroundColor": "#5a554a",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 5: Tomb of the Nine Gods"
+         ]
+      }
+   }
 }

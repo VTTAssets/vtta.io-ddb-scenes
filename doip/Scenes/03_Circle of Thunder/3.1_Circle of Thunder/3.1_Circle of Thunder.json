@@ -1,5 +1,6 @@
 {
    "name": "Circle of Thunder",
+   "code": "doip",
    "id": "scenes/doip-scene-3.1",
    "type": "scene",
    "entity": "Scene",
@@ -2035,5 +2036,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Circle of Thunder"
+         ]
+      }
+   }
 }

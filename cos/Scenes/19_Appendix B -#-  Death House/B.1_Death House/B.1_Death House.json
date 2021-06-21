@@ -1,5 +1,6 @@
 {
    "name": "Death House",
+   "code": "cos",
    "id": "scenes/cos-scene-B.1",
    "type": "scene",
    "entity": "Scene",
@@ -5700,5 +5701,12 @@
          "y": 3547
       }
    ],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "19 Appendix B: Death House"
+         ]
+      }
+   }
 }

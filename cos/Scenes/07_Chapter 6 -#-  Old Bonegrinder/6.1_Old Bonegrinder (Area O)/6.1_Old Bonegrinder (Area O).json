@@ -1,5 +1,6 @@
 {
    "name": "Old Bonegrinder (Area O)",
+   "code": "cos",
    "id": "scenes/cos-scene-6.1",
    "type": "scene",
    "entity": "Scene",
@@ -723,5 +724,12 @@
          "y": 1275
       }
    ],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Chapter 6: Old Bonegrinder"
+         ]
+      }
+   }
 }

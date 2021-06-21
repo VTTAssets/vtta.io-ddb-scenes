@@ -1,5 +1,6 @@
 {
    "name": "Howling Caves",
+   "code": "pota",
    "id": "scenes/pota-scene-5.2",
    "type": "scene",
    "entity": "Scene",
@@ -98,5 +99,12 @@
    "backgroundColor": "#817f7b",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 5: Temple of the Elder Elemental Eye"
+         ]
+      }
+   }
 }

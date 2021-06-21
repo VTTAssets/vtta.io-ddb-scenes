@@ -1,5 +1,6 @@
 {
    "name": "The Dessarin Valley",
+   "code": "pota",
    "id": "scenes/pota-scene-2.2",
    "type": "scene",
    "entity": "Scene",
@@ -117,5 +118,12 @@
    "backgroundColor": "#aaa78e",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "01 Chapter 2: The Dessarin Valley"
+         ]
+      }
+   }
 }

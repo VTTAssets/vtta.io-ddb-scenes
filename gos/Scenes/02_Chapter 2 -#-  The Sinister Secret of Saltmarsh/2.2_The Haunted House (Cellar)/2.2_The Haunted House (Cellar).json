@@ -1,5 +1,6 @@
 {
    "name": "The Haunted House (Cellar)",
+   "code": "gos",
    "id": "scenes/gos-scene-2.2",
    "type": "scene",
    "entity": "Scene",
@@ -1418,5 +1419,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 2: The Sinister Secret of Saltmarsh"
+         ]
+      }
+   }
 }

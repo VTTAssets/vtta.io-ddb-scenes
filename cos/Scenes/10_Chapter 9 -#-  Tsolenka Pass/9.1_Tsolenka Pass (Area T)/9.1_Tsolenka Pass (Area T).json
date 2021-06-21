@@ -1,5 +1,6 @@
 {
    "name": "Tsolenka Pass (Area T)",
+   "code": "cos",
    "id": "scenes/cos-scene-9.1",
    "type": "scene",
    "entity": "Scene",
@@ -899,5 +900,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "10 Chapter 9: Tsolenka Pass"
+         ]
+      }
+   }
 }

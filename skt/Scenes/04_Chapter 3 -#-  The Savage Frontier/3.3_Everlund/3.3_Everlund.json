@@ -1,5 +1,6 @@
 {
    "name": "Everlund",
+   "code": "skt",
    "id": "scenes/skt-scene-3.3",
    "type": "scene",
    "entity": "Scene",
@@ -21,5 +22,12 @@
    "backgroundColor": "#3e2b1b",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 3: The Savage Frontier"
+         ]
+      }
+   }
 }

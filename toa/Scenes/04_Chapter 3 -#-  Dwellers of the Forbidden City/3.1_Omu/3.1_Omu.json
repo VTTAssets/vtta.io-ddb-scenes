@@ -1,5 +1,6 @@
 {
    "name": "Omu",
+   "code": "toa",
    "id": "scenes/toa-scene-3.1",
    "type": "scene",
    "entity": "Scene",
@@ -209,5 +210,12 @@
    "backgroundColor": "#7a7460",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 3: Dwellers of the Forbidden City"
+         ]
+      }
+   }
 }

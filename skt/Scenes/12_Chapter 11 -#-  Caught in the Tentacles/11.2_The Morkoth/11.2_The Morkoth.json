@@ -1,5 +1,6 @@
 {
    "name": "The Morkoth",
+   "code": "skt",
    "id": "scenes/skt-scene-11.2",
    "type": "scene",
    "entity": "Scene",
@@ -50,5 +51,12 @@
    "backgroundColor": "#7e5d39",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "12 Chapter 11: Caught in the Tentacles"
+         ]
+      }
+   }
 }

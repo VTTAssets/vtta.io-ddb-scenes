@@ -1,5 +1,6 @@
 {
    "name": "Maelstrom, Level 3",
+   "code": "skt",
    "id": "scenes/skt-scene-10.2",
    "type": "scene",
    "entity": "Scene",
@@ -79,5 +80,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "11 Chapter 10: Hold of the Storm Giants"
+         ]
+      }
+   }
 }

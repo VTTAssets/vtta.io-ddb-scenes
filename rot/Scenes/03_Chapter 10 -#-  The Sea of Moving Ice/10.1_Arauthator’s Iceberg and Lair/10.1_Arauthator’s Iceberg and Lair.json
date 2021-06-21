@@ -1,5 +1,6 @@
 {
    "name": "Arauthator’s Iceberg and Lair",
+   "code": "rot",
    "id": "scenes/rot-scene-10.1",
    "type": "scene",
    "entity": "Scene",
@@ -106,5 +107,12 @@
    "backgroundColor": "#685344",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 10: The Sea of Moving Ice"
+         ]
+      }
+   }
 }

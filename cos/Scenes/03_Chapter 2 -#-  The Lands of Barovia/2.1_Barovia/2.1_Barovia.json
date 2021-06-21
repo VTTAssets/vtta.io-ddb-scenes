@@ -1,5 +1,6 @@
 {
    "name": "Barovia",
+   "code": "cos",
    "id": "scenes/cos-scene-2.1",
    "type": "scene",
    "entity": "Scene",
@@ -280,5 +281,12 @@
    "backgroundColor": "#959783",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: The Lands of Barovia"
+         ]
+      }
+   }
 }

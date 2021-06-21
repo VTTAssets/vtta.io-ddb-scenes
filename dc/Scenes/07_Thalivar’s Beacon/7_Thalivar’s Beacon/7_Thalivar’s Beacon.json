@@ -1,5 +1,6 @@
 {
    "name": "Thalivar’s Beacon",
+   "code": "dc",
    "id": "scenes/dc-scene-7",
    "type": "scene",
    "entity": "Scene",
@@ -1182,5 +1183,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Thalivar’s Beacon"
+         ]
+      }
+   }
 }

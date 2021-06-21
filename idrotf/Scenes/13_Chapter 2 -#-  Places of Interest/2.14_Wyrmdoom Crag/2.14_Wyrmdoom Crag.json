@@ -1,5 +1,6 @@
 {
    "name": "Wyrmdoom Crag",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-2.14",
    "type": "scene",
    "entity": "Scene",
@@ -49,5 +50,12 @@
    "backgroundColor": "#a2afba",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 2: Places of Interest"
+         ]
+      }
+   }
 }

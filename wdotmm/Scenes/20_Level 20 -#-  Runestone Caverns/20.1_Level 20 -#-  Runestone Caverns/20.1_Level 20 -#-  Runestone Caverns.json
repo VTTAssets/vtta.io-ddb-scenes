@@ -1,5 +1,6 @@
 {
    "name": "Level 20: Runestone Caverns",
+   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-20.1",
    "type": "scene",
    "entity": "Scene",
@@ -222,5 +223,12 @@
    "backgroundColor": "#ffffff",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "20 Level 20: Runestone Caverns"
+         ]
+      }
+   }
 }

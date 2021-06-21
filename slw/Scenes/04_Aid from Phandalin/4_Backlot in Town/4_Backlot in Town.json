@@ -1,5 +1,6 @@
 {
    "name": "Backlot in Town",
+   "code": "slw",
    "id": "scenes/slw-scene-4",
    "type": "scene",
    "entity": "Scene",
@@ -21,5 +22,12 @@
    "backgroundColor": "#473d2b",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Aid from Phandalin"
+         ]
+      }
+   }
 }

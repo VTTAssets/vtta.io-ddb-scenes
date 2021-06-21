@@ -1,5 +1,6 @@
 {
    "name": "Spire of Iriolarthas",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-7.3",
    "type": "scene",
    "entity": "Scene",
@@ -201,5 +202,12 @@
    "backgroundColor": "#6e8290",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "18 Chapter 7: Doom of Ythryn"
+         ]
+      }
+   }
 }

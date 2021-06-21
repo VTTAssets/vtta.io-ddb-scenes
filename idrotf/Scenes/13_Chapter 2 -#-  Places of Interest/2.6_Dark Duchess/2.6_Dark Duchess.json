@@ -1,5 +1,6 @@
 {
    "name": "Dark Duchess",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-2.6",
    "type": "scene",
    "entity": "Scene",
@@ -69,5 +70,12 @@
    "backgroundColor": "#8a9ca8",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 2: Places of Interest"
+         ]
+      }
+   }
 }

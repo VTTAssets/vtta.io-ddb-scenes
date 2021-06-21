@@ -1,5 +1,6 @@
 {
    "name": "Temple of Eternal Flame",
+   "code": "pota",
    "id": "scenes/pota-scene-4.4",
    "type": "scene",
    "entity": "Scene",
@@ -138,5 +139,12 @@
    "backgroundColor": "#cebc93",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 4: Air, Earth, Fire, and Water"
+         ]
+      }
+   }
 }

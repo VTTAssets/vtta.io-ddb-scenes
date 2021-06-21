@@ -1,5 +1,6 @@
 {
    "name": "Rotten Halls",
+   "code": "toa",
    "id": "scenes/toa-scene-5.1",
    "type": "scene",
    "entity": "Scene",
@@ -89,5 +90,12 @@
    "backgroundColor": "#645e52",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 5: Tomb of the Nine Gods"
+         ]
+      }
+   }
 }

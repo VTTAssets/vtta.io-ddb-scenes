@@ -1,5 +1,6 @@
 {
    "name": "Dungeon of the Dead Three",
+   "code": "bgdia",
    "id": "scenes/bgdia-scene-1.3",
    "type": "scene",
    "entity": "Scene",
@@ -7068,5 +7069,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 1: A Tale of Two Cities"
+         ]
+      }
+   }
 }

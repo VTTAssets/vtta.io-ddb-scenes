@@ -1,5 +1,6 @@
 {
    "name": "Wreck of the Star Goddess",
+   "code": "toa",
    "id": "scenes/toa-scene-2.13",
    "type": "scene",
    "entity": "Scene",
@@ -18,5 +19,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: The Land of Chult"
+         ]
+      }
+   }
 }

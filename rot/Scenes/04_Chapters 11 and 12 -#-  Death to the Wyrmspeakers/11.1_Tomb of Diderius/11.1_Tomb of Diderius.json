@@ -1,5 +1,6 @@
 {
    "name": "Tomb of Diderius",
+   "code": "rot",
    "id": "scenes/rot-scene-11.1",
    "type": "scene",
    "entity": "Scene",
@@ -110,5 +111,12 @@
    "backgroundColor": "#86705e",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapters 11 and 12: Death to the Wyrmspeakers"
+         ]
+      }
+   }
 }

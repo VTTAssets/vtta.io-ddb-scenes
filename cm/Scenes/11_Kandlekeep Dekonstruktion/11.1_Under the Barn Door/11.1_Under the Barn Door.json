@@ -1,5 +1,6 @@
 {
    "name": "Under the Barn Door",
+   "code": "cm",
    "id": "scenes/cm-scene-11.1",
    "type": "scene",
    "entity": "Scene",
@@ -18,5 +19,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "11 Kandlekeep Dekonstruktion"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Merchant Prince’s Villa",
+   "code": "toa",
    "id": "scenes/toa-scene-1.2",
    "type": "scene",
    "entity": "Scene",
@@ -85,5 +86,12 @@
    "backgroundColor": "#7a7361",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 1: Port Nyanzaru"
+         ]
+      }
+   }
 }

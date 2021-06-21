@@ -1,5 +1,6 @@
 {
    "name": "Fortress Level",
+   "code": "tftyp",
    "id": "scenes/tftyp-scene-1.1",
    "type": "scene",
    "entity": "Scene",
@@ -3842,5 +3843,12 @@
          "y": 5650
       }
    ],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "01 The Sunless Citadel"
+         ]
+      }
+   }
 }

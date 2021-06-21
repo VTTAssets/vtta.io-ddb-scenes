@@ -1,5 +1,6 @@
 {
    "name": "Temple of Howling Hatred",
+   "code": "pota",
    "id": "scenes/pota-scene-4.1",
    "type": "scene",
    "entity": "Scene",
@@ -102,5 +103,12 @@
    "backgroundColor": "#c7b68d",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 4: Air, Earth, Fire, and Water"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Warthalkeel Ruins",
+   "code": "gos",
    "id": "scenes/gos-scene-9.3",
    "type": "scene",
    "entity": "Scene",
@@ -49,5 +50,12 @@
    "backgroundColor": "#fbfcfc",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Appendix A: Of Ships and the Sea"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Loggers’ Camp",
+   "code": "doip",
    "id": "scenes/doip-scene-9.1",
    "type": "scene",
    "entity": "Scene",
@@ -2861,5 +2862,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Loggers’ Camp"
+         ]
+      }
+   }
 }

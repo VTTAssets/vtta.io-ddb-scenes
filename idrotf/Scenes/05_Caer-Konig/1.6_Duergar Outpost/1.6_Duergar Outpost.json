@@ -1,5 +1,6 @@
 {
    "name": "Duergar Outpost",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.6",
    "type": "scene",
    "entity": "Scene",
@@ -2636,5 +2637,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Caer-Konig"
+         ]
+      }
+   }
 }

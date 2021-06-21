@@ -1,5 +1,6 @@
 {
    "name": "Heart of Ubtao",
+   "code": "toa",
    "id": "scenes/toa-scene-2.8",
    "type": "scene",
    "entity": "Scene",
@@ -45,5 +46,12 @@
    "backgroundColor": "#847c69",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: The Land of Chult"
+         ]
+      }
+   }
 }

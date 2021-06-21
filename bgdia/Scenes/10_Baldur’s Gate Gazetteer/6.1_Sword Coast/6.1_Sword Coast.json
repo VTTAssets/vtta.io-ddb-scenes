@@ -1,5 +1,6 @@
 {
    "name": "Sword Coast",
+   "code": "bgdia",
    "id": "scenes/bgdia-scene-6.1",
    "type": "scene",
    "entity": "Scene",
@@ -31,5 +32,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "10 Baldur’s Gate Gazetteer"
+         ]
+      }
+   }
 }

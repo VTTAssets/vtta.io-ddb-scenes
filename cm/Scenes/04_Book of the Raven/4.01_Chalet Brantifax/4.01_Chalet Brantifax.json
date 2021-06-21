@@ -1,5 +1,6 @@
 {
    "name": "Chalet Brantifax",
+   "code": "cm",
    "id": "scenes/cm-scene-4.01",
    "type": "scene",
    "entity": "Scene",
@@ -87,5 +88,12 @@
       "distance": 5,
       "units": "ft"
    },
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Book of the Raven"
+         ]
+      }
+   }
 }

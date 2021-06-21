@@ -1,5 +1,6 @@
 {
    "name": "Tomb of Horrors",
+   "code": "tftyp",
    "id": "scenes/tftyp-scene-7.1",
    "type": "scene",
    "entity": "Scene",
@@ -5503,5 +5504,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Tomb of Horrors"
+         ]
+      }
+   }
 }

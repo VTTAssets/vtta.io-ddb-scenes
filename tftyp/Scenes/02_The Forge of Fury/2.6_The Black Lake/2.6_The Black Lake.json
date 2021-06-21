@@ -1,5 +1,6 @@
 {
    "name": "The Black Lake",
+   "code": "tftyp",
    "id": "scenes/tftyp-scene-2.6",
    "type": "scene",
    "entity": "Scene",
@@ -3437,5 +3438,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 The Forge of Fury"
+         ]
+      }
+   }
 }

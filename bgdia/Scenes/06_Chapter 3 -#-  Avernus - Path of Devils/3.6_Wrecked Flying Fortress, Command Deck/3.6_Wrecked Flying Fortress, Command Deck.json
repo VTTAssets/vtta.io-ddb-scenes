@@ -1,5 +1,6 @@
 {
    "name": "Wrecked Flying Fortress, Command Deck",
+   "code": "bgdia",
    "id": "scenes/bgdia-scene-3.6",
    "type": "scene",
    "entity": "Scene",
@@ -54,5 +55,12 @@
    "backgroundColor": "#fcfcfc",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 3: Avernus - Path of Devils"
+         ]
+      }
+   }
 }

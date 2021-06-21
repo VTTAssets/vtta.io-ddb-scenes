@@ -1,5 +1,6 @@
 {
    "name": "Crypt of the Hellriders",
+   "code": "bgdia",
    "id": "scenes/bgdia-scene-3.3",
    "type": "scene",
    "entity": "Scene",
@@ -2127,5 +2128,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 3: Avernus - Path of Demons"
+         ]
+      }
+   }
 }

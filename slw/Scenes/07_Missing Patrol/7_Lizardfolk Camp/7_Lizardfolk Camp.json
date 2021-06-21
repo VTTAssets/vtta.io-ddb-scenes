@@ -1,5 +1,6 @@
 {
    "name": "Lizardfolk Camp",
+   "code": "slw",
    "id": "scenes/slw-scene-7",
    "type": "scene",
    "entity": "Scene",
@@ -445,5 +446,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Missing Patrol"
+         ]
+      }
+   }
 }

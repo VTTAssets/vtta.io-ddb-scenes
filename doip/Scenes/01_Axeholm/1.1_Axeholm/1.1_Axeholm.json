@@ -1,5 +1,6 @@
 {
    "name": "Axeholm",
+   "code": "doip",
    "id": "scenes/doip-scene-1.1",
    "type": "scene",
    "entity": "Scene",
@@ -6549,5 +6550,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "01 Axeholm"
+         ]
+      }
+   }
 }

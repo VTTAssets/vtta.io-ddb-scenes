@@ -1,5 +1,6 @@
 {
    "name": "Old Tower",
+   "code": "wdh",
    "id": "scenes/wdh-scene-4.5",
    "type": "scene",
    "entity": "Scene",
@@ -1696,5 +1697,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 4: Dragon Season"
+         ]
+      }
+   }
 }

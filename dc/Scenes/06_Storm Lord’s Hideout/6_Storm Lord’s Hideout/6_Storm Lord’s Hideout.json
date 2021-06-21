@@ -1,5 +1,6 @@
 {
    "name": "Storm Lord’s Hideout",
+   "code": "dc",
    "id": "scenes/dc-scene-6",
    "type": "scene",
    "entity": "Scene",
@@ -2916,5 +2917,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Storm Lord’s Hideout"
+         ]
+      }
+   }
 }

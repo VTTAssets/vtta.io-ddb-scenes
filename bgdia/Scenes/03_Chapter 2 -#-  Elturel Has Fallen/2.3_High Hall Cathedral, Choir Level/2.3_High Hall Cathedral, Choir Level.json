@@ -1,5 +1,6 @@
 {
    "name": "High Hall Cathedral, Choir Level",
+   "code": "bgdia",
    "id": "scenes/bgdia-scene-2.3",
    "type": "scene",
    "entity": "Scene",
@@ -1910,5 +1911,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: Elturel Has Fallen"
+         ]
+      }
+   }
 }

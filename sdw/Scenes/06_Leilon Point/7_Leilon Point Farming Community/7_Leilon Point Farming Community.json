@@ -1,5 +1,6 @@
 {
    "name": "Leilon Point Farming Community",
+   "code": "sdw",
    "id": "scenes/sdw-scene-7",
    "type": "scene",
    "entity": "Scene",
@@ -2099,5 +2100,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Leilon Point"
+         ]
+      }
+   }
 }

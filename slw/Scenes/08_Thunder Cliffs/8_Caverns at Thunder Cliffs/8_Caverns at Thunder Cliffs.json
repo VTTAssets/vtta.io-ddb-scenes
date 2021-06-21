@@ -1,5 +1,6 @@
 {
    "name": "Caverns at Thunder Cliffs",
+   "code": "slw",
    "id": "scenes/slw-scene-8",
    "type": "scene",
    "entity": "Scene",
@@ -4359,5 +4360,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Thunder Cliffs"
+         ]
+      }
+   }
 }

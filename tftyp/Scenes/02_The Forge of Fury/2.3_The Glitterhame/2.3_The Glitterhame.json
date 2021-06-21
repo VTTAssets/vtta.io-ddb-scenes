@@ -1,5 +1,6 @@
 {
    "name": "The Glitterhame",
+   "code": "tftyp",
    "id": "scenes/tftyp-scene-2.3",
    "type": "scene",
    "entity": "Scene",
@@ -5597,5 +5598,12 @@
          "y": 2550
       }
    ],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 The Forge of Fury"
+         ]
+      }
+   }
 }

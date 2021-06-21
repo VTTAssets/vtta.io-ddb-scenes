@@ -1,5 +1,6 @@
 {
    "name": "Gears of Hate",
+   "code": "toa",
    "id": "scenes/toa-scene-5.5",
    "type": "scene",
    "entity": "Scene",
@@ -2362,5 +2363,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 5: Tomb of the Nine Gods"
+         ]
+      }
+   }
 }

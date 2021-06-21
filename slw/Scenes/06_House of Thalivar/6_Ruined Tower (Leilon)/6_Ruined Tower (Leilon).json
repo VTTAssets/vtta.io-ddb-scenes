@@ -1,5 +1,6 @@
 {
    "name": "Ruined Tower (Leilon)",
+   "code": "slw",
    "id": "scenes/slw-scene-6",
    "type": "scene",
    "entity": "Scene",
@@ -849,5 +850,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 House of Thalivar"
+         ]
+      }
+   }
 }

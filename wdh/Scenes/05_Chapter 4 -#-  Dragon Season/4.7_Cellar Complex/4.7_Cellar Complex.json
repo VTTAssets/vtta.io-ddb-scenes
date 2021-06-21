@@ -1,5 +1,6 @@
 {
    "name": "Cellar Complex",
+   "code": "wdh",
    "id": "scenes/wdh-scene-4.7",
    "type": "scene",
    "entity": "Scene",
@@ -66,5 +67,12 @@
    "backgroundColor": "#f9f9f9",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 4: Dragon Season"
+         ]
+      }
+   }
 }

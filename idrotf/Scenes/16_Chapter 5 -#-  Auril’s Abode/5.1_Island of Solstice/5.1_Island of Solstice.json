@@ -1,5 +1,6 @@
 {
    "name": "Island of Solstice",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-5.1",
    "type": "scene",
    "entity": "Scene",
@@ -45,5 +46,12 @@
    "backgroundColor": "#9db3c1",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "16 Chapter 5: Auril’s Abode"
+         ]
+      }
+   }
 }

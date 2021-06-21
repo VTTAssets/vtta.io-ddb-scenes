@@ -1,5 +1,6 @@
 {
    "name": "Cradle of the Death God",
+   "code": "toa",
    "id": "scenes/toa-scene-5.6",
    "type": "scene",
    "entity": "Scene",
@@ -1809,5 +1810,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 5: Tomb of the Nine Gods"
+         ]
+      }
+   }
 }

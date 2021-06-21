@@ -1,5 +1,6 @@
 {
    "name": "Woodland Manse",
+   "code": "doip",
    "id": "scenes/doip-scene-14.1",
    "type": "scene",
    "entity": "Scene",
@@ -3351,5 +3352,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "14 Woodland Manse"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "The Mountain Door",
+   "code": "tftyp",
    "id": "scenes/tftyp-scene-2.2",
    "type": "scene",
    "entity": "Scene",
@@ -2744,5 +2745,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 The Forge of Fury"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Ruins of Thundertree",
+   "code": "lmop",
    "id": "scenes/lmop-scene-3.1",
    "type": "scene",
    "entity": "Scene",
@@ -1596,5 +1597,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Part 3: The Spider’s Web"
+         ]
+      }
+   }
 }

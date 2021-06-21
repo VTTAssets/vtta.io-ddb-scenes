@@ -1,5 +1,6 @@
 {
    "name": "easthaven town hall",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.11",
    "type": "scene",
    "entity": "Scene",
@@ -1491,5 +1492,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Easthaven"
+         ]
+      }
+   }
 }

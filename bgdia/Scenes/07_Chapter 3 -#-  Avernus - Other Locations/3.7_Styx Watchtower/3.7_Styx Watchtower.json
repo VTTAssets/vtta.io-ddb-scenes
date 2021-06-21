@@ -1,5 +1,6 @@
 {
    "name": "Styx Watchtower",
+   "code": "bgdia",
    "id": "scenes/bgdia-scene-3.7",
    "type": "scene",
    "entity": "Scene",
@@ -1941,5 +1942,12 @@
       }
    ],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Chapter 3: Avernus - Other Locations"
+         ]
+      }
+   }
 }

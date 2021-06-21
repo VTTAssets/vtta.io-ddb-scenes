@@ -1,5 +1,6 @@
 {
    "name": "Blingdenstone",
+   "code": "oota",
    "id": "scenes/oota-scene-6.1",
    "type": "scene",
    "entity": "Scene",
@@ -142,5 +143,12 @@
    "backgroundColor": "#75644f",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 6: Blingdenstone"
+         ]
+      }
+   }
 }

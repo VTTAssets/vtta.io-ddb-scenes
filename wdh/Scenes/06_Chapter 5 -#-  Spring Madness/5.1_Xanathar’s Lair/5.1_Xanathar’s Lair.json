@@ -1,5 +1,6 @@
 {
    "name": "Xanathar’s Lair",
+   "code": "wdh",
    "id": "scenes/wdh-scene-5.1",
    "type": "scene",
    "entity": "Scene",
@@ -166,5 +167,12 @@
    "backgroundColor": "#fafafa",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 5: Spring Madness"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Icewind Dale",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-2.1",
    "type": "scene",
    "entity": "Scene",
@@ -73,5 +74,12 @@
    "backgroundColor": "#a4aeab",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 2: Places of Interest"
+         ]
+      }
+   }
 }

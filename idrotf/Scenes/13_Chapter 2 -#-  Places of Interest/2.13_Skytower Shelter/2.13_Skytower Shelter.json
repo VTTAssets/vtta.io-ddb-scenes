@@ -1,5 +1,6 @@
 {
    "name": "Skytower Shelter",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-2.13",
    "type": "scene",
    "entity": "Scene",
@@ -61,5 +62,12 @@
    "backgroundColor": "#94a3b0",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 2: Places of Interest"
+         ]
+      }
+   }
 }

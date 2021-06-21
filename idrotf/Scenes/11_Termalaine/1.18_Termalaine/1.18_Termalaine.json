@@ -1,5 +1,6 @@
 {
    "name": "Termalaine",
+   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.18",
    "type": "scene",
    "entity": "Scene",
@@ -29,5 +30,12 @@
    "backgroundColor": "#b0b0ac",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "11 Termalaine"
+         ]
+      }
+   }
 }

@@ -1,5 +1,6 @@
 {
    "name": "Tiamat’s Temple",
+   "code": "rot",
    "id": "scenes/rot-scene-17.2",
    "type": "scene",
    "entity": "Scene",
@@ -21,5 +22,12 @@
    "backgroundColor": "#6f5a4c",
    "walls": [],
    "lights": [],
-   "monsters": []
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Chapter 17: Tiamat's Return"
+         ]
+      }
+   }
 }
