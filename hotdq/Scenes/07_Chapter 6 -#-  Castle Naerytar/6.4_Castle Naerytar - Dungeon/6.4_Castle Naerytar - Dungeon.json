@@ -1,0 +1,86 @@
+{
+   "name": "Castle Naerytar - Dungeon",
+   "code": "hotdq",
+   "id": "scenes/hotdq-scene-6.4",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -68,
+         "y": -67
+      },
+      "width": 3397,
+      "height": 2516
+   },
+   "journals": [
+      {
+         "id": "journals/hotdq-scene-6.4-13",
+         "positions": []
+      },
+      {
+         "id": "journals/hotdq-scene-6.4-12",
+         "positions": []
+      },
+      {
+         "id": "journals/hotdq-scene-6.4-11",
+         "positions": []
+      },
+      {
+         "id": "journals/hotdq-scene-6.4-10",
+         "positions": []
+      },
+      {
+         "id": "journals/hotdq-scene-6.4-09",
+         "positions": []
+      },
+      {
+         "id": "journals/hotdq-scene-6.4-08",
+         "positions": []
+      },
+      {
+         "id": "journals/hotdq-scene-6.4-07",
+         "positions": []
+      },
+      {
+         "id": "journals/hotdq-scene-6.4-06",
+         "positions": []
+      },
+      {
+         "id": "journals/hotdq-scene-6.4-05",
+         "positions": []
+      },
+      {
+         "id": "journals/hotdq-scene-6.4-04",
+         "positions": []
+      },
+      {
+         "id": "journals/hotdq-scene-6.4-03",
+         "positions": []
+      },
+      {
+         "id": "journals/hotdq-scene-6.4-02",
+         "positions": []
+      },
+      {
+         "id": "journals/hotdq-scene-6.4-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 80,
+      "type": 1,
+      "distance": 10,
+      "units": "ft"
+   },
+   "backgroundColor": "#897c6b",
+   "walls": [],
+   "lights": [],
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Chapter 6: Castle Naerytar"
+         ]
+      }
+   }
+}

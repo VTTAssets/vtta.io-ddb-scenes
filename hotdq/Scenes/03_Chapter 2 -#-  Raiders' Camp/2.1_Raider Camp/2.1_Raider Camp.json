@@ -1,0 +1,33 @@
+{
+   "name": "Raider Camp",
+   "code": "hotdq",
+   "id": "scenes/hotdq-scene-2.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -44,
+         "y": -40
+      },
+      "width": 3221,
+      "height": 2618
+   },
+   "journals": [],
+   "grid": {
+      "value": 87,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "backgroundColor": "#95836e",
+   "walls": [],
+   "lights": [],
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: Raiders' Camp"
+         ]
+      }
+   }
+}
