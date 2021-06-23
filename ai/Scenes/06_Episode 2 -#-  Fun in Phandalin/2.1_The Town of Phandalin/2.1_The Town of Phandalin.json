@@ -1,0 +1,67 @@
+{
+   "name": "The Town of Phandalin",
+   "code": "ai",
+   "id": "scenes/ai-scene-2.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2625,
+      "height": 1725
+   },
+   "journals": [
+      {
+         "id": "journals/ai-scene-2.1-09",
+         "positions": []
+      },
+      {
+         "id": "journals/ai-scene-2.1-08",
+         "positions": []
+      },
+      {
+         "id": "journals/ai-scene-2.1-07",
+         "positions": []
+      },
+      {
+         "id": "journals/ai-scene-2.1-06",
+         "positions": []
+      },
+      {
+         "id": "journals/ai-scene-2.1-05",
+         "positions": []
+      },
+      {
+         "id": "journals/ai-scene-2.1-04",
+         "positions": []
+      },
+      {
+         "id": "journals/ai-scene-2.1-03",
+         "positions": []
+      },
+      {
+         "id": "journals/ai-scene-2.1-02",
+         "positions": []
+      },
+      {
+         "id": "journals/ai-scene-2.1-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Episode 2: Fun in Phandalin"
+         ]
+      }
+   }
+}
