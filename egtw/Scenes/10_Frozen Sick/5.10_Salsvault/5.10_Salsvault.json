@@ -1,0 +1,103 @@
+{
+   "name": "Salsvault",
+   "code": "egtw",
+   "id": "scenes/egtw-scene-5.10",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2550,
+      "height": 1650
+   },
+   "journals": [
+      {
+         "id": "journals/egtw-scene-5.10-S18",
+         "positions": []
+      },
+      {
+         "id": "journals/egtw-scene-5.10-S17",
+         "positions": []
+      },
+      {
+         "id": "journals/egtw-scene-5.10-S16",
+         "positions": []
+      },
+      {
+         "id": "journals/egtw-scene-5.10-S15",
+         "positions": []
+      },
+      {
+         "id": "journals/egtw-scene-5.10-S14",
+         "positions": []
+      },
+      {
+         "id": "journals/egtw-scene-5.10-S13",
+         "positions": []
+      },
+      {
+         "id": "journals/egtw-scene-5.10-S12",
+         "positions": []
+      },
+      {
+         "id": "journals/egtw-scene-5.10-S11",
+         "positions": []
+      },
+      {
+         "id": "journals/egtw-scene-5.10-S10",
+         "positions": []
+      },
+      {
+         "id": "journals/egtw-scene-5.10-S09",
+         "positions": []
+      },
+      {
+         "id": "journals/egtw-scene-5.10-S08",
+         "positions": []
+      },
+      {
+         "id": "journals/egtw-scene-5.10-S07",
+         "positions": []
+      },
+      {
+         "id": "journals/egtw-scene-5.10-S06",
+         "positions": []
+      },
+      {
+         "id": "journals/egtw-scene-5.10-S05",
+         "positions": []
+      },
+      {
+         "id": "journals/egtw-scene-5.10-S04",
+         "positions": []
+      },
+      {
+         "id": "journals/egtw-scene-5.10-S03",
+         "positions": []
+      },
+      {
+         "id": "journals/egtw-scene-5.10-S02",
+         "positions": []
+      },
+      {
+         "id": "journals/egtw-scene-5.10-S01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "10 Frozen Sick"
+         ]
+      }
+   }
+}

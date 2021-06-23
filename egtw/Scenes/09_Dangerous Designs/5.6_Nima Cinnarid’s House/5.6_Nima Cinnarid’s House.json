@@ -1,0 +1,30 @@
+{
+   "name": "Nima Cinnarid’s House",
+   "code": "egtw",
+   "id": "scenes/egtw-scene-5.6",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2400,
+      "height": 3000
+   },
+   "journals": [],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Dangerous Designs"
+         ]
+      }
+   }
+}
