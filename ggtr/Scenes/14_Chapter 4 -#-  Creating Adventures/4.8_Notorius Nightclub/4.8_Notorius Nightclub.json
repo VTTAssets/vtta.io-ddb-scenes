@@ -1,0 +1,30 @@
+{
+   "name": "Notorius Nightclub",
+   "code": "ggtr",
+   "id": "scenes/ggtr-scene-4.8",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2513,
+      "height": 3338
+   },
+   "journals": [],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "14 Chapter 4: Creating Adventures"
+         ]
+      }
+   }
+}
