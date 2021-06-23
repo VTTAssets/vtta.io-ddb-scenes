@@ -1,0 +1,99 @@
+{
+   "name": "Terminus",
+   "code": "erftlw",
+   "id": "scenes/erftlw-scene-4.14",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2947,
+      "height": 4000
+   },
+   "journals": [
+      {
+         "id": "journals/erftlw-scene-4.14-T14",
+         "positions": []
+      },
+      {
+         "id": "journals/erftlw-scene-4.14-T13",
+         "positions": []
+      },
+      {
+         "id": "journals/erftlw-scene-4.14-T12",
+         "positions": []
+      },
+      {
+         "id": "journals/erftlw-scene-4.14-T11",
+         "positions": []
+      },
+      {
+         "id": "journals/erftlw-scene-4.14-T10",
+         "positions": []
+      },
+      {
+         "id": "journals/erftlw-scene-4.14-T09",
+         "positions": []
+      },
+      {
+         "id": "journals/erftlw-scene-4.14-T08",
+         "positions": []
+      },
+      {
+         "id": "journals/erftlw-scene-4.14-T07",
+         "positions": []
+      },
+      {
+         "id": "journals/erftlw-scene-4.14-T06",
+         "positions": []
+      },
+      {
+         "id": "journals/erftlw-scene-4.14-T05",
+         "positions": []
+      },
+      {
+         "id": "journals/erftlw-scene-4.14-T04c",
+         "positions": []
+      },
+      {
+         "id": "journals/erftlw-scene-4.14-T04b",
+         "positions": []
+      },
+      {
+         "id": "journals/erftlw-scene-4.14-T04a",
+         "positions": []
+      },
+      {
+         "id": "journals/erftlw-scene-4.14-T04",
+         "positions": []
+      },
+      {
+         "id": "journals/erftlw-scene-4.14-T03",
+         "positions": []
+      },
+      {
+         "id": "journals/erftlw-scene-4.14-T02",
+         "positions": []
+      },
+      {
+         "id": "journals/erftlw-scene-4.14-T01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Chapter 4: Building Eberron Adventures"
+         ]
+      }
+   }
+}

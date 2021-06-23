@@ -1,0 +1,30 @@
+{
+   "name": "Continent of Xen’drik",
+   "code": "erftlw",
+   "id": "scenes/erftlw-scene-2.3",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2550,
+      "height": 1710
+   },
+   "journals": [],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 2: Khorvaire Gazeteer - Distant Lands"
+         ]
+      }
+   }
+}
