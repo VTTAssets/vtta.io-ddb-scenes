@@ -1,0 +1,83 @@
+{
+   "name": "Umberlee’s Maw",
+   "code": "lr",
+   "id": "scenes/lr-scene-1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 1301,
+      "height": 1734
+   },
+   "journals": [
+      {
+         "id": "journals/lr-scene-1-13",
+         "positions": []
+      },
+      {
+         "id": "journals/lr-scene-1-12",
+         "positions": []
+      },
+      {
+         "id": "journals/lr-scene-1-11",
+         "positions": []
+      },
+      {
+         "id": "journals/lr-scene-1-10",
+         "positions": []
+      },
+      {
+         "id": "journals/lr-scene-1-09",
+         "positions": []
+      },
+      {
+         "id": "journals/lr-scene-1-08",
+         "positions": []
+      },
+      {
+         "id": "journals/lr-scene-1-07",
+         "positions": []
+      },
+      {
+         "id": "journals/lr-scene-1-06",
+         "positions": []
+      },
+      {
+         "id": "journals/lr-scene-1-05",
+         "positions": []
+      },
+      {
+         "id": "journals/lr-scene-1-04",
+         "positions": []
+      },
+      {
+         "id": "journals/lr-scene-1-03",
+         "positions": []
+      },
+      {
+         "id": "journals/lr-scene-1-02",
+         "positions": []
+      },
+      {
+         "id": "journals/lr-scene-1-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "01 The Darkening"
+         ]
+      }
+   }
+}
