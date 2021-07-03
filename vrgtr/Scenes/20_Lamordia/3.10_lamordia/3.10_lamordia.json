@@ -1,0 +1,30 @@
+{
+   "name": "lamordia",
+   "code": "vrgtr",
+   "id": "scenes/vrgtr-scene-3.10",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3000,
+      "height": 2073
+   },
+   "journals": [],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "20 Lamordia"
+         ]
+      }
+   }
+}

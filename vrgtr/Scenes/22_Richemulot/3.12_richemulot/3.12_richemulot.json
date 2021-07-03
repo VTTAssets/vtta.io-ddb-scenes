@@ -1,0 +1,30 @@
+{
+   "name": "richemulot",
+   "code": "vrgtr",
+   "id": "scenes/vrgtr-scene-3.12",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 1773,
+      "height": 3600
+   },
+   "journals": [],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "22 Richemulot"
+         ]
+      }
+   }
+}

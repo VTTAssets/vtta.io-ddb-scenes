@@ -1,0 +1,159 @@
+{
+   "name": "The House of Lament",
+   "code": "vrgtr",
+   "id": "scenes/vrgtr-scene-4.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 4000,
+      "height": 5700
+   },
+   "journals": [
+      {
+         "id": "journals/vrgtr-scene-4.1-31",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-30",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-29",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-28",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-27",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-26",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-25",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-24",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-23",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-22",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-21",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-20",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-19",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-18",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-17",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-16",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-15",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-14",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-13",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-12",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-11",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-10",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-09",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-08",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-07",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-06",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-05b",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-05a",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-04",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-03",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-02",
+         "positions": []
+      },
+      {
+         "id": "journals/vrgtr-scene-4.1-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "28 The House of Lament"
+         ]
+      }
+   }
+}
