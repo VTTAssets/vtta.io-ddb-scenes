@@ -1,0 +1,127 @@
+{
+   "name": "Dangwaru",
+   "code": "ttp",
+   "id": "scenes/ttp-scene-1.3",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2100,
+      "height": 2850
+   },
+   "journals": [
+      {
+         "id": "journals/ttp-scene-1.3-24",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-23",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-22",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-21",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-20",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-19",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-18",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-17",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-16",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-15",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-14",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-13",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-12",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-11",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-10",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-09",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-08",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-07",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-06",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-05",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-04",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-03",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-02",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.3-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "00 The Tortle Package"
+         ]
+      }
+   }
+}

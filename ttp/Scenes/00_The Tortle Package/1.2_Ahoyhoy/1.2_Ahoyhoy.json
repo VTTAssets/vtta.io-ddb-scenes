@@ -1,0 +1,67 @@
+{
+   "name": "Ahoyhoy",
+   "code": "ttp",
+   "id": "scenes/ttp-scene-1.2",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2063,
+      "height": 1380
+   },
+   "journals": [
+      {
+         "id": "journals/ttp-scene-1.2-09",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.2-08",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.2-07",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.2-06",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.2-05",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.2-04",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.2-03",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.2-02",
+         "positions": []
+      },
+      {
+         "id": "journals/ttp-scene-1.2-01",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "00 The Tortle Package"
+         ]
+      }
+   }
+}
