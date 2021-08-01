@@ -1,0 +1,30 @@
+{
+   "name": "The Tomb of Horrors (under construction)",
+   "code": "imr",
+   "id": "scenes/imr-scene-3.1",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2352,
+      "height": 2698
+   },
+   "journals": [],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 3: Construction of Horrors"
+         ]
+      }
+   }
+}
