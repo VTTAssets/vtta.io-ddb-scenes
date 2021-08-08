@@ -5,138 +5,484 @@
    "type": "scene",
    "entity": "Scene",
    "img": {
+      "height": 3563,
+      "width": 5195,
       "shift": {
          "x": -58,
          "y": -7
-      },
-      "width": 5195,
-      "height": 3563
-   },
-   "journals": [
-      {
-         "id": "journals/tftyp-scene-4.2-27",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-26",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-25",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-24",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-23",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-22",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-21",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-20",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-19",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-18",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-17",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-16",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-15",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-14",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-13",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-12",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-11",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-10",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-09",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-08",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-07",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-06",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-05",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-04",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-03",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-02",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-4.2-01",
-         "positions": []
       }
-   ],
+   },
    "grid": {
       "value": 78,
       "type": 1,
       "distance": 10,
       "units": "ft"
    },
-   "backgroundColor": "#000000",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "04 White Plume Mountain"
          ]
       }
+   },
+   "journals": [
+      {
+         "id": "journals/tftyp-scene-4.2-27",
+         "positions": [
+            {
+               "x": 2379,
+               "y": 4095
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-26",
+         "positions": [
+            {
+               "x": 2535,
+               "y": 3393
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-25",
+         "positions": [
+            {
+               "x": 1560,
+               "y": 1833
+            },
+            {
+               "x": 2067,
+               "y": 2457
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-24",
+         "positions": [
+            {
+               "x": 1989,
+               "y": 1560
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-23",
+         "positions": [
+            {
+               "x": 2379,
+               "y": 1989
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-22",
+         "positions": [
+            {
+               "x": 2652,
+               "y": 2379
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-21",
+         "positions": [
+            {
+               "x": 3003,
+               "y": 2301
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-20",
+         "positions": [
+            {
+               "x": 3315,
+               "y": 2808
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-19",
+         "positions": [
+            {
+               "x": 3003,
+               "y": 3081
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-18",
+         "positions": [
+            {
+               "x": 3393,
+               "y": 3666
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-17",
+         "positions": [
+            {
+               "x": 3705,
+               "y": 1872
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-16",
+         "positions": [
+            {
+               "x": 4953,
+               "y": 1326
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-15",
+         "positions": [
+            {
+               "x": 3861,
+               "y": 1365
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-14",
+         "positions": [
+            {
+               "x": 3783,
+               "y": 2691
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-13",
+         "positions": [
+            {
+               "x": 4329,
+               "y": 2535
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-12",
+         "positions": [
+            {
+               "x": 4329,
+               "y": 2691
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-11",
+         "positions": [
+            {
+               "x": 4290,
+               "y": 2925
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-10",
+         "positions": [
+            {
+               "x": 3471,
+               "y": 3159
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-09",
+         "positions": [
+            {
+               "x": 3900,
+               "y": 3549
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-08",
+         "positions": [
+            {
+               "x": 5187,
+               "y": 3861
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-07",
+         "positions": [
+            {
+               "x": 5343,
+               "y": 2886
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-06",
+         "positions": [
+            {
+               "x": 4719,
+               "y": 2223
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-05",
+         "positions": [
+            {
+               "x": 4797,
+               "y": 2652
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-04",
+         "positions": [
+            {
+               "x": 4641,
+               "y": 4017
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-03",
+         "positions": [
+            {
+               "x": 4173,
+               "y": 3666
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-02",
+         "positions": [
+            {
+               "x": 3705,
+               "y": 3939
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-4.2-01",
+         "positions": [
+            {
+               "x": 3081,
+               "y": 4095
+            }
+         ]
+      }
+   ],
+   "monsters": [],
+   "walls": [
+      {
+         "c": [
+            3276,
+            4046,
+            3110,
+            4046
+         ],
+         "dir": 0
+      },
+      {
+         "c": [
+            3110,
+            4046,
+            3110,
+            4212
+         ],
+         "dir": 0
+      },
+      {
+         "c": [
+            3110,
+            4212,
+            3822,
+            4212
+         ],
+         "dir": 0
+      },
+      {
+         "c": [
+            3822,
+            4212,
+            3822,
+            3929
+         ],
+         "dir": 0
+      },
+      {
+         "c": [
+            3276,
+            4046,
+            3276,
+            4124
+         ],
+         "dir": 0
+      },
+      {
+         "c": [
+            3276,
+            4124,
+            3744,
+            4124
+         ],
+         "dir": 0
+      },
+      {
+         "c": [
+            3744,
+            4124,
+            3744,
+            3919
+         ],
+         "dir": 0
+      },
+      {
+         "c": [
+            3744,
+            3919,
+            3188,
+            3373
+         ],
+         "dir": 0
+      },
+      {
+         "c": [
+            3188,
+            3373,
+            3032,
+            3373
+         ],
+         "dir": 0
+      },
+      {
+         "c": [
+            3822,
+            3929,
+            4358,
+            3363
+         ],
+         "dir": 0
+      },
+      {
+         "c": [
+            2340,
+            2418,
+            2340,
+            2574
+         ],
+         "move": 0,
+         "dir": 0
+      },
+      {
+         "c": [
+            2340,
+            2574,
+            2964,
+            2574
+         ],
+         "dir": 0
+      },
+      {
+         "c": [
+            2964,
+            2574,
+            2964,
+            2418
+         ],
+         "dir": 0
+      },
+      {
+         "c": [
+            2964,
+            2418,
+            2886,
+            2418
+         ],
+         "dir": 0
+      },
+      {
+         "c": [
+            2886,
+            2418,
+            2418,
+            2418
+         ],
+         "dir": 0
+      },
+      {
+         "c": [
+            2418,
+            2418,
+            2418,
+            2330
+         ],
+         "dir": 0
+      },
+      {
+         "c": [
+            2418,
+            2330,
+            2193,
+            2330
+         ],
+         "dir": 0
+      },
+      {
+         "c": [
+            2193,
+            2330,
+            2192,
+            2180
+         ],
+         "dir": 0
+      },
+      {
+         "c": [
+            2340,
+            2418,
+            2418,
+            2418
+         ],
+         "dir": 0,
+         "door": 1
+      },
+      {
+         "c": [
+            2340,
+            2574,
+            2262,
+            2574
+         ],
+         "dir": 0
+      },
+      {
+         "c": [
+            2262,
+            2574,
+            2262,
+            2418
+         ],
+         "dir": 0
+      },
+      {
+         "c": [
+            2262,
+            2418,
+            2340,
+            2418
+         ],
+         "dir": 0
+      }
+   ],
+   "lights": [],
+   "quality": {
+      "grid": true,
+      "walls": true,
+      "lights": false,
+      "journals": true,
+      "monsters": false
    }
 }
