@@ -1,9 +1,10 @@
 {
-   "id": "scenes/toa-scene-5.6",
    "name": "Cradle of the Death God",
    "backgroundColor": "#5d5851",
    "code": "toa",
    "entity": "Scene",
+   "id": "scenes/toa-scene-5.6",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 146
    },
    "img": {
@@ -130,7 +131,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

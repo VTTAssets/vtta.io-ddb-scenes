@@ -1,9 +1,10 @@
 {
-   "id": "scenes/skt-scene-2.3",
    "name": "Triboar",
    "backgroundColor": "#0f0e0e",
    "code": "skt",
    "entity": "Scene",
+   "id": "scenes/skt-scene-2.3",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 40,
       "type": 0,
-      "units": "ft",
       "value": 72
    },
    "img": {
@@ -370,7 +371,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

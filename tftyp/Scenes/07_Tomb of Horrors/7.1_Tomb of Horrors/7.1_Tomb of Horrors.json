@@ -1,9 +1,10 @@
 {
-   "id": "scenes/tftyp-scene-7.1",
    "name": "Tomb of Horrors",
    "backgroundColor": "#000000",
    "code": "tftyp",
    "entity": "Scene",
+   "id": "scenes/tftyp-scene-7.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 88
    },
    "img": {
@@ -146,7 +147,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

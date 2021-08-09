@@ -1,9 +1,10 @@
 {
-   "id": "scenes/cos-scene-5.4",
    "name": "Wachterhaus (Area N4)",
    "backgroundColor": "#797c71",
    "code": "cos",
    "entity": "Scene",
+   "id": "scenes/cos-scene-5.4",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 76
    },
    "img": {
@@ -259,7 +260,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

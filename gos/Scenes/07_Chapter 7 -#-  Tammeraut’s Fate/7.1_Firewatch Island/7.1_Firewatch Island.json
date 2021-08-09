@@ -1,9 +1,10 @@
 {
-   "id": "scenes/gos-scene-7.1",
    "name": "Firewatch Island",
    "backgroundColor": "#e5eaf0",
    "code": "gos",
    "entity": "Scene",
+   "id": "scenes/gos-scene-7.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 101
    },
    "img": {
@@ -31,7 +32,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

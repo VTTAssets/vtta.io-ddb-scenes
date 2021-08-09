@@ -1,9 +1,10 @@
 {
-   "id": "scenes/toa-scene-5.4",
    "name": "Chambers of Horror",
    "backgroundColor": "#5e584b",
    "code": "toa",
    "entity": "Scene",
+   "id": "scenes/toa-scene-5.4",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
-      "type": 1,
-      "units": "ft"
+      "type": 1
    },
    "img": {
       "height": 1900,
@@ -95,7 +96,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

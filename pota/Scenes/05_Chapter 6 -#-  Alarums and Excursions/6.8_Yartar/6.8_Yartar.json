@@ -1,9 +1,10 @@
 {
-   "id": "scenes/pota-scene-6.8",
    "name": "Yartar",
    "backgroundColor": "#d4c5a8",
    "code": "pota",
    "entity": "Scene",
+   "id": "scenes/pota-scene-6.8",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 51
    },
    "img": {
@@ -31,7 +32,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

@@ -1,9 +1,10 @@
 {
-   "id": "scenes/gos-scene-8.4",
    "name": "Landgrave’s Folly",
    "backgroundColor": "#ffffff",
    "code": "gos",
    "entity": "Scene",
+   "id": "scenes/gos-scene-8.4",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 59
    },
    "img": {
@@ -46,7 +47,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

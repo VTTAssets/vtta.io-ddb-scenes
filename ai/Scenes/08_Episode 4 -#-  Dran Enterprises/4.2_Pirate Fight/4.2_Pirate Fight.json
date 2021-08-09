@@ -1,8 +1,9 @@
 {
-   "id": "scenes/ai-scene-4.2",
    "name": "Pirate Fight",
    "code": "ai",
    "entity": "Scene",
+   "id": "scenes/ai-scene-4.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -11,9 +12,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -28,5 +29,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene"
+   "walls": [
+   ]
 }

@@ -1,9 +1,10 @@
 {
-   "id": "scenes/gos-scene-8.1",
    "name": "The Styes",
    "backgroundColor": "#f3f5f8",
    "code": "gos",
    "entity": "Scene",
+   "id": "scenes/gos-scene-8.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 150,
       "type": 1,
-      "units": "ft",
       "value": 78
    },
    "img": {
@@ -86,7 +87,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

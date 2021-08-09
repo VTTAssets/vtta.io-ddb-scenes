@@ -1,9 +1,10 @@
 {
-   "id": "scenes/idrotf-scene-2.10",
    "name": "Lost Spire of Netheril",
    "backgroundColor": "#6c7d87",
    "code": "idrotf",
    "entity": "Scene",
+   "id": "scenes/idrotf-scene-2.10",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
-      "type": 1,
-      "units": "ft"
+      "type": 1
    },
    "img": {
       "height": 2765,
@@ -110,7 +111,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

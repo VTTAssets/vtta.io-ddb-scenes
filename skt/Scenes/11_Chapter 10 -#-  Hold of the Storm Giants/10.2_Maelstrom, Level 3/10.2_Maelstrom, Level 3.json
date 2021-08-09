@@ -1,8 +1,9 @@
 {
-   "id": "scenes/skt-scene-10.2",
    "name": "Maelstrom, Level 3",
    "code": "skt",
    "entity": "Scene",
+   "id": "scenes/skt-scene-10.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -11,9 +12,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -103,5 +104,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene"
+   "walls": [
+   ]
 }

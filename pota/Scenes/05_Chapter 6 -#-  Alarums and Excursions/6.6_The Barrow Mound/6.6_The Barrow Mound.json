@@ -1,8 +1,9 @@
 {
-   "id": "scenes/pota-scene-6.6",
    "name": "The Barrow Mound",
    "code": "pota",
    "entity": "Scene",
+   "id": "scenes/pota-scene-6.6",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -11,9 +12,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -28,5 +29,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene"
+   "walls": [
+   ]
 }

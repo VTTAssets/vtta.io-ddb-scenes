@@ -1,9 +1,10 @@
 {
-   "id": "scenes/slw-scene-7",
    "name": "Lizardfolk Camp",
    "backgroundColor": "#1f281c",
    "code": "slw",
    "entity": "Scene",
+   "id": "scenes/slw-scene-7",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 86
    },
    "img": {
@@ -31,7 +32,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

@@ -1,9 +1,10 @@
 {
-   "id": "scenes/cos-scene-8.1",
    "name": "The Village of Krezk (Area S)",
    "backgroundColor": "#9a9d8c",
    "code": "cos",
    "entity": "Scene",
+   "id": "scenes/cos-scene-8.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 50,
       "type": 1,
-      "units": "ft",
       "value": 61
    },
    "img": {
@@ -76,7 +77,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

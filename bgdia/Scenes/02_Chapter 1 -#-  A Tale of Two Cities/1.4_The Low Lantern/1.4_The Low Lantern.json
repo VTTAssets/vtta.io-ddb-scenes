@@ -1,9 +1,10 @@
 {
-   "id": "scenes/bgdia-scene-1.4",
    "name": "The Low Lantern",
    "backgroundColor": "#fcfcfc",
    "code": "bgdia",
    "entity": "Scene",
+   "id": "scenes/bgdia-scene-1.4",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 164
    },
    "img": {
@@ -167,7 +168,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

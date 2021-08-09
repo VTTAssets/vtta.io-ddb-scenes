@@ -1,9 +1,10 @@
 {
-   "id": "scenes/idrotf-scene-2.2",
    "name": "Angajuk's Bell",
    "backgroundColor": "#adbbc6",
    "code": "idrotf",
    "entity": "Scene",
+   "id": "scenes/idrotf-scene-2.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
-      "type": 1,
-      "units": "ft"
+      "type": 1
    },
    "img": {
       "height": 3000,
@@ -50,7 +51,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

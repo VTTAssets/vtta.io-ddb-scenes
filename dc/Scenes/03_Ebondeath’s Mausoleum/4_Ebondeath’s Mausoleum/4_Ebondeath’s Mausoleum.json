@@ -1,9 +1,10 @@
 {
-   "id": "scenes/dc-scene-4",
    "name": "Ebondeath’s Mausoleum",
    "backgroundColor": "#1f2326",
    "code": "dc",
    "entity": "Scene",
+   "id": "scenes/dc-scene-4",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 86
    },
    "img": {
@@ -120,7 +121,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

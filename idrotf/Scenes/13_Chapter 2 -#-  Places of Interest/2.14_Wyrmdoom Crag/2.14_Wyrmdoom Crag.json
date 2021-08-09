@@ -1,9 +1,10 @@
 {
-   "id": "scenes/idrotf-scene-2.14",
    "name": "Wyrmdoom Crag",
    "backgroundColor": "#a2afba",
    "code": "idrotf",
    "entity": "Scene",
+   "id": "scenes/idrotf-scene-2.14",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
-      "type": 1,
-      "units": "ft"
+      "type": 1
    },
    "img": {
       "height": 3000,
@@ -65,7 +66,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

@@ -1,9 +1,10 @@
 {
-   "id": "scenes/wdh-scene-6.1",
    "name": "Cassalanter Villa",
    "backgroundColor": "#fafafa",
    "code": "wdh",
    "entity": "Scene",
+   "id": "scenes/wdh-scene-6.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 52
    },
    "img": {
@@ -201,7 +202,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

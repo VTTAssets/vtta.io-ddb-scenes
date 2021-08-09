@@ -1,9 +1,10 @@
 {
-   "id": "scenes/pota-scene-3.1",
    "name": "Feathergale Spire",
    "backgroundColor": "#b2a98f",
    "code": "pota",
    "entity": "Scene",
+   "id": "scenes/pota-scene-3.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 91
    },
    "img": {
@@ -86,7 +87,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

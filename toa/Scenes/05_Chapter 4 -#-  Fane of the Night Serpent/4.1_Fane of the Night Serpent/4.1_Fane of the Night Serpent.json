@@ -1,9 +1,10 @@
 {
-   "id": "scenes/toa-scene-4.1",
    "name": "Fane of the Night Serpent",
    "backgroundColor": "#655e51",
    "code": "toa",
    "entity": "Scene",
+   "id": "scenes/toa-scene-4.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
-      "type": 1,
-      "units": "ft"
+      "type": 1
    },
    "img": {
       "height": 3800,
@@ -145,7 +146,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

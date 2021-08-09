@@ -1,9 +1,10 @@
 {
-   "id": "scenes/toa-scene-2.15",
    "name": "Yellyark",
    "backgroundColor": "#a7c7a0",
    "code": "toa",
    "entity": "Scene",
+   "id": "scenes/toa-scene-2.15",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 59
    },
    "img": {
@@ -77,7 +78,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

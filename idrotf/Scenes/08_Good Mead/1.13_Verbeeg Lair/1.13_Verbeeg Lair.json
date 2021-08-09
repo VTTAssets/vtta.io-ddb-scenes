@@ -1,9 +1,10 @@
 {
-   "id": "scenes/idrotf-scene-1.13",
    "name": "Verbeeg Lair",
    "backgroundColor": "#5c707a",
    "code": "idrotf",
    "entity": "Scene",
+   "id": "scenes/idrotf-scene-1.13",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
-      "type": 1,
-      "units": "ft"
+      "type": 1
    },
    "img": {
       "height": 2765,
@@ -80,7 +81,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

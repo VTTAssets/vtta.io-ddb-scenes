@@ -1,9 +1,10 @@
 {
-   "id": "scenes/idrotf-scene-1.7",
    "name": "Dougan’s Hole",
    "backgroundColor": "#adadaa",
    "code": "idrotf",
    "entity": "Scene",
+   "id": "scenes/idrotf-scene-1.7",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 100,
-      "type": 1,
-      "units": "ft"
+      "type": 1
    },
    "img": {
       "height": 3000,
@@ -39,7 +40,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

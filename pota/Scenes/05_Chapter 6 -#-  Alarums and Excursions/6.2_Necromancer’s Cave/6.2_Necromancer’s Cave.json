@@ -1,9 +1,10 @@
 {
-   "id": "scenes/pota-scene-6.2",
    "name": "Necromancer’s Cave",
    "backgroundColor": "#7f7b6f",
    "code": "pota",
    "entity": "Scene",
+   "id": "scenes/pota-scene-6.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 56
    },
    "img": {
@@ -133,7 +134,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

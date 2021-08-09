@@ -1,9 +1,10 @@
 {
-   "id": "scenes/oota-scene-2.2",
    "name": "The Hook Horror Lair",
    "backgroundColor": "#6f5d53",
    "code": "oota",
    "entity": "Scene",
+   "id": "scenes/oota-scene-2.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 108
    },
    "img": {
@@ -61,7 +62,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

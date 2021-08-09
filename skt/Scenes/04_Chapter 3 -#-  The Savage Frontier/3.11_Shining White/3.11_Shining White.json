@@ -1,9 +1,10 @@
 {
-   "id": "scenes/skt-scene-3.11",
    "name": "Shining White",
    "backgroundColor": "#72635c",
    "code": "skt",
    "entity": "Scene",
+   "id": "scenes/skt-scene-3.11",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 50,
       "type": 1,
-      "units": "ft",
       "value": 96
    },
    "img": {
@@ -31,7 +32,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

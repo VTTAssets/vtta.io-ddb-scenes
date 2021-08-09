@@ -1,9 +1,10 @@
 {
-   "id": "scenes/rot-scene-12.1",
    "name": "Neronvain’s Stronghold",
    "backgroundColor": "#816756",
    "code": "rot",
    "entity": "Scene",
+   "id": "scenes/rot-scene-12.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 15,
       "type": 1,
-      "units": "ft",
       "value": 191
    },
    "img": {
@@ -81,7 +82,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

@@ -1,8 +1,9 @@
 {
-   "id": "scenes/cm-scene-8.02",
    "name": "Temple",
    "code": "cm",
    "entity": "Scene",
+   "id": "scenes/cm-scene-8.02",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -11,9 +12,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -38,5 +39,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene"
+   "walls": [
+   ]
 }

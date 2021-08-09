@@ -1,9 +1,10 @@
 {
-   "id": "scenes/wdh-scene-4.8",
    "name": "Converted Windmill",
    "backgroundColor": "#fbfbfb",
    "code": "wdh",
    "entity": "Scene",
+   "id": "scenes/wdh-scene-4.8",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 61
    },
    "img": {
@@ -46,7 +47,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

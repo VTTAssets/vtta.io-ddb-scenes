@@ -1,9 +1,10 @@
 {
-   "id": "scenes/slw-scene-4",
    "name": "Backlot in Town",
    "backgroundColor": "#473d2b",
    "code": "slw",
    "entity": "Scene",
+   "id": "scenes/slw-scene-4",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 136
    },
    "img": {
@@ -31,7 +32,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

@@ -1,9 +1,10 @@
 {
-   "id": "scenes/bgdia-scene-2.6",
    "name": "Grand Cemetery, Ossuary level",
    "backgroundColor": "#f5f5f5",
    "code": "bgdia",
    "entity": "Scene",
+   "id": "scenes/bgdia-scene-2.6",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 116
    },
    "img": {
@@ -90,7 +91,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

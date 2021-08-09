@@ -1,9 +1,10 @@
 {
-   "id": "scenes/hotdq-scene-7.2",
    "name": "Hunting Lodge - Upper Floor",
    "backgroundColor": "#888888",
    "code": "hotdq",
    "entity": "Scene",
+   "id": "scenes/hotdq-scene-7.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 90
    },
    "img": {
@@ -81,7 +82,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

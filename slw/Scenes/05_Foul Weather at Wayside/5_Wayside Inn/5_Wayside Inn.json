@@ -1,9 +1,10 @@
 {
-   "id": "scenes/slw-scene-5",
    "name": "Wayside Inn",
    "backgroundColor": "#9c8869",
    "code": "slw",
    "entity": "Scene",
+   "id": "scenes/slw-scene-5",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 86
    },
    "img": {
@@ -119,7 +120,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

@@ -1,8 +1,9 @@
 {
-   "id": "scenes/vrgtr-scene-3.3",
    "name": "darkon",
    "code": "vrgtr",
    "entity": "Scene",
+   "id": "scenes/vrgtr-scene-3.3",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -11,9 +12,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -28,5 +29,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene"
+   "walls": [
+   ]
 }

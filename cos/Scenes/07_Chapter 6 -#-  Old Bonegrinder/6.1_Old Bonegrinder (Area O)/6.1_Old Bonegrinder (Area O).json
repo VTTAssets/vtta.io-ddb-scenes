@@ -1,9 +1,10 @@
 {
-   "id": "scenes/cos-scene-6.1",
    "name": "Old Bonegrinder (Area O)",
    "backgroundColor": "#7c7f77",
    "code": "cos",
    "entity": "Scene",
+   "id": "scenes/cos-scene-6.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 85
    },
    "img": {
@@ -65,10 +66,10 @@
    ],
    "lights": [
       {
+         "t": "g",
          "bright": 30,
          "darknessThreshold": 0,
          "dim": 55,
-         "t": "g",
          "tintAlpha": 0.5,
          "x": 1232,
          "y": 1275
@@ -76,7 +77,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

@@ -1,9 +1,10 @@
 {
-   "id": "scenes/skt-scene-3.7",
    "name": "Mogur’s Mound",
    "backgroundColor": "#785c49",
    "code": "skt",
    "entity": "Scene",
+   "id": "scenes/skt-scene-3.7",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 50,
       "type": 1,
-      "units": "ft",
       "value": 108
    },
    "img": {
@@ -31,7 +32,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

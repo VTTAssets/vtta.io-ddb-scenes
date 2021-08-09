@@ -1,8 +1,9 @@
 {
-   "id": "scenes/tftyp-scene-6.3",
    "name": "Frost Giant Stronghold - Upper Level",
    "code": "tftyp",
    "entity": "Scene",
+   "id": "scenes/tftyp-scene-6.3",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -11,9 +12,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -173,5 +174,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene"
+   "walls": [
+   ]
 }

@@ -1,9 +1,10 @@
 {
-   "id": "scenes/tftyp-scene-2.2",
    "name": "The Mountain Door",
    "backgroundColor": "#fdfdfc",
    "code": "tftyp",
    "entity": "Scene",
+   "id": "scenes/tftyp-scene-2.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -148,7 +149,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

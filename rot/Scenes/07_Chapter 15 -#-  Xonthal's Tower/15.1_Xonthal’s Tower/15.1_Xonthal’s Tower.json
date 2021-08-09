@@ -1,9 +1,10 @@
 {
-   "id": "scenes/rot-scene-15.1",
    "name": "Xonthal’s Tower",
    "backgroundColor": "#957866",
    "code": "rot",
    "entity": "Scene",
+   "id": "scenes/rot-scene-15.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 96
    },
    "img": {
@@ -146,7 +147,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

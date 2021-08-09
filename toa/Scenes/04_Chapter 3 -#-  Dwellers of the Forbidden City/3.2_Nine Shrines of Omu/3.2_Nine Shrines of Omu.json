@@ -1,9 +1,10 @@
 {
-   "id": "scenes/toa-scene-3.2",
    "name": "Nine Shrines of Omu",
    "backgroundColor": "#847b67",
    "code": "toa",
    "entity": "Scene",
+   "id": "scenes/toa-scene-3.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 150
    },
    "img": {
@@ -338,7 +339,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

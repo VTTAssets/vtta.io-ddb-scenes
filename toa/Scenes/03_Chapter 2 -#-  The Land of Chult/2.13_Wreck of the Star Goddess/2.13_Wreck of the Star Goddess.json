@@ -1,8 +1,9 @@
 {
-   "id": "scenes/toa-scene-2.13",
    "name": "Wreck of the Star Goddess",
    "code": "toa",
    "entity": "Scene",
+   "id": "scenes/toa-scene-2.13",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -11,9 +12,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -28,5 +29,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene"
+   "walls": [
+   ]
 }

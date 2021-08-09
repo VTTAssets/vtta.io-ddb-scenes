@@ -1,8 +1,9 @@
 {
-   "id": "scenes/ddia-mord-scene-1",
    "name": "Temple of Madness",
    "code": "ddia-mord",
    "entity": "Scene",
+   "id": "scenes/ddia-mord-scene-1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -11,9 +12,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -83,5 +84,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene"
+   "walls": [
+   ]
 }

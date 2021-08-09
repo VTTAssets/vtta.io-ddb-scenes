@@ -1,9 +1,10 @@
 {
-   "id": "scenes/pota-scene-2.1",
    "name": "Red Larch",
    "backgroundColor": "#bfb7a1",
    "code": "pota",
    "entity": "Scene",
+   "id": "scenes/pota-scene-2.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 50,
       "type": 1,
-      "units": "ft",
       "value": 110
    },
    "img": {
@@ -141,7 +142,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

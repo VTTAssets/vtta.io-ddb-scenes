@@ -1,9 +1,10 @@
 {
-   "id": "scenes/idrotf-scene-1.10",
    "name": "Cauldron Caves",
    "backgroundColor": "#5e707f",
    "code": "idrotf",
    "entity": "Scene",
+   "id": "scenes/idrotf-scene-1.10",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 52
    },
    "img": {
@@ -121,7 +122,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

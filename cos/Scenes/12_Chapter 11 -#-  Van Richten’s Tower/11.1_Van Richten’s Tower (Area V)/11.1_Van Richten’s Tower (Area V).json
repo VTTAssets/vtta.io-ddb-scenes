@@ -1,9 +1,10 @@
 {
-   "id": "scenes/cos-scene-11.1",
    "name": "Van Richten’s Tower (Area V)",
    "backgroundColor": "#89897f",
    "code": "cos",
    "entity": "Scene",
+   "id": "scenes/cos-scene-11.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 71
    },
    "img": {
@@ -102,7 +103,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

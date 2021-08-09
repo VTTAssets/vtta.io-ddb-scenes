@@ -1,9 +1,10 @@
 {
-   "id": "scenes/lmop-scene-3.2",
    "name": "Cragmaw Castle",
    "backgroundColor": "#777259",
    "code": "lmop",
    "entity": "Scene",
+   "id": "scenes/lmop-scene-3.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 143
    },
    "img": {
@@ -209,7 +210,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

@@ -1,9 +1,10 @@
 {
-   "id": "scenes/toa-scene-2.5",
    "name": "Dungrunglung",
    "backgroundColor": "#6c6554",
    "code": "toa",
    "entity": "Scene",
+   "id": "scenes/toa-scene-2.5",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -66,7 +67,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

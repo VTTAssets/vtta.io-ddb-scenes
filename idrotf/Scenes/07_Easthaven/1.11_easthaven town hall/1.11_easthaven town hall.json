@@ -1,9 +1,10 @@
 {
-   "id": "scenes/idrotf-scene-1.11",
    "name": "easthaven town hall",
    "backgroundColor": "#84939f",
    "code": "idrotf",
    "entity": "Scene",
+   "id": "scenes/idrotf-scene-1.11",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
-      "type": 1,
-      "units": "ft"
+      "type": 1
    },
    "img": {
       "height": 2746,
@@ -201,7 +202,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

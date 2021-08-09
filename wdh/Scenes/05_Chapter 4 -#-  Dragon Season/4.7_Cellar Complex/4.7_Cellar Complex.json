@@ -1,9 +1,10 @@
 {
-   "id": "scenes/wdh-scene-4.7",
    "name": "Cellar Complex",
    "backgroundColor": "#f9f9f9",
    "code": "wdh",
    "entity": "Scene",
+   "id": "scenes/wdh-scene-4.7",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 62
    },
    "img": {
@@ -86,7 +87,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

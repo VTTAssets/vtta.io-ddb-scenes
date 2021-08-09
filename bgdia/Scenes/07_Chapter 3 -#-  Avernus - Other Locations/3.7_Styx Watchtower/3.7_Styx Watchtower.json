@@ -1,9 +1,10 @@
 {
-   "id": "scenes/bgdia-scene-3.7",
    "name": "Styx Watchtower",
    "backgroundColor": "#ffffff",
    "code": "bgdia",
    "entity": "Scene",
+   "id": "scenes/bgdia-scene-3.7",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 154
    },
    "img": {
@@ -46,7 +47,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

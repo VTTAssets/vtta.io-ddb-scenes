@@ -1,9 +1,10 @@
 {
-   "id": "scenes/bgdia-scene-2.1",
    "name": "Elturel",
    "backgroundColor": "#d5ac87",
    "code": "bgdia",
    "entity": "Scene",
+   "id": "scenes/bgdia-scene-2.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 82
    },
    "img": {
@@ -61,7 +62,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

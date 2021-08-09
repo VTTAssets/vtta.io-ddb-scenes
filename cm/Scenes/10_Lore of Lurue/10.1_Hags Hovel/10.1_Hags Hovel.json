@@ -1,8 +1,9 @@
 {
-   "id": "scenes/cm-scene-10.1",
    "name": "Hags Hovel",
    "code": "cm",
    "entity": "Scene",
+   "id": "scenes/cm-scene-10.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -11,9 +12,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -43,5 +44,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene"
+   "walls": [
+   ]
 }

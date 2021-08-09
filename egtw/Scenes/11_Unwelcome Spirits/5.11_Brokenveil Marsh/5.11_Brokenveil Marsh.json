@@ -1,8 +1,9 @@
 {
-   "id": "scenes/egtw-scene-5.11",
    "name": "Brokenveil Marsh",
    "code": "egtw",
    "entity": "Scene",
+   "id": "scenes/egtw-scene-5.11",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -11,9 +12,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -73,5 +74,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene"
+   "walls": [
+   ]
 }

@@ -1,9 +1,10 @@
 {
-   "id": "scenes/gos-scene-2.3",
    "name": "The Sea Ghost",
    "backgroundColor": "#fafafb",
    "code": "gos",
    "entity": "Scene",
+   "id": "scenes/gos-scene-2.3",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 0,
-      "units": "ft",
       "value": 166
    },
    "img": {
@@ -175,7 +176,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

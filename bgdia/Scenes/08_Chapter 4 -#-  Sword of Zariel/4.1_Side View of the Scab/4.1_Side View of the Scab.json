@@ -1,9 +1,10 @@
 {
-   "id": "scenes/bgdia-scene-4.1",
    "name": "Side View of the Scab",
    "backgroundColor": "#c8c8c8",
    "code": "bgdia",
    "entity": "Scene",
+   "id": "scenes/bgdia-scene-4.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 127
    },
    "img": {
@@ -101,7 +102,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

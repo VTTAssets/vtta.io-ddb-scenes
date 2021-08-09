@@ -1,9 +1,10 @@
 {
-   "id": "scenes/pota-scene-3.4",
    "name": "Sacred Stone Monastery",
    "backgroundColor": "#948d7c",
    "code": "pota",
    "entity": "Scene",
+   "id": "scenes/pota-scene-3.4",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 105
    },
    "img": {
@@ -151,7 +152,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

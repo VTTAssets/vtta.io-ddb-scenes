@@ -1,9 +1,10 @@
 {
-   "id": "scenes/hotdq-scene-6.1",
    "name": "Castle Naerytar - Ground Level",
    "backgroundColor": "#988979",
    "code": "hotdq",
    "entity": "Scene",
+   "id": "scenes/hotdq-scene-6.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 20,
       "type": 1,
-      "units": "ft",
       "value": 128
    },
    "img": {
@@ -279,7 +280,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

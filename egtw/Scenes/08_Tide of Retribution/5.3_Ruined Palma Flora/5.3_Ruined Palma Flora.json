@@ -1,8 +1,9 @@
 {
-   "id": "scenes/egtw-scene-5.3",
    "name": "Ruined Palma Flora",
    "code": "egtw",
    "entity": "Scene",
+   "id": "scenes/egtw-scene-5.3",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -11,9 +12,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -78,5 +79,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene"
+   "walls": [
+   ]
 }

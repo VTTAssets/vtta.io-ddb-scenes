@@ -1,9 +1,10 @@
 {
-   "id": "scenes/gos-scene-7.4",
    "name": "The Hermitage (Rest)",
    "backgroundColor": "#ffffff",
    "code": "gos",
    "entity": "Scene",
+   "id": "scenes/gos-scene-7.4",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 68
    },
    "img": {
@@ -51,7 +52,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

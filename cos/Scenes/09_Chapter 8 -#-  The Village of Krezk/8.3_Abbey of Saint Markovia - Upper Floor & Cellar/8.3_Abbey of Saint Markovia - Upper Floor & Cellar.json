@@ -1,9 +1,10 @@
 {
-   "id": "scenes/cos-scene-8.3",
    "name": "Abbey of Saint Markovia - Upper Floor & Cellar",
    "backgroundColor": "#72766c",
    "code": "cos",
    "entity": "Scene",
+   "id": "scenes/cos-scene-8.3",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 69
    },
    "img": {
@@ -76,7 +77,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

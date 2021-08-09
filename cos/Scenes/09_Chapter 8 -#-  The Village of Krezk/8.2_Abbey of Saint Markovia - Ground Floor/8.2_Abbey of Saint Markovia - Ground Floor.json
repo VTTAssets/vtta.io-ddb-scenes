@@ -1,9 +1,10 @@
 {
-   "id": "scenes/cos-scene-8.2",
    "name": "Abbey of Saint Markovia - Ground Floor",
    "backgroundColor": "#5f655a",
    "code": "cos",
    "entity": "Scene",
+   "id": "scenes/cos-scene-8.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 69
    },
    "img": {
@@ -81,7 +82,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

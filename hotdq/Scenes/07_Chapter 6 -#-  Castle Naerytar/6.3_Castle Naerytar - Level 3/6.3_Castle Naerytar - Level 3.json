@@ -1,9 +1,10 @@
 {
-   "id": "scenes/hotdq-scene-6.3",
    "name": "Castle Naerytar - Level 3",
    "backgroundColor": "#907c6b",
    "code": "hotdq",
    "entity": "Scene",
+   "id": "scenes/hotdq-scene-6.3",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 20,
       "type": 1,
-      "units": "ft",
       "value": 124
    },
    "img": {
@@ -139,7 +140,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

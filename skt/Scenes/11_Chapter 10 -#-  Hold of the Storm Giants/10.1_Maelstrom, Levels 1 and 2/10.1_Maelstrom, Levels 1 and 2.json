@@ -1,9 +1,10 @@
 {
-   "id": "scenes/skt-scene-10.1",
    "name": "Maelstrom, Levels 1 and 2",
    "backgroundColor": "#2e3448",
    "code": "skt",
    "entity": "Scene",
+   "id": "scenes/skt-scene-10.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -176,7 +177,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

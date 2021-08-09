@@ -1,9 +1,10 @@
 {
-   "id": "scenes/skt-scene-2.1",
    "name": "Bryn Shander",
    "backgroundColor": "#e1c69d",
    "code": "skt",
    "entity": "Scene",
+   "id": "scenes/skt-scene-2.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 100,
       "type": 1,
-      "units": "ft",
       "value": 51
    },
    "img": {
@@ -165,7 +166,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

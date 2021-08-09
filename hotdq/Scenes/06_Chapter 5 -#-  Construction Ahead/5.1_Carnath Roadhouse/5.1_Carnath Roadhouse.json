@@ -1,9 +1,10 @@
 {
-   "id": "scenes/hotdq-scene-5.1",
    "name": "Carnath Roadhouse",
    "backgroundColor": "#a09082",
    "code": "hotdq",
    "entity": "Scene",
+   "id": "scenes/hotdq-scene-5.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 20,
       "type": 1,
-      "units": "ft",
       "value": 93
    },
    "img": {
@@ -159,7 +160,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

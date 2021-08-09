@@ -1,9 +1,10 @@
 {
-   "id": "scenes/bgdia-scene-1.6",
    "name": "Under the Villa",
    "backgroundColor": "#ffffff",
    "code": "bgdia",
    "entity": "Scene",
+   "id": "scenes/bgdia-scene-1.6",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 93
    },
    "img": {
@@ -740,7 +741,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

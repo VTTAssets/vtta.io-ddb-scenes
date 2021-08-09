@@ -1,9 +1,10 @@
 {
-   "id": "scenes/toa-scene-2.8",
    "name": "Heart of Ubtao",
    "backgroundColor": "#847c69",
    "code": "toa",
    "entity": "Scene",
+   "id": "scenes/toa-scene-2.8",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
-      "type": 1,
-      "units": "ft"
+      "type": 1
    },
    "img": {
       "height": 1900,
@@ -60,7 +61,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

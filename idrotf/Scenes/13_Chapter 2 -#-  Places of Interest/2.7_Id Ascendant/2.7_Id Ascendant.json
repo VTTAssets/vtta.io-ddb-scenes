@@ -1,9 +1,10 @@
 {
-   "id": "scenes/idrotf-scene-2.7",
    "name": "Id Ascendant",
    "backgroundColor": "#5c707a",
    "code": "idrotf",
    "entity": "Scene",
+   "id": "scenes/idrotf-scene-2.7",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
-      "type": 1,
-      "units": "ft"
+      "type": 1
    },
    "img": {
       "height": 2765,
@@ -75,7 +76,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

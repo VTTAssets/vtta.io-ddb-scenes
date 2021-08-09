@@ -1,9 +1,10 @@
 {
-   "id": "scenes/cos-scene-B.1",
    "name": "Death House",
    "backgroundColor": "#aaa993",
    "code": "cos",
    "entity": "Scene",
+   "id": "scenes/cos-scene-B.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 165
    },
    "img": {
@@ -441,10 +442,10 @@
    ],
    "lights": [
       {
+         "t": "g",
          "bright": 35,
          "darknessThreshold": 0,
          "dim": 45,
-         "t": "g",
          "tintAlpha": 0.5,
          "x": 2640,
          "y": 3547
@@ -452,7 +453,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

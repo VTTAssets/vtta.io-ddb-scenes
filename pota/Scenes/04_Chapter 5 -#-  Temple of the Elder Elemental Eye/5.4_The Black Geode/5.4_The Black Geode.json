@@ -1,9 +1,10 @@
 {
-   "id": "scenes/pota-scene-5.4",
    "name": "The Black Geode",
    "backgroundColor": "#62626a",
    "code": "pota",
    "entity": "Scene",
+   "id": "scenes/pota-scene-5.4",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 90
    },
    "img": {
@@ -116,7 +117,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

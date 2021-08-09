@@ -1,9 +1,10 @@
 {
-   "id": "scenes/gos-scene-1.1",
    "name": "Chapter 1: Saltmarsh",
    "backgroundColor": "#7d7f6b",
    "code": "gos",
    "entity": "Scene",
+   "id": "scenes/gos-scene-1.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 100,
       "type": 1,
-      "units": "ft",
       "value": 56
    },
    "img": {
@@ -301,7 +302,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

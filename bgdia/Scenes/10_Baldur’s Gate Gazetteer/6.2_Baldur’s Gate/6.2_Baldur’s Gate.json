@@ -1,9 +1,10 @@
 {
-   "id": "scenes/bgdia-scene-6.2",
    "name": "Baldur’s Gate",
    "backgroundColor": "#bdb092",
    "code": "bgdia",
    "entity": "Scene",
+   "id": "scenes/bgdia-scene-6.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 500,
       "type": 1,
-      "units": "ft",
       "value": 90
    },
    "img": {
@@ -296,7 +297,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

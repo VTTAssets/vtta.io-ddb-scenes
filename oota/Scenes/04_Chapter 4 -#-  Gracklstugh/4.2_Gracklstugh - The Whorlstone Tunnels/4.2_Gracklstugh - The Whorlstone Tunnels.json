@@ -1,9 +1,10 @@
 {
-   "id": "scenes/oota-scene-4.2",
    "name": "Gracklstugh - The Whorlstone Tunnels",
    "backgroundColor": "#6d5f4d",
    "code": "oota",
    "entity": "Scene",
+   "id": "scenes/oota-scene-4.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 52
    },
    "img": {
@@ -116,7 +117,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

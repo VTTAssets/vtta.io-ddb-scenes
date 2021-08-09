@@ -1,9 +1,10 @@
 {
-   "id": "scenes/doip-scene-1.1",
    "name": "Axeholm",
    "backgroundColor": "#6c654d",
    "code": "doip",
    "entity": "Scene",
+   "id": "scenes/doip-scene-1.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 52
    },
    "img": {
@@ -329,7 +330,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

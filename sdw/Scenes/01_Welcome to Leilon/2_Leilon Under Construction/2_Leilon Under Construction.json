@@ -1,9 +1,10 @@
 {
-   "id": "scenes/sdw-scene-2",
    "name": "Leilon Under Construction",
    "backgroundColor": "#80817b",
    "code": "sdw",
    "entity": "Scene",
+   "id": "scenes/sdw-scene-2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 77
    },
    "img": {
@@ -91,7 +92,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

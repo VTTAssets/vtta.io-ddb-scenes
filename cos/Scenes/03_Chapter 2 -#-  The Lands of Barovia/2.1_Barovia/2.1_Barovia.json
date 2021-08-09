@@ -1,9 +1,10 @@
 {
-   "id": "scenes/cos-scene-2.1",
    "name": "Barovia",
    "backgroundColor": "#959783",
    "code": "cos",
    "entity": "Scene",
+   "id": "scenes/cos-scene-2.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 5,
-      "units": "ft",
       "value": 80
    },
    "img": {
@@ -289,7 +290,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

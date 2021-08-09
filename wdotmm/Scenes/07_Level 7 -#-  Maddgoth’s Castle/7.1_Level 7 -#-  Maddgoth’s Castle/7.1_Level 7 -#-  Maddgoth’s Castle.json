@@ -1,9 +1,10 @@
 {
-   "id": "scenes/wdotmm-scene-7.1",
    "name": "Level 7: Maddgoth’s Castle",
    "backgroundColor": "#fefefe",
    "code": "wdotmm",
    "entity": "Scene",
+   "id": "scenes/wdotmm-scene-7.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -406,7 +407,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

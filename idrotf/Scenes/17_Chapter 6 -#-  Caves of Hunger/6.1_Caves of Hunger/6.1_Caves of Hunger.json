@@ -1,9 +1,10 @@
 {
-   "id": "scenes/idrotf-scene-6.1",
    "name": "Caves of Hunger",
    "backgroundColor": "#a0b4c2",
    "code": "idrotf",
    "entity": "Scene",
+   "id": "scenes/idrotf-scene-6.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
-      "type": 1,
-      "units": "ft"
+      "type": 1
    },
    "img": {
       "height": 6000,
@@ -225,7 +226,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

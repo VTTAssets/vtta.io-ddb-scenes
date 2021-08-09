@@ -1,9 +1,10 @@
 {
-   "id": "scenes/bgdia-scene-3.5",
    "name": "Bel’s Forge",
    "backgroundColor": "#fdfdfd",
    "code": "bgdia",
    "entity": "Scene",
+   "id": "scenes/bgdia-scene-3.5",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 130
    },
    "img": {
@@ -163,7 +164,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

@@ -1,8 +1,9 @@
 {
-   "id": "scenes/doip-scene-0.1",
    "name": "The Sword Coast",
    "code": "doip",
    "entity": "Scene",
+   "id": "scenes/doip-scene-0.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -11,9 +12,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -88,5 +89,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene"
+   "walls": [
+   ]
 }

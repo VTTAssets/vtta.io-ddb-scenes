@@ -1,9 +1,10 @@
 {
-   "id": "scenes/pota-scene-4.4",
    "name": "Temple of Eternal Flame",
    "backgroundColor": "#cebc93",
    "code": "pota",
    "entity": "Scene",
+   "id": "scenes/pota-scene-4.4",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 89
    },
    "img": {
@@ -176,7 +177,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

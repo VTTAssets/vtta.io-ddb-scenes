@@ -1,9 +1,10 @@
 {
-   "id": "scenes/skt-scene-11.1",
    "name": "The Grand Dame",
    "backgroundColor": "#2b211a",
    "code": "skt",
    "entity": "Scene",
+   "id": "scenes/skt-scene-11.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 93
    },
    "img": {
@@ -106,7 +107,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

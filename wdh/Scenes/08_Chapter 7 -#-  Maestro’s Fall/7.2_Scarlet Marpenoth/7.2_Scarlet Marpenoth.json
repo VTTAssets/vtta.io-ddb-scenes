@@ -1,9 +1,10 @@
 {
-   "id": "scenes/wdh-scene-7.2",
    "name": "Scarlet Marpenoth",
    "backgroundColor": "#ffffff",
    "code": "wdh",
    "entity": "Scene",
+   "id": "scenes/wdh-scene-7.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 76
    },
    "img": {
@@ -96,7 +97,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

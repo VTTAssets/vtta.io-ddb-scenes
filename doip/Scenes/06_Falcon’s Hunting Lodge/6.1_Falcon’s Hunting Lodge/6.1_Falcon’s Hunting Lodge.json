@@ -1,9 +1,10 @@
 {
-   "id": "scenes/doip-scene-6.1",
    "name": "Falcon’s Hunting Lodge",
    "backgroundColor": "#676042",
    "code": "doip",
    "entity": "Scene",
+   "id": "scenes/doip-scene-6.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -183,7 +184,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

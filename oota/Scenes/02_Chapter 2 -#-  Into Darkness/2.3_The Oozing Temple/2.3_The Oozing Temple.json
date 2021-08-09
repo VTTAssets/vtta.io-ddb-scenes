@@ -1,9 +1,10 @@
 {
-   "id": "scenes/oota-scene-2.3",
    "name": "The Oozing Temple",
    "backgroundColor": "#7a685c",
    "code": "oota",
    "entity": "Scene",
+   "id": "scenes/oota-scene-2.3",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 108
    },
    "img": {
@@ -61,7 +62,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

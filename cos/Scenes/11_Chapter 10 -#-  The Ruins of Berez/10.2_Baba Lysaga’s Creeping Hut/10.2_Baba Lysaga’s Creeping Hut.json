@@ -1,9 +1,10 @@
 {
-   "id": "scenes/cos-scene-10.2",
    "name": "Baba Lysaga’s Creeping Hut",
    "backgroundColor": "#949585",
    "code": "cos",
    "entity": "Scene",
+   "id": "scenes/cos-scene-10.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 90
    },
    "img": {
@@ -36,7 +37,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

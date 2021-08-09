@@ -1,9 +1,10 @@
 {
-   "id": "scenes/idrotf-scene-5.1",
    "name": "Island of Solstice",
    "backgroundColor": "#9db3c1",
    "code": "idrotf",
    "entity": "Scene",
+   "id": "scenes/idrotf-scene-5.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
-      "type": 1,
-      "units": "ft"
+      "type": 1
    },
    "img": {
       "height": 5000,
@@ -60,7 +61,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

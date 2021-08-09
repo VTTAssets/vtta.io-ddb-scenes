@@ -1,9 +1,10 @@
 {
-   "id": "scenes/dc-scene-1",
    "name": "The Sword Coast",
    "backgroundColor": "#5a523d",
    "code": "dc",
    "entity": "Scene",
+   "id": "scenes/dc-scene-1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
-      "type": 1,
-      "units": "ft"
+      "type": 1
    },
    "img": {
       "height": 3000,
@@ -90,7 +91,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

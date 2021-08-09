@@ -1,9 +1,10 @@
 {
-   "id": "scenes/pota-scene-6.7",
    "name": "Shrine of the Tender Oath",
    "backgroundColor": "#c3b389",
    "code": "pota",
    "entity": "Scene",
+   "id": "scenes/pota-scene-6.7",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 64
    },
    "img": {
@@ -66,7 +67,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

@@ -1,9 +1,10 @@
 {
-   "id": "scenes/wdh-scene-7.1",
    "name": "Ships of the Sea Maidens Faire",
    "backgroundColor": "#ffffff",
    "code": "wdh",
    "entity": "Scene",
+   "id": "scenes/wdh-scene-7.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 51
    },
    "img": {
@@ -191,7 +192,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

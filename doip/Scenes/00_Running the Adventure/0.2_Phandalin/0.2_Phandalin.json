@@ -1,9 +1,10 @@
 {
-   "id": "scenes/doip-scene-0.2",
    "name": "Phandalin",
    "backgroundColor": "#606356",
    "code": "doip",
    "entity": "Scene",
+   "id": "scenes/doip-scene-0.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 50,
       "type": 1,
-      "units": "ft",
       "value": 71
    },
    "img": {
@@ -85,7 +86,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

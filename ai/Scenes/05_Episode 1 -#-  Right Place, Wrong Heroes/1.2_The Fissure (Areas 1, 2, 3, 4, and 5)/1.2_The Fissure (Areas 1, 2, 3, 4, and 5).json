@@ -1,8 +1,9 @@
 {
-   "id": "scenes/ai-scene-1.2",
    "name": "The Fissure (Areas 1, 2, 3, 4, and 5)",
    "code": "ai",
    "entity": "Scene",
+   "id": "scenes/ai-scene-1.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -11,9 +12,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -78,5 +79,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene"
+   "walls": [
+   ]
 }

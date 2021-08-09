@@ -1,9 +1,10 @@
 {
-   "id": "scenes/cos-scene-14.1",
    "name": "Yester Hill (Area Y)",
    "backgroundColor": "#7d8379",
    "code": "cos",
    "entity": "Scene",
+   "id": "scenes/cos-scene-14.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 50,
       "type": 1,
-      "units": "ft",
       "value": 54
    },
    "img": {
@@ -92,7 +93,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

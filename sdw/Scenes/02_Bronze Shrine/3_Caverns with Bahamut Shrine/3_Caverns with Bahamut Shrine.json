@@ -1,9 +1,10 @@
 {
-   "id": "scenes/sdw-scene-3",
    "name": "Caverns with Bahamut Shrine",
    "backgroundColor": "#6f7061",
    "code": "sdw",
    "entity": "Scene",
+   "id": "scenes/sdw-scene-3",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 86
    },
    "img": {
@@ -143,7 +144,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

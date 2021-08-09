@@ -1,9 +1,10 @@
 {
-   "id": "scenes/dc-scene-2",
    "name": "Leilon Town",
    "backgroundColor": "#80817b",
    "code": "dc",
    "entity": "Scene",
+   "id": "scenes/dc-scene-2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 77
    },
    "img": {
@@ -106,7 +107,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

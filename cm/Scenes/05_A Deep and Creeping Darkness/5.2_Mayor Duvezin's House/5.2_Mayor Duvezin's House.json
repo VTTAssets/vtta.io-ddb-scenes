@@ -1,8 +1,9 @@
 {
-   "id": "scenes/cm-scene-5.2",
    "name": "Mayor Duvezin's House",
    "code": "cm",
    "entity": "Scene",
+   "id": "scenes/cm-scene-5.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -11,9 +12,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -83,5 +84,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene"
+   "walls": [
+   ]
 }

@@ -1,9 +1,10 @@
 {
-   "id": "scenes/tftyp-scene-2.3",
    "name": "The Glitterhame",
    "backgroundColor": "#1f1f1f",
    "code": "tftyp",
    "entity": "Scene",
+   "id": "scenes/tftyp-scene-2.3",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -165,7 +166,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

@@ -1,8 +1,9 @@
 {
-   "id": "scenes/cm-scene-3.1",
    "name": "Amberdune Hideout",
    "code": "cm",
    "entity": "Scene",
+   "id": "scenes/cm-scene-3.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -11,9 +12,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -58,5 +59,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene"
+   "walls": [
+   ]
 }

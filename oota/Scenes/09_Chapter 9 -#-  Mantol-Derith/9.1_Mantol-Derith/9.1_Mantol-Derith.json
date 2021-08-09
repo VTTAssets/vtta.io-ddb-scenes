@@ -1,9 +1,10 @@
 {
-   "id": "scenes/oota-scene-9.1",
    "name": "Mantol-Derith",
    "backgroundColor": "#816e62",
    "code": "oota",
    "entity": "Scene",
+   "id": "scenes/oota-scene-9.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 20,
       "type": 1,
-      "units": "ft",
       "value": 76
    },
    "img": {
@@ -141,7 +142,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

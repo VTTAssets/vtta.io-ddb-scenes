@@ -1,9 +1,10 @@
 {
-   "id": "scenes/pota-scene-4.3",
    "name": "Temple of Black Earth",
    "backgroundColor": "#ccba90",
    "code": "pota",
    "entity": "Scene",
+   "id": "scenes/pota-scene-4.3",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 88
    },
    "img": {
@@ -151,7 +152,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

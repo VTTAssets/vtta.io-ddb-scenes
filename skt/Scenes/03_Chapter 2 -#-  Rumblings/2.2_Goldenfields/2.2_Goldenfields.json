@@ -1,9 +1,10 @@
 {
-   "id": "scenes/skt-scene-2.2",
    "name": "Goldenfields",
    "backgroundColor": "#6f4e2b",
    "code": "skt",
    "entity": "Scene",
+   "id": "scenes/skt-scene-2.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "mi",
       "distance": 0.25,
       "type": 0,
-      "units": "mi",
       "value": 79
    },
    "img": {
@@ -295,7 +296,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

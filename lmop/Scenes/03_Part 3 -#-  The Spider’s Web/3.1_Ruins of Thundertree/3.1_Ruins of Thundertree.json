@@ -1,9 +1,10 @@
 {
-   "id": "scenes/lmop-scene-3.1",
    "name": "Ruins of Thundertree",
    "backgroundColor": "#7d765d",
    "code": "lmop",
    "entity": "Scene",
+   "id": "scenes/lmop-scene-3.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 150
    },
    "img": {
@@ -148,7 +149,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

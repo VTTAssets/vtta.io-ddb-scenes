@@ -1,9 +1,10 @@
 {
-   "id": "scenes/toa-scene-2.14",
    "name": "Wyrmheart Mine",
    "backgroundColor": "#766e5f",
    "code": "toa",
    "entity": "Scene",
+   "id": "scenes/toa-scene-2.14",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -279,7 +280,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

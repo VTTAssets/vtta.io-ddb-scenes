@@ -1,9 +1,10 @@
 {
-   "id": "scenes/cos-scene-15.1",
    "name": "Werewolf Den (Area Z)",
    "backgroundColor": "#666b64",
    "code": "cos",
    "entity": "Scene",
+   "id": "scenes/cos-scene-15.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 74
    },
    "img": {
@@ -369,7 +370,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

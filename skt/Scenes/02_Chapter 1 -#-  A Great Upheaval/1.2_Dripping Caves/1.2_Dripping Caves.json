@@ -1,9 +1,10 @@
 {
-   "id": "scenes/skt-scene-1.2",
    "name": "Dripping Caves",
    "backgroundColor": "#494132",
    "code": "skt",
    "entity": "Scene",
+   "id": "scenes/skt-scene-1.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 53
    },
    "img": {
@@ -208,7 +209,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

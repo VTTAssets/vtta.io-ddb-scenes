@@ -1,9 +1,10 @@
 {
-   "id": "scenes/gos-scene-1.2",
    "name": "Saltmarsh Region",
    "backgroundColor": "#d1dbe6",
    "code": "gos",
    "entity": "Scene",
+   "id": "scenes/gos-scene-1.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "yards",
       "distance": 7500,
       "type": 2,
-      "units": "yards",
       "value": 200
    },
    "img": {
@@ -148,7 +149,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

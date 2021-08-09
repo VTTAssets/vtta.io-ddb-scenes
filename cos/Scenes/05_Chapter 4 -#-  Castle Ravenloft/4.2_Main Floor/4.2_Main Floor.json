@@ -1,9 +1,10 @@
 {
-   "id": "scenes/cos-scene-4.2",
    "name": "Main Floor",
    "backgroundColor": "#b2b5b8",
    "code": "cos",
    "entity": "Scene",
+   "id": "scenes/cos-scene-4.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 54
    },
    "img": {
@@ -131,7 +132,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

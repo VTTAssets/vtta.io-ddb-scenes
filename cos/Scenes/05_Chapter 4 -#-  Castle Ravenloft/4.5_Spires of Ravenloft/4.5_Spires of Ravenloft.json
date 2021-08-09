@@ -1,9 +1,10 @@
 {
-   "id": "scenes/cos-scene-4.5",
    "name": "Spires of Ravenloft",
    "backgroundColor": "#dadcdd",
    "code": "cos",
    "entity": "Scene",
+   "id": "scenes/cos-scene-4.5",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 61
    },
    "img": {
@@ -81,7 +82,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

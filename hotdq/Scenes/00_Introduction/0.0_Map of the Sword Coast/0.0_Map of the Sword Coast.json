@@ -1,8 +1,9 @@
 {
-   "id": "scenes/hotdq-scene-0.0",
    "name": "Map of the Sword Coast",
    "code": "hotdq",
    "entity": "Scene",
+   "id": "scenes/hotdq-scene-0.0",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -11,9 +12,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -28,5 +29,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene"
+   "walls": [
+   ]
 }

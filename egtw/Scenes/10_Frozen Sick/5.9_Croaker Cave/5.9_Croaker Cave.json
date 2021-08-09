@@ -1,8 +1,9 @@
 {
-   "id": "scenes/egtw-scene-5.9",
    "name": "Croaker Cave",
    "code": "egtw",
    "entity": "Scene",
+   "id": "scenes/egtw-scene-5.9",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -11,9 +12,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -58,5 +59,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene"
+   "walls": [
+   ]
 }

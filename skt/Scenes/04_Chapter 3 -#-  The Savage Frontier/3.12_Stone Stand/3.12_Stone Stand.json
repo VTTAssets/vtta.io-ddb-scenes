@@ -1,9 +1,10 @@
 {
-   "id": "scenes/skt-scene-3.12",
    "name": "Stone Stand",
    "backgroundColor": "#6c584a",
    "code": "skt",
    "entity": "Scene",
+   "id": "scenes/skt-scene-3.12",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 105
    },
    "img": {
@@ -31,7 +32,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

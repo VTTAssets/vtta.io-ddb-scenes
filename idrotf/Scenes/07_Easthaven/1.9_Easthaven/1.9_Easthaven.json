@@ -1,9 +1,10 @@
 {
-   "id": "scenes/idrotf-scene-1.9",
    "name": "Easthaven",
    "backgroundColor": "#babab8",
    "code": "idrotf",
    "entity": "Scene",
+   "id": "scenes/idrotf-scene-1.9",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 100,
       "type": 1,
-      "units": "ft",
       "value": 64
    },
    "img": {
@@ -58,7 +59,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

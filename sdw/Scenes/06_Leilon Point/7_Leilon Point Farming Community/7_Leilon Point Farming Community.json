@@ -1,9 +1,10 @@
 {
-   "id": "scenes/sdw-scene-7",
    "name": "Leilon Point Farming Community",
    "backgroundColor": "#717d62",
    "code": "sdw",
    "entity": "Scene",
+   "id": "scenes/sdw-scene-7",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 85
    },
    "img": {
@@ -67,7 +68,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

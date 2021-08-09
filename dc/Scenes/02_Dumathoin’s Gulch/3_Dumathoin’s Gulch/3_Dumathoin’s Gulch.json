@@ -1,9 +1,10 @@
 {
-   "id": "scenes/dc-scene-3",
    "name": "Dumathoin’s Gulch",
    "backgroundColor": "#453b2e",
    "code": "dc",
    "entity": "Scene",
+   "id": "scenes/dc-scene-3",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 136
    },
    "img": {
@@ -51,7 +52,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

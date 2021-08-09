@@ -1,9 +1,10 @@
 {
-   "id": "scenes/idrotf-scene-1.19",
    "name": "Gem Mine",
    "backgroundColor": "#8498a7",
    "code": "idrotf",
    "entity": "Scene",
+   "id": "scenes/idrotf-scene-1.19",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
-      "type": 1,
-      "units": "ft"
+      "type": 1
    },
    "img": {
       "height": 2765,
@@ -95,7 +96,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

@@ -1,9 +1,10 @@
 {
-   "id": "scenes/doip-scene-5.1",
    "name": "Dwarven Excavation",
    "backgroundColor": "#565b4d",
    "code": "doip",
    "entity": "Scene",
+   "id": "scenes/doip-scene-5.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -150,7 +151,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

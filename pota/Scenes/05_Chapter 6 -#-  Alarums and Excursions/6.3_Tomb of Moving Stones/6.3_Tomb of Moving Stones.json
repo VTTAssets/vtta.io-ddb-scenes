@@ -1,9 +1,10 @@
 {
-   "id": "scenes/pota-scene-6.3",
    "name": "Tomb of Moving Stones",
    "backgroundColor": "#d0bf9d",
    "code": "pota",
    "entity": "Scene",
+   "id": "scenes/pota-scene-6.3",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 68
    },
    "img": {
@@ -76,7 +77,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

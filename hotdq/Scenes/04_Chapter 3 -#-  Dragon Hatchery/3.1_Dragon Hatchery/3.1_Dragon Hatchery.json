@@ -1,9 +1,10 @@
 {
-   "id": "scenes/hotdq-scene-3.1",
    "name": "Dragon Hatchery",
    "backgroundColor": "#948069",
    "code": "hotdq",
    "entity": "Scene",
+   "id": "scenes/hotdq-scene-3.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 55
    },
    "img": {
@@ -252,55 +253,55 @@
          "y": 2805
       },
       {
+         "t": "g",
          "bright": 1000,
          "darknessThreshold": 0,
          "dim": 1000,
-         "t": "g",
          "tintAlpha": 1,
          "x": 907,
          "y": 715
       },
       {
+         "t": "g",
          "bright": 1000,
          "darknessThreshold": 0,
          "dim": 1000,
-         "t": "g",
          "tintAlpha": 1,
          "x": 4207,
          "y": 770
       },
       {
+         "t": "g",
          "bright": 1000,
          "darknessThreshold": 0,
          "dim": 1000,
-         "t": "g",
          "tintAlpha": 1,
          "x": 935,
          "y": 3162
       },
       {
+         "t": "g",
          "bright": 1000,
          "darknessThreshold": 0,
          "dim": 1000,
-         "t": "g",
          "tintAlpha": 1,
          "x": 4235,
          "y": 3162
       },
       {
+         "t": "g",
          "bright": 1000,
          "darknessThreshold": 0,
          "dim": 1000,
-         "t": "g",
          "tintAlpha": 1,
          "x": 2887,
          "y": 3135
       },
       {
+         "t": "g",
          "bright": 1000,
          "darknessThreshold": 0,
          "dim": 1000,
-         "t": "g",
          "tintAlpha": 1,
          "x": 4235,
          "y": 2145
@@ -676,7 +677,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

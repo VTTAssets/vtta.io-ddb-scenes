@@ -1,9 +1,10 @@
 {
-   "id": "scenes/cos-scene-4.7",
    "name": "Larders of Ill Omen, Dungeon and Catacombs",
    "backgroundColor": "#b1b4b7",
    "code": "cos",
    "entity": "Scene",
+   "id": "scenes/cos-scene-4.7",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 76
    },
    "img": {
@@ -246,7 +247,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

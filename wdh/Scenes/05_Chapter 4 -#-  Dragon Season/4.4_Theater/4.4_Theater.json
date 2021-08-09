@@ -1,9 +1,10 @@
 {
-   "id": "scenes/wdh-scene-4.4",
    "name": "Theater",
    "backgroundColor": "#f7f7f7",
    "code": "wdh",
    "entity": "Scene",
+   "id": "scenes/wdh-scene-4.4",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 61
    },
    "img": {
@@ -71,7 +72,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

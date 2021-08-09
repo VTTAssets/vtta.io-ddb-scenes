@@ -1,9 +1,10 @@
 {
-   "id": "scenes/rot-scene-10.1",
    "name": "Arauthator’s Iceberg and Lair",
    "backgroundColor": "#685344",
    "code": "rot",
    "entity": "Scene",
+   "id": "scenes/rot-scene-10.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 15,
       "type": 1,
-      "units": "ft",
       "value": 85
    },
    "img": {
@@ -136,7 +137,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

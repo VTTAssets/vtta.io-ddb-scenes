@@ -1,9 +1,10 @@
 {
-   "id": "scenes/cos-scene-7.2",
    "name": "Argynvostholt (Area Q): Upper Levels",
    "backgroundColor": "#7c8075",
    "code": "cos",
    "entity": "Scene",
+   "id": "scenes/cos-scene-7.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
       "type": 1,
-      "units": "ft",
       "value": 72
    },
    "img": {
@@ -166,7 +167,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

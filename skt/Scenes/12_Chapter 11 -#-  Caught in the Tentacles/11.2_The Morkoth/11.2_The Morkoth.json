@@ -1,9 +1,10 @@
 {
-   "id": "scenes/skt-scene-11.2",
    "name": "The Morkoth",
    "backgroundColor": "#7e5d39",
    "code": "skt",
    "entity": "Scene",
+   "id": "scenes/skt-scene-11.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 51
    },
    "img": {
@@ -66,7 +67,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

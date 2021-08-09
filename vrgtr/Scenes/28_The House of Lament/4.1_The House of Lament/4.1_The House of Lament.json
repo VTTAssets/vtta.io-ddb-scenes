@@ -1,8 +1,9 @@
 {
-   "id": "scenes/vrgtr-scene-4.1",
    "name": "The House of Lament",
    "code": "vrgtr",
    "entity": "Scene",
+   "id": "scenes/vrgtr-scene-4.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -11,9 +12,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -188,5 +189,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene"
+   "walls": [
+   ]
 }

@@ -1,9 +1,10 @@
 {
-   "id": "scenes/wdh-scene-8.2",
    "name": "Extradimensional Sanctum",
    "backgroundColor": "#fcfcfc",
    "code": "wdh",
    "entity": "Scene",
+   "id": "scenes/wdh-scene-8.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 60
    },
    "img": {
@@ -96,7 +97,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

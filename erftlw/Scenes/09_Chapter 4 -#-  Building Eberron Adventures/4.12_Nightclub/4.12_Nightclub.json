@@ -1,8 +1,9 @@
 {
-   "id": "scenes/erftlw-scene-4.12",
    "name": "Nightclub",
    "code": "erftlw",
    "entity": "Scene",
+   "id": "scenes/erftlw-scene-4.12",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -11,9 +12,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -28,5 +29,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene"
+   "walls": [
+   ]
 }

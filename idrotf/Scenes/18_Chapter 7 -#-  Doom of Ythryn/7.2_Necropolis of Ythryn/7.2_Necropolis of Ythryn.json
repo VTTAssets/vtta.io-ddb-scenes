@@ -1,9 +1,10 @@
 {
-   "id": "scenes/idrotf-scene-7.2",
    "name": "Necropolis of Ythryn",
    "backgroundColor": "#7698b1",
    "code": "idrotf",
    "entity": "Scene",
+   "id": "scenes/idrotf-scene-7.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
-      "type": 1,
-      "units": "ft"
+      "type": 1
    },
    "img": {
       "height": 3100,
@@ -120,7 +121,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

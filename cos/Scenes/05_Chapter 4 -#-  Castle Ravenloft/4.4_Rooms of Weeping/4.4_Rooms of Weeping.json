@@ -1,9 +1,10 @@
 {
-   "id": "scenes/cos-scene-4.4",
    "name": "Rooms of Weeping",
    "backgroundColor": "#c0c0bf",
    "code": "cos",
    "entity": "Scene",
+   "id": "scenes/cos-scene-4.4",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 58
    },
    "img": {
@@ -91,7 +92,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

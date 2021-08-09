@@ -1,9 +1,10 @@
 {
-   "id": "scenes/ddvram-scene-1.1",
    "name": "The Lost Dungeon of Rickedness",
    "backgroundColor": "#bdd1e6",
    "code": "ddvram",
    "entity": "Scene",
+   "id": "scenes/ddvram-scene-1.1",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 61
    },
    "img": {
@@ -378,7 +379,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

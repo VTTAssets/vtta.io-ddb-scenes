@@ -1,9 +1,10 @@
 {
-   "id": "scenes/bgdia-scene-1.2",
    "name": "Elfsong Tavern",
    "backgroundColor": "#fcfcfc",
    "code": "bgdia",
    "entity": "Scene",
+   "id": "scenes/bgdia-scene-1.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 165
    },
    "img": {
@@ -152,7 +153,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [

@@ -1,8 +1,9 @@
 {
-   "id": "scenes/wa-scene-5.10",
    "name": "Salsvault",
    "code": "wa",
    "entity": "Scene",
+   "id": "scenes/wa-scene-5.10",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -11,9 +12,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 50
    },
    "img": {
@@ -118,5 +119,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene"
+   "walls": [
+   ]
 }

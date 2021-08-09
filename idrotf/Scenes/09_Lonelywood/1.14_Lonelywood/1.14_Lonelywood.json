@@ -1,9 +1,10 @@
 {
-   "id": "scenes/idrotf-scene-1.14",
    "name": "Lonelywood",
    "backgroundColor": "#b0b0ad",
    "code": "idrotf",
    "entity": "Scene",
+   "id": "scenes/idrotf-scene-1.14",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
-      "type": 1,
-      "units": "ft"
+      "type": 1
    },
    "img": {
       "height": 3000,
@@ -45,7 +46,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

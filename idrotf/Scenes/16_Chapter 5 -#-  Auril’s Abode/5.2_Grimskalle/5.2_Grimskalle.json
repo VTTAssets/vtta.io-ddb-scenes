@@ -1,9 +1,10 @@
 {
-   "id": "scenes/idrotf-scene-5.2",
    "name": "Grimskalle",
    "backgroundColor": "#9cb1c0",
    "code": "idrotf",
    "entity": "Scene",
+   "id": "scenes/idrotf-scene-5.2",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 10,
-      "type": 1,
-      "units": "ft"
+      "type": 1
    },
    "img": {
       "height": 5000,
@@ -145,7 +146,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
    ]
 }

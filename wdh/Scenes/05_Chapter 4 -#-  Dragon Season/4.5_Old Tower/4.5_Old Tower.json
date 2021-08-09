@@ -1,9 +1,10 @@
 {
-   "id": "scenes/wdh-scene-4.5",
    "name": "Old Tower",
    "backgroundColor": "#ffffff",
    "code": "wdh",
    "entity": "Scene",
+   "id": "scenes/wdh-scene-4.5",
+   "type": "scene",
    "flags": {
       "vtta": {
          "folders": [
@@ -12,9 +13,9 @@
       }
    },
    "grid": {
+      "units": "ft",
       "distance": 5,
       "type": 1,
-      "units": "ft",
       "value": 51
    },
    "img": {
@@ -76,7 +77,6 @@
    ],
    "monsters": [
    ],
-   "type": "scene",
    "walls": [
       {
          "c": [
