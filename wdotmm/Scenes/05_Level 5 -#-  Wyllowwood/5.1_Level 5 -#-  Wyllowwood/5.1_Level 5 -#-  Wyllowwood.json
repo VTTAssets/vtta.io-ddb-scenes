@@ -1,318 +1,402 @@
 {
-   "name": "Level 5: Wyllowwood",
-   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-5.1",
-   "type": "scene",
+   "name": "Level 5: Wyllowwood",
+   "backgroundColor": "#fbfbfb",
+   "code": "wdotmm",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Level 5: Wyllowwood"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 6105,
       "shift": {
          "x": -23,
          "y": -25
       },
-      "width": 4542,
-      "height": 6105
+      "width": 4542
    },
    "journals": [
       {
          "id": "journals/wdotmm-scene-5.1-24c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-24b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-24a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-24",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-23b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-23a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-23",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-22d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-22c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-22b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-22a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-22",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-21b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-21a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-21",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-20",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-19c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-19b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-19a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-19",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-18d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-18c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-18b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-18a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-18",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-17",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-16d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-16c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-16b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-16a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-16",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-15",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-14",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-13",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-12c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-12b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-12a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-12",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-11b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-11a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-11",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-10",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-09",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-08",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-07",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-06k",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-06j",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-06i",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-06h",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-06g",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-06f",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-06e",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-06d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-06c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-06b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-06a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-06",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-05",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-04e",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-04d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-13",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-04a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-04",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-03b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-03a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-03",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-02e",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-02d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-02c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-02b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-02a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-02",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-5.1-01",
-         "positions": []
+         "positions": [
+         ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#fbfbfb",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -14469,14 +14553,5 @@
             7345
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "05 Level 5: Wyllowwood"
-         ]
-      }
-   }
+   ]
 }

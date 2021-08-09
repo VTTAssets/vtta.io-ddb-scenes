@@ -1,16 +1,29 @@
 {
-   "name": "Gnomengarde",
-   "code": "doip",
    "id": "scenes/doip-scene-7.1",
-   "type": "scene",
+   "name": "Gnomengarde",
+   "backgroundColor": "#5d553f",
+   "code": "doip",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Gnomengarde"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 2102,
       "shift": {
          "x": -47,
          "y": -48
       },
-      "width": 3301,
-      "height": 2102
+      "width": 3301
    },
    "journals": [
       {
@@ -149,13 +162,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#5d553f",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -3841,14 +3852,5 @@
          "move": 0,
          "sense": 2
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "07 Gnomengarde"
-         ]
-      }
-   }
+   ]
 }

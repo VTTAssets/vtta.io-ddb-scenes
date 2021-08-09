@@ -1,21 +1,35 @@
 {
-   "name": "Nine Shrines of Omu",
-   "code": "toa",
    "id": "scenes/toa-scene-3.2",
-   "type": "scene",
+   "name": "Nine Shrines of Omu",
+   "backgroundColor": "#847b67",
+   "code": "toa",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 3: Dwellers of the Forbidden City"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 150
+   },
    "img": {
+      "height": 11400,
       "shift": {
          "x": 79,
          "y": 52
       },
-      "width": 8400,
-      "height": 11400
+      "width": 8400
    },
    "journals": [
       {
          "id": "journals/toa-scene-3.2-19F",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/toa-scene-3.2-19E",
@@ -316,16 +330,15 @@
       },
       {
          "id": "journals/toa-scene-3.2-03A",
-         "positions": []
+         "positions": [
+         ]
       }
    ],
-   "grid": {
-      "value": 150,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#847b67",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -4395,14 +4408,5 @@
             9590
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "04 Chapter 3: Dwellers of the Forbidden City"
-         ]
-      }
-   }
+   ]
 }

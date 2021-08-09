@@ -1,218 +1,267 @@
 {
-   "name": "Nightstone",
-   "code": "skt",
    "id": "scenes/skt-scene-1.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -48,
-         "y": -23
-      },
-      "width": 3111,
-      "height": 4266
-   },
-   "journals": [
-      {
-         "id": "journals/skt-scene-1.1-14f",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-14e",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-14d",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-14c",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-14b",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-14a",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-14",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-13",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-12",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-11",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-10",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-09",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-08f",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-08e",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-08d",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-08c",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-08b",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-08a",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-08",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-07b",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-07a",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-07",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-06b",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-06a",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-06",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-05b",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-05a",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-05",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-04h",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-04g",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-04f",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-04e",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-04d",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-04c",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-04b",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-04a",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-04",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-03",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-02f",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-02e",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-02d",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-02c",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-02b",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-02a",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-02",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-1.1-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Nightstone",
    "backgroundColor": "#82874e",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "skt",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "02 Chapter 1: A Great Upheaval"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 4266,
+      "shift": {
+         "x": -48,
+         "y": -23
+      },
+      "width": 3111
+   },
+   "journals": [
+      {
+         "id": "journals/skt-scene-1.1-14f",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-14e",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-14d",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-14c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-14b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-14a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-08f",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-08e",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-08d",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-08c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-08b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-08a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-07b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-07a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-06b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-06a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-05b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-05a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-04h",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-04g",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-04f",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-04e",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-04d",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-04c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-04b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-04a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-02f",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-02e",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-02d",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-02c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-02b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-02a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-1.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

@@ -1,16 +1,29 @@
 {
-   "name": "Saltmarsh Region",
-   "code": "gos",
    "id": "scenes/gos-scene-1.2",
-   "type": "scene",
+   "name": "Saltmarsh Region",
+   "backgroundColor": "#d1dbe6",
+   "code": "gos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "01 Chapter 1: Saltmarsh"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 7500,
+      "type": 2,
+      "units": "yards",
+      "value": 200
+   },
    "img": {
+      "height": 2822,
       "shift": {
          "x": 24,
          "y": 6
       },
-      "width": 2079,
-      "height": 2822
+      "width": 2079
    },
    "journals": [
       {
@@ -131,21 +144,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 200,
-      "type": 2,
-      "distance": 7500,
-      "units": "yards"
-   },
-   "backgroundColor": "#d1dbe6",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "01 Chapter 1: Saltmarsh"
-         ]
-      }
-   }
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

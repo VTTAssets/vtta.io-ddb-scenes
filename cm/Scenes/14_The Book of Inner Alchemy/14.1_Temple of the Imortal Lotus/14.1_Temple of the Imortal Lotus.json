@@ -1,75 +1,87 @@
 {
+   "id": "scenes/cm-scene-14.1",
    "name": "Temple of the Imortal Lotus",
    "code": "cm",
-   "id": "scenes/cm-scene-14.1",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 3000,
-      "height": 2075
-   },
-   "journals": [
-      {
-         "id": "journals/cm-scene-14.1-L05",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-14.1-L04",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-14.1-L03",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-14.1-L02f",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-14.1-L02e",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-14.1-L02d",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-14.1-L02c",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-14.1-L02b",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-14.1-L02a",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-14.1-L02",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-14.1-L01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "14 The Book of Inner Alchemy"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 2075,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-14.1-L05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-14.1-L04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-14.1-L03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-14.1-L02f",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-14.1-L02e",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-14.1-L02d",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-14.1-L02c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-14.1-L02b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-14.1-L02a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-14.1-L02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-14.1-L01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

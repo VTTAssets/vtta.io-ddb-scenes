@@ -1,55 +1,62 @@
 {
+   "id": "scenes/wa-scene-5.9",
    "name": "Croaker Cave",
    "code": "wa",
-   "id": "scenes/wa-scene-5.9",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2550,
-      "height": 1650
-   },
-   "journals": [
-      {
-         "id": "journals/wa-scene-5.9-C06",
-         "positions": []
-      },
-      {
-         "id": "journals/wa-scene-5.9-C05",
-         "positions": []
-      },
-      {
-         "id": "journals/wa-scene-5.9-C04",
-         "positions": []
-      },
-      {
-         "id": "journals/wa-scene-5.9-C03",
-         "positions": []
-      },
-      {
-         "id": "journals/wa-scene-5.9-C02",
-         "positions": []
-      },
-      {
-         "id": "journals/wa-scene-5.9-C01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "00 Frozen Sick"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 1650,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2550
+   },
+   "journals": [
+      {
+         "id": "journals/wa-scene-5.9-C06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wa-scene-5.9-C05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wa-scene-5.9-C04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wa-scene-5.9-C03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wa-scene-5.9-C02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wa-scene-5.9-C01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

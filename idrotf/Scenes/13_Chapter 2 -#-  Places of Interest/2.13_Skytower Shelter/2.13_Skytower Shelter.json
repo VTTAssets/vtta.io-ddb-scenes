@@ -1,73 +1,86 @@
 {
-   "name": "Skytower Shelter",
-   "code": "idrotf",
    "id": "scenes/idrotf-scene-2.13",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2210,
-      "height": 3000
-   },
-   "journals": [
-      {
-         "id": "journals/idrotf-scene-2.13-S10",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.13-S09",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.13-S08",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.13-S07",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.13-S06",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.13-S05",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.13-S04",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.13-S03",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.13-S02",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.13-S01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Skytower Shelter",
    "backgroundColor": "#94a3b0",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "idrotf",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "13 Chapter 2: Places of Interest"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft"
+   },
+   "img": {
+      "height": 3000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2210
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-2.13-S10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.13-S09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.13-S08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.13-S07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.13-S06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.13-S05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.13-S04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.13-S03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.13-S02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.13-S01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

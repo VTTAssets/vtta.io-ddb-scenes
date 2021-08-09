@@ -1,33 +1,37 @@
 {
-   "name": "The Grandfather Tree",
-   "code": "skt",
    "id": "scenes/skt-scene-3.5",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -72,
-         "y": -88
-      },
-      "width": 3204,
-      "height": 2203
-   },
-   "journals": [],
-   "grid": {
-      "value": 90,
-      "type": 1,
-      "distance": 50,
-      "units": "ft"
-   },
+   "name": "The Grandfather Tree",
    "backgroundColor": "#786757",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "skt",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "04 Chapter 3: The Savage Frontier"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 50,
+      "type": 1,
+      "units": "ft",
+      "value": 90
+   },
+   "img": {
+      "height": 2203,
+      "shift": {
+         "x": -72,
+         "y": -88
+      },
+      "width": 3204
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

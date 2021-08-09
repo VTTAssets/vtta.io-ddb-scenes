@@ -1,16 +1,29 @@
 {
-   "name": "Van Richten’s Tower (Area V)",
-   "code": "cos",
    "id": "scenes/cos-scene-11.1",
-   "type": "scene",
+   "name": "Van Richten’s Tower (Area V)",
+   "backgroundColor": "#89897f",
+   "code": "cos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "12 Chapter 11: Van Richten’s Tower"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 71
+   },
    "img": {
+      "height": 3280,
       "shift": {
          "x": -11,
          "y": -70
       },
-      "width": 1193,
-      "height": 3280
+      "width": 1193
    },
    "journals": [
       {
@@ -85,13 +98,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 71,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#89897f",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1395,14 +1406,5 @@
          ],
          "sense": 2
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "12 Chapter 11: Van Richten’s Tower"
-         ]
-      }
-   }
+   ]
 }

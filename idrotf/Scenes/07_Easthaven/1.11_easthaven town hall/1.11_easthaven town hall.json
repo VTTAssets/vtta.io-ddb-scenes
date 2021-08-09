@@ -1,16 +1,28 @@
 {
-   "name": "easthaven town hall",
-   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.11",
-   "type": "scene",
+   "name": "easthaven town hall",
+   "backgroundColor": "#84939f",
+   "code": "idrotf",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Easthaven"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft"
+   },
    "img": {
+      "height": 2746,
       "shift": {
          "x": -7,
          "y": -29
       },
-      "width": 3970,
-      "height": 2746
+      "width": 3970
    },
    "journals": [
       {
@@ -185,12 +197,11 @@
          ]
       }
    ],
-   "grid": {
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#84939f",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1490,14 +1501,5 @@
             1288
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "07 Easthaven"
-         ]
-      }
-   }
+   ]
 }

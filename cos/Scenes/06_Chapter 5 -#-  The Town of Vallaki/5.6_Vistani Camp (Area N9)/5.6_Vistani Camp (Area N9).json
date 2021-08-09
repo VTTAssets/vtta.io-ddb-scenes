@@ -1,62 +1,82 @@
 {
-   "name": "Vistani Camp (Area N9)",
-   "code": "cos",
    "id": "scenes/cos-scene-5.6",
-   "type": "scene",
+   "name": "Vistani Camp (Area N9)",
+   "backgroundColor": "#7f837b",
+   "code": "cos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 5: The Town of Vallaki"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 69
+   },
    "img": {
+      "height": 3308,
       "shift": {
          "x": -6,
          "y": -4
       },
-      "width": 2412,
-      "height": 3308
+      "width": 2412
    },
    "journals": [
       {
          "id": "journals/cos-scene-5.6-N09i",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-5.6-N09h",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-5.6-N09g",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-5.6-N09f",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-5.6-N09e",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-5.6-N09d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-5.6-N09c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-5.6-N09b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-5.6-N09a",
-         "positions": []
+         "positions": [
+         ]
       }
    ],
-   "grid": {
-      "value": 69,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#7f837b",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -381,14 +401,5 @@
             2894
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "06 Chapter 5: The Town of Vallaki"
-         ]
-      }
-   }
+   ]
 }

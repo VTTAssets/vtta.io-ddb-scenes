@@ -1,16 +1,29 @@
 {
-   "name": "Loggers’ Camp",
-   "code": "doip",
    "id": "scenes/doip-scene-9.1",
-   "type": "scene",
+   "name": "Loggers’ Camp",
+   "backgroundColor": "#6b6d50",
+   "code": "doip",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Loggers’ Camp"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 2101,
       "shift": {
          "x": -47,
          "y": -48
       },
-      "width": 3302,
-      "height": 2101
+      "width": 3302
    },
    "journals": [
       {
@@ -72,13 +85,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#6b6d50",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -2860,14 +2871,5 @@
          ],
          "sense": 2
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "09 Loggers’ Camp"
-         ]
-      }
-   }
+   ]
 }

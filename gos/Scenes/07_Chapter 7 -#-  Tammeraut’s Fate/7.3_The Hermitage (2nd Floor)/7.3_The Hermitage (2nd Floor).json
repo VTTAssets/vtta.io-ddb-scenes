@@ -1,58 +1,67 @@
 {
-   "name": "The Hermitage (2nd Floor)",
-   "code": "gos",
    "id": "scenes/gos-scene-7.3",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -46,
-         "y": -41
-      },
-      "width": 2149,
-      "height": 1509
-   },
-   "journals": [
-      {
-         "id": "journals/gos-scene-7.3-21",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-7.3-20",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-7.3-19",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-7.3-18",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-7.3-17",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-7.3-16",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 68,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "The Hermitage (2nd Floor)",
    "backgroundColor": "#fcfdfd",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "gos",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "07 Chapter 7: Tammeraut’s Fate"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 68
+   },
+   "img": {
+      "height": 1509,
+      "shift": {
+         "x": -46,
+         "y": -41
+      },
+      "width": 2149
+   },
+   "journals": [
+      {
+         "id": "journals/gos-scene-7.3-21",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-7.3-20",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-7.3-19",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-7.3-18",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-7.3-17",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-7.3-16",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

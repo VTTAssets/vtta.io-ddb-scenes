@@ -1,16 +1,29 @@
 {
-   "name": "Grand Cemetery Chapel",
-   "code": "bgdia",
    "id": "scenes/bgdia-scene-2.5",
-   "type": "scene",
+   "name": "Grand Cemetery Chapel",
+   "backgroundColor": "#fefefe",
+   "code": "bgdia",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: Elturel Has Fallen"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 132
+   },
    "img": {
+      "height": 5451,
       "shift": {
          "x": -3,
          "y": -4
       },
-      "width": 4014,
-      "height": 5451
+      "width": 4014
    },
    "journals": [
       {
@@ -59,13 +72,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 132,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#fefefe",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1330,14 +1341,5 @@
             1443
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "03 Chapter 2: Elturel Has Fallen"
-         ]
-      }
-   }
+   ]
 }

@@ -1,91 +1,107 @@
 {
+   "id": "scenes/egtw-scene-5.4",
    "name": "Lower Hupperdook",
    "code": "egtw",
-   "id": "scenes/egtw-scene-5.4",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2550,
-      "height": 1650
-   },
-   "journals": [
-      {
-         "id": "journals/egtw-scene-5.4-H15",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.4-H14",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.4-H13",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.4-H12",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.4-H11",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.4-H10",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.4-H09",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.4-H08",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.4-H07",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.4-H06",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.4-H05",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.4-H04",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.4-H03",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.4-H02",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.4-H01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "09 Dangerous Designs"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 1650,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2550
+   },
+   "journals": [
+      {
+         "id": "journals/egtw-scene-5.4-H15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.4-H14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.4-H13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.4-H12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.4-H11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.4-H10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.4-H09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.4-H08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.4-H07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.4-H06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.4-H05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.4-H04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.4-H03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.4-H02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.4-H01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

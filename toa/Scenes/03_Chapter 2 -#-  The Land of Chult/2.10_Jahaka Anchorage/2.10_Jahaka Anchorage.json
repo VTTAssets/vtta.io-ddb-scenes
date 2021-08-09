@@ -1,69 +1,81 @@
 {
-   "name": "Jahaka Anchorage",
-   "code": "toa",
    "id": "scenes/toa-scene-2.10",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2750,
-      "height": 1900
-   },
-   "journals": [
-      {
-         "id": "journals/toa-scene-2.10-06C",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-2.10-06B",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-2.10-06A",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-2.10-06",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-2.10-05",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-2.10-04",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-2.10-03",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-2.10-02",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-2.10-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Jahaka Anchorage",
    "backgroundColor": "#767060",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "toa",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "03 Chapter 2: The Land of Chult"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft"
+   },
+   "img": {
+      "height": 1900,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2750
+   },
+   "journals": [
+      {
+         "id": "journals/toa-scene-2.10-06C",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.10-06B",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.10-06A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.10-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.10-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.10-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.10-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.10-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.10-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

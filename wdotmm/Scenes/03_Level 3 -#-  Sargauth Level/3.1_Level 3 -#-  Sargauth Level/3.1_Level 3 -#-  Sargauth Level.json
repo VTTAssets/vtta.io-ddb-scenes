@@ -1,25 +1,37 @@
 {
-   "name": "Level 3: Sargauth Level",
-   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-3.1",
-   "type": "scene",
+   "name": "Level 3: Sargauth Level",
+   "backgroundColor": "#fdfdfd",
+   "code": "wdotmm",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Level 3: Sargauth Level"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 12220,
       "shift": {
          "x": -22,
          "y": -22
       },
-      "width": 9088,
-      "height": 12220
+      "width": 9088
    },
-   "journals": [],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#fdfdfd",
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -23070,14 +23082,5 @@
             4775
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "03 Level 3: Sargauth Level"
-         ]
-      }
-   }
+   ]
 }

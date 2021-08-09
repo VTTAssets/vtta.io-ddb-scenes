@@ -1,182 +1,232 @@
 {
-   "name": "Level 4: Twisted Caverns",
-   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-4.1",
-   "type": "scene",
+   "name": "Level 4: Twisted Caverns",
+   "backgroundColor": "#ffffff",
+   "code": "wdotmm",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Level 4: Twisted Caverns"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 7704,
       "shift": {
          "x": -28,
          "y": -44
       },
-      "width": 5720,
-      "height": 7704
+      "width": 5720
    },
    "journals": [
       {
          "id": "journals/wdotmm-scene-4.1-24e",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-24d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-24c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-24b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-24a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-24",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-23",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-22",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-21b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-21a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-21",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-20",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-19",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-18",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-17",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-16c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-16b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-16a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-16",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-15",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-14",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-13",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-12b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-12a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-12",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-11c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-11b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-11a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-11",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-10",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-09",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-08",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-07",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-06",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-05",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-04",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-03",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-02",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-4.1-01",
-         "positions": []
+         "positions": [
+         ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#ffffff",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -13922,14 +13972,5 @@
             5513
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "04 Level 4: Twisted Caverns"
-         ]
-      }
-   }
+   ]
 }

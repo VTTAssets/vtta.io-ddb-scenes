@@ -1,66 +1,77 @@
 {
-   "name": "Theater",
-   "code": "wdh",
    "id": "scenes/wdh-scene-4.4",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -32,
-         "y": -14
-      },
-      "width": 2066,
-      "height": 1435
-   },
-   "journals": [
-      {
-         "id": "journals/wdh-scene-4.4-P08",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-4.4-P07",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-4.4-P06",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-4.4-P05",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-4.4-P04",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-4.4-P03",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-4.4-P02",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-4.4-P01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 61,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Theater",
    "backgroundColor": "#f7f7f7",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "wdh",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "05 Chapter 4: Dragon Season"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 61
+   },
+   "img": {
+      "height": 1435,
+      "shift": {
+         "x": -32,
+         "y": -14
+      },
+      "width": 2066
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-4.4-P08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.4-P07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.4-P06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.4-P05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.4-P04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.4-P03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.4-P02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.4-P01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

@@ -1,58 +1,67 @@
 {
-   "name": "The Ruins of Berez (Area U)",
-   "code": "cos",
    "id": "scenes/cos-scene-10.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -20,
-         "y": -1
-      },
-      "width": 1921,
-      "height": 1915
-   },
-   "journals": [
-      {
-         "id": "journals/cos-scene-10.1-U06",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-10.1-U05",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-10.1-U04",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-10.1-U03",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-10.1-U02",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-10.1-U01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 100,
-      "units": "ft"
-   },
+   "name": "The Ruins of Berez (Area U)",
    "backgroundColor": "#949a8b",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "cos",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "11 Chapter 10: The Ruins of Berez"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 100,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 1915,
+      "shift": {
+         "x": -20,
+         "y": -1
+      },
+      "width": 1921
+   },
+   "journals": [
+      {
+         "id": "journals/cos-scene-10.1-U06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-10.1-U05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-10.1-U04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-10.1-U03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-10.1-U02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-10.1-U01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

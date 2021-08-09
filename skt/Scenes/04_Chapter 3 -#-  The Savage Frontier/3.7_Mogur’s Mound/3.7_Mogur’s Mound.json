@@ -1,33 +1,37 @@
 {
-   "name": "Mogur’s Mound",
-   "code": "skt",
    "id": "scenes/skt-scene-3.7",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -39,
-         "y": -47
-      },
-      "width": 1606,
-      "height": 2205
-   },
-   "journals": [],
-   "grid": {
-      "value": 108,
-      "type": 1,
-      "distance": 50,
-      "units": "ft"
-   },
+   "name": "Mogur’s Mound",
    "backgroundColor": "#785c49",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "skt",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "04 Chapter 3: The Savage Frontier"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 50,
+      "type": 1,
+      "units": "ft",
+      "value": 108
+   },
+   "img": {
+      "height": 2205,
+      "shift": {
+         "x": -39,
+         "y": -47
+      },
+      "width": 1606
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

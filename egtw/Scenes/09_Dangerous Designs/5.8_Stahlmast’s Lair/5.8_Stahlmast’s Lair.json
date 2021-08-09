@@ -1,111 +1,132 @@
 {
+   "id": "scenes/egtw-scene-5.8",
    "name": "Stahlmast’s Lair",
    "code": "egtw",
-   "id": "scenes/egtw-scene-5.8",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2550,
-      "height": 1650
-   },
-   "journals": [
-      {
-         "id": "journals/egtw-scene-5.8-L20",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.8-L19",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.8-L18",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.8-L17",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.8-L16",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.8-L15",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.8-L14",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.8-L13",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.8-L12",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.8-L11",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.8-L10",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.8-L09",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.8-L08",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.8-L07",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.8-L06",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.8-L05",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.8-L04",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.8-L03",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.8-L02",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.8-L01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "09 Dangerous Designs"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 1650,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2550
+   },
+   "journals": [
+      {
+         "id": "journals/egtw-scene-5.8-L20",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.8-L19",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.8-L18",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.8-L17",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.8-L16",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.8-L15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.8-L14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.8-L13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.8-L12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.8-L11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.8-L10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.8-L09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.8-L08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.8-L07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.8-L06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.8-L05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.8-L04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.8-L03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.8-L02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.8-L01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

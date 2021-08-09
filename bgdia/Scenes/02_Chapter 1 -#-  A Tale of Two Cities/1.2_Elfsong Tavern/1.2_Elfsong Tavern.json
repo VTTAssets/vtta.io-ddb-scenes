@@ -1,16 +1,29 @@
 {
-   "name": "Elfsong Tavern",
-   "code": "bgdia",
    "id": "scenes/bgdia-scene-1.2",
-   "type": "scene",
+   "name": "Elfsong Tavern",
+   "backgroundColor": "#fcfcfc",
+   "code": "bgdia",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 1: A Tale of Two Cities"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 165
+   },
    "img": {
+      "height": 3985,
       "shift": {
          "x": -88,
          "y": -165
       },
-      "width": 6074,
-      "height": 3985
+      "width": 6074
    },
    "journals": [
       {
@@ -135,13 +148,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 165,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#fcfcfc",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1619,14 +1630,5 @@
          "door": 1,
          "ds": 2
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "02 Chapter 1: A Tale of Two Cities"
-         ]
-      }
-   }
+   ]
 }

@@ -1,63 +1,72 @@
 {
+   "id": "scenes/cm-scene-16.1",
    "name": "Haven of the Red Quill",
    "code": "cm",
-   "id": "scenes/cm-scene-16.1",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 3000,
-      "height": 2071
-   },
-   "journals": [
-      {
-         "id": "journals/cm-scene-16.1-H08",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-16.1-H07",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-16.1-H06",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-16.1-H05",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-16.1-H04",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-16.1-H03",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-16.1-H02",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-16.1-H01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "16 The Scrivener’s Tale"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 2071,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-16.1-H08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-16.1-H07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-16.1-H06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-16.1-H05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-16.1-H04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-16.1-H03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-16.1-H02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-16.1-H01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

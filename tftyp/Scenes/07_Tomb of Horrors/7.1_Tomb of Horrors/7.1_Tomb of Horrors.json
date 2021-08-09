@@ -1,118 +1,152 @@
 {
-   "name": "Tomb of Horrors",
-   "code": "tftyp",
    "id": "scenes/tftyp-scene-7.1",
-   "type": "scene",
+   "name": "Tomb of Horrors",
+   "backgroundColor": "#000000",
+   "code": "tftyp",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Tomb of Horrors"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 88
+   },
    "img": {
+      "height": 4427,
       "shift": {
          "x": -74,
          "y": -82
       },
-      "width": 3400,
-      "height": 4427
+      "width": 3400
    },
    "journals": [
       {
          "id": "journals/tftyp-scene-7.1-22",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-21",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-20",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-19",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-18A",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-18",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-17",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-16",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-15",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-14",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-13",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-12",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-11",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-10",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-09",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-08",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-07",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-06",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-05",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-04",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-03",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-02",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-7.1-01",
-         "positions": []
+         "positions": [
+         ]
       }
    ],
-   "grid": {
-      "value": 88,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#000000",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -5502,14 +5536,5 @@
             4565.471793940325
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "07 Tomb of Horrors"
-         ]
-      }
-   }
+   ]
 }

@@ -1,16 +1,29 @@
 {
-   "name": "Woodland Manse",
-   "code": "doip",
    "id": "scenes/doip-scene-14.1",
-   "type": "scene",
+   "name": "Woodland Manse",
+   "backgroundColor": "#6a6548",
+   "code": "doip",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "14 Woodland Manse"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 2099,
       "shift": {
          "x": -47,
          "y": -49
       },
-      "width": 3300,
-      "height": 2099
+      "width": 3300
    },
    "journals": [
       {
@@ -196,13 +209,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#6a6548",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -3350,14 +3361,5 @@
          ],
          "sense": 2
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "14 Woodland Manse"
-         ]
-      }
-   }
+   ]
 }

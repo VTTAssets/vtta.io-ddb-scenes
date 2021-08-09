@@ -1,30 +1,32 @@
 {
+   "id": "scenes/cm-scene-17.1",
    "name": "Haruun",
    "code": "cm",
-   "id": "scenes/cm-scene-17.1",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2206,
-      "height": 3000
-   },
-   "journals": [],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "17 Alkazaar’s Appendix"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 3000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2206
+   },
+   "journals": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

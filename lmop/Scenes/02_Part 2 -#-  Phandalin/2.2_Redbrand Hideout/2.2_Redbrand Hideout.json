@@ -1,16 +1,29 @@
 {
-   "name": "Redbrand Hideout",
-   "code": "lmop",
    "id": "scenes/lmop-scene-2.2",
-   "type": "scene",
+   "name": "Redbrand Hideout",
+   "backgroundColor": "#575342",
+   "code": "lmop",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Part 2: Phandalin"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 150
+   },
    "img": {
+      "height": 3145,
       "shift": {
          "x": -143,
          "y": -155
       },
-      "width": 4508,
-      "height": 3145
+      "width": 4508
    },
    "journals": [
       {
@@ -122,13 +135,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 150,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#575342",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1737,14 +1748,5 @@
             3900
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "02 Part 2: Phandalin"
-         ]
-      }
-   }
+   ]
 }

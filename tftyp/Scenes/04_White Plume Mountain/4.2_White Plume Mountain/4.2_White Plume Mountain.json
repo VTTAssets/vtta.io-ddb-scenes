@@ -1,29 +1,28 @@
 {
+   "id": "scenes/tftyp-scene-4.2",
    "name": "White Plume Mountain",
    "code": "tftyp",
-   "id": "scenes/tftyp-scene-4.2",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "height": 3563,
-      "width": 5195,
-      "shift": {
-         "x": -58,
-         "y": -7
-      }
-   },
-   "grid": {
-      "value": 78,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
    "flags": {
       "vtta": {
          "folders": [
             "04 White Plume Mountain"
          ]
       }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 78
+   },
+   "img": {
+      "height": 3563,
+      "shift": {
+         "x": -58,
+         "y": -7
+      },
+      "width": 5195
    },
    "journals": [
       {
@@ -274,7 +273,18 @@
          ]
       }
    ],
-   "monsters": [],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "quality": {
+      "grid": true,
+      "journals": true,
+      "lights": false,
+      "monsters": false,
+      "walls": true
+   },
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -373,8 +383,8 @@
             2340,
             2574
          ],
-         "move": 0,
-         "dir": 0
+         "dir": 0,
+         "move": 0
       },
       {
          "c": [
@@ -476,13 +486,5 @@
          ],
          "dir": 0
       }
-   ],
-   "lights": [],
-   "quality": {
-      "grid": true,
-      "walls": true,
-      "lights": false,
-      "journals": true,
-      "monsters": false
-   }
+   ]
 }

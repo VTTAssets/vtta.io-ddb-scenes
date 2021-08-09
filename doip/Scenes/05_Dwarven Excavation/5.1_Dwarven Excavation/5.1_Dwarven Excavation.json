@@ -1,16 +1,29 @@
 {
-   "name": "Dwarven Excavation",
-   "code": "doip",
    "id": "scenes/doip-scene-5.1",
-   "type": "scene",
+   "name": "Dwarven Excavation",
+   "backgroundColor": "#565b4d",
+   "code": "doip",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Dwarven Excavation"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 2103,
       "shift": {
          "x": -47,
          "y": -47
       },
-      "width": 3300,
-      "height": 2103
+      "width": 3300
    },
    "journals": [
       {
@@ -117,13 +130,27 @@
          ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#565b4d",
+   "lights": [
+      {
+         "bright": 93.73,
+         "darknessThreshold": 0,
+         "dim": 187.47,
+         "tintAlpha": 0.5,
+         "x": 950,
+         "y": 2375
+      },
+      {
+         "bright": 93.73,
+         "darknessThreshold": 0,
+         "dim": 187.47,
+         "tintAlpha": 0.5,
+         "x": 1775,
+         "y": 1625
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -2516,31 +2543,5 @@
          "move": 0,
          "sense": 2
       }
-   ],
-   "lights": [
-      {
-         "bright": 93.73,
-         "darknessThreshold": 0,
-         "dim": 187.47,
-         "tintAlpha": 0.5,
-         "x": 950,
-         "y": 2375
-      },
-      {
-         "bright": 93.73,
-         "darknessThreshold": 0,
-         "dim": 187.47,
-         "tintAlpha": 0.5,
-         "x": 1775,
-         "y": 1625
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "05 Dwarven Excavation"
-         ]
-      }
-   }
+   ]
 }

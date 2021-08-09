@@ -1,16 +1,29 @@
 {
-   "name": "Dripping Caves",
-   "code": "skt",
    "id": "scenes/skt-scene-1.2",
-   "type": "scene",
+   "name": "Dripping Caves",
+   "backgroundColor": "#494132",
+   "code": "skt",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 1: A Great Upheaval"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 53
+   },
    "img": {
+      "height": 1514,
       "shift": {
          "x": -37,
          "y": -39
       },
-      "width": 2046,
-      "height": 1514
+      "width": 2046
    },
    "journals": [
       {
@@ -87,7 +100,8 @@
       },
       {
          "id": "journals/skt-scene-1.2-03",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/skt-scene-1.2-02b",
@@ -190,13 +204,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 53,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#494132",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -6563,14 +6575,5 @@
             940
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "02 Chapter 1: A Great Upheaval"
-         ]
-      }
-   }
+   ]
 }

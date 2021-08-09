@@ -1,33 +1,37 @@
 {
-   "name": "Tiamat’s Temple",
-   "code": "rot",
    "id": "scenes/rot-scene-17.2",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -7,
-         "y": -31
-      },
-      "width": 3624,
-      "height": 5233
-   },
-   "journals": [],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Tiamat’s Temple",
    "backgroundColor": "#6f5a4c",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "rot",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "09 Chapter 17: Tiamat's Return"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 5233,
+      "shift": {
+         "x": -7,
+         "y": -31
+      },
+      "width": 3624
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

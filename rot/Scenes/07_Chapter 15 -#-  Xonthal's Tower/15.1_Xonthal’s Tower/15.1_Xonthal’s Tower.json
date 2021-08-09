@@ -1,126 +1,152 @@
 {
-   "name": "Xonthal’s Tower",
-   "code": "rot",
    "id": "scenes/rot-scene-15.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -67,
-         "y": -57
-      },
-      "width": 3309,
-      "height": 4766
-   },
-   "journals": [
-      {
-         "id": "journals/rot-scene-15.1-23",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-22",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-21",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-20",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-19",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-18",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-17",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-16",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-15",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-14",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-13",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-12",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-11",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-10",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-09",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-08",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-07",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-06",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-05",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-04",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-03",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-02",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-15.1-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 96,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Xonthal’s Tower",
    "backgroundColor": "#957866",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "rot",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "07 Chapter 15: Xonthal's Tower"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 96
+   },
+   "img": {
+      "height": 4766,
+      "shift": {
+         "x": -67,
+         "y": -57
+      },
+      "width": 3309
+   },
+   "journals": [
+      {
+         "id": "journals/rot-scene-15.1-23",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-22",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-21",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-20",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-19",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-18",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-17",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-16",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-15.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

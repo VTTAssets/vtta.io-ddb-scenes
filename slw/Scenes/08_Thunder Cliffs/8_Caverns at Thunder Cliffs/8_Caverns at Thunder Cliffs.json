@@ -1,16 +1,29 @@
 {
-   "name": "Caverns at Thunder Cliffs",
-   "code": "slw",
    "id": "scenes/slw-scene-8",
-   "type": "scene",
+   "name": "Caverns at Thunder Cliffs",
+   "backgroundColor": "#3b3932",
+   "code": "slw",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Thunder Cliffs"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 86
+   },
    "img": {
+      "height": 2278,
       "shift": {
          "x": -49,
          "y": -62
       },
-      "width": 3602,
-      "height": 2278
+      "width": 3602
    },
    "journals": [
       {
@@ -77,13 +90,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 86,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#3b3932",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -4358,14 +4369,5 @@
             1214
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "08 Thunder Cliffs"
-         ]
-      }
-   }
+   ]
 }

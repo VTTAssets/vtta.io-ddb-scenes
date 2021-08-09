@@ -1,16 +1,29 @@
 {
-   "name": "Carnath Roadhouse",
-   "code": "hotdq",
    "id": "scenes/hotdq-scene-5.1",
-   "type": "scene",
+   "name": "Carnath Roadhouse",
+   "backgroundColor": "#a09082",
+   "code": "hotdq",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 5: Construction Ahead"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 20,
+      "type": 1,
+      "units": "ft",
+      "value": 93
+   },
    "img": {
+      "height": 3019,
       "shift": {
          "x": -32,
          "y": -45
       },
-      "width": 4068,
-      "height": 3019
+      "width": 4068
    },
    "journals": [
       {
@@ -24,7 +37,8 @@
       },
       {
          "id": "journals/hotdq-scene-5.1-07",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/hotdq-scene-5.1-06",
@@ -141,13 +155,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 93,
-      "type": 1,
-      "distance": 20,
-      "units": "ft"
-   },
-   "backgroundColor": "#a09082",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1342,14 +1354,5 @@
          ],
          "door": 1
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "06 Chapter 5: Construction Ahead"
-         ]
-      }
-   }
+   ]
 }

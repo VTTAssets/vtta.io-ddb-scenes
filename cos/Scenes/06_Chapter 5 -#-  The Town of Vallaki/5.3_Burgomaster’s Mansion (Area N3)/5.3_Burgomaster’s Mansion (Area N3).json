@@ -1,16 +1,29 @@
 {
-   "name": "Burgomaster’s Mansion (Area N3)",
-   "code": "cos",
    "id": "scenes/cos-scene-5.3",
-   "type": "scene",
+   "name": "Burgomaster’s Mansion (Area N3)",
+   "backgroundColor": "#7e8174",
+   "code": "cos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 5: The Town of Vallaki"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 64
+   },
    "img": {
+      "height": 3323,
       "shift": {
          "x": -40,
          "y": -6
       },
-      "width": 2418,
-      "height": 3323
+      "width": 2418
    },
    "journals": [
       {
@@ -206,13 +219,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 64,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#7e8174",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1406,14 +1417,5 @@
             2048
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "06 Chapter 5: The Town of Vallaki"
-         ]
-      }
-   }
+   ]
 }

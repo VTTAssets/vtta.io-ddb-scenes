@@ -1,46 +1,52 @@
 {
-   "name": "Bone Brambles",
-   "code": "bgdia",
    "id": "scenes/bgdia-scene-3.4",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -136,
-         "y": -4
-      },
-      "width": 6097,
-      "height": 3996
-   },
-   "journals": [
-      {
-         "id": "journals/bgdia-scene-3.4-B03",
-         "positions": []
-      },
-      {
-         "id": "journals/bgdia-scene-3.4-B02",
-         "positions": []
-      },
-      {
-         "id": "journals/bgdia-scene-3.4-B01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 140,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Bone Brambles",
    "backgroundColor": "#fefefe",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "bgdia",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "06 Chapter 3: Avernus - Path of Devils"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 140
+   },
+   "img": {
+      "height": 3996,
+      "shift": {
+         "x": -136,
+         "y": -4
+      },
+      "width": 6097
+   },
+   "journals": [
+      {
+         "id": "journals/bgdia-scene-3.4-B03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/bgdia-scene-3.4-B02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/bgdia-scene-3.4-B01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

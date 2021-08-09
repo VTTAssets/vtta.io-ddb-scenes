@@ -1,59 +1,67 @@
 {
+   "id": "scenes/cm-scene-12.2",
    "name": "Cloud Giants’ Keep",
    "code": "cm",
-   "id": "scenes/cm-scene-12.2",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2214,
-      "height": 3000
-   },
-   "journals": [
-      {
-         "id": "journals/cm-scene-12.2-C07",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-12.2-C06",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-12.2-C05",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-12.2-C04",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-12.2-C03",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-12.2-C02",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-12.2-C01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "12 Zikran’s Zephyrean Tome"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 3000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2214
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-12.2-C07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-12.2-C06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-12.2-C05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-12.2-C04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-12.2-C03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-12.2-C02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-12.2-C01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

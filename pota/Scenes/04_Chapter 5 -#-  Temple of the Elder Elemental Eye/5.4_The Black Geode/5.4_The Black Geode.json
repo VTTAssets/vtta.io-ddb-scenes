@@ -1,102 +1,122 @@
 {
-   "name": "The Black Geode",
-   "code": "pota",
    "id": "scenes/pota-scene-5.4",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -78,
-         "y": -53
-      },
-      "width": 3731,
-      "height": 4732
-   },
-   "journals": [
-      {
-         "id": "journals/pota-scene-5.4-G17",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.4-G16",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.4-G15",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.4-G14",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.4-G13",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.4-G12",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.4-G11",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.4-G10",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.4-G09",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.4-G08",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.4-G07",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.4-G06",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.4-G05",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.4-G04",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.4-G03",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.4-G02",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.4-G01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 90,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "The Black Geode",
    "backgroundColor": "#62626a",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "pota",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "04 Chapter 5: Temple of the Elder Elemental Eye"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 90
+   },
+   "img": {
+      "height": 4732,
+      "shift": {
+         "x": -78,
+         "y": -53
+      },
+      "width": 3731
+   },
+   "journals": [
+      {
+         "id": "journals/pota-scene-5.4-G17",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.4-G16",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.4-G15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.4-G14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.4-G13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.4-G12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.4-G11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.4-G10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.4-G09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.4-G08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.4-G07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.4-G06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.4-G05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.4-G04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.4-G03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.4-G02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.4-G01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

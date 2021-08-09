@@ -1,16 +1,29 @@
 {
-   "name": "Amber Temple (Area X) - Upper Level",
-   "code": "cos",
    "id": "scenes/cos-scene-13.1",
-   "type": "scene",
+   "name": "Amber Temple (Area X) - Upper Level",
+   "backgroundColor": "#393e38",
+   "code": "cos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "14 Chapter 13: The Amber Temple"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 76
+   },
    "img": {
+      "height": 3293,
       "shift": {
          "x": -17,
          "y": -23
       },
-      "width": 2395,
-      "height": 3293
+      "width": 2395
    },
    "journals": [
       {
@@ -288,13 +301,163 @@
          ]
       }
    ],
-   "grid": {
-      "value": 76,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#393e38",
+   "lights": [
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1292,
+         "y": 3002
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1064,
+         "y": 2926
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1178,
+         "y": 2850
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1178,
+         "y": 3002
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1330,
+         "y": 2850
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1178,
+         "y": 2242
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1292,
+         "y": 2242
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1292,
+         "y": 2090
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1178,
+         "y": 2090
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1102,
+         "y": 2166
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1216,
+         "y": 1710
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1292,
+         "y": 1786
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1482,
+         "y": 1786
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1368,
+         "y": 1634
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1710,
+         "y": 1634
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1900,
+         "y": 1596
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1900,
+         "y": 1748
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1748,
+         "y": 1748
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 2470,
+         "y": 2546
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -3563,167 +3726,5 @@
          ],
          "sense": 0
       }
-   ],
-   "lights": [
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1292,
-         "y": 3002
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1064,
-         "y": 2926
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1178,
-         "y": 2850
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1178,
-         "y": 3002
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1330,
-         "y": 2850
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1178,
-         "y": 2242
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1292,
-         "y": 2242
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1292,
-         "y": 2090
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1178,
-         "y": 2090
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1102,
-         "y": 2166
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1216,
-         "y": 1710
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1292,
-         "y": 1786
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1482,
-         "y": 1786
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1368,
-         "y": 1634
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1710,
-         "y": 1634
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1900,
-         "y": 1596
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1900,
-         "y": 1748
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1748,
-         "y": 1748
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 2470,
-         "y": 2546
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "14 Chapter 13: The Amber Temple"
-         ]
-      }
-   }
+   ]
 }

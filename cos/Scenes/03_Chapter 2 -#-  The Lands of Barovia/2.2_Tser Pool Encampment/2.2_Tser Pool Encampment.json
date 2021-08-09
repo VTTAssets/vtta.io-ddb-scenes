@@ -1,25 +1,45 @@
 {
-   "name": "Tser Pool Encampment",
-   "code": "cos",
    "id": "scenes/cos-scene-2.2",
-   "type": "scene",
+   "name": "Tser Pool Encampment",
+   "backgroundColor": "#9fa59c",
+   "code": "cos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: The Lands of Barovia"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 65
+   },
    "img": {
+      "height": 1203,
       "shift": {
          "x": -58,
          "y": -25
       },
-      "width": 1955,
-      "height": 1203
+      "width": 1955
    },
-   "journals": [],
-   "grid": {
-      "value": 65,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#9fa59c",
+   "journals": [
+   ],
+   "lights": [
+      {
+         "bright": 0,
+         "dim": 30,
+         "tintAlpha": 0.5,
+         "tintColor": "#ffffff",
+         "x": 1527,
+         "y": 1072
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -604,23 +624,5 @@
          ],
          "sense": 2
       }
-   ],
-   "lights": [
-      {
-         "bright": 0,
-         "dim": 30,
-         "tintAlpha": 0.5,
-         "tintColor": "#ffffff",
-         "x": 1527,
-         "y": 1072
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "03 Chapter 2: The Lands of Barovia"
-         ]
-      }
-   }
+   ]
 }

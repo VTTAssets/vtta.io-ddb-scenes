@@ -1,16 +1,29 @@
 {
-   "name": "The Lost Dungeon of Rickedness",
-   "code": "ddvram",
    "id": "scenes/ddvram-scene-1.1",
-   "type": "scene",
+   "name": "The Lost Dungeon of Rickedness",
+   "backgroundColor": "#bdd1e6",
+   "code": "ddvram",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 The Lost Dungeon of Rickedness"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 61
+   },
    "img": {
+      "height": 1846,
       "shift": {
          "x": -4,
          "y": -5
       },
-      "width": 4712,
-      "height": 1846
+      "width": 4712
    },
    "journals": [
       {
@@ -258,7 +271,8 @@
       },
       {
          "id": "journals/ddvram-scene-1.1-12",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/ddvram-scene-1.1-11",
@@ -360,13 +374,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 61,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#bdd1e6",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -4939,14 +4951,5 @@
          ],
          "door": 1
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "07 The Lost Dungeon of Rickedness"
-         ]
-      }
-   }
+   ]
 }

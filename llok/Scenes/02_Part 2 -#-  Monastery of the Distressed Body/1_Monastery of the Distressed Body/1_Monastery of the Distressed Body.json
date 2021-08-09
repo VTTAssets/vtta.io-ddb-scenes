@@ -1,87 +1,102 @@
 {
+   "id": "scenes/llok-scene-1",
    "name": "Monastery of the Distressed Body",
    "code": "llok",
-   "id": "scenes/llok-scene-1",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 5000,
-      "height": 6471
-   },
-   "journals": [
-      {
-         "id": "journals/llok-scene-1-M10",
-         "positions": []
-      },
-      {
-         "id": "journals/llok-scene-1-M09",
-         "positions": []
-      },
-      {
-         "id": "journals/llok-scene-1-M08",
-         "positions": []
-      },
-      {
-         "id": "journals/llok-scene-1-M07",
-         "positions": []
-      },
-      {
-         "id": "journals/llok-scene-1-M06",
-         "positions": []
-      },
-      {
-         "id": "journals/llok-scene-1-M05",
-         "positions": []
-      },
-      {
-         "id": "journals/llok-scene-1-M04",
-         "positions": []
-      },
-      {
-         "id": "journals/llok-scene-1-M03",
-         "positions": []
-      },
-      {
-         "id": "journals/llok-scene-1-M02",
-         "positions": []
-      },
-      {
-         "id": "journals/llok-scene-1-M01",
-         "positions": []
-      },
-      {
-         "id": "journals/llok-scene-1-C04",
-         "positions": []
-      },
-      {
-         "id": "journals/llok-scene-1-C03",
-         "positions": []
-      },
-      {
-         "id": "journals/llok-scene-1-C02",
-         "positions": []
-      },
-      {
-         "id": "journals/llok-scene-1-C01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "02 Part 2: Monastery of the Distressed Body"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 6471,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 5000
+   },
+   "journals": [
+      {
+         "id": "journals/llok-scene-1-M10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/llok-scene-1-M09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/llok-scene-1-M08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/llok-scene-1-M07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/llok-scene-1-M06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/llok-scene-1-M05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/llok-scene-1-M04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/llok-scene-1-M03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/llok-scene-1-M02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/llok-scene-1-M01",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/llok-scene-1-C04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/llok-scene-1-C03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/llok-scene-1-C02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/llok-scene-1-C01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

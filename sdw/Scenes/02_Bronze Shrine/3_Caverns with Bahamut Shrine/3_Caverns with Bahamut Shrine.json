@@ -1,16 +1,29 @@
 {
-   "name": "Caverns with Bahamut Shrine",
-   "code": "sdw",
    "id": "scenes/sdw-scene-3",
-   "type": "scene",
+   "name": "Caverns with Bahamut Shrine",
+   "backgroundColor": "#6f7061",
+   "code": "sdw",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Bronze Shrine"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 86
+   },
    "img": {
+      "height": 2280,
       "shift": {
          "x": -48,
          "y": -56
       },
-      "width": 3600,
-      "height": 2280
+      "width": 3600
    },
    "journals": [
       {
@@ -86,13 +99,51 @@
          ]
       }
    ],
-   "grid": {
-      "value": 86,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#6f7061",
+   "lights": [
+      {
+         "bright": 56.12,
+         "darknessThreshold": 0,
+         "dim": 112.24,
+         "tintAlpha": 0.5,
+         "x": 1204,
+         "y": 1806
+      },
+      {
+         "bright": 58.5,
+         "darknessThreshold": 0,
+         "dim": 117,
+         "tintAlpha": 0.5,
+         "x": 1978,
+         "y": 731
+      },
+      {
+         "bright": 28.09,
+         "darknessThreshold": 0,
+         "dim": 56.18,
+         "tintAlpha": 0.5,
+         "x": 1032,
+         "y": 1075
+      },
+      {
+         "bright": 27.61,
+         "darknessThreshold": 0,
+         "dim": 55.22,
+         "tintAlpha": 0.5,
+         "x": 1462,
+         "y": 731
+      },
+      {
+         "bright": 34.18,
+         "darknessThreshold": 0,
+         "dim": 68.36,
+         "tintAlpha": 0.5,
+         "x": 1247,
+         "y": 1333
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1338,55 +1389,5 @@
             1322
          ]
       }
-   ],
-   "lights": [
-      {
-         "bright": 56.12,
-         "darknessThreshold": 0,
-         "dim": 112.24,
-         "tintAlpha": 0.5,
-         "x": 1204,
-         "y": 1806
-      },
-      {
-         "bright": 58.5,
-         "darknessThreshold": 0,
-         "dim": 117,
-         "tintAlpha": 0.5,
-         "x": 1978,
-         "y": 731
-      },
-      {
-         "bright": 28.09,
-         "darknessThreshold": 0,
-         "dim": 56.18,
-         "tintAlpha": 0.5,
-         "x": 1032,
-         "y": 1075
-      },
-      {
-         "bright": 27.61,
-         "darknessThreshold": 0,
-         "dim": 55.22,
-         "tintAlpha": 0.5,
-         "x": 1462,
-         "y": 731
-      },
-      {
-         "bright": 34.18,
-         "darknessThreshold": 0,
-         "dim": 68.36,
-         "tintAlpha": 0.5,
-         "x": 1247,
-         "y": 1333
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "02 Bronze Shrine"
-         ]
-      }
-   }
+   ]
 }

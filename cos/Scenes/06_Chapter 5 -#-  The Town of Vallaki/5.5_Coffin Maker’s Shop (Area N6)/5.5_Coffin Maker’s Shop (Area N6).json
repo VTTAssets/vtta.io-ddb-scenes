@@ -1,16 +1,29 @@
 {
-   "name": "Coffin Maker’s Shop (Area N6)",
-   "code": "cos",
    "id": "scenes/cos-scene-5.5",
-   "type": "scene",
+   "name": "Coffin Maker’s Shop (Area N6)",
+   "backgroundColor": "#7b7d72",
+   "code": "cos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 5: The Town of Vallaki"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 89
+   },
    "img": {
+      "height": 1642,
       "shift": {
          "x": -49,
          "y": -24
       },
-      "width": 2394,
-      "height": 1642
+      "width": 2394
    },
    "journals": [
       {
@@ -68,13 +81,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 89,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#7b7d72",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -639,14 +650,5 @@
             534
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "06 Chapter 5: The Town of Vallaki"
-         ]
-      }
-   }
+   ]
 }

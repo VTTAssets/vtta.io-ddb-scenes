@@ -1,50 +1,67 @@
 {
-   "name": "Dragon Cult Airship",
-   "code": "skt",
    "id": "scenes/skt-scene-4.3",
-   "type": "scene",
+   "name": "Dragon Cult Airship",
+   "backgroundColor": "#ada092",
+   "code": "skt",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 4: The Chosen Path"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 107
+   },
    "img": {
+      "height": 1681,
       "shift": {
          "x": -83,
          "y": -59
       },
-      "width": 2354,
-      "height": 1681
+      "width": 2354
    },
    "journals": [
       {
          "id": "journals/skt-scene-4.3-06",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/skt-scene-4.3-05",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/skt-scene-4.3-04",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/skt-scene-4.3-03",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/skt-scene-4.3-02",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/skt-scene-4.3-01",
-         "positions": []
+         "positions": [
+         ]
       }
    ],
-   "grid": {
-      "value": 107,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#ada092",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -907,14 +924,5 @@
          ],
          "door": 1
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "05 Chapter 4: The Chosen Path"
-         ]
-      }
-   }
+   ]
 }

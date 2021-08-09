@@ -1,25 +1,37 @@
 {
-   "name": "High Hall Cathedral",
-   "code": "bgdia",
    "id": "scenes/bgdia-scene-2.1",
-   "type": "scene",
+   "name": "High Hall Cathedral",
+   "backgroundColor": "#f4f4f4",
+   "code": "bgdia",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: Elturel Has Fallen"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 127
+   },
    "img": {
+      "height": 3982,
       "shift": {
          "x": -2,
          "y": -128
       },
-      "width": 6077,
-      "height": 3982
+      "width": 6077
    },
-   "journals": [],
-   "grid": {
-      "value": 127,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#f4f4f4",
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -3551,14 +3563,5 @@
          ],
          "door": 2
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "03 Chapter 2: Elturel Has Fallen"
-         ]
-      }
-   }
+   ]
 }

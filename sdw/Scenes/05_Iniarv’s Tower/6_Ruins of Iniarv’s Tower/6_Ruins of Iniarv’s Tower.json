@@ -1,16 +1,29 @@
 {
-   "name": "Ruins of Iniarv’s Tower",
-   "code": "sdw",
    "id": "scenes/sdw-scene-6",
-   "type": "scene",
+   "name": "Ruins of Iniarv’s Tower",
+   "backgroundColor": "#a79377",
+   "code": "sdw",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Iniarv’s Tower"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 86
+   },
    "img": {
+      "height": 2280,
       "shift": {
          "x": -50,
          "y": -60
       },
-      "width": 3600,
-      "height": 2280
+      "width": 3600
    },
    "journals": [
       {
@@ -104,13 +117,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 86,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#a79377",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1537,14 +1548,5 @@
             2332
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "05 Iniarv’s Tower"
-         ]
-      }
-   }
+   ]
 }

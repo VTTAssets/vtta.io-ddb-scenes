@@ -1,213 +1,261 @@
 {
-   "name": "Spire of Iriolarthas",
-   "code": "idrotf",
    "id": "scenes/idrotf-scene-7.3",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 4000,
-      "height": 2765
-   },
-   "journals": [
-      {
-         "id": "journals/idrotf-scene-7.3-Y29",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y28",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y27",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y26",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y25",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y24",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y23",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y22",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y21",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y20",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y19q",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y19p",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y19o",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y19n",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y19m",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y19l",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y19k",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y19j",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y19i",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y19h",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y19g",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y19f",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y19e",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y19d",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y19c",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y19b",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y19a",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y18",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y17",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y16",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y15",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y14",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y13",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y12",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y11",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y10",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y09",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y08",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y07",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y06",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y05",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y04",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y03",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y02",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.3-Y01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Spire of Iriolarthas",
    "backgroundColor": "#6e8290",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "idrotf",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "18 Chapter 7: Doom of Ythryn"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft"
+   },
+   "img": {
+      "height": 2765,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 4000
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-7.3-Y29",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y28",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y27",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y26",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y25",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y24",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y23",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y22",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y21",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y20",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y19q",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y19p",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y19o",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y19n",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y19m",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y19l",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y19k",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y19j",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y19i",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y19h",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y19g",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y19f",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y19e",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y19d",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y19c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y19b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y19a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y18",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y17",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y16",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.3-Y01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

@@ -1,45 +1,51 @@
 {
-   "name": "Lonelywood",
-   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.14",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2199,
-      "height": 3000
-   },
-   "journals": [
-      {
-         "id": "journals/idrotf-scene-1.14-03",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.14-02",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.14-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Lonelywood",
    "backgroundColor": "#b0b0ad",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "idrotf",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "09 Lonelywood"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft"
+   },
+   "img": {
+      "height": 3000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2199
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-1.14-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.14-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.14-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

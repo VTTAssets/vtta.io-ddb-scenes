@@ -1,94 +1,112 @@
 {
-   "name": "Troglodyte Lair",
-   "code": "oota",
    "id": "scenes/oota-scene-13.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -48,
-         "y": -34
-      },
-      "width": 3352,
-      "height": 2733
-   },
-   "journals": [
-      {
-         "id": "journals/oota-scene-13.1-15",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-13.1-14",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-13.1-13",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-13.1-12",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-13.1-11",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-13.1-10",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-13.1-09",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-13.1-08",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-13.1-07",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-13.1-06",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-13.1-05",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-13.1-04",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-13.1-03",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-13.1-02",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-13.1-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 72,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Troglodyte Lair",
    "backgroundColor": "#423c38",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "oota",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "13 Chapter 13: The Wormwrithings"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 72
+   },
+   "img": {
+      "height": 2733,
+      "shift": {
+         "x": -48,
+         "y": -34
+      },
+      "width": 3352
+   },
+   "journals": [
+      {
+         "id": "journals/oota-scene-13.1-15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-13.1-14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-13.1-13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-13.1-12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-13.1-11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-13.1-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-13.1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-13.1-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-13.1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-13.1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-13.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-13.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-13.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-13.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-13.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

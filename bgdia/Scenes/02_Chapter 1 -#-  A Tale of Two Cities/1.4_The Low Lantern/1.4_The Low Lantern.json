@@ -1,16 +1,29 @@
 {
-   "name": "The Low Lantern",
-   "code": "bgdia",
    "id": "scenes/bgdia-scene-1.4",
-   "type": "scene",
+   "name": "The Low Lantern",
+   "backgroundColor": "#fcfcfc",
+   "code": "bgdia",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 1: A Tale of Two Cities"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 164
+   },
    "img": {
+      "height": 3996,
       "shift": {
          "x": -10,
          "y": -59
       },
-      "width": 5959,
-      "height": 3996
+      "width": 5959
    },
    "journals": [
       {
@@ -86,13 +99,75 @@
          ]
       }
    ],
-   "grid": {
-      "value": 164,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#fcfcfc",
+   "lights": [
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 4100,
+         "y": 2050
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 4264,
+         "y": 3116
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 4264,
+         "y": 3936
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 5740,
+         "y": 2378
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 5740,
+         "y": 2952
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 5740,
+         "y": 3772
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 5740,
+         "y": 4264
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 7052,
+         "y": 2378
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1999,79 +2074,5 @@
          ],
          "door": 1
       }
-   ],
-   "lights": [
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 4100,
-         "y": 2050
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 4264,
-         "y": 3116
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 4264,
-         "y": 3936
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 5740,
-         "y": 2378
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 5740,
-         "y": 2952
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 5740,
-         "y": 3772
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 5740,
-         "y": 4264
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 7052,
-         "y": 2378
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "02 Chapter 1: A Tale of Two Cities"
-         ]
-      }
-   }
+   ]
 }

@@ -1,16 +1,29 @@
 {
-   "name": "Icespire Hold",
-   "code": "doip",
    "id": "scenes/doip-scene-8.1",
-   "type": "scene",
+   "name": "Icespire Hold",
+   "backgroundColor": "#737c6d",
+   "code": "doip",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Icespire Hold"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 2099,
       "shift": {
          "x": -47,
          "y": -48
       },
-      "width": 3302,
-      "height": 2099
+      "width": 3302
    },
    "journals": [
       {
@@ -249,13 +262,91 @@
          ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#737c6d",
+   "lights": [
+      {
+         "bright": 19.52,
+         "darknessThreshold": 0,
+         "dim": 39.05,
+         "tintAlpha": 0.5,
+         "x": 3725,
+         "y": 2600
+      },
+      {
+         "bright": 42.18,
+         "darknessThreshold": 0,
+         "dim": 84.36,
+         "tintAlpha": 0.5,
+         "x": 3625,
+         "y": 1100
+      },
+      {
+         "bright": 60.14,
+         "darknessThreshold": 0,
+         "dim": 120.28,
+         "tintAlpha": 0.5,
+         "x": 1125,
+         "y": 2425
+      },
+      {
+         "bright": 61.39,
+         "darknessThreshold": 0,
+         "dim": 122.79,
+         "tintAlpha": 0.5,
+         "x": 2325,
+         "y": 2450
+      },
+      {
+         "bright": 84.42,
+         "darknessThreshold": 0,
+         "dim": 168.85,
+         "tintAlpha": 0.5,
+         "x": 3100,
+         "y": 2075
+      },
+      {
+         "bright": 92.08,
+         "darknessThreshold": 0,
+         "dim": 184.17,
+         "tintAlpha": 0.5,
+         "x": 2325,
+         "y": 925
+      },
+      {
+         "bright": 82.68,
+         "darknessThreshold": 0,
+         "dim": 165.37,
+         "tintAlpha": 0.5,
+         "x": 1275,
+         "y": 925
+      },
+      {
+         "bright": 50.16,
+         "darknessThreshold": 0,
+         "dim": 100.32,
+         "tintAlpha": 0.5,
+         "x": 2175,
+         "y": 675
+      },
+      {
+         "bright": 11.01,
+         "darknessThreshold": 0,
+         "dim": 22.02,
+         "tintAlpha": 0.5,
+         "x": 1925,
+         "y": 975
+      },
+      {
+         "bright": 45.64,
+         "darknessThreshold": 0,
+         "dim": 91.29,
+         "tintAlpha": 0.5,
+         "x": 2800,
+         "y": 1450
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -4556,95 +4647,5 @@
          ],
          "sense": 0
       }
-   ],
-   "lights": [
-      {
-         "bright": 19.52,
-         "darknessThreshold": 0,
-         "dim": 39.05,
-         "tintAlpha": 0.5,
-         "x": 3725,
-         "y": 2600
-      },
-      {
-         "bright": 42.18,
-         "darknessThreshold": 0,
-         "dim": 84.36,
-         "tintAlpha": 0.5,
-         "x": 3625,
-         "y": 1100
-      },
-      {
-         "bright": 60.14,
-         "darknessThreshold": 0,
-         "dim": 120.28,
-         "tintAlpha": 0.5,
-         "x": 1125,
-         "y": 2425
-      },
-      {
-         "bright": 61.39,
-         "darknessThreshold": 0,
-         "dim": 122.79,
-         "tintAlpha": 0.5,
-         "x": 2325,
-         "y": 2450
-      },
-      {
-         "bright": 84.42,
-         "darknessThreshold": 0,
-         "dim": 168.85,
-         "tintAlpha": 0.5,
-         "x": 3100,
-         "y": 2075
-      },
-      {
-         "bright": 92.08,
-         "darknessThreshold": 0,
-         "dim": 184.17,
-         "tintAlpha": 0.5,
-         "x": 2325,
-         "y": 925
-      },
-      {
-         "bright": 82.68,
-         "darknessThreshold": 0,
-         "dim": 165.37,
-         "tintAlpha": 0.5,
-         "x": 1275,
-         "y": 925
-      },
-      {
-         "bright": 50.16,
-         "darknessThreshold": 0,
-         "dim": 100.32,
-         "tintAlpha": 0.5,
-         "x": 2175,
-         "y": 675
-      },
-      {
-         "bright": 11.01,
-         "darknessThreshold": 0,
-         "dim": 22.02,
-         "tintAlpha": 0.5,
-         "x": 1925,
-         "y": 975
-      },
-      {
-         "bright": 45.64,
-         "darknessThreshold": 0,
-         "dim": 91.29,
-         "tintAlpha": 0.5,
-         "x": 2800,
-         "y": 1450
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "08 Icespire Hold"
-         ]
-      }
-   }
+   ]
 }

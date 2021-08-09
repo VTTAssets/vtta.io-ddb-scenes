@@ -1,16 +1,29 @@
 {
-   "name": "Amber Temple (Area X) - Lower Level",
-   "code": "cos",
    "id": "scenes/cos-scene-13.2",
-   "type": "scene",
+   "name": "Amber Temple (Area X) - Lower Level",
+   "backgroundColor": "#333530",
+   "code": "cos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "14 Chapter 13: The Amber Temple"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 76
+   },
    "img": {
+      "height": 3293,
       "shift": {
          "x": -56,
          "y": -22
       },
-      "width": 2395,
-      "height": 3293
+      "width": 2395
    },
    "journals": [
       {
@@ -96,27 +109,33 @@
       },
       {
          "id": "journals/cos-scene-13.2-X33f",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-13.2-X33e",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-13.2-X33d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-13.2-X33c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-13.2-X33b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-13.2-X33a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-13.2-X33",
@@ -185,44 +204,50 @@
       },
       {
          "id": "journals/cos-scene-13.2-X21",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-13.2-X14a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-13.2-X14",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-13.2-X05d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-13.2-X05c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-13.2-X05b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-13.2-X05a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-13.2-X05",
-         "positions": []
+         "positions": [
+         ]
       }
    ],
-   "grid": {
-      "value": 76,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#333530",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -3303,14 +3328,5 @@
          ],
          "door": 2
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "14 Chapter 13: The Amber Temple"
-         ]
-      }
-   }
+   ]
 }

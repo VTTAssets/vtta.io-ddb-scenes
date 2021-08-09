@@ -1,86 +1,102 @@
 {
-   "name": "Extradimensional Sanctum",
-   "code": "wdh",
    "id": "scenes/wdh-scene-8.2",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -39,
-         "y": -16
-      },
-      "width": 2106,
-      "height": 1425
-   },
-   "journals": [
-      {
-         "id": "journals/wdh-scene-8.2-E13",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-8.2-E12",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-8.2-E11",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-8.2-E10",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-8.2-E09",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-8.2-E08",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-8.2-E07",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-8.2-E06",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-8.2-E05",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-8.2-E04",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-8.2-E03",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-8.2-E02",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-8.2-E01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 60,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Extradimensional Sanctum",
    "backgroundColor": "#fcfcfc",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "wdh",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "09 Chapter 8: Winter Wizardry"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 60
+   },
+   "img": {
+      "height": 1425,
+      "shift": {
+         "x": -39,
+         "y": -16
+      },
+      "width": 2106
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-8.2-E13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-8.2-E01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

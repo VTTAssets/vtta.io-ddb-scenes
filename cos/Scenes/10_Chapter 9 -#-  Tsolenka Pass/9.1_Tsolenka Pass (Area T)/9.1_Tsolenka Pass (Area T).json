@@ -1,62 +1,82 @@
 {
-   "name": "Tsolenka Pass (Area T)",
-   "code": "cos",
    "id": "scenes/cos-scene-9.1",
-   "type": "scene",
+   "name": "Tsolenka Pass (Area T)",
+   "backgroundColor": "#63695e",
+   "code": "cos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "10 Chapter 9: Tsolenka Pass"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 68
+   },
    "img": {
+      "height": 3305,
       "shift": {
          "x": -18,
          "y": -19
       },
-      "width": 2410,
-      "height": 3305
+      "width": 2410
    },
    "journals": [
       {
          "id": "journals/cos-scene-9.1-T09",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-9.1-T08",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-9.1-T07",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-9.1-T06",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-9.1-T05",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-9.1-T04",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-9.1-T03",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-9.1-T02",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-9.1-T01",
-         "positions": []
+         "positions": [
+         ]
       }
    ],
-   "grid": {
-      "value": 68,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#63695e",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -898,14 +918,5 @@
             2302
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "10 Chapter 9: Tsolenka Pass"
-         ]
-      }
-   }
+   ]
 }

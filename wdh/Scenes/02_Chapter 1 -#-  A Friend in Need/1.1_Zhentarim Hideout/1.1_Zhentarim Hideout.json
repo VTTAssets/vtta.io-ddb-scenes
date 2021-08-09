@@ -1,16 +1,29 @@
 {
-   "name": "Zhentarim Hideout",
-   "code": "wdh",
    "id": "scenes/wdh-scene-1.1",
-   "type": "scene",
+   "name": "Zhentarim Hideout",
+   "backgroundColor": "#ffffff",
+   "code": "wdh",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 1: A Friend in Need"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 59
+   },
    "img": {
+      "height": 1418,
       "shift": {
          "x": -30,
          "y": -4
       },
-      "width": 2046,
-      "height": 1418
+      "width": 2046
    },
    "journals": [
       {
@@ -71,13 +84,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 59,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#ffffff",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1898,14 +1909,5 @@
             644
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "02 Chapter 1: A Friend in Need"
-         ]
-      }
-   }
+   ]
 }

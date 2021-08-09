@@ -1,16 +1,29 @@
 {
-   "name": "Dungeon of the Dead Three",
-   "code": "bgdia",
    "id": "scenes/bgdia-scene-1.3",
-   "type": "scene",
+   "name": "Dungeon of the Dead Three",
+   "backgroundColor": "#ffffff",
+   "code": "bgdia",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 1: A Tale of Two Cities"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 92
+   },
    "img": {
+      "height": 3970,
       "shift": {
          "x": -1,
          "y": -2
       },
-      "width": 6062,
-      "height": 3970
+      "width": 6062
    },
    "journals": [
       {
@@ -315,13 +328,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 92,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#ffffff",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -7067,14 +7078,5 @@
             3197
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "02 Chapter 1: A Tale of Two Cities"
-         ]
-      }
-   }
+   ]
 }

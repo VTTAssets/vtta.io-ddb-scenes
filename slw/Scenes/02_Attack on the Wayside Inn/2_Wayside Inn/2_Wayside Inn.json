@@ -1,25 +1,125 @@
 {
-   "name": "Wayside Inn",
-   "code": "slw",
    "id": "scenes/slw-scene-2",
-   "type": "scene",
+   "name": "Wayside Inn",
+   "backgroundColor": "#9c8869",
+   "code": "slw",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Attack on the Wayside Inn"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 86
+   },
    "img": {
+      "height": 2279,
       "shift": {
          "x": -49,
          "y": -61
       },
-      "width": 3604,
-      "height": 2279
+      "width": 3604
    },
-   "journals": [],
-   "grid": {
-      "value": 86,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#9c8869",
+   "journals": [
+   ],
+   "lights": [
+      {
+         "bright": 8.16,
+         "darknessThreshold": 0,
+         "dim": 16.32,
+         "tintAlpha": 0.5,
+         "x": 2064,
+         "y": 2494
+      },
+      {
+         "bright": 26.83,
+         "darknessThreshold": 0,
+         "dim": 53.67,
+         "tintAlpha": 0.5,
+         "x": 1634,
+         "y": 1677
+      },
+      {
+         "bright": 5.63,
+         "darknessThreshold": 0,
+         "dim": 11.27,
+         "tintAlpha": 0.5,
+         "x": 1419,
+         "y": 1204
+      },
+      {
+         "bright": 13.79,
+         "darknessThreshold": 0,
+         "dim": 27.59,
+         "tintAlpha": 0.5,
+         "x": 1634,
+         "y": 2365
+      },
+      {
+         "bright": 10.15,
+         "darknessThreshold": 0,
+         "dim": 20.3,
+         "tintAlpha": 0.5,
+         "x": 3182,
+         "y": 2365
+      },
+      {
+         "bright": 9.23,
+         "darknessThreshold": 0,
+         "dim": 18.47,
+         "tintAlpha": 0.5,
+         "x": 3182,
+         "y": 2107
+      },
+      {
+         "bright": 10.83,
+         "darknessThreshold": 0,
+         "dim": 21.67,
+         "tintAlpha": 0.5,
+         "x": 2967,
+         "y": 1849
+      },
+      {
+         "bright": 11.32,
+         "darknessThreshold": 0,
+         "dim": 22.64,
+         "tintAlpha": 0.5,
+         "x": 3225,
+         "y": 1849
+      },
+      {
+         "bright": 9.18,
+         "darknessThreshold": 0,
+         "dim": 18.36,
+         "tintAlpha": 0.5,
+         "x": 3139,
+         "y": 1333
+      },
+      {
+         "bright": 7.97,
+         "darknessThreshold": 0,
+         "dim": 15.94,
+         "tintAlpha": 0.5,
+         "x": 3397,
+         "y": 1333
+      },
+      {
+         "bright": 9.87,
+         "darknessThreshold": 0,
+         "dim": 19.75,
+         "tintAlpha": 0.5,
+         "x": 3225,
+         "y": 1548
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1185,103 +1285,5 @@
          "door": 1,
          "ds": 2
       }
-   ],
-   "lights": [
-      {
-         "bright": 8.16,
-         "darknessThreshold": 0,
-         "dim": 16.32,
-         "tintAlpha": 0.5,
-         "x": 2064,
-         "y": 2494
-      },
-      {
-         "bright": 26.83,
-         "darknessThreshold": 0,
-         "dim": 53.67,
-         "tintAlpha": 0.5,
-         "x": 1634,
-         "y": 1677
-      },
-      {
-         "bright": 5.63,
-         "darknessThreshold": 0,
-         "dim": 11.27,
-         "tintAlpha": 0.5,
-         "x": 1419,
-         "y": 1204
-      },
-      {
-         "bright": 13.79,
-         "darknessThreshold": 0,
-         "dim": 27.59,
-         "tintAlpha": 0.5,
-         "x": 1634,
-         "y": 2365
-      },
-      {
-         "bright": 10.15,
-         "darknessThreshold": 0,
-         "dim": 20.3,
-         "tintAlpha": 0.5,
-         "x": 3182,
-         "y": 2365
-      },
-      {
-         "bright": 9.23,
-         "darknessThreshold": 0,
-         "dim": 18.47,
-         "tintAlpha": 0.5,
-         "x": 3182,
-         "y": 2107
-      },
-      {
-         "bright": 10.83,
-         "darknessThreshold": 0,
-         "dim": 21.67,
-         "tintAlpha": 0.5,
-         "x": 2967,
-         "y": 1849
-      },
-      {
-         "bright": 11.32,
-         "darknessThreshold": 0,
-         "dim": 22.64,
-         "tintAlpha": 0.5,
-         "x": 3225,
-         "y": 1849
-      },
-      {
-         "bright": 9.18,
-         "darknessThreshold": 0,
-         "dim": 18.36,
-         "tintAlpha": 0.5,
-         "x": 3139,
-         "y": 1333
-      },
-      {
-         "bright": 7.97,
-         "darknessThreshold": 0,
-         "dim": 15.94,
-         "tintAlpha": 0.5,
-         "x": 3397,
-         "y": 1333
-      },
-      {
-         "bright": 9.87,
-         "darknessThreshold": 0,
-         "dim": 19.75,
-         "tintAlpha": 0.5,
-         "x": 3225,
-         "y": 1548
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "02 Attack on the Wayside Inn"
-         ]
-      }
-   }
+   ]
 }

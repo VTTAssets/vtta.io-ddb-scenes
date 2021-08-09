@@ -1,30 +1,32 @@
 {
+   "id": "scenes/erftlw-scene-4.9",
    "name": "Library Vault",
    "code": "erftlw",
-   "id": "scenes/erftlw-scene-4.9",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 3017,
-      "height": 4000
-   },
-   "journals": [],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "09 Chapter 4: Building Eberron Adventures"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 4000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3017
+   },
+   "journals": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

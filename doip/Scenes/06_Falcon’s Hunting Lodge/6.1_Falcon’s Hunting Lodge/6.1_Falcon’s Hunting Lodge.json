@@ -1,16 +1,29 @@
 {
-   "name": "Falcon’s Hunting Lodge",
-   "code": "doip",
    "id": "scenes/doip-scene-6.1",
-   "type": "scene",
+   "name": "Falcon’s Hunting Lodge",
+   "backgroundColor": "#676042",
+   "code": "doip",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Falcon’s Hunting Lodge"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 2101,
       "shift": {
          "x": -48,
          "y": -48
       },
-      "width": 3301,
-      "height": 2101
+      "width": 3301
    },
    "journals": [
       {
@@ -166,13 +179,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#676042",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -3453,14 +3464,5 @@
          ],
          "sense": 2
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "06 Falcon’s Hunting Lodge"
-         ]
-      }
-   }
+   ]
 }

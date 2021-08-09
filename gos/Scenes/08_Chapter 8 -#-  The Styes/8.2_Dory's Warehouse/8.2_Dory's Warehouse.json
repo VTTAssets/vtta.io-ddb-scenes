@@ -1,70 +1,82 @@
 {
-   "name": "Dory's Warehouse",
-   "code": "gos",
    "id": "scenes/gos-scene-8.2",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -18,
-         "y": -31
-      },
-      "width": 2577,
-      "height": 1818
-   },
-   "journals": [
-      {
-         "id": "journals/gos-scene-8.2-D09",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-8.2-D08",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-8.2-D07",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-8.2-D06",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-8.2-D05",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-8.2-D04",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-8.2-D03",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-8.2-D02",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-8.2-D01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Dory's Warehouse",
    "backgroundColor": "#ffffff",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "gos",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "08 Chapter 8: The Styes"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 1818,
+      "shift": {
+         "x": -18,
+         "y": -31
+      },
+      "width": 2577
+   },
+   "journals": [
+      {
+         "id": "journals/gos-scene-8.2-D09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.2-D08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.2-D07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.2-D06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.2-D05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.2-D04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.2-D03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.2-D02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.2-D01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

@@ -1,16 +1,29 @@
 {
-   "name": "Bremen",
-   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.1",
-   "type": "scene",
+   "name": "Bremen",
+   "backgroundColor": "#acaca8",
+   "code": "idrotf",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Bremen"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 100,
+      "type": 1,
+      "units": "ft",
+      "value": 123
+   },
    "img": {
+      "height": 3000,
       "shift": {
          "x": 136,
          "y": -69
       },
-      "width": 2208,
-      "height": 3000
+      "width": 2208
    },
    "journals": [
       {
@@ -32,21 +45,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 123,
-      "type": 1,
-      "distance": 100,
-      "units": "ft"
-   },
-   "backgroundColor": "#acaca8",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "02 Bremen"
-         ]
-      }
-   }
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

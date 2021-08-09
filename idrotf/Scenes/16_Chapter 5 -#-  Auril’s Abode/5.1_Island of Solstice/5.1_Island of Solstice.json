@@ -1,57 +1,66 @@
 {
-   "name": "Island of Solstice",
-   "code": "idrotf",
    "id": "scenes/idrotf-scene-5.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 3684,
-      "height": 5000
-   },
-   "journals": [
-      {
-         "id": "journals/idrotf-scene-5.1-I06",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-5.1-I05",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-5.1-I04",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-5.1-I03",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-5.1-I02",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-5.1-I01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Island of Solstice",
    "backgroundColor": "#9db3c1",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "idrotf",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "16 Chapter 5: Auril’s Abode"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft"
+   },
+   "img": {
+      "height": 5000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3684
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-5.1-I06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-5.1-I05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-5.1-I04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-5.1-I03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-5.1-I02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-5.1-I01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

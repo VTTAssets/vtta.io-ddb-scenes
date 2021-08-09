@@ -1,16 +1,29 @@
 {
-   "name": "Icingdeath and Twinkle",
-   "code": "dc",
    "id": "scenes/dc-scene-5",
-   "type": "scene",
+   "name": "Icingdeath and Twinkle",
+   "backgroundColor": "#204b58",
+   "code": "dc",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Icingdeath and Twinkle"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 85
+   },
    "img": {
+      "height": 2255,
       "shift": {
          "x": -48,
          "y": -59
       },
-      "width": 3560,
-      "height": 2255
+      "width": 3560
    },
    "journals": [
       {
@@ -167,13 +180,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 85,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#204b58",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -2003,14 +2014,5 @@
             1421
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "04 Icingdeath and Twinkle"
-         ]
-      }
-   }
+   ]
 }

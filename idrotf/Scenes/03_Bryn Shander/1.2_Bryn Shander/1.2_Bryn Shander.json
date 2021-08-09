@@ -1,16 +1,29 @@
 {
-   "name": "Bryn Shander",
-   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.2",
-   "type": "scene",
+   "name": "Bryn Shander",
+   "backgroundColor": "#b8b8b5",
+   "code": "idrotf",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Bryn Shander"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 100,
+      "type": 1,
+      "units": "ft",
+      "value": 64
+   },
    "img": {
+      "height": 2143,
       "shift": {
          "x": -21,
          "y": 5
       },
-      "width": 3000,
-      "height": 2143
+      "width": 3000
    },
    "journals": [
       {
@@ -41,21 +54,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 64,
-      "type": 1,
-      "distance": 100,
-      "units": "ft"
-   },
-   "backgroundColor": "#b8b8b5",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "03 Bryn Shander"
-         ]
-      }
-   }
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

@@ -1,43 +1,47 @@
 {
+   "id": "scenes/bgdia-scene-6.1",
    "name": "Sword Coast",
    "code": "bgdia",
-   "id": "scenes/bgdia-scene-6.1",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2092,
-      "height": 1321
-   },
-   "journals": [
-      {
-         "id": "journals/bgdia-scene-6.1-03",
-         "positions": []
-      },
-      {
-         "id": "journals/bgdia-scene-6.1-02",
-         "positions": []
-      },
-      {
-         "id": "journals/bgdia-scene-6.1-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "10 Baldur’s Gate Gazetteer"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 1321,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2092
+   },
+   "journals": [
+      {
+         "id": "journals/bgdia-scene-6.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/bgdia-scene-6.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/bgdia-scene-6.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

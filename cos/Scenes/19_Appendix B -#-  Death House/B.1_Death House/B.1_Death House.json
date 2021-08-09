@@ -1,16 +1,29 @@
 {
-   "name": "Death House",
-   "code": "cos",
    "id": "scenes/cos-scene-B.1",
-   "type": "scene",
+   "name": "Death House",
+   "backgroundColor": "#aaa993",
+   "code": "cos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "19 Appendix B: Death House"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 165
+   },
    "img": {
+      "height": 7502,
       "shift": {
          "x": -84,
          "y": -114
       },
-      "width": 5468,
-      "height": 7502
+      "width": 5468
    },
    "journals": [
       {
@@ -150,27 +163,33 @@
       },
       {
          "id": "journals/cos-scene-B.1-23F",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-B.1-23E",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-B.1-23D",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-B.1-23C",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-B.1-23B",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-B.1-23A",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-B.1-23",
@@ -420,13 +439,20 @@
          ]
       }
    ],
-   "grid": {
-      "value": 165,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#aaa993",
+   "lights": [
+      {
+         "bright": 35,
+         "darknessThreshold": 0,
+         "dim": 45,
+         "t": "g",
+         "tintAlpha": 0.5,
+         "x": 2640,
+         "y": 3547
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -5689,24 +5715,5 @@
          "move": 0,
          "sense": 2
       }
-   ],
-   "lights": [
-      {
-         "bright": 35,
-         "darknessThreshold": 0,
-         "dim": 45,
-         "t": "g",
-         "tintAlpha": 0.5,
-         "x": 2640,
-         "y": 3547
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "19 Appendix B: Death House"
-         ]
-      }
-   }
+   ]
 }

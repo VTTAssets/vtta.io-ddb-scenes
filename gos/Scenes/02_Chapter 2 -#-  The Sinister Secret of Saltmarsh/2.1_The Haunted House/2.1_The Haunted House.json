@@ -1,16 +1,29 @@
 {
-   "name": "The Haunted House",
-   "code": "gos",
    "id": "scenes/gos-scene-2.1",
-   "type": "scene",
+   "name": "The Haunted House",
+   "backgroundColor": "#f4f5f6",
+   "code": "gos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 2: The Sinister Secret of Saltmarsh"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 140
+   },
    "img": {
+      "height": 5700,
       "shift": {
          "x": -10,
          "y": -120
       },
-      "width": 4186,
-      "height": 5700
+      "width": 4186
    },
    "journals": [
       {
@@ -185,13 +198,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 140,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#f4f5f6",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -4038,14 +4049,5 @@
             2100
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "02 Chapter 2: The Sinister Secret of Saltmarsh"
-         ]
-      }
-   }
+   ]
 }

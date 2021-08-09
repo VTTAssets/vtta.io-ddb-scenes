@@ -1,30 +1,32 @@
 {
+   "id": "scenes/tftyp-scene-2.1",
    "name": "The Stone Tooth",
    "code": "tftyp",
-   "id": "scenes/tftyp-scene-2.1",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 1619,
-      "height": 2133
-   },
-   "journals": [],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "02 The Forge of Fury"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 2133,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 1619
+   },
+   "journals": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

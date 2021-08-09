@@ -1,62 +1,82 @@
 {
-   "name": "Abbey of Saint Markovia - Upper Floor & Cellar",
-   "code": "cos",
    "id": "scenes/cos-scene-8.3",
-   "type": "scene",
+   "name": "Abbey of Saint Markovia - Upper Floor & Cellar",
+   "backgroundColor": "#72766c",
+   "code": "cos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Chapter 8: The Village of Krezk"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 69
+   },
    "img": {
+      "height": 1648,
       "shift": {
          "x": -7,
          "y": -6
       },
-      "width": 2406,
-      "height": 1648
+      "width": 2406
    },
    "journals": [
       {
          "id": "journals/cos-scene-8.3-S24",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-8.3-S23",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-8.3-S22",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-8.3-S21",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-8.3-S20",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-8.3-S19",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-8.3-S18",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-8.3-S17",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-8.3-S16",
-         "positions": []
+         "positions": [
+         ]
       }
    ],
-   "grid": {
-      "value": 69,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#72766c",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -692,14 +712,5 @@
             1182
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "09 Chapter 8: The Village of Krezk"
-         ]
-      }
-   }
+   ]
 }

@@ -1,75 +1,87 @@
 {
+   "id": "scenes/hftt-scene-1.1",
    "name": "Troglodyte Caverns",
    "code": "hftt",
-   "id": "scenes/hftt-scene-1.1",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2500,
-      "height": 2182
-   },
-   "journals": [
-      {
-         "id": "journals/hftt-scene-1.1-11",
-         "positions": []
-      },
-      {
-         "id": "journals/hftt-scene-1.1-10",
-         "positions": []
-      },
-      {
-         "id": "journals/hftt-scene-1.1-09",
-         "positions": []
-      },
-      {
-         "id": "journals/hftt-scene-1.1-08",
-         "positions": []
-      },
-      {
-         "id": "journals/hftt-scene-1.1-07",
-         "positions": []
-      },
-      {
-         "id": "journals/hftt-scene-1.1-06",
-         "positions": []
-      },
-      {
-         "id": "journals/hftt-scene-1.1-05",
-         "positions": []
-      },
-      {
-         "id": "journals/hftt-scene-1.1-04",
-         "positions": []
-      },
-      {
-         "id": "journals/hftt-scene-1.1-03",
-         "positions": []
-      },
-      {
-         "id": "journals/hftt-scene-1.1-02",
-         "positions": []
-      },
-      {
-         "id": "journals/hftt-scene-1.1-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "00 Hunt for the Thessalhydra"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 2182,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2500
+   },
+   "journals": [
+      {
+         "id": "journals/hftt-scene-1.1-11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hftt-scene-1.1-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hftt-scene-1.1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hftt-scene-1.1-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hftt-scene-1.1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hftt-scene-1.1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hftt-scene-1.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hftt-scene-1.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hftt-scene-1.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hftt-scene-1.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hftt-scene-1.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

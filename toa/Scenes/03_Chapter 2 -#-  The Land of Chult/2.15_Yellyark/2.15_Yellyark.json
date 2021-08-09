@@ -1,50 +1,83 @@
 {
-   "name": "Yellyark",
-   "code": "toa",
    "id": "scenes/toa-scene-2.15",
-   "type": "scene",
+   "name": "Yellyark",
+   "backgroundColor": "#a7c7a0",
+   "code": "toa",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: The Land of Chult"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 59
+   },
    "img": {
+      "height": 1900,
       "shift": {
          "x": 21,
          "y": -21
       },
-      "width": 2750,
-      "height": 1900
+      "width": 2750
    },
    "journals": [
       {
          "id": "journals/toa-scene-2.15-06",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/toa-scene-2.15-05",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/toa-scene-2.15-04",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/toa-scene-2.15-03",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/toa-scene-2.15-02",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/toa-scene-2.15-01",
-         "positions": []
+         "positions": [
+         ]
       }
    ],
-   "grid": {
-      "value": 59,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#a7c7a0",
+   "lights": [
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1622.5,
+         "y": 1150.5
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 2271.5,
+         "y": 2094.5
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -605,31 +638,5 @@
          ],
          "sense": 2
       }
-   ],
-   "lights": [
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1622.5,
-         "y": 1150.5
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 2271.5,
-         "y": 2094.5
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "03 Chapter 2: The Land of Chult"
-         ]
-      }
-   }
+   ]
 }

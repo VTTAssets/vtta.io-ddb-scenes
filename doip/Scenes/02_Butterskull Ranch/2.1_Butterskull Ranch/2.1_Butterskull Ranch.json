@@ -1,16 +1,29 @@
 {
-   "name": "Butterskull Ranch",
-   "code": "doip",
    "id": "scenes/doip-scene-2.1",
-   "type": "scene",
+   "name": "Butterskull Ranch",
+   "backgroundColor": "#777552",
+   "code": "doip",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Butterskull Ranch"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 2101,
       "shift": {
          "x": -45,
          "y": -48
       },
-      "width": 3304,
-      "height": 2101
+      "width": 3304
    },
    "journals": [
       {
@@ -112,13 +125,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#777552",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1393,14 +1404,5 @@
          ],
          "sense": 0
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "02 Butterskull Ranch"
-         ]
-      }
-   }
+   ]
 }

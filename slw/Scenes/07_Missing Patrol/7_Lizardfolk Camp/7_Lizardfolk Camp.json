@@ -1,25 +1,37 @@
 {
-   "name": "Lizardfolk Camp",
-   "code": "slw",
    "id": "scenes/slw-scene-7",
-   "type": "scene",
+   "name": "Lizardfolk Camp",
+   "backgroundColor": "#1f281c",
+   "code": "slw",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Missing Patrol"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 86
+   },
    "img": {
+      "height": 2280,
       "shift": {
          "x": -50,
          "y": -61
       },
-      "width": 3601,
-      "height": 2280
+      "width": 3601
    },
-   "journals": [],
-   "grid": {
-      "value": 86,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#1f281c",
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -444,14 +456,5 @@
          ],
          "sense": 2
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "07 Missing Patrol"
-         ]
-      }
-   }
+   ]
 }

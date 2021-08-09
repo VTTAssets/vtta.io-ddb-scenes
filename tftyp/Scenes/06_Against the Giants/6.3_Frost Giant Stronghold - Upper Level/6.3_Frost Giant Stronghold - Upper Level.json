@@ -1,147 +1,177 @@
 {
+   "id": "scenes/tftyp-scene-6.3",
    "name": "Frost Giant Stronghold - Upper Level",
    "code": "tftyp",
-   "id": "scenes/tftyp-scene-6.3",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2254,
-      "height": 3000
-   },
-   "journals": [
-      {
-         "id": "journals/tftyp-scene-6.3-29",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-28",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-27",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-26",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-25",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-24",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-23",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-22",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-21",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-20",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-19",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-18",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-17",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-16",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-15",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-14",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-13",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-12",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-11",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-10",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-09",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-08",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-07",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-06",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-05",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-04",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-03",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-02",
-         "positions": []
-      },
-      {
-         "id": "journals/tftyp-scene-6.3-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "06 Against the Giants"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 3000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2254
+   },
+   "journals": [
+      {
+         "id": "journals/tftyp-scene-6.3-29",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-28",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-27",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-26",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-25",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-24",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-23",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-22",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-21",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-20",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-19",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-18",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-17",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-16",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-6.3-01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

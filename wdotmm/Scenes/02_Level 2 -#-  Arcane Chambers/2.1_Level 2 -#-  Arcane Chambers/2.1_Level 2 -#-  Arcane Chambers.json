@@ -1,358 +1,452 @@
 {
-   "name": "Level 2: Arcane Chambers",
-   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-2.1",
-   "type": "scene",
+   "name": "Level 2: Arcane Chambers",
+   "backgroundColor": "#ffffff",
+   "code": "wdotmm",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Level 2: Arcane Chambers"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 5046,
       "shift": {
          "x": -14,
          "y": -29
       },
-      "width": 3750,
-      "height": 5046
+      "width": 3750
    },
    "journals": [
       {
          "id": "journals/wdotmm-scene-2.1-26e",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-26d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-26c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-26b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-26a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-26",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-25r",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-25a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-25",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-24",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-23b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-23a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-23",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-22f",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-22e",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-22d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-22c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-22b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-22a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-22",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-21",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-20d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-20c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-20b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-20a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-20",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-19e",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-19d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-19c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-19b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-19a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-19",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-18",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-17",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-16",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-15",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-14b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-14a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-14",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-13g",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-13f",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-13e",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-13d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-13b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-13a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-13",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-12",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-11b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-11a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-11",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-10d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-10c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-10b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-10a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-10",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-09d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-09c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-09b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-09a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-09",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-08",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-07e",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-07d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-07c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-07b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-07a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-07",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-06",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-05",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-04",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-03",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-02d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-02c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-02b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-02a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-02",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-01f",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-01e",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-01d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-01c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-01b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-01a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-2.1-01",
-         "positions": []
+         "positions": [
+         ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#ffffff",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -7754,14 +7848,5 @@
             6300
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "02 Level 2: Arcane Chambers"
-         ]
-      }
-   }
+   ]
 }

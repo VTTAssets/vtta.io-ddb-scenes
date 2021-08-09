@@ -1,122 +1,147 @@
 {
-   "name": "Hunting Lodge - Ground Floor",
-   "code": "hotdq",
    "id": "scenes/hotdq-scene-7.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -18,
-         "y": -3
-      },
-      "width": 2684,
-      "height": 2004
-   },
-   "journals": [
-      {
-         "id": "journals/hotdq-scene-7.1-22",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-7.1-21",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-7.1-20",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-7.1-19",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-7.1-18",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-7.1-17",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-7.1-16",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-7.1-15",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-7.1-14",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-7.1-13",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-7.1-12",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-7.1-11",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-7.1-10",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-7.1-09",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-7.1-08",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-7.1-07",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-7.1-06",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-7.1-05",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-7.1-04",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-7.1-03",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-7.1-02",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-7.1-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 77,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Hunting Lodge - Ground Floor",
    "backgroundColor": "#7d7d7d",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "hotdq",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "08 Chapter 7: Hunting Lodge"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 77
+   },
+   "img": {
+      "height": 2004,
+      "shift": {
+         "x": -18,
+         "y": -3
+      },
+      "width": 2684
+   },
+   "journals": [
+      {
+         "id": "journals/hotdq-scene-7.1-22",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-7.1-21",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-7.1-20",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-7.1-19",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-7.1-18",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-7.1-17",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-7.1-16",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-7.1-15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-7.1-14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-7.1-13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-7.1-12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-7.1-11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-7.1-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-7.1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-7.1-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-7.1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-7.1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-7.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-7.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-7.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-7.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-7.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

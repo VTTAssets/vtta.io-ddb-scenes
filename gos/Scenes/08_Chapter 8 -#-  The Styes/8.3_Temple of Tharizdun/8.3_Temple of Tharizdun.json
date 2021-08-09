@@ -1,58 +1,67 @@
 {
-   "name": "Temple of Tharizdun",
-   "code": "gos",
    "id": "scenes/gos-scene-8.3",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -3,
-         "y": -6
-      },
-      "width": 2119,
-      "height": 1487
-   },
-   "journals": [
-      {
-         "id": "journals/gos-scene-8.3-T06",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-8.3-T05",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-8.3-T04",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-8.3-T03",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-8.3-T02",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-8.3-T01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 53,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Temple of Tharizdun",
    "backgroundColor": "#f8f9fb",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "gos",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "08 Chapter 8: The Styes"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 53
+   },
+   "img": {
+      "height": 1487,
+      "shift": {
+         "x": -3,
+         "y": -6
+      },
+      "width": 2119
+   },
+   "journals": [
+      {
+         "id": "journals/gos-scene-8.3-T06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.3-T05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.3-T04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.3-T03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.3-T02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-8.3-T01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

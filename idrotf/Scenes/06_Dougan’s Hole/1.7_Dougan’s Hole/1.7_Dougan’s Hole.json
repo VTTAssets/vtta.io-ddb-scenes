@@ -1,16 +1,28 @@
 {
-   "name": "Dougan’s Hole",
-   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.7",
-   "type": "scene",
+   "name": "Dougan’s Hole",
+   "backgroundColor": "#adadaa",
+   "code": "idrotf",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Dougan’s Hole"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 100,
+      "type": 1,
+      "units": "ft"
+   },
    "img": {
+      "height": 3000,
       "shift": {
          "x": 12,
          "y": 46
       },
-      "width": 2202,
-      "height": 3000
+      "width": 2202
    },
    "journals": [
       {
@@ -23,20 +35,11 @@
          ]
       }
    ],
-   "grid": {
-      "type": 1,
-      "distance": 100,
-      "units": "ft"
-   },
-   "backgroundColor": "#adadaa",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "06 Dougan’s Hole"
-         ]
-      }
-   }
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

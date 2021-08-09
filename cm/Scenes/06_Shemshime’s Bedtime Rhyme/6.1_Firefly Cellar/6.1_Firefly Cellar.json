@@ -1,87 +1,102 @@
 {
+   "id": "scenes/cm-scene-6.1",
    "name": "Firefly Cellar",
    "code": "cm",
-   "id": "scenes/cm-scene-6.1",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2199,
-      "height": 3000
-   },
-   "journals": [
-      {
-         "id": "journals/cm-scene-6.1-F14",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-6.1-F13",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-6.1-F12",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-6.1-F11",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-6.1-F10",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-6.1-F09",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-6.1-F08",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-6.1-F07",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-6.1-F06",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-6.1-F05",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-6.1-F04",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-6.1-F03",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-6.1-F02",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-6.1-F01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "06 Shemshime’s Bedtime Rhyme"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 3000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2199
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-6.1-F14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-6.1-F13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-6.1-F12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-6.1-F11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-6.1-F10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-6.1-F09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-6.1-F08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-6.1-F07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-6.1-F06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-6.1-F05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-6.1-F04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-6.1-F03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-6.1-F02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-6.1-F01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

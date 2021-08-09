@@ -1,63 +1,72 @@
 {
+   "id": "scenes/ai-scene-5.2",
    "name": "Lottie's Palace",
    "code": "ai",
-   "id": "scenes/ai-scene-5.2",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 1148,
-      "height": 1466
-   },
-   "journals": [
-      {
-         "id": "journals/ai-scene-5.2-08",
-         "positions": []
-      },
-      {
-         "id": "journals/ai-scene-5.2-07",
-         "positions": []
-      },
-      {
-         "id": "journals/ai-scene-5.2-06",
-         "positions": []
-      },
-      {
-         "id": "journals/ai-scene-5.2-05",
-         "positions": []
-      },
-      {
-         "id": "journals/ai-scene-5.2-04",
-         "positions": []
-      },
-      {
-         "id": "journals/ai-scene-5.2-03",
-         "positions": []
-      },
-      {
-         "id": "journals/ai-scene-5.2-02",
-         "positions": []
-      },
-      {
-         "id": "journals/ai-scene-5.2-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "09 Episode 5: Hide and Seek"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 1466,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 1148
+   },
+   "journals": [
+      {
+         "id": "journals/ai-scene-5.2-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-5.2-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-5.2-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-5.2-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-5.2-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-5.2-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-5.2-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-5.2-01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

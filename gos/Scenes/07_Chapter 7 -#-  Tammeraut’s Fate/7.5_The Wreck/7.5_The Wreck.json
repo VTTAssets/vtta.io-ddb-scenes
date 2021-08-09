@@ -1,33 +1,37 @@
 {
-   "name": "The Wreck",
-   "code": "gos",
    "id": "scenes/gos-scene-7.5",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -16,
-         "y": -20
-      },
-      "width": 2154,
-      "height": 1508
-   },
-   "journals": [],
-   "grid": {
-      "value": 72,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "The Wreck",
    "backgroundColor": "#fdfdfe",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "gos",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "07 Chapter 7: Tammeraut’s Fate"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 72
+   },
+   "img": {
+      "height": 1508,
+      "shift": {
+         "x": -16,
+         "y": -20
+      },
+      "width": 2154
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

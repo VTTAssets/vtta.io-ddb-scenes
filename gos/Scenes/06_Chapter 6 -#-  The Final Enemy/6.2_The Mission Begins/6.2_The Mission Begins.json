@@ -1,146 +1,177 @@
 {
-   "name": "The Mission Begins",
-   "code": "gos",
    "id": "scenes/gos-scene-6.2",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -69,
-         "y": -81
-      },
-      "width": 4186,
-      "height": 5678
-   },
-   "journals": [
-      {
-         "id": "journals/gos-scene-6.2-47",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-46",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-45",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-44",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-43",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-42",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-41",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-40",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-39",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-38",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-37",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-36",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-35",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-34",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-33",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-32",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-31",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-30",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-29",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-28",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-27",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-26",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-25",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-24",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-23",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-22",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-21",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-6.2-20",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 114,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "The Mission Begins",
    "backgroundColor": "#ffffff",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "gos",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "06 Chapter 6: The Final Enemy"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 114
+   },
+   "img": {
+      "height": 5678,
+      "shift": {
+         "x": -69,
+         "y": -81
+      },
+      "width": 4186
+   },
+   "journals": [
+      {
+         "id": "journals/gos-scene-6.2-47",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-46",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-45",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-44",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-43",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-42",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-41",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-40",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-39",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-38",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-37",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-36",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-35",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-34",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-33",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-32",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-31",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-30",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-29",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-28",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-27",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-26",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-25",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-24",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-23",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-22",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-21",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-6.2-20",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

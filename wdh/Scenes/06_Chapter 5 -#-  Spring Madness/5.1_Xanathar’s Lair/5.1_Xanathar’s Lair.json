@@ -1,178 +1,217 @@
 {
-   "name": "Xanathar’s Lair",
-   "code": "wdh",
    "id": "scenes/wdh-scene-5.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -16,
-         "y": -36
-      },
-      "width": 2121,
-      "height": 2877
-   },
-   "journals": [
-      {
-         "id": "journals/wdh-scene-5.1-X36",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X35",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X34",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X33",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X32",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X31",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X30",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X29",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X28",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X27",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X26",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X25",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X24",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X23",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X22",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X21",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X20",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X19",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X18",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X17",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X16",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X15",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X14",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X13",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X12",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X11",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X10",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X09",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X08",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X07",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X06",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X05",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X04",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X03",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X02",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-5.1-X01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 52,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Xanathar’s Lair",
    "backgroundColor": "#fafafa",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "wdh",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "06 Chapter 5: Spring Madness"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 52
+   },
+   "img": {
+      "height": 2877,
+      "shift": {
+         "x": -16,
+         "y": -36
+      },
+      "width": 2121
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-5.1-X36",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X35",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X34",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X33",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X32",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X31",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X30",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X29",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X28",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X27",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X26",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X25",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X24",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X23",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X22",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X21",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X20",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X19",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X18",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X17",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X16",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-5.1-X01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

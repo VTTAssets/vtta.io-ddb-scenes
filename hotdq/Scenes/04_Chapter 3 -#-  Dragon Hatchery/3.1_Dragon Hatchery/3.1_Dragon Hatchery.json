@@ -1,16 +1,29 @@
 {
-   "name": "Dragon Hatchery",
-   "code": "hotdq",
    "id": "scenes/hotdq-scene-3.1",
-   "type": "scene",
+   "name": "Dragon Hatchery",
+   "backgroundColor": "#948069",
+   "code": "hotdq",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 3: Dragon Hatchery"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 55
+   },
    "img": {
+      "height": 2500,
       "shift": {
          "x": -9,
          "y": -45
       },
-      "width": 3378,
-      "height": 2500
+      "width": 3378
    },
    "journals": [
       {
@@ -42,11 +55,13 @@
       },
       {
          "id": "journals/hotdq-scene-3.1-10B",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/hotdq-scene-3.1-10A",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/hotdq-scene-3.1-10",
@@ -139,13 +154,529 @@
          ]
       }
    ],
-   "grid": {
-      "value": 55,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#948069",
+   "lights": [
+      {
+         "bright": 50,
+         "darknessThreshold": 0,
+         "dim": 120,
+         "tintAlpha": 0.5,
+         "x": 1017,
+         "y": 2062
+      },
+      {
+         "bright": 0,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.2,
+         "x": 2475,
+         "y": 2310
+      },
+      {
+         "bright": 0.1,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.2,
+         "x": 2612,
+         "y": 2227
+      },
+      {
+         "bright": 0.1,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.2,
+         "x": 2612,
+         "y": 2117
+      },
+      {
+         "bright": 0.1,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.2,
+         "x": 2447,
+         "y": 2172
+      },
+      {
+         "bright": 0,
+         "darknessThreshold": 0,
+         "dim": 30,
+         "tintAlpha": 0.5,
+         "x": 1622,
+         "y": 2942
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 1787,
+         "y": 2805
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 1457,
+         "y": 3025
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 1787,
+         "y": 3025
+      },
+      {
+         "bright": 0.1,
+         "darknessThreshold": 0,
+         "dim": 6,
+         "tintAlpha": 1,
+         "x": 2227,
+         "y": 1567
+      },
+      {
+         "bright": 0.1,
+         "darknessThreshold": 0,
+         "dim": 6,
+         "tintAlpha": 1,
+         "x": 1842.5,
+         "y": 1347.5
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 1402,
+         "y": 2805
+      },
+      {
+         "bright": 1000,
+         "darknessThreshold": 0,
+         "dim": 1000,
+         "t": "g",
+         "tintAlpha": 1,
+         "x": 907,
+         "y": 715
+      },
+      {
+         "bright": 1000,
+         "darknessThreshold": 0,
+         "dim": 1000,
+         "t": "g",
+         "tintAlpha": 1,
+         "x": 4207,
+         "y": 770
+      },
+      {
+         "bright": 1000,
+         "darknessThreshold": 0,
+         "dim": 1000,
+         "t": "g",
+         "tintAlpha": 1,
+         "x": 935,
+         "y": 3162
+      },
+      {
+         "bright": 1000,
+         "darknessThreshold": 0,
+         "dim": 1000,
+         "t": "g",
+         "tintAlpha": 1,
+         "x": 4235,
+         "y": 3162
+      },
+      {
+         "bright": 1000,
+         "darknessThreshold": 0,
+         "dim": 1000,
+         "t": "g",
+         "tintAlpha": 1,
+         "x": 2887,
+         "y": 3135
+      },
+      {
+         "bright": 1000,
+         "darknessThreshold": 0,
+         "dim": 1000,
+         "t": "g",
+         "tintAlpha": 1,
+         "x": 4235,
+         "y": 2145
+      },
+      {
+         "bright": 50,
+         "darknessThreshold": 0,
+         "dim": 120,
+         "tintAlpha": 0.5,
+         "x": 1017,
+         "y": 1842
+      },
+      {
+         "bright": 50,
+         "darknessThreshold": 0,
+         "dim": 120,
+         "tintAlpha": 0.5,
+         "x": 1017,
+         "y": 1952
+      },
+      {
+         "bright": 50,
+         "darknessThreshold": 0,
+         "dim": 120,
+         "tintAlpha": 0.5,
+         "x": 1017,
+         "y": 1732
+      },
+      {
+         "bright": 50,
+         "darknessThreshold": 0,
+         "dim": 120,
+         "tintAlpha": 0.5,
+         "x": 1017,
+         "y": 1622
+      },
+      {
+         "bright": 0,
+         "darknessThreshold": 0,
+         "dim": 30,
+         "tintAlpha": 0.5,
+         "x": 2172,
+         "y": 2832
+      },
+      {
+         "bright": 3,
+         "darknessThreshold": 0,
+         "dim": 6,
+         "tintAlpha": 1,
+         "x": 2337,
+         "y": 2667
+      },
+      {
+         "bright": 0,
+         "darknessThreshold": 0,
+         "dim": 30,
+         "tintAlpha": 0.5,
+         "x": 2887,
+         "y": 2172
+      },
+      {
+         "bright": 0,
+         "darknessThreshold": 0,
+         "dim": 30,
+         "tintAlpha": 0.5,
+         "x": 2640,
+         "y": 2777
+      },
+      {
+         "bright": 0,
+         "darknessThreshold": 0,
+         "dim": 30,
+         "tintAlpha": 0.5,
+         "x": 3052,
+         "y": 2667
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 1567,
+         "y": 2805
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 1622,
+         "y": 3025
+      },
+      {
+         "bright": 10,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 1,
+         "x": 2035,
+         "y": 2832
+      },
+      {
+         "bright": 10,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 1,
+         "x": 2337,
+         "y": 2750
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 1705,
+         "y": 2695
+      },
+      {
+         "bright": 0,
+         "darknessThreshold": 0,
+         "dim": 30,
+         "tintAlpha": 0.5,
+         "x": 2997,
+         "y": 1842
+      },
+      {
+         "bright": 0,
+         "darknessThreshold": 0,
+         "dim": 30,
+         "tintAlpha": 0.5,
+         "x": 1952,
+         "y": 2667
+      },
+      {
+         "bright": 0,
+         "darknessThreshold": 0,
+         "dim": 30,
+         "tintAlpha": 0.5,
+         "x": 3107,
+         "y": 2007
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 2750,
+         "y": 2557
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 2667,
+         "y": 2832
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 2887,
+         "y": 2695
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 3080,
+         "y": 2585
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 2805,
+         "y": 2310
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 2942,
+         "y": 2145
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 3107,
+         "y": 2145
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 3190,
+         "y": 2337
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 2667,
+         "y": 2420
+      },
+      {
+         "bright": 0.1,
+         "darknessThreshold": 0,
+         "dim": 6,
+         "tintAlpha": 1,
+         "x": 1952.5,
+         "y": 1237.5
+      },
+      {
+         "bright": 0.1,
+         "darknessThreshold": 0,
+         "dim": 6,
+         "tintAlpha": 1,
+         "x": 2117.5,
+         "y": 1237.5
+      },
+      {
+         "bright": 0.1,
+         "darknessThreshold": 0,
+         "dim": 6,
+         "tintAlpha": 1,
+         "x": 1925,
+         "y": 1622.5
+      },
+      {
+         "bright": 0.1,
+         "darknessThreshold": 0,
+         "dim": 6,
+         "tintAlpha": 1,
+         "x": 2090,
+         "y": 1705
+      },
+      {
+         "bright": 0.1,
+         "darknessThreshold": 0,
+         "dim": 6,
+         "tintAlpha": 1,
+         "x": 1815,
+         "y": 1485
+      },
+      {
+         "bright": 0.1,
+         "darknessThreshold": 0,
+         "dim": 6,
+         "tintAlpha": 1,
+         "x": 2227.5,
+         "y": 1402.5
+      },
+      {
+         "bright": 0.1,
+         "darknessThreshold": 0,
+         "dim": 6,
+         "tintAlpha": 1,
+         "x": 2255,
+         "y": 1760
+      },
+      {
+         "bright": 0.1,
+         "darknessThreshold": 0,
+         "dim": 6,
+         "tintAlpha": 1,
+         "x": 2365,
+         "y": 1512.5
+      },
+      {
+         "bright": 0.1,
+         "darknessThreshold": 0,
+         "dim": 6,
+         "tintAlpha": 1,
+         "x": 2502.5,
+         "y": 1622.5
+      },
+      {
+         "bright": 0.1,
+         "darknessThreshold": 0,
+         "dim": 6,
+         "tintAlpha": 1,
+         "x": 2392.5,
+         "y": 1732.5
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 2805,
+         "y": 1540
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 3052.5,
+         "y": 1402.5
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 2997.5,
+         "y": 1595
+      },
+      {
+         "bright": 1.18,
+         "darknessThreshold": 0,
+         "dim": 2.36,
+         "tintAlpha": 0.5,
+         "x": 3657,
+         "y": 1760
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 2667.5,
+         "y": 1457.5
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 2475,
+         "y": 1292.5
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 2337.5,
+         "y": 1210
+      },
+      {
+         "bright": 5,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 1,
+         "x": 2612.5,
+         "y": 1347.5
+      },
+      {
+         "bright": 0,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 0.5,
+         "x": 2777.5,
+         "y": 1402.5
+      },
+      {
+         "bright": 0,
+         "darknessThreshold": 0,
+         "dim": 10,
+         "tintAlpha": 0.5,
+         "x": 2942.5,
+         "y": 1457.5
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -3440,533 +3971,5 @@
             3035
          ]
       }
-   ],
-   "lights": [
-      {
-         "bright": 50,
-         "darknessThreshold": 0,
-         "dim": 120,
-         "tintAlpha": 0.5,
-         "x": 1017,
-         "y": 2062
-      },
-      {
-         "bright": 0,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.2,
-         "x": 2475,
-         "y": 2310
-      },
-      {
-         "bright": 0.1,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.2,
-         "x": 2612,
-         "y": 2227
-      },
-      {
-         "bright": 0.1,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.2,
-         "x": 2612,
-         "y": 2117
-      },
-      {
-         "bright": 0.1,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.2,
-         "x": 2447,
-         "y": 2172
-      },
-      {
-         "bright": 0,
-         "darknessThreshold": 0,
-         "dim": 30,
-         "tintAlpha": 0.5,
-         "x": 1622,
-         "y": 2942
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 1787,
-         "y": 2805
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 1457,
-         "y": 3025
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 1787,
-         "y": 3025
-      },
-      {
-         "bright": 0.1,
-         "darknessThreshold": 0,
-         "dim": 6,
-         "tintAlpha": 1,
-         "x": 2227,
-         "y": 1567
-      },
-      {
-         "bright": 0.1,
-         "darknessThreshold": 0,
-         "dim": 6,
-         "tintAlpha": 1,
-         "x": 1842.5,
-         "y": 1347.5
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 1402,
-         "y": 2805
-      },
-      {
-         "bright": 1000,
-         "darknessThreshold": 0,
-         "dim": 1000,
-         "t": "g",
-         "tintAlpha": 1,
-         "x": 907,
-         "y": 715
-      },
-      {
-         "bright": 1000,
-         "darknessThreshold": 0,
-         "dim": 1000,
-         "t": "g",
-         "tintAlpha": 1,
-         "x": 4207,
-         "y": 770
-      },
-      {
-         "bright": 1000,
-         "darknessThreshold": 0,
-         "dim": 1000,
-         "t": "g",
-         "tintAlpha": 1,
-         "x": 935,
-         "y": 3162
-      },
-      {
-         "bright": 1000,
-         "darknessThreshold": 0,
-         "dim": 1000,
-         "t": "g",
-         "tintAlpha": 1,
-         "x": 4235,
-         "y": 3162
-      },
-      {
-         "bright": 1000,
-         "darknessThreshold": 0,
-         "dim": 1000,
-         "t": "g",
-         "tintAlpha": 1,
-         "x": 2887,
-         "y": 3135
-      },
-      {
-         "bright": 1000,
-         "darknessThreshold": 0,
-         "dim": 1000,
-         "t": "g",
-         "tintAlpha": 1,
-         "x": 4235,
-         "y": 2145
-      },
-      {
-         "bright": 50,
-         "darknessThreshold": 0,
-         "dim": 120,
-         "tintAlpha": 0.5,
-         "x": 1017,
-         "y": 1842
-      },
-      {
-         "bright": 50,
-         "darknessThreshold": 0,
-         "dim": 120,
-         "tintAlpha": 0.5,
-         "x": 1017,
-         "y": 1952
-      },
-      {
-         "bright": 50,
-         "darknessThreshold": 0,
-         "dim": 120,
-         "tintAlpha": 0.5,
-         "x": 1017,
-         "y": 1732
-      },
-      {
-         "bright": 50,
-         "darknessThreshold": 0,
-         "dim": 120,
-         "tintAlpha": 0.5,
-         "x": 1017,
-         "y": 1622
-      },
-      {
-         "bright": 0,
-         "darknessThreshold": 0,
-         "dim": 30,
-         "tintAlpha": 0.5,
-         "x": 2172,
-         "y": 2832
-      },
-      {
-         "bright": 3,
-         "darknessThreshold": 0,
-         "dim": 6,
-         "tintAlpha": 1,
-         "x": 2337,
-         "y": 2667
-      },
-      {
-         "bright": 0,
-         "darknessThreshold": 0,
-         "dim": 30,
-         "tintAlpha": 0.5,
-         "x": 2887,
-         "y": 2172
-      },
-      {
-         "bright": 0,
-         "darknessThreshold": 0,
-         "dim": 30,
-         "tintAlpha": 0.5,
-         "x": 2640,
-         "y": 2777
-      },
-      {
-         "bright": 0,
-         "darknessThreshold": 0,
-         "dim": 30,
-         "tintAlpha": 0.5,
-         "x": 3052,
-         "y": 2667
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 1567,
-         "y": 2805
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 1622,
-         "y": 3025
-      },
-      {
-         "bright": 10,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 1,
-         "x": 2035,
-         "y": 2832
-      },
-      {
-         "bright": 10,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 1,
-         "x": 2337,
-         "y": 2750
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 1705,
-         "y": 2695
-      },
-      {
-         "bright": 0,
-         "darknessThreshold": 0,
-         "dim": 30,
-         "tintAlpha": 0.5,
-         "x": 2997,
-         "y": 1842
-      },
-      {
-         "bright": 0,
-         "darknessThreshold": 0,
-         "dim": 30,
-         "tintAlpha": 0.5,
-         "x": 1952,
-         "y": 2667
-      },
-      {
-         "bright": 0,
-         "darknessThreshold": 0,
-         "dim": 30,
-         "tintAlpha": 0.5,
-         "x": 3107,
-         "y": 2007
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 2750,
-         "y": 2557
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 2667,
-         "y": 2832
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 2887,
-         "y": 2695
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 3080,
-         "y": 2585
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 2805,
-         "y": 2310
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 2942,
-         "y": 2145
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 3107,
-         "y": 2145
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 3190,
-         "y": 2337
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 2667,
-         "y": 2420
-      },
-      {
-         "bright": 0.1,
-         "darknessThreshold": 0,
-         "dim": 6,
-         "tintAlpha": 1,
-         "x": 1952.5,
-         "y": 1237.5
-      },
-      {
-         "bright": 0.1,
-         "darknessThreshold": 0,
-         "dim": 6,
-         "tintAlpha": 1,
-         "x": 2117.5,
-         "y": 1237.5
-      },
-      {
-         "bright": 0.1,
-         "darknessThreshold": 0,
-         "dim": 6,
-         "tintAlpha": 1,
-         "x": 1925,
-         "y": 1622.5
-      },
-      {
-         "bright": 0.1,
-         "darknessThreshold": 0,
-         "dim": 6,
-         "tintAlpha": 1,
-         "x": 2090,
-         "y": 1705
-      },
-      {
-         "bright": 0.1,
-         "darknessThreshold": 0,
-         "dim": 6,
-         "tintAlpha": 1,
-         "x": 1815,
-         "y": 1485
-      },
-      {
-         "bright": 0.1,
-         "darknessThreshold": 0,
-         "dim": 6,
-         "tintAlpha": 1,
-         "x": 2227.5,
-         "y": 1402.5
-      },
-      {
-         "bright": 0.1,
-         "darknessThreshold": 0,
-         "dim": 6,
-         "tintAlpha": 1,
-         "x": 2255,
-         "y": 1760
-      },
-      {
-         "bright": 0.1,
-         "darknessThreshold": 0,
-         "dim": 6,
-         "tintAlpha": 1,
-         "x": 2365,
-         "y": 1512.5
-      },
-      {
-         "bright": 0.1,
-         "darknessThreshold": 0,
-         "dim": 6,
-         "tintAlpha": 1,
-         "x": 2502.5,
-         "y": 1622.5
-      },
-      {
-         "bright": 0.1,
-         "darknessThreshold": 0,
-         "dim": 6,
-         "tintAlpha": 1,
-         "x": 2392.5,
-         "y": 1732.5
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 2805,
-         "y": 1540
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 3052.5,
-         "y": 1402.5
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 2997.5,
-         "y": 1595
-      },
-      {
-         "bright": 1.18,
-         "darknessThreshold": 0,
-         "dim": 2.36,
-         "tintAlpha": 0.5,
-         "x": 3657,
-         "y": 1760
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 2667.5,
-         "y": 1457.5
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 2475,
-         "y": 1292.5
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 2337.5,
-         "y": 1210
-      },
-      {
-         "bright": 5,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 1,
-         "x": 2612.5,
-         "y": 1347.5
-      },
-      {
-         "bright": 0,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 0.5,
-         "x": 2777.5,
-         "y": 1402.5
-      },
-      {
-         "bright": 0,
-         "darknessThreshold": 0,
-         "dim": 10,
-         "tintAlpha": 0.5,
-         "x": 2942.5,
-         "y": 1457.5
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "04 Chapter 3: Dragon Hatchery"
-         ]
-      }
-   }
+   ]
 }

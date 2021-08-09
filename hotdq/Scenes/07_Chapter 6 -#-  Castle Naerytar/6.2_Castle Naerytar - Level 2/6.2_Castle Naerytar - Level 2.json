@@ -1,16 +1,29 @@
 {
-   "name": "Castle Naerytar - Level 2",
-   "code": "hotdq",
    "id": "scenes/hotdq-scene-6.2",
-   "type": "scene",
+   "name": "Castle Naerytar - Level 2",
+   "backgroundColor": "#6e6e6e",
+   "code": "hotdq",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Chapter 6: Castle Naerytar"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 20,
+      "type": 1,
+      "units": "ft",
+      "value": 129
+   },
    "img": {
+      "height": 2703,
       "shift": {
          "x": -119,
          "y": -128
       },
-      "width": 2100,
-      "height": 2703
+      "width": 2100
    },
    "journals": [
       {
@@ -140,13 +153,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 129,
-      "type": 1,
-      "distance": 20,
-      "units": "ft"
-   },
-   "backgroundColor": "#6e6e6e",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1506,14 +1517,5 @@
          ],
          "door": 1
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "07 Chapter 6: Castle Naerytar"
-         ]
-      }
-   }
+   ]
 }

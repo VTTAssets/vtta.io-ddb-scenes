@@ -1,58 +1,67 @@
 {
-   "name": "The Hook Horror Lair",
-   "code": "oota",
    "id": "scenes/oota-scene-2.2",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -71,
-         "y": -56
-      },
-      "width": 3369,
-      "height": 2746
-   },
-   "journals": [
-      {
-         "id": "journals/oota-scene-2.2-05",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-2.2-04",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-2.2-03",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-2.2-02B",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-2.2-02A",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-2.2-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 108,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "The Hook Horror Lair",
    "backgroundColor": "#6f5d53",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "oota",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "02 Chapter 2: Into Darkness"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 108
+   },
+   "img": {
+      "height": 2746,
+      "shift": {
+         "x": -71,
+         "y": -56
+      },
+      "width": 3369
+   },
+   "journals": [
+      {
+         "id": "journals/oota-scene-2.2-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-2.2-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-2.2-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-2.2-02B",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-2.2-02A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-2.2-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

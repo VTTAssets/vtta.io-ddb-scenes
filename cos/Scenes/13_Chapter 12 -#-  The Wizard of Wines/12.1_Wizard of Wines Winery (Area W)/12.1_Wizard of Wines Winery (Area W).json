@@ -1,16 +1,29 @@
 {
-   "name": "Wizard of Wines Winery (Area W)",
-   "code": "cos",
    "id": "scenes/cos-scene-12.1",
-   "type": "scene",
+   "name": "Wizard of Wines Winery (Area W)",
+   "backgroundColor": "#7b7e72",
+   "code": "cos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Chapter 12: The Wizard of Wines"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 72
+   },
    "img": {
+      "height": 3278,
       "shift": {
          "x": -31,
          "y": -58
       },
-      "width": 2385,
-      "height": 3278
+      "width": 2385
    },
    "journals": [
       {
@@ -218,13 +231,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 72,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#7b7e72",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -3472,14 +3483,5 @@
          ],
          "sense": 2
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "13 Chapter 12: The Wizard of Wines"
-         ]
-      }
-   }
+   ]
 }

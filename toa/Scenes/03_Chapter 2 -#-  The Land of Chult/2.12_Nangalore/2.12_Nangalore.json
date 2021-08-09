@@ -1,65 +1,76 @@
 {
-   "name": "Nangalore",
-   "code": "toa",
    "id": "scenes/toa-scene-2.12",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2800,
-      "height": 3800
-   },
-   "journals": [
-      {
-         "id": "journals/toa-scene-2.12-08",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-2.12-07",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-2.12-06",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-2.12-05",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-2.12-04",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-2.12-03",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-2.12-02",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-2.12-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Nangalore",
    "backgroundColor": "#726b59",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "toa",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "03 Chapter 2: The Land of Chult"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft"
+   },
+   "img": {
+      "height": 3800,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2800
+   },
+   "journals": [
+      {
+         "id": "journals/toa-scene-2.12-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.12-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.12-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.12-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.12-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.12-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.12-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.12-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

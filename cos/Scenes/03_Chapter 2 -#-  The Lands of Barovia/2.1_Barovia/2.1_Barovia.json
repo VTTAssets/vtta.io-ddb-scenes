@@ -1,16 +1,29 @@
 {
-   "name": "Barovia",
-   "code": "cos",
    "id": "scenes/cos-scene-2.1",
-   "type": "scene",
+   "name": "Barovia",
+   "backgroundColor": "#959783",
+   "code": "cos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: The Lands of Barovia"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 5,
+      "units": "ft",
+      "value": 80
+   },
    "img": {
+      "height": 3235,
       "shift": {
          "x": -35,
          "y": 7
       },
-      "width": 5040,
-      "height": 3235
+      "width": 5040
    },
    "journals": [
       {
@@ -272,21 +285,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 80,
-      "type": 5,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#959783",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "03 Chapter 2: The Lands of Barovia"
-         ]
-      }
-   }
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

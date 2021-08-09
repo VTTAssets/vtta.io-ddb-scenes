@@ -1,82 +1,97 @@
 {
-   "name": "Leilon Under Construction",
-   "code": "sdw",
    "id": "scenes/sdw-scene-2",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -58,
-         "y": -71
-      },
-      "width": 3430,
-      "height": 2423
-   },
-   "journals": [
-      {
-         "id": "journals/sdw-scene-2-12",
-         "positions": []
-      },
-      {
-         "id": "journals/sdw-scene-2-11",
-         "positions": []
-      },
-      {
-         "id": "journals/sdw-scene-2-10",
-         "positions": []
-      },
-      {
-         "id": "journals/sdw-scene-2-09",
-         "positions": []
-      },
-      {
-         "id": "journals/sdw-scene-2-08",
-         "positions": []
-      },
-      {
-         "id": "journals/sdw-scene-2-07",
-         "positions": []
-      },
-      {
-         "id": "journals/sdw-scene-2-06",
-         "positions": []
-      },
-      {
-         "id": "journals/sdw-scene-2-05",
-         "positions": []
-      },
-      {
-         "id": "journals/sdw-scene-2-04",
-         "positions": []
-      },
-      {
-         "id": "journals/sdw-scene-2-03",
-         "positions": []
-      },
-      {
-         "id": "journals/sdw-scene-2-02",
-         "positions": []
-      },
-      {
-         "id": "journals/sdw-scene-2-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 77,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Leilon Under Construction",
    "backgroundColor": "#80817b",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "sdw",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "01 Welcome to Leilon"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 77
+   },
+   "img": {
+      "height": 2423,
+      "shift": {
+         "x": -58,
+         "y": -71
+      },
+      "width": 3430
+   },
+   "journals": [
+      {
+         "id": "journals/sdw-scene-2-12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/sdw-scene-2-11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/sdw-scene-2-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/sdw-scene-2-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/sdw-scene-2-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/sdw-scene-2-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/sdw-scene-2-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/sdw-scene-2-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/sdw-scene-2-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/sdw-scene-2-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/sdw-scene-2-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/sdw-scene-2-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

@@ -1,16 +1,29 @@
 {
-   "name": "Alley",
-   "code": "wdh",
    "id": "scenes/wdh-scene-4.1",
-   "type": "scene",
+   "name": "Alley",
+   "backgroundColor": "#fafafa",
+   "code": "wdh",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Chapter 4: Dragon Season"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 59
+   },
    "img": {
+      "height": 1442,
       "shift": {
          "x": -41,
          "y": -21
       },
-      "width": 2080,
-      "height": 1442
+      "width": 2080
    },
    "journals": [
       {
@@ -32,13 +45,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 59,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#fafafa",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -838,14 +849,5 @@
             1711
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "05 Chapter 4: Dragon Season"
-         ]
-      }
-   }
+   ]
 }
