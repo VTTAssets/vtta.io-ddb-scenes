@@ -1,42 +1,47 @@
 {
-   "name": "Mausoleum",
-   "code": "wdh",
    "id": "scenes/wdh-scene-4.3",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -7,
-         "y": -17
-      },
-      "width": 2046,
-      "height": 1425
-   },
-   "journals": [
-      {
-         "id": "journals/wdh-scene-4.3-M02",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-4.3-M01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 59,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Mausoleum",
    "backgroundColor": "#fefefe",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "wdh",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "05 Chapter 4: Dragon Season"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 59
+   },
+   "img": {
+      "height": 1425,
+      "shift": {
+         "x": -7,
+         "y": -17
+      },
+      "width": 2046
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-4.3-M02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.3-M01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

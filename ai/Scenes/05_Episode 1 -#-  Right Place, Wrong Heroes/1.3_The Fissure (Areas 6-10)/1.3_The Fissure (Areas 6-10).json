@@ -1,51 +1,57 @@
 {
+   "id": "scenes/ai-scene-1.3",
    "name": "The Fissure (Areas 6-10)",
    "code": "ai",
-   "id": "scenes/ai-scene-1.3",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 3000,
-      "height": 2000
-   },
-   "journals": [
-      {
-         "id": "journals/ai-scene-1.3-10",
-         "positions": []
-      },
-      {
-         "id": "journals/ai-scene-1.3-09",
-         "positions": []
-      },
-      {
-         "id": "journals/ai-scene-1.3-08",
-         "positions": []
-      },
-      {
-         "id": "journals/ai-scene-1.3-07",
-         "positions": []
-      },
-      {
-         "id": "journals/ai-scene-1.3-06",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "05 Episode 1: Right Place, Wrong Heroes"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 2000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/ai-scene-1.3-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-1.3-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-1.3-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-1.3-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-1.3-06",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

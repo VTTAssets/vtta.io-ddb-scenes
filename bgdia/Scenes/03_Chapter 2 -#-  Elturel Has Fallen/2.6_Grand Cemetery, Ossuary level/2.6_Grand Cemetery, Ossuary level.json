@@ -1,16 +1,29 @@
 {
-   "name": "Grand Cemetery, Ossuary level",
-   "code": "bgdia",
    "id": "scenes/bgdia-scene-2.6",
-   "type": "scene",
+   "name": "Grand Cemetery, Ossuary level",
+   "backgroundColor": "#f5f5f5",
+   "code": "bgdia",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: Elturel Has Fallen"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 116
+   },
    "img": {
+      "height": 5444,
       "shift": {
          "x": -38,
          "y": -37
       },
-      "width": 4017,
-      "height": 5444
+      "width": 4017
    },
    "journals": [
       {
@@ -69,16 +82,15 @@
       },
       {
          "id": "journals/bgdia-scene-2.6-G06",
-         "positions": []
+         "positions": [
+         ]
       }
    ],
-   "grid": {
-      "value": 116,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#f5f5f5",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -2508,14 +2520,5 @@
          ],
          "door": 2
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "03 Chapter 2: Elturel Has Fallen"
-         ]
-      }
-   }
+   ]
 }

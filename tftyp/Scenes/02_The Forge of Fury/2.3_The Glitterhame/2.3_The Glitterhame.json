@@ -1,16 +1,29 @@
 {
-   "name": "The Glitterhame",
-   "code": "tftyp",
    "id": "scenes/tftyp-scene-2.3",
-   "type": "scene",
+   "name": "The Glitterhame",
+   "backgroundColor": "#1f1f1f",
+   "code": "tftyp",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 The Forge of Fury"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 3312,
       "shift": {
          "x": -6,
          "y": -43
       },
-      "width": 3617,
-      "height": 3312
+      "width": 3617
    },
    "journals": [
       {
@@ -140,13 +153,19 @@
          ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#1f1f1f",
+   "lights": [
+      {
+         "bright": 9.77,
+         "darknessThreshold": 0,
+         "dim": 19.54,
+         "tintAlpha": 0.5,
+         "x": 1300,
+         "y": 2550
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -5587,23 +5606,5 @@
          ],
          "sense": 2
       }
-   ],
-   "lights": [
-      {
-         "bright": 9.77,
-         "darknessThreshold": 0,
-         "dim": 19.54,
-         "tintAlpha": 0.5,
-         "x": 1300,
-         "y": 2550
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "02 The Forge of Fury"
-         ]
-      }
-   }
+   ]
 }

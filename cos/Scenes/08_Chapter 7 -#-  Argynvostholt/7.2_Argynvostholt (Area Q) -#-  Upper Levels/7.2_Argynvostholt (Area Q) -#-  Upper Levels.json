@@ -1,134 +1,172 @@
 {
-   "name": "Argynvostholt (Area Q): Upper Levels",
-   "code": "cos",
    "id": "scenes/cos-scene-7.2",
-   "type": "scene",
+   "name": "Argynvostholt (Area Q): Upper Levels",
+   "backgroundColor": "#7c8075",
+   "code": "cos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Chapter 7: Argynvostholt"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 72
+   },
    "img": {
+      "height": 3297,
       "shift": {
          "x": -22,
          "y": -8
       },
-      "width": 2402,
-      "height": 3297
+      "width": 2402
    },
    "journals": [
       {
          "id": "journals/cos-scene-7.2-Q53",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q52",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q51",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q50",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q49",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q48",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q47",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q46",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q45",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q44",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q43",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q42",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q41",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q40",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q39",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q38",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q37",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q36",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q35",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q34",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q33",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q32",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q31",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q30",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q29",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q28",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-7.2-Q27",
-         "positions": []
+         "positions": [
+         ]
       }
    ],
-   "grid": {
-      "value": 72,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#7c8075",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -2976,14 +3014,5 @@
             3618
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "08 Chapter 7: Argynvostholt"
-         ]
-      }
-   }
+   ]
 }

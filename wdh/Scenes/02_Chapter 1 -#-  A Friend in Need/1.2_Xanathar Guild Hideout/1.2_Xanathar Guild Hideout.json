@@ -1,16 +1,29 @@
 {
-   "name": "Xanathar Guild Hideout",
-   "code": "wdh",
    "id": "scenes/wdh-scene-1.2",
-   "type": "scene",
+   "name": "Xanathar Guild Hideout",
+   "backgroundColor": "#fbfbfb",
+   "code": "wdh",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 1: A Friend in Need"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 65
+   },
    "img": {
+      "height": 1459,
       "shift": {
          "x": -14,
          "y": -43
       },
-      "width": 2072,
-      "height": 1459
+      "width": 2072
    },
    "journals": [
       {
@@ -138,13 +151,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 65,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#fbfbfb",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1862,14 +1873,5 @@
             1300
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "02 Chapter 1: A Friend in Need"
-         ]
-      }
-   }
+   ]
 }

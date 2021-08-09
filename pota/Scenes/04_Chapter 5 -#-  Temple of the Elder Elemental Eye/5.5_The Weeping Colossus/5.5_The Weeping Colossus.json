@@ -1,82 +1,97 @@
 {
-   "name": "The Weeping Colossus",
-   "code": "pota",
    "id": "scenes/pota-scene-5.5",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -9,
-         "y": -16
-      },
-      "width": 1894,
-      "height": 4762
-   },
-   "journals": [
-      {
-         "id": "journals/pota-scene-5.5-W12",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.5-W11",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.5-W10",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.5-W09",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.5-W08",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.5-W07",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.5-W06",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.5-W05",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.5-W04",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.5-W03",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.5-W02",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.5-W01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 96,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "The Weeping Colossus",
    "backgroundColor": "#6a5c54",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "pota",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "04 Chapter 5: Temple of the Elder Elemental Eye"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 96
+   },
+   "img": {
+      "height": 4762,
+      "shift": {
+         "x": -9,
+         "y": -16
+      },
+      "width": 1894
+   },
+   "journals": [
+      {
+         "id": "journals/pota-scene-5.5-W12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.5-W11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.5-W10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.5-W09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.5-W08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.5-W07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.5-W06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.5-W05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.5-W04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.5-W03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.5-W02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.5-W01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

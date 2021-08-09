@@ -1,33 +1,37 @@
 {
-   "name": "Everlund",
-   "code": "skt",
    "id": "scenes/skt-scene-3.3",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -34,
-         "y": -57
-      },
-      "width": 2321,
-      "height": 1736
-   },
-   "journals": [],
-   "grid": {
-      "value": 68,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Everlund",
    "backgroundColor": "#3e2b1b",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "skt",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "04 Chapter 3: The Savage Frontier"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 68
+   },
+   "img": {
+      "height": 1736,
+      "shift": {
+         "x": -34,
+         "y": -57
+      },
+      "width": 2321
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

@@ -1,77 +1,91 @@
 {
-   "name": "Dungeon of Deception",
-   "code": "toa",
    "id": "scenes/toa-scene-5.2",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2750,
-      "height": 1900
-   },
-   "journals": [
-      {
-         "id": "journals/toa-scene-5.2-28",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-5.2-27",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-5.2-26",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-5.2-25",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-5.2-24",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-5.2-23",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-5.2-22",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-5.2-21",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-5.2-20",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-5.2-19",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-5.2-18",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Dungeon of Deception",
    "backgroundColor": "#5a554a",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "toa",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "06 Chapter 5: Tomb of the Nine Gods"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft"
+   },
+   "img": {
+      "height": 1900,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2750
+   },
+   "journals": [
+      {
+         "id": "journals/toa-scene-5.2-28",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.2-27",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.2-26",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.2-25",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.2-24",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.2-23",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.2-22",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.2-21",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.2-20",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.2-19",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-5.2-18",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

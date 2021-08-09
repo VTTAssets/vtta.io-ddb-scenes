@@ -1,21 +1,35 @@
 {
-   "name": "Castle Naerytar - Ground Level",
-   "code": "hotdq",
    "id": "scenes/hotdq-scene-6.1",
-   "type": "scene",
+   "name": "Castle Naerytar - Ground Level",
+   "backgroundColor": "#988979",
+   "code": "hotdq",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Chapter 6: Castle Naerytar"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 20,
+      "type": 1,
+      "units": "ft",
+      "value": 128
+   },
    "img": {
+      "height": 3010,
       "shift": {
          "x": -75,
          "y": -89
       },
-      "width": 4066,
-      "height": 3010
+      "width": 4066
    },
    "journals": [
       {
          "id": "journals/hotdq-scene-6.1-01V",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/hotdq-scene-6.1-01U",
@@ -217,7 +231,8 @@
       },
       {
          "id": "journals/hotdq-scene-6.1-05",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/hotdq-scene-6.1-04",
@@ -260,13 +275,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 128,
-      "type": 1,
-      "distance": 20,
-      "units": "ft"
-   },
-   "backgroundColor": "#988979",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -2638,14 +2651,5 @@
          ],
          "sense": 0
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "07 Chapter 6: Castle Naerytar"
-         ]
-      }
-   }
+   ]
 }

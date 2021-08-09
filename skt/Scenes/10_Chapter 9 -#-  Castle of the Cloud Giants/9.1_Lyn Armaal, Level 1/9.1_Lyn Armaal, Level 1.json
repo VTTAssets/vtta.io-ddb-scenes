@@ -1,16 +1,29 @@
 {
-   "name": "Lyn Armaal, Level 1",
-   "code": "skt",
    "id": "scenes/skt-scene-9.1",
-   "type": "scene",
+   "name": "Lyn Armaal, Level 1",
+   "backgroundColor": "#9fb1cb",
+   "code": "skt",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "10 Chapter 9: Castle of the Cloud Giants"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 6005,
       "shift": {
          "x": -8,
          "y": -46
       },
-      "width": 4367,
-      "height": 6005
+      "width": 4367
    },
    "journals": [
       {
@@ -86,13 +99,195 @@
          ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#9fb1cb",
+   "lights": [
+      {
+         "bright": 261.47,
+         "darknessThreshold": 0,
+         "dim": 522.94,
+         "tintAlpha": 0.5,
+         "x": 3475,
+         "y": 2925
+      },
+      {
+         "bright": 19.25,
+         "darknessThreshold": 0,
+         "dim": 38.5,
+         "tintAlpha": 0.5,
+         "x": 3325,
+         "y": 5900
+      },
+      {
+         "bright": 23.15,
+         "darknessThreshold": 0,
+         "dim": 46.31,
+         "tintAlpha": 0.5,
+         "x": 3325,
+         "y": 6100
+      },
+      {
+         "bright": 24.18,
+         "darknessThreshold": 0,
+         "dim": 48.37,
+         "tintAlpha": 0.5,
+         "x": 2850,
+         "y": 5925
+      },
+      {
+         "bright": 32.58,
+         "darknessThreshold": 0,
+         "dim": 65.16,
+         "tintAlpha": 0.5,
+         "x": 2850,
+         "y": 6075
+      },
+      {
+         "bright": 18.85,
+         "darknessThreshold": 0,
+         "dim": 37.71,
+         "tintAlpha": 0.5,
+         "x": 2525,
+         "y": 6000
+      },
+      {
+         "bright": 18.49,
+         "darknessThreshold": 0,
+         "dim": 36.99,
+         "tintAlpha": 0.5,
+         "x": 2575,
+         "y": 6400
+      },
+      {
+         "bright": 36.8,
+         "darknessThreshold": 0,
+         "dim": 73.6,
+         "tintAlpha": 0.5,
+         "x": 2800,
+         "y": 6475
+      },
+      {
+         "bright": 31.36,
+         "darknessThreshold": 0,
+         "dim": 62.72,
+         "tintAlpha": 0.5,
+         "x": 3300,
+         "y": 6800
+      },
+      {
+         "bright": 40.95,
+         "darknessThreshold": 0,
+         "dim": 81.9,
+         "tintAlpha": 0.5,
+         "x": 2425,
+         "y": 6650
+      },
+      {
+         "bright": 34.16,
+         "darknessThreshold": 0,
+         "dim": 68.33,
+         "tintAlpha": 0.5,
+         "x": 2375,
+         "y": 5575
+      },
+      {
+         "bright": 30.92,
+         "darknessThreshold": 0,
+         "dim": 61.85,
+         "tintAlpha": 0.5,
+         "x": 2325,
+         "y": 5225
+      },
+      {
+         "bright": 34.3,
+         "darknessThreshold": 0,
+         "dim": 68.6,
+         "tintAlpha": 0.5,
+         "x": 2775,
+         "y": 5300
+      },
+      {
+         "bright": 43.46,
+         "darknessThreshold": 0,
+         "dim": 86.92,
+         "tintAlpha": 0.5,
+         "x": 3000,
+         "y": 5400
+      },
+      {
+         "bright": 66.44,
+         "darknessThreshold": 0,
+         "dim": 132.88,
+         "tintAlpha": 0.5,
+         "x": 1900,
+         "y": 6500
+      },
+      {
+         "bright": 81.95,
+         "darknessThreshold": 0,
+         "dim": 163.9,
+         "tintAlpha": 0.5,
+         "x": 1625,
+         "y": 6000
+      },
+      {
+         "bright": 68.03,
+         "darknessThreshold": 0,
+         "dim": 136.06,
+         "tintAlpha": 0.5,
+         "x": 1900,
+         "y": 5525
+      },
+      {
+         "bright": 47.33,
+         "darknessThreshold": 0,
+         "dim": 94.66,
+         "tintAlpha": 0.5,
+         "x": 2900,
+         "y": 5525
+      },
+      {
+         "bright": 76.59,
+         "darknessThreshold": 0,
+         "dim": 153.19,
+         "tintAlpha": 0.5,
+         "x": 2425,
+         "y": 7050
+      },
+      {
+         "bright": 136.84,
+         "darknessThreshold": 0,
+         "dim": 273.68,
+         "tintAlpha": 0.5,
+         "x": 1400,
+         "y": 7300
+      },
+      {
+         "bright": 276.93,
+         "darknessThreshold": 0,
+         "dim": 553.86,
+         "tintAlpha": 0.5,
+         "x": 4925,
+         "y": 7200
+      },
+      {
+         "bright": 259.92,
+         "darknessThreshold": 0,
+         "dim": 519.84,
+         "tintAlpha": 0.5,
+         "x": 5000,
+         "y": 4850
+      },
+      {
+         "bright": 181.56,
+         "darknessThreshold": 0,
+         "dim": 363.13,
+         "tintAlpha": 0.5,
+         "x": 1175,
+         "y": 4775
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -3168,199 +3363,5 @@
          ],
          "sense": 0
       }
-   ],
-   "lights": [
-      {
-         "bright": 261.47,
-         "darknessThreshold": 0,
-         "dim": 522.94,
-         "tintAlpha": 0.5,
-         "x": 3475,
-         "y": 2925
-      },
-      {
-         "bright": 19.25,
-         "darknessThreshold": 0,
-         "dim": 38.5,
-         "tintAlpha": 0.5,
-         "x": 3325,
-         "y": 5900
-      },
-      {
-         "bright": 23.15,
-         "darknessThreshold": 0,
-         "dim": 46.31,
-         "tintAlpha": 0.5,
-         "x": 3325,
-         "y": 6100
-      },
-      {
-         "bright": 24.18,
-         "darknessThreshold": 0,
-         "dim": 48.37,
-         "tintAlpha": 0.5,
-         "x": 2850,
-         "y": 5925
-      },
-      {
-         "bright": 32.58,
-         "darknessThreshold": 0,
-         "dim": 65.16,
-         "tintAlpha": 0.5,
-         "x": 2850,
-         "y": 6075
-      },
-      {
-         "bright": 18.85,
-         "darknessThreshold": 0,
-         "dim": 37.71,
-         "tintAlpha": 0.5,
-         "x": 2525,
-         "y": 6000
-      },
-      {
-         "bright": 18.49,
-         "darknessThreshold": 0,
-         "dim": 36.99,
-         "tintAlpha": 0.5,
-         "x": 2575,
-         "y": 6400
-      },
-      {
-         "bright": 36.8,
-         "darknessThreshold": 0,
-         "dim": 73.6,
-         "tintAlpha": 0.5,
-         "x": 2800,
-         "y": 6475
-      },
-      {
-         "bright": 31.36,
-         "darknessThreshold": 0,
-         "dim": 62.72,
-         "tintAlpha": 0.5,
-         "x": 3300,
-         "y": 6800
-      },
-      {
-         "bright": 40.95,
-         "darknessThreshold": 0,
-         "dim": 81.9,
-         "tintAlpha": 0.5,
-         "x": 2425,
-         "y": 6650
-      },
-      {
-         "bright": 34.16,
-         "darknessThreshold": 0,
-         "dim": 68.33,
-         "tintAlpha": 0.5,
-         "x": 2375,
-         "y": 5575
-      },
-      {
-         "bright": 30.92,
-         "darknessThreshold": 0,
-         "dim": 61.85,
-         "tintAlpha": 0.5,
-         "x": 2325,
-         "y": 5225
-      },
-      {
-         "bright": 34.3,
-         "darknessThreshold": 0,
-         "dim": 68.6,
-         "tintAlpha": 0.5,
-         "x": 2775,
-         "y": 5300
-      },
-      {
-         "bright": 43.46,
-         "darknessThreshold": 0,
-         "dim": 86.92,
-         "tintAlpha": 0.5,
-         "x": 3000,
-         "y": 5400
-      },
-      {
-         "bright": 66.44,
-         "darknessThreshold": 0,
-         "dim": 132.88,
-         "tintAlpha": 0.5,
-         "x": 1900,
-         "y": 6500
-      },
-      {
-         "bright": 81.95,
-         "darknessThreshold": 0,
-         "dim": 163.9,
-         "tintAlpha": 0.5,
-         "x": 1625,
-         "y": 6000
-      },
-      {
-         "bright": 68.03,
-         "darknessThreshold": 0,
-         "dim": 136.06,
-         "tintAlpha": 0.5,
-         "x": 1900,
-         "y": 5525
-      },
-      {
-         "bright": 47.33,
-         "darknessThreshold": 0,
-         "dim": 94.66,
-         "tintAlpha": 0.5,
-         "x": 2900,
-         "y": 5525
-      },
-      {
-         "bright": 76.59,
-         "darknessThreshold": 0,
-         "dim": 153.19,
-         "tintAlpha": 0.5,
-         "x": 2425,
-         "y": 7050
-      },
-      {
-         "bright": 136.84,
-         "darknessThreshold": 0,
-         "dim": 273.68,
-         "tintAlpha": 0.5,
-         "x": 1400,
-         "y": 7300
-      },
-      {
-         "bright": 276.93,
-         "darknessThreshold": 0,
-         "dim": 553.86,
-         "tintAlpha": 0.5,
-         "x": 4925,
-         "y": 7200
-      },
-      {
-         "bright": 259.92,
-         "darknessThreshold": 0,
-         "dim": 519.84,
-         "tintAlpha": 0.5,
-         "x": 5000,
-         "y": 4850
-      },
-      {
-         "bright": 181.56,
-         "darknessThreshold": 0,
-         "dim": 363.13,
-         "tintAlpha": 0.5,
-         "x": 1175,
-         "y": 4775
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "10 Chapter 9: Castle of the Cloud Giants"
-         ]
-      }
-   }
+   ]
 }

@@ -1,107 +1,127 @@
 {
+   "id": "scenes/cm-scene-2.1",
    "name": "Fistandia’s Mansion",
    "code": "cm",
-   "id": "scenes/cm-scene-2.1",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 3000,
-      "height": 2135
-   },
-   "journals": [
-      {
-         "id": "journals/cm-scene-2.1-M19",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-2.1-M18",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-2.1-M17",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-2.1-M16",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-2.1-M15",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-2.1-M14",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-2.1-M13",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-2.1-M12",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-2.1-M11",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-2.1-M10",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-2.1-M09",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-2.1-M08",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-2.1-M07",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-2.1-M06",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-2.1-M05",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-2.1-M04",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-2.1-M03",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-2.1-M02",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-2.1-M01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "02 The Joy of Extradimensional Spaces"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 2135,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-2.1-M19",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-2.1-M18",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-2.1-M17",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-2.1-M16",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-2.1-M15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-2.1-M14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-2.1-M13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-2.1-M12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-2.1-M11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-2.1-M10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-2.1-M09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-2.1-M08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-2.1-M07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-2.1-M06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-2.1-M05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-2.1-M04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-2.1-M03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-2.1-M02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-2.1-M01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

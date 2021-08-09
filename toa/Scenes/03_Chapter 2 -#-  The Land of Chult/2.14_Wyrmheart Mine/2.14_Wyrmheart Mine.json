@@ -1,16 +1,29 @@
 {
-   "name": "Wyrmheart Mine",
-   "code": "toa",
    "id": "scenes/toa-scene-2.14",
-   "type": "scene",
+   "name": "Wyrmheart Mine",
+   "backgroundColor": "#766e5f",
+   "code": "toa",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: The Land of Chult"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 2094,
       "shift": {
          "x": -11,
          "y": 1
       },
-      "width": 3031,
-      "height": 2094
+      "width": 3031
    },
    "journals": [
       {
@@ -158,13 +171,115 @@
          ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#766e5f",
+   "lights": [
+      {
+         "bright": 10,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 1450,
+         "y": 2000
+      },
+      {
+         "bright": 10,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 1025,
+         "y": 1425
+      },
+      {
+         "bright": 10,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 1850,
+         "y": 1875
+      },
+      {
+         "bright": 10,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 1000,
+         "y": 1225
+      },
+      {
+         "bright": 10,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 1200,
+         "y": 1050
+      },
+      {
+         "bright": 10,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 1375,
+         "y": 1200
+      },
+      {
+         "bright": 10,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 1725,
+         "y": 1075
+      },
+      {
+         "bright": 10,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 2325,
+         "y": 1175
+      },
+      {
+         "bright": 10,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 2175,
+         "y": 1375
+      },
+      {
+         "bright": 10,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 2175,
+         "y": 2025
+      },
+      {
+         "bright": 10,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 2075,
+         "y": 2300
+      },
+      {
+         "bright": 10,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 2325,
+         "y": 2250
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 2425,
+         "y": 2225
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -3351,119 +3466,5 @@
             2562
          ]
       }
-   ],
-   "lights": [
-      {
-         "bright": 10,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 1450,
-         "y": 2000
-      },
-      {
-         "bright": 10,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 1025,
-         "y": 1425
-      },
-      {
-         "bright": 10,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 1850,
-         "y": 1875
-      },
-      {
-         "bright": 10,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 1000,
-         "y": 1225
-      },
-      {
-         "bright": 10,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 1200,
-         "y": 1050
-      },
-      {
-         "bright": 10,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 1375,
-         "y": 1200
-      },
-      {
-         "bright": 10,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 1725,
-         "y": 1075
-      },
-      {
-         "bright": 10,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 2325,
-         "y": 1175
-      },
-      {
-         "bright": 10,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 2175,
-         "y": 1375
-      },
-      {
-         "bright": 10,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 2175,
-         "y": 2025
-      },
-      {
-         "bright": 10,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 2075,
-         "y": 2300
-      },
-      {
-         "bright": 10,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 2325,
-         "y": 2250
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 2425,
-         "y": 2225
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "03 Chapter 2: The Land of Chult"
-         ]
-      }
-   }
+   ]
 }

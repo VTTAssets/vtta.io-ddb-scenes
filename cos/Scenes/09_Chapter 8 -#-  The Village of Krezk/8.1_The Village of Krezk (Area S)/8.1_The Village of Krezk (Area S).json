@@ -1,16 +1,29 @@
 {
-   "name": "The Village of Krezk (Area S)",
-   "code": "cos",
    "id": "scenes/cos-scene-8.1",
-   "type": "scene",
+   "name": "The Village of Krezk (Area S)",
+   "backgroundColor": "#9a9d8c",
+   "code": "cos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "09 Chapter 8: The Village of Krezk"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 50,
+      "type": 1,
+      "units": "ft",
+      "value": 61
+   },
    "img": {
+      "height": 2467,
       "shift": {
          "x": -38,
          "y": -18
       },
-      "width": 1948,
-      "height": 2467
+      "width": 1948
    },
    "journals": [
       {
@@ -59,21 +72,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 61,
-      "type": 1,
-      "distance": 50,
-      "units": "ft"
-   },
-   "backgroundColor": "#9a9d8c",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "09 Chapter 8: The Village of Krezk"
-         ]
-      }
-   }
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

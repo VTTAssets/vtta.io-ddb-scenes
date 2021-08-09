@@ -1,50 +1,57 @@
 {
-   "name": "Level 12: Maze Level",
-   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-12.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -2,
-         "y": -1
-      },
-      "width": 2866,
-      "height": 3849
-   },
-   "journals": [
-      {
-         "id": "journals/wdotmm-scene-12.1-02b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-12.1-02a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-12.1-01a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-12.1-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Level 12: Maze Level",
    "backgroundColor": "#ffffff",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "wdotmm",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "12 Level 12: Maze Level"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 3849,
+      "shift": {
+         "x": -2,
+         "y": -1
+      },
+      "width": 2866
+   },
+   "journals": [
+      {
+         "id": "journals/wdotmm-scene-12.1-02b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-12.1-02a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-12.1-01a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-12.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

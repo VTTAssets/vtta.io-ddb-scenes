@@ -1,16 +1,29 @@
 {
-   "name": "The Mountain Door",
-   "code": "tftyp",
    "id": "scenes/tftyp-scene-2.2",
-   "type": "scene",
+   "name": "The Mountain Door",
+   "backgroundColor": "#fdfdfc",
+   "code": "tftyp",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 The Forge of Fury"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 1839,
       "shift": {
          "x": -30,
          "y": -10
       },
-      "width": 4037,
-      "height": 1839
+      "width": 4037
    },
    "journals": [
       {
@@ -131,13 +144,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#fdfdfc",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -2743,14 +2754,5 @@
          ],
          "sense": 0
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "02 The Forge of Fury"
-         ]
-      }
-   }
+   ]
 }

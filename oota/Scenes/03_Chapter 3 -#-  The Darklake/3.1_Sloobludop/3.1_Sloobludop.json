@@ -1,50 +1,57 @@
 {
-   "name": "Sloobludop",
-   "code": "oota",
    "id": "scenes/oota-scene-3.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -29,
-         "y": -26
-      },
-      "width": 3354,
-      "height": 2738
-   },
-   "journals": [
-      {
-         "id": "journals/oota-scene-3.1-04",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-3.1-03",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-3.1-02",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-3.1-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 59,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Sloobludop",
    "backgroundColor": "#6d6058",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "oota",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "03 Chapter 3: The Darklake"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 59
+   },
+   "img": {
+      "height": 2738,
+      "shift": {
+         "x": -29,
+         "y": -26
+      },
+      "width": 3354
+   },
+   "journals": [
+      {
+         "id": "journals/oota-scene-3.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-3.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-3.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-3.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

@@ -1,16 +1,29 @@
 {
-   "name": "The Black Lake",
-   "code": "tftyp",
    "id": "scenes/tftyp-scene-2.6",
-   "type": "scene",
+   "name": "The Black Lake",
+   "backgroundColor": "#2f2e2d",
+   "code": "tftyp",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 The Forge of Fury"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 1387,
       "shift": {
          "x": -2,
          "y": -3
       },
-      "width": 3721,
-      "height": 1387
+      "width": 3721
    },
    "journals": [
       {
@@ -24,7 +37,8 @@
       },
       {
          "id": "journals/tftyp-scene-2.6-53",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-2.6-52",
@@ -58,13 +72,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#2f2e2d",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -3436,14 +3448,5 @@
          "move": 0,
          "sense": 2
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "02 The Forge of Fury"
-         ]
-      }
-   }
+   ]
 }

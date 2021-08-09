@@ -1,16 +1,29 @@
 {
-   "name": "The Sea Ghost",
-   "code": "gos",
    "id": "scenes/gos-scene-2.3",
-   "type": "scene",
+   "name": "The Sea Ghost",
+   "backgroundColor": "#fafafb",
+   "code": "gos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 2: The Sinister Secret of Saltmarsh"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 0,
+      "units": "ft",
+      "value": 166
+   },
    "img": {
+      "height": 5700,
       "shift": {
          "x": -111,
          "y": -113
       },
-      "width": 4200,
-      "height": 5700
+      "width": 4200
    },
    "journals": [
       {
@@ -158,13 +171,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 166,
-      "type": 0,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#fafafb",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1303,14 +1314,5 @@
          ],
          "sense": 0
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "02 Chapter 2: The Sinister Secret of Saltmarsh"
-         ]
-      }
-   }
+   ]
 }

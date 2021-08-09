@@ -1,126 +1,152 @@
 {
-   "name": "Level 13: Trobriand’s Graveyard",
-   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-13.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -14,
-         "y": -23
-      },
-      "width": 3747,
-      "height": 5058
-   },
-   "journals": [
-      {
-         "id": "journals/wdotmm-scene-13.1-12c",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-12b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-12a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-12",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-11b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-11a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-11",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-10",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-09",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-08",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-07c",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-07b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-07a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-07",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-06",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-05",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-04",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-03",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-02c",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-02b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-02a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-02",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-13.1-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Level 13: Trobriand’s Graveyard",
    "backgroundColor": "#fefefe",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "wdotmm",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "13 Level 13: Trobriand’s Graveyard"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 5058,
+      "shift": {
+         "x": -14,
+         "y": -23
+      },
+      "width": 3747
+   },
+   "journals": [
+      {
+         "id": "journals/wdotmm-scene-13.1-12c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-12b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-12a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-11b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-11a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-07c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-07b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-07a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-02c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-02b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-02a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-13.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

@@ -1,16 +1,29 @@
 {
-   "name": "High Hall Cathedral, Choir Level",
-   "code": "bgdia",
    "id": "scenes/bgdia-scene-2.3",
-   "type": "scene",
+   "name": "High Hall Cathedral, Choir Level",
+   "backgroundColor": "#fdfdfd",
+   "code": "bgdia",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: Elturel Has Fallen"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 137
+   },
    "img": {
+      "height": 4011,
       "shift": {
          "x": -45,
          "y": -55
       },
-      "width": 2638,
-      "height": 4011
+      "width": 2638
    },
    "journals": [
       {
@@ -45,13 +58,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 137,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#fdfdfd",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1909,14 +1920,5 @@
          ],
          "sense": 0
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "03 Chapter 2: Elturel Has Fallen"
-         ]
-      }
-   }
+   ]
 }

@@ -1,16 +1,29 @@
 {
-   "name": "Phandalin",
-   "code": "lmop",
    "id": "scenes/lmop-scene-2.1",
-   "type": "scene",
+   "name": "Phandalin",
+   "backgroundColor": "#6c7062",
+   "code": "lmop",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Part 2: Phandalin"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 50,
+      "type": 1,
+      "units": "ft",
+      "value": 98
+   },
    "img": {
+      "height": 2892,
       "shift": {
          "x": -42,
          "y": 36
       },
-      "width": 3873,
-      "height": 2892
+      "width": 3873
    },
    "journals": [
       {
@@ -104,21 +117,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 98,
-      "type": 1,
-      "distance": 50,
-      "units": "ft"
-   },
-   "backgroundColor": "#6c7062",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "02 Part 2: Phandalin"
-         ]
-      }
-   }
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

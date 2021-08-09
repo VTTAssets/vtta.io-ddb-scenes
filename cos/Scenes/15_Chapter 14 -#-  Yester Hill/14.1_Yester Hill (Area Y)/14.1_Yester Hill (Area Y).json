@@ -1,16 +1,29 @@
 {
-   "name": "Yester Hill (Area Y)",
-   "code": "cos",
    "id": "scenes/cos-scene-14.1",
-   "type": "scene",
+   "name": "Yester Hill (Area Y)",
+   "backgroundColor": "#7d8379",
+   "code": "cos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "15 Chapter 14: Yester Hill"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 50,
+      "type": 1,
+      "units": "ft",
+      "value": 54
+   },
    "img": {
+      "height": 2477,
       "shift": {
          "x": -22,
          "y": -7
       },
-      "width": 1956,
-      "height": 2477
+      "width": 1956
    },
    "journals": [
       {
@@ -75,21 +88,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 54,
-      "type": 1,
-      "distance": 50,
-      "units": "ft"
-   },
-   "backgroundColor": "#7d8379",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "15 Chapter 14: Yester Hill"
-         ]
-      }
-   }
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

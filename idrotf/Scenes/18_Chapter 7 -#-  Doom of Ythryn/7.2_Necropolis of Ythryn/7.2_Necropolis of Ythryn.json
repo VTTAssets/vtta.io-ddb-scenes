@@ -1,105 +1,126 @@
 {
-   "name": "Necropolis of Ythryn",
-   "code": "idrotf",
    "id": "scenes/idrotf-scene-7.2",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 5000,
-      "height": 3100
-   },
-   "journals": [
-      {
-         "id": "journals/idrotf-scene-7.2-Y18",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.2-Y17",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.2-Y16",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.2-Y15",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.2-Y14",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.2-Y13",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.2-Y12",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.2-Y11",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.2-Y10",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.2-Y09",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.2-Y08",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.2-Y07",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.2-Y06",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.2-Y05",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.2-Y04",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.2-Y03",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.2-Y02",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-7.2-Y01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Necropolis of Ythryn",
    "backgroundColor": "#7698b1",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "idrotf",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "18 Chapter 7: Doom of Ythryn"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft"
+   },
+   "img": {
+      "height": 3100,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 5000
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-7.2-Y18",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.2-Y17",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.2-Y16",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.2-Y15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.2-Y14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.2-Y13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.2-Y12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.2-Y11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.2-Y10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.2-Y09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.2-Y08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.2-Y07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.2-Y06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.2-Y05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.2-Y04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.2-Y03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.2-Y02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-7.2-Y01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

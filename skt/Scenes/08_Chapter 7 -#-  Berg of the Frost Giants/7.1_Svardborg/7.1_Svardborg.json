@@ -1,170 +1,207 @@
 {
-   "name": "Svardborg",
-   "code": "skt",
    "id": "scenes/skt-scene-7.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -9,
-         "y": -16
-      },
-      "width": 4152,
-      "height": 5697
-   },
-   "journals": [
-      {
-         "id": "journals/skt-scene-7.1-09",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-08",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-07",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-06",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-05",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-04H",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-04G",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-04F",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-04E",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-04D",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-04C",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-04B",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-04A",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-04",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-03D",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-03C",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-03B",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-03A",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-03",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-02E",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-02D",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-02C",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-02B",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-02A",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-02",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-01H",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-01G",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-01F",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-01E",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-01D",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-01C",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-01B",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-01A",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-7.1-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 20,
-      "units": "ft"
-   },
+   "name": "Svardborg",
    "backgroundColor": "#12577c",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "skt",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "08 Chapter 7: Berg of the Frost Giants"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 20,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 5697,
+      "shift": {
+         "x": -9,
+         "y": -16
+      },
+      "width": 4152
+   },
+   "journals": [
+      {
+         "id": "journals/skt-scene-7.1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-04H",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-04G",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-04F",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-04E",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-04D",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-04C",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-04B",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-04A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-03D",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-03C",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-03B",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-03A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-02E",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-02D",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-02C",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-02B",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-02A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-01H",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-01G",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-01F",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-01E",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-01D",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-01C",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-01B",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-01A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-7.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

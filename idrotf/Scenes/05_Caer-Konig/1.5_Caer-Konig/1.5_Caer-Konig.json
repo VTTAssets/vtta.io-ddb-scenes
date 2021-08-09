@@ -1,16 +1,29 @@
 {
-   "name": "Caer-Konig",
-   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.5",
-   "type": "scene",
+   "name": "Caer-Konig",
+   "backgroundColor": "#acaca8",
+   "code": "idrotf",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "05 Caer-Konig"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 100,
+      "type": 1,
+      "units": "ft",
+      "value": 98
+   },
    "img": {
+      "height": 3000,
       "shift": {
          "x": -25,
          "y": 21
       },
-      "width": 2206,
-      "height": 3000
+      "width": 2206
    },
    "journals": [
       {
@@ -41,21 +54,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 98,
-      "type": 1,
-      "distance": 100,
-      "units": "ft"
-   },
-   "backgroundColor": "#acaca8",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "05 Caer-Konig"
-         ]
-      }
-   }
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

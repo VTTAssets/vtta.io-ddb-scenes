@@ -1,16 +1,29 @@
 {
-   "name": "Trollskull Alley",
-   "code": "wdh",
    "id": "scenes/wdh-scene-2.1",
-   "type": "scene",
+   "name": "Trollskull Alley",
+   "backgroundColor": "#f3f3f3",
+   "code": "wdh",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: Trollskull Alley"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 2473,
       "shift": {
          "x": -14,
          "y": -24
       },
-      "width": 3580,
-      "height": 2473
+      "width": 3580
    },
    "journals": [
       {
@@ -77,13 +90,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#f3f3f3",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -3073,14 +3084,5 @@
          ],
          "sense": 2
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "03 Chapter 2: Trollskull Alley"
-         ]
-      }
-   }
+   ]
 }

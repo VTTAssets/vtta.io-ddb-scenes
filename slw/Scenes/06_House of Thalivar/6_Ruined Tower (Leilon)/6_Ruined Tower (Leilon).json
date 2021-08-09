@@ -1,16 +1,29 @@
 {
-   "name": "Ruined Tower (Leilon)",
-   "code": "slw",
    "id": "scenes/slw-scene-6",
-   "type": "scene",
+   "name": "Ruined Tower (Leilon)",
+   "backgroundColor": "#8d6f48",
+   "code": "slw",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 House of Thalivar"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 86
+   },
    "img": {
+      "height": 2280,
       "shift": {
          "x": -47,
          "y": -59
       },
-      "width": 3607,
-      "height": 2280
+      "width": 3607
    },
    "journals": [
       {
@@ -108,13 +121,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 86,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#8d6f48",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -848,14 +859,5 @@
             2504
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "06 House of Thalivar"
-         ]
-      }
-   }
+   ]
 }

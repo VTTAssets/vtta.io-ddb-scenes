@@ -1,189 +1,231 @@
 {
-   "name": "Caves of Hunger",
-   "code": "idrotf",
    "id": "scenes/idrotf-scene-6.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 4421,
-      "height": 6000
-   },
-   "journals": [
-      {
-         "id": "journals/idrotf-scene-6.1-H39",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H38",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H37",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H36",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H35",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H34",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H33",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H32",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H31",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H30",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H29",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H28",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H27",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H26",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H25",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H24",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H23",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H22",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H21",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H20",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H19",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H18",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H17",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H16",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H15",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H14",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H13",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H12",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H11",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H10",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H09",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H08",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H07",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H06",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H05",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H04",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H03",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H02",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-6.1-H01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Caves of Hunger",
    "backgroundColor": "#a0b4c2",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "idrotf",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "17 Chapter 6: Caves of Hunger"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft"
+   },
+   "img": {
+      "height": 6000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 4421
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-6.1-H39",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H38",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H37",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H36",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H35",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H34",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H33",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H32",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H31",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H30",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H29",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H28",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H27",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H26",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H25",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H24",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H23",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H22",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H21",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H20",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H19",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H18",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H17",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H16",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-6.1-H01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

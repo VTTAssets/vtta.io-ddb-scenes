@@ -1,82 +1,107 @@
 {
-   "name": "Side View of the Scab",
-   "code": "bgdia",
    "id": "scenes/bgdia-scene-4.1",
-   "type": "scene",
+   "name": "Side View of the Scab",
+   "backgroundColor": "#c8c8c8",
+   "code": "bgdia",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Chapter 4: Sword of Zariel"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 127
+   },
    "img": {
+      "height": 3983,
       "shift": {
          "x": -68,
          "y": -2
       },
-      "width": 5584,
-      "height": 3983
+      "width": 5584
    },
    "journals": [
       {
          "id": "journals/bgdia-scene-4.1-S14",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/bgdia-scene-4.1-S13",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/bgdia-scene-4.1-S12",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/bgdia-scene-4.1-S11",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/bgdia-scene-4.1-S10",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/bgdia-scene-4.1-S09",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/bgdia-scene-4.1-S08",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/bgdia-scene-4.1-S07",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/bgdia-scene-4.1-S06",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/bgdia-scene-4.1-S05",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/bgdia-scene-4.1-S04",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/bgdia-scene-4.1-S03",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/bgdia-scene-4.1-S02",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/bgdia-scene-4.1-S01",
-         "positions": []
+         "positions": [
+         ]
       }
    ],
-   "grid": {
-      "value": 127,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#c8c8c8",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -6390,14 +6415,5 @@
             4016
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "08 Chapter 4: Sword of Zariel"
-         ]
-      }
-   }
+   ]
 }

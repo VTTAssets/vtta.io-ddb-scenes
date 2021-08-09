@@ -1,78 +1,92 @@
 {
-   "name": "Spires and Tower of Ravenloft",
-   "code": "cos",
    "id": "scenes/cos-scene-4.6",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -22,
-         "y": -19
-      },
-      "width": 1167,
-      "height": 3344
-   },
-   "journals": [
-      {
-         "id": "journals/cos-scene-4.6-K60a",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.6-K60",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.6-K59",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.6-K58",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.6-K57",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.6-K56",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.6-K55",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.6-K48",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.6-K20",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.6-K18a",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.6-K18",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 64,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Spires and Tower of Ravenloft",
    "backgroundColor": "#c1c3c4",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "cos",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "05 Chapter 4: Castle Ravenloft"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 64
+   },
+   "img": {
+      "height": 3344,
+      "shift": {
+         "x": -22,
+         "y": -19
+      },
+      "width": 1167
+   },
+   "journals": [
+      {
+         "id": "journals/cos-scene-4.6-K60a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.6-K60",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.6-K59",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.6-K58",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.6-K57",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.6-K56",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.6-K55",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.6-K48",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.6-K20",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.6-K18a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.6-K18",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

@@ -1,16 +1,29 @@
 {
-   "name": "Axeholm",
-   "code": "doip",
    "id": "scenes/doip-scene-1.1",
-   "type": "scene",
+   "name": "Axeholm",
+   "backgroundColor": "#6c654d",
+   "code": "doip",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "01 Axeholm"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 52
+   },
    "img": {
+      "height": 2194,
       "shift": {
          "x": 7,
          "y": 3
       },
-      "width": 3448,
-      "height": 2194
+      "width": 3448
    },
    "journals": [
       {
@@ -312,13 +325,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 52,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#6c654d",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -6548,14 +6559,5 @@
             1872
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "01 Axeholm"
-         ]
-      }
-   }
+   ]
 }

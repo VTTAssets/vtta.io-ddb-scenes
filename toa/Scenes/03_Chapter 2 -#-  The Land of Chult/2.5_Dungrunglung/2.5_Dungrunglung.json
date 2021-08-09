@@ -1,54 +1,72 @@
 {
-   "name": "Dungrunglung",
-   "code": "toa",
    "id": "scenes/toa-scene-2.5",
-   "type": "scene",
+   "name": "Dungrunglung",
+   "backgroundColor": "#6c6554",
+   "code": "toa",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: The Land of Chult"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 2185,
       "shift": {
          "x": -12,
          "y": -6
       },
-      "width": 3162,
-      "height": 2185
+      "width": 3162
    },
    "journals": [
       {
          "id": "journals/toa-scene-2.5-07",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/toa-scene-2.5-06",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/toa-scene-2.5-05",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/toa-scene-2.5-04",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/toa-scene-2.5-03",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/toa-scene-2.5-02",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/toa-scene-2.5-01",
-         "positions": []
+         "positions": [
+         ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#6c6554",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -2217,14 +2235,5 @@
             650
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "03 Chapter 2: The Land of Chult"
-         ]
-      }
-   }
+   ]
 }

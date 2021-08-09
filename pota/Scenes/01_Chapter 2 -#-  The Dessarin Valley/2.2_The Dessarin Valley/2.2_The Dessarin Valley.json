@@ -1,129 +1,156 @@
 {
-   "name": "The Dessarin Valley",
-   "code": "pota",
    "id": "scenes/pota-scene-2.2",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 3152,
-      "height": 4000
-   },
-   "journals": [
-      {
-         "id": "journals/pota-scene-2.2-24",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-23",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-22",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-21",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-20",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-19",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-18",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-17",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-16",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-15",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-14",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-13",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-12",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-11",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-10",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-09",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-08",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-07",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-06",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-05",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-04",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-03",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-02",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-2.2-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "type": 1,
-      "distance": 4,
-      "units": "mi"
-   },
+   "name": "The Dessarin Valley",
    "backgroundColor": "#aaa78e",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "pota",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "01 Chapter 2: The Dessarin Valley"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 4,
+      "type": 1,
+      "units": "mi"
+   },
+   "img": {
+      "height": 4000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3152
+   },
+   "journals": [
+      {
+         "id": "journals/pota-scene-2.2-24",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-23",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-22",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-21",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-20",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-19",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-18",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-17",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-16",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-2.2-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

@@ -1,30 +1,32 @@
 {
+   "id": "scenes/ggtr-scene-4.2",
    "name": "Legion Garrison",
    "code": "ggtr",
-   "id": "scenes/ggtr-scene-4.2",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2513,
-      "height": 3338
-   },
-   "journals": [],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "14 Chapter 4: Creating Adventures"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 3338,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2513
+   },
+   "journals": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

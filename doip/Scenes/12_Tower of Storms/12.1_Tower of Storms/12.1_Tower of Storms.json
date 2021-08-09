@@ -1,16 +1,29 @@
 {
-   "name": "Tower of Storms",
-   "code": "doip",
    "id": "scenes/doip-scene-12.1",
-   "type": "scene",
+   "name": "Tower of Storms",
+   "backgroundColor": "#595e4e",
+   "code": "doip",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "12 Tower of Storms"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 2101,
       "shift": {
          "x": -47,
          "y": -48
       },
-      "width": 3301,
-      "height": 2101
+      "width": 3301
    },
    "journals": [
       {
@@ -108,13 +121,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#595e4e",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -954,14 +965,5 @@
             1550
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "12 Tower of Storms"
-         ]
-      }
-   }
+   ]
 }

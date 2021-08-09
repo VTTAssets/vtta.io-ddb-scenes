@@ -1,33 +1,37 @@
 {
-   "name": "Shining White",
-   "code": "skt",
    "id": "scenes/skt-scene-3.11",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -83,
-         "y": -62
-      },
-      "width": 1603,
-      "height": 2204
-   },
-   "journals": [],
-   "grid": {
-      "value": 96,
-      "type": 1,
-      "distance": 50,
-      "units": "ft"
-   },
+   "name": "Shining White",
    "backgroundColor": "#72635c",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "skt",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "04 Chapter 3: The Savage Frontier"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 50,
+      "type": 1,
+      "units": "ft",
+      "value": 96
+   },
+   "img": {
+      "height": 2204,
+      "shift": {
+         "x": -83,
+         "y": -62
+      },
+      "width": 1603
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

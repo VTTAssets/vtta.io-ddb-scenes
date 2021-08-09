@@ -1,16 +1,29 @@
 {
-   "name": "High Hall Catacombs",
-   "code": "bgdia",
    "id": "scenes/bgdia-scene-2.4",
-   "type": "scene",
+   "name": "High Hall Catacombs",
+   "backgroundColor": "#ffffff",
+   "code": "bgdia",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: Elturel Has Fallen"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 131
+   },
    "img": {
+      "height": 3995,
       "shift": {
          "x": -21,
          "y": -8
       },
-      "width": 6078,
-      "height": 3995
+      "width": 6078
    },
    "journals": [
       {
@@ -134,13 +147,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 131,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#ffffff",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -3745,14 +3756,5 @@
             3586
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "03 Chapter 2: Elturel Has Fallen"
-         ]
-      }
-   }
+   ]
 }

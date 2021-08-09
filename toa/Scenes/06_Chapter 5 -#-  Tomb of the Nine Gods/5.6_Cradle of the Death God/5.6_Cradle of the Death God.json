@@ -1,16 +1,29 @@
 {
-   "name": "Cradle of the Death God",
-   "code": "toa",
    "id": "scenes/toa-scene-5.6",
-   "type": "scene",
+   "name": "Cradle of the Death God",
+   "backgroundColor": "#5d5851",
+   "code": "toa",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 5: Tomb of the Nine Gods"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 146
+   },
    "img": {
+      "height": 5680,
       "shift": {
          "x": -100,
          "y": -73
       },
-      "width": 8210,
-      "height": 5680
+      "width": 8210
    },
    "journals": [
       {
@@ -113,13 +126,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 146,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#5d5851",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1808,14 +1819,5 @@
          ],
          "door": 2
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "06 Chapter 5: Tomb of the Nine Gods"
-         ]
-      }
-   }
+   ]
 }

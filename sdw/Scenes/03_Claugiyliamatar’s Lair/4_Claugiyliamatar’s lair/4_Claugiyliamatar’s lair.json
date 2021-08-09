@@ -1,16 +1,29 @@
 {
-   "name": "Claugiyliamatar’s lair",
-   "code": "sdw",
    "id": "scenes/sdw-scene-4",
-   "type": "scene",
+   "name": "Claugiyliamatar’s lair",
+   "backgroundColor": "#796d45",
+   "code": "sdw",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Claugiyliamatar’s Lair"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 86
+   },
    "img": {
+      "height": 2280,
       "shift": {
          "x": -51,
          "y": -60
       },
-      "width": 3600,
-      "height": 2280
+      "width": 3600
    },
    "journals": [
       {
@@ -114,7 +127,8 @@
       },
       {
          "id": "journals/sdw-scene-4-C03",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/sdw-scene-4-C02",
@@ -135,13 +149,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 86,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#796d45",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -3615,14 +3627,5 @@
             1139
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "03 Claugiyliamatar’s Lair"
-         ]
-      }
-   }
+   ]
 }

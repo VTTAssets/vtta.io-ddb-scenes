@@ -1,16 +1,29 @@
 {
-   "name": "Village of Barovia",
-   "code": "cos",
    "id": "scenes/cos-scene-3.1",
-   "type": "scene",
+   "name": "Village of Barovia",
+   "backgroundColor": "#778079",
+   "code": "cos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 3: The Village of Barovia"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 120
+   },
    "img": {
+      "height": 2477,
       "shift": {
          "x": -31,
          "y": -5
       },
-      "width": 1958,
-      "height": 2477
+      "width": 1958
    },
    "journals": [
       {
@@ -77,21 +90,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 120,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#778079",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "04 Chapter 3: The Village of Barovia"
-         ]
-      }
-   }
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

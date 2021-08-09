@@ -1,53 +1,61 @@
 {
-   "name": "Kir Sabal",
-   "code": "toa",
    "id": "scenes/toa-scene-2.11",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2750,
-      "height": 1900
-   },
-   "journals": [
-      {
-         "id": "journals/toa-scene-2.11-05",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-2.11-04",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-2.11-03",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-2.11-02",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-2.11-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Kir Sabal",
    "backgroundColor": "#726b5a",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "toa",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "03 Chapter 2: The Land of Chult"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft"
+   },
+   "img": {
+      "height": 1900,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2750
+   },
+   "journals": [
+      {
+         "id": "journals/toa-scene-2.11-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.11-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.11-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.11-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-2.11-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

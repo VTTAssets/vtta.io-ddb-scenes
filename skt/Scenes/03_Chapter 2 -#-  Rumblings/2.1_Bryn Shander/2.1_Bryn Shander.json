@@ -1,16 +1,29 @@
 {
-   "name": "Bryn Shander",
-   "code": "skt",
    "id": "scenes/skt-scene-2.1",
-   "type": "scene",
+   "name": "Bryn Shander",
+   "backgroundColor": "#e1c69d",
+   "code": "skt",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: Rumblings"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 100,
+      "type": 1,
+      "units": "ft",
+      "value": 51
+   },
    "img": {
+      "height": 1712,
       "shift": {
          "x": -1,
          "y": -39
       },
-      "width": 2649,
-      "height": 1712
+      "width": 2649
    },
    "journals": [
       {
@@ -148,13 +161,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 51,
-      "type": 1,
-      "distance": 100,
-      "units": "ft"
-   },
-   "backgroundColor": "#e1c69d",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -196,14 +207,5 @@
             2193
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "03 Chapter 2: Rumblings"
-         ]
-      }
-   }
+   ]
 }

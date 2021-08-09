@@ -1,16 +1,29 @@
 {
-   "name": "Storm Lord’s Hideout",
-   "code": "dc",
    "id": "scenes/dc-scene-6",
-   "type": "scene",
+   "name": "Storm Lord’s Hideout",
+   "backgroundColor": "#284048",
+   "code": "dc",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Storm Lord’s Hideout"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 86
+   },
    "img": {
+      "height": 2278,
       "shift": {
          "x": -48,
          "y": -62
       },
-      "width": 3602,
-      "height": 2278
+      "width": 3602
    },
    "journals": [
       {
@@ -167,13 +180,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 86,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#284048",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -2915,14 +2926,5 @@
          ],
          "sense": 2
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "06 Storm Lord’s Hideout"
-         ]
-      }
-   }
+   ]
 }

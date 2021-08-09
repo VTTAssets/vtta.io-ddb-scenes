@@ -1,33 +1,37 @@
 {
-   "name": "One Stone",
-   "code": "skt",
    "id": "scenes/skt-scene-3.8",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -55,
-         "y": -69
-      },
-      "width": 1597,
-      "height": 2196
-   },
-   "journals": [],
-   "grid": {
-      "value": 99,
-      "type": 1,
-      "distance": 50,
-      "units": "ft"
-   },
+   "name": "One Stone",
    "backgroundColor": "#685144",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "skt",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "04 Chapter 3: The Savage Frontier"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 50,
+      "type": 1,
+      "units": "ft",
+      "value": 99
+   },
+   "img": {
+      "height": 2196,
+      "shift": {
+         "x": -55,
+         "y": -69
+      },
+      "width": 1597
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

@@ -1,98 +1,117 @@
 {
-   "name": "Grudd Haug",
-   "code": "skt",
    "id": "scenes/skt-scene-5.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -42,
-         "y": -22
-      },
-      "width": 4898,
-      "height": 6735
-   },
-   "journals": [
-      {
-         "id": "journals/skt-scene-5.1-16",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-5.1-15",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-5.1-14",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-5.1-13",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-5.1-12",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-5.1-11",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-5.1-10",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-5.1-09",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-5.1-08",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-5.1-07",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-5.1-06",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-5.1-05",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-5.1-04",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-5.1-03",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-5.1-02",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-5.1-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Grudd Haug",
    "backgroundColor": "#3f4949",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "skt",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "06 Chapter 5: Den of the Hill Giants"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 6735,
+      "shift": {
+         "x": -42,
+         "y": -22
+      },
+      "width": 4898
+   },
+   "journals": [
+      {
+         "id": "journals/skt-scene-5.1-16",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-5.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

@@ -1,16 +1,29 @@
 {
-   "name": "The Sinkhole",
-   "code": "tftyp",
    "id": "scenes/tftyp-scene-2.4",
-   "type": "scene",
+   "name": "The Sinkhole",
+   "backgroundColor": "#0e0e0d",
+   "code": "tftyp",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 The Forge of Fury"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 55
+   },
    "img": {
+      "height": 1629,
       "shift": {
          "x": -18,
          "y": -34
       },
-      "width": 3420,
-      "height": 1629
+      "width": 3420
    },
    "journals": [
       {
@@ -105,13 +118,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 55,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#0e0e0d",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -2367,14 +2378,5 @@
          "door": 1,
          "ds": 1
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "02 The Forge of Fury"
-         ]
-      }
-   }
+   ]
 }

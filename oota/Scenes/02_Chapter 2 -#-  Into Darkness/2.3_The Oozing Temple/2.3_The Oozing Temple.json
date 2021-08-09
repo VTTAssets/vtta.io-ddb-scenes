@@ -1,58 +1,67 @@
 {
-   "name": "The Oozing Temple",
-   "code": "oota",
    "id": "scenes/oota-scene-2.3",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -80,
-         "y": -63
-      },
-      "width": 3395,
-      "height": 2762
-   },
-   "journals": [
-      {
-         "id": "journals/oota-scene-2.3-06",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-2.3-05",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-2.3-04",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-2.3-03",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-2.3-02",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-2.3-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 108,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "The Oozing Temple",
    "backgroundColor": "#7a685c",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "oota",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "02 Chapter 2: Into Darkness"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 108
+   },
+   "img": {
+      "height": 2762,
+      "shift": {
+         "x": -80,
+         "y": -63
+      },
+      "width": 3395
+   },
+   "journals": [
+      {
+         "id": "journals/oota-scene-2.3-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-2.3-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-2.3-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-2.3-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-2.3-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-2.3-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

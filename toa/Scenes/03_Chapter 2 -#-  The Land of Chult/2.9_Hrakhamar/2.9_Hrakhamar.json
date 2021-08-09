@@ -1,16 +1,29 @@
 {
-   "name": "Hrakhamar",
-   "code": "toa",
    "id": "scenes/toa-scene-2.9",
-   "type": "scene",
+   "name": "Hrakhamar",
+   "backgroundColor": "#696357",
+   "code": "toa",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: The Land of Chult"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 2014,
       "shift": {
          "x": -16,
          "y": -16
       },
-      "width": 2915,
-      "height": 2014
+      "width": 2915
    },
    "journals": [
       {
@@ -51,7 +64,8 @@
       },
       {
          "id": "journals/toa-scene-2.9-06",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/toa-scene-2.9-05",
@@ -107,13 +121,83 @@
          ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#696357",
+   "lights": [
+      {
+         "bright": 15,
+         "darknessThreshold": 0,
+         "dim": 30,
+         "tintAlpha": 0.5,
+         "x": 2800,
+         "y": 1150
+      },
+      {
+         "bright": 15,
+         "darknessThreshold": 0,
+         "dim": 30,
+         "tintAlpha": 0.5,
+         "x": 2850,
+         "y": 1475
+      },
+      {
+         "bright": 10,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 2750,
+         "y": 1850
+      },
+      {
+         "bright": 10,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 2400,
+         "y": 1900
+      },
+      {
+         "bright": 10,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 2100,
+         "y": 1900
+      },
+      {
+         "bright": 10,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 1750,
+         "y": 1900
+      },
+      {
+         "bright": 10,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 1525,
+         "y": 1900
+      },
+      {
+         "bright": 10,
+         "darknessThreshold": 0,
+         "dim": 20,
+         "tintAlpha": 0.5,
+         "x": 1175,
+         "y": 1875
+      },
+      {
+         "bright": 15,
+         "darknessThreshold": 0,
+         "dim": 30,
+         "tintAlpha": 0.5,
+         "x": 1900,
+         "y": 1250
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -4117,87 +4201,5 @@
             2575
          ]
       }
-   ],
-   "lights": [
-      {
-         "bright": 15,
-         "darknessThreshold": 0,
-         "dim": 30,
-         "tintAlpha": 0.5,
-         "x": 2800,
-         "y": 1150
-      },
-      {
-         "bright": 15,
-         "darknessThreshold": 0,
-         "dim": 30,
-         "tintAlpha": 0.5,
-         "x": 2850,
-         "y": 1475
-      },
-      {
-         "bright": 10,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 2750,
-         "y": 1850
-      },
-      {
-         "bright": 10,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 2400,
-         "y": 1900
-      },
-      {
-         "bright": 10,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 2100,
-         "y": 1900
-      },
-      {
-         "bright": 10,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 1750,
-         "y": 1900
-      },
-      {
-         "bright": 10,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 1525,
-         "y": 1900
-      },
-      {
-         "bright": 10,
-         "darknessThreshold": 0,
-         "dim": 20,
-         "tintAlpha": 0.5,
-         "x": 1175,
-         "y": 1875
-      },
-      {
-         "bright": 15,
-         "darknessThreshold": 0,
-         "dim": 30,
-         "tintAlpha": 0.5,
-         "x": 1900,
-         "y": 1250
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "03 Chapter 2: The Land of Chult"
-         ]
-      }
-   }
+   ]
 }

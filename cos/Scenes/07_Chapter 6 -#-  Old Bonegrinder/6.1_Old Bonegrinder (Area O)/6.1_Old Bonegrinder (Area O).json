@@ -1,16 +1,29 @@
 {
-   "name": "Old Bonegrinder (Area O)",
-   "code": "cos",
    "id": "scenes/cos-scene-6.1",
-   "type": "scene",
+   "name": "Old Bonegrinder (Area O)",
+   "backgroundColor": "#7c7f77",
+   "code": "cos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Chapter 6: Old Bonegrinder"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 85
+   },
    "img": {
+      "height": 1660,
       "shift": {
          "x": -40,
          "y": -17
       },
-      "width": 2412,
-      "height": 1660
+      "width": 2412
    },
    "journals": [
       {
@@ -50,13 +63,20 @@
          ]
       }
    ],
-   "grid": {
-      "value": 85,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#7c7f77",
+   "lights": [
+      {
+         "bright": 30,
+         "darknessThreshold": 0,
+         "dim": 55,
+         "t": "g",
+         "tintAlpha": 0.5,
+         "x": 1232,
+         "y": 1275
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -712,24 +732,5 @@
             1020
          ]
       }
-   ],
-   "lights": [
-      {
-         "bright": 30,
-         "darknessThreshold": 0,
-         "dim": 55,
-         "t": "g",
-         "tintAlpha": 0.5,
-         "x": 1232,
-         "y": 1275
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "07 Chapter 6: Old Bonegrinder"
-         ]
-      }
-   }
+   ]
 }

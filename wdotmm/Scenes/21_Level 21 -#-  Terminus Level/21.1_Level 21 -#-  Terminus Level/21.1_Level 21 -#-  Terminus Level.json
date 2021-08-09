@@ -1,274 +1,337 @@
 {
-   "name": "Level 21: Terminus Level",
-   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-21.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -3,
-         "y": -49
-      },
-      "width": 2859,
-      "height": 3849
-   },
-   "journals": [
-      {
-         "id": "journals/wdotmm-scene-21.1-24",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-23c",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-23b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-23a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-23",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-22",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-21",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-20d",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-20c",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-20b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-20a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-20",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-19b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-19a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-19",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-18d",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-18c",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-18b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-18a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-18",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-17f",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-17e",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-17d",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-17c",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-17b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-17a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-17",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-16d",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-16c",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-16b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-16a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-16",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-15",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-14",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-13",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-12",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-11b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-11a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-11",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-10b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-10a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-10",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-09",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-08",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-07",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-06c",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-06b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-06a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-06",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-05",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-04d",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-04c",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-04b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-04a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-04",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-03b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-03a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-03",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-02",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-21.1-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Level 21: Terminus Level",
    "backgroundColor": "#ffffff",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "wdotmm",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "21 Level 21: Terminus Level"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 3849,
+      "shift": {
+         "x": -3,
+         "y": -49
+      },
+      "width": 2859
+   },
+   "journals": [
+      {
+         "id": "journals/wdotmm-scene-21.1-24",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-23c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-23b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-23a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-23",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-22",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-21",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-20d",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-20c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-20b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-20a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-20",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-19b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-19a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-19",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-18d",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-18c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-18b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-18a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-18",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-17f",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-17e",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-17d",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-17c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-17b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-17a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-17",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-16d",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-16c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-16b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-16a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-16",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-11b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-11a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-10b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-10a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-06c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-06b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-06a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-04d",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-04c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-04b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-04a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-03b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-03a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-21.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

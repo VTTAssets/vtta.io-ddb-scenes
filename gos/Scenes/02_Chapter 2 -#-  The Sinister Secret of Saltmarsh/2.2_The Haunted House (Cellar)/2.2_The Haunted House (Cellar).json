@@ -1,16 +1,29 @@
 {
-   "name": "The Haunted House (Cellar)",
-   "code": "gos",
    "id": "scenes/gos-scene-2.2",
-   "type": "scene",
+   "name": "The Haunted House (Cellar)",
+   "backgroundColor": "#ffffff",
+   "code": "gos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 Chapter 2: The Sinister Secret of Saltmarsh"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 150
+   },
    "img": {
+      "height": 5712,
       "shift": {
          "x": -23,
          "y": -8
       },
-      "width": 4208,
-      "height": 5712
+      "width": 4208
    },
    "journals": [
       {
@@ -113,13 +126,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 150,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#ffffff",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1417,14 +1428,5 @@
             3271
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "02 Chapter 2: The Sinister Secret of Saltmarsh"
-         ]
-      }
-   }
+   ]
 }

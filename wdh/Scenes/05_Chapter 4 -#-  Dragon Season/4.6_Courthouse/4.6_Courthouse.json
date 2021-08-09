@@ -1,70 +1,82 @@
 {
-   "name": "Courthouse",
-   "code": "wdh",
    "id": "scenes/wdh-scene-4.6",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -50,
-         "y": -44
-      },
-      "width": 2071,
-      "height": 1422
-   },
-   "journals": [
-      {
-         "id": "journals/wdh-scene-4.6-H09",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-4.6-H08",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-4.6-H07",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-4.6-H06",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-4.6-H05",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-4.6-H04",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-4.6-H03",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-4.6-H02",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-4.6-H01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 59,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Courthouse",
    "backgroundColor": "#fefefe",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "wdh",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "05 Chapter 4: Dragon Season"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 59
+   },
+   "img": {
+      "height": 1422,
+      "shift": {
+         "x": -50,
+         "y": -44
+      },
+      "width": 2071
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-4.6-H09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.6-H01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

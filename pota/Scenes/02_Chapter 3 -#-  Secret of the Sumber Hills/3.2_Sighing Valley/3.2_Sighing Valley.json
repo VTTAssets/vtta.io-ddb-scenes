@@ -1,70 +1,82 @@
 {
-   "name": "Sighing Valley",
-   "code": "pota",
    "id": "scenes/pota-scene-3.2",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -10,
-         "y": -79
-      },
-      "width": 1897,
-      "height": 2805
-   },
-   "journals": [
-      {
-         "id": "journals/pota-scene-3.2-V09",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-3.2-V08",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-3.2-V07",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-3.2-V06",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-3.2-V05",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-3.2-V04",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-3.2-V03",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-3.2-V02",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-3.2-V01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 80,
-      "type": 1,
-      "distance": 250,
-      "units": "ft"
-   },
+   "name": "Sighing Valley",
    "backgroundColor": "#beaf94",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "pota",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "02 Chapter 3: Secret of the Sumber Hills"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 250,
+      "type": 1,
+      "units": "ft",
+      "value": 80
+   },
+   "img": {
+      "height": 2805,
+      "shift": {
+         "x": -10,
+         "y": -79
+      },
+      "width": 1897
+   },
+   "journals": [
+      {
+         "id": "journals/pota-scene-3.2-V09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.2-V08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.2-V07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.2-V06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.2-V05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.2-V04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.2-V03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.2-V02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-3.2-V01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

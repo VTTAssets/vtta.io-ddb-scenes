@@ -1,16 +1,29 @@
 {
-   "name": "Cauldron Caves",
-   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.10",
-   "type": "scene",
+   "name": "Cauldron Caves",
+   "backgroundColor": "#5e707f",
+   "code": "idrotf",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Easthaven"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 52
+   },
    "img": {
+      "height": 2765,
       "shift": {
          "x": -37,
          "y": 30
       },
-      "width": 4000,
-      "height": 2765
+      "width": 4000
    },
    "journals": [
       {
@@ -104,13 +117,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 52,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#5e707f",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -6520,14 +6531,5 @@
             1942
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "07 Easthaven"
-         ]
-      }
-   }
+   ]
 }

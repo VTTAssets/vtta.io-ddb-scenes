@@ -1,16 +1,29 @@
 {
-   "name": "Gears of Hate",
-   "code": "toa",
    "id": "scenes/toa-scene-5.5",
-   "type": "scene",
+   "name": "Gears of Hate",
+   "backgroundColor": "#56524a",
+   "code": "toa",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 5: Tomb of the Nine Gods"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 131
+   },
    "img": {
+      "height": 5750,
       "shift": {
          "x": 52,
          "y": -40
       },
-      "width": 8320,
-      "height": 5750
+      "width": 8320
    },
    "journals": [
       {
@@ -131,13 +144,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 131,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#56524a",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -2361,14 +2372,5 @@
          ],
          "door": 1
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "06 Chapter 5: Tomb of the Nine Gods"
-         ]
-      }
-   }
+   ]
 }

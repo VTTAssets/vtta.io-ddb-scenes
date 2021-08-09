@@ -1,78 +1,92 @@
 {
-   "name": "Temple of Asmodeus",
-   "code": "wdh",
    "id": "scenes/wdh-scene-6.2",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -22,
-         "y": -30
-      },
-      "width": 2304,
-      "height": 1616
-   },
-   "journals": [
-      {
-         "id": "journals/wdh-scene-6.2-A09",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-6.2-A08",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-6.2-A07",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-6.2-A06",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-6.2-A05",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-6.2-A04b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-6.2-A04a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-6.2-A04",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-6.2-A03",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-6.2-A02",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-6.2-A01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Temple of Asmodeus",
    "backgroundColor": "#f8f8f8",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "wdh",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "07 Chapter 6: Hell of a Summer"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 1616,
+      "shift": {
+         "x": -22,
+         "y": -30
+      },
+      "width": 2304
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-6.2-A09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-6.2-A08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-6.2-A07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-6.2-A06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-6.2-A05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-6.2-A04b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-6.2-A04a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-6.2-A04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-6.2-A03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-6.2-A02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-6.2-A01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

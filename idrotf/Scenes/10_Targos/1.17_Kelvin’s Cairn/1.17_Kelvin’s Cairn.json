@@ -1,61 +1,71 @@
 {
-   "name": "Kelvin’s Cairn",
-   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.17",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 4000,
-      "height": 2765
-   },
-   "journals": [
-      {
-         "id": "journals/idrotf-scene-1.17-07",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.17-06",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.17-05",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.17-04",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.17-03",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.17-02",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.17-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Kelvin’s Cairn",
    "backgroundColor": "#86a6c0",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "idrotf",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "10 Targos"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft"
+   },
+   "img": {
+      "height": 2765,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 4000
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-1.17-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.17-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.17-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.17-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.17-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.17-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.17-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

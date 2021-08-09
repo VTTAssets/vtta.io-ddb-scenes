@@ -1,221 +1,271 @@
 {
-   "name": "Omu",
-   "code": "toa",
    "id": "scenes/toa-scene-3.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2800,
-      "height": 3800
-   },
-   "journals": [
-      {
-         "id": "journals/toa-scene-3.1-20B",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-20A",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-19F",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-19E",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-19D",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-19C",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-19B",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-19A",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-18C",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-18B",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-18A",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-17",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-16D",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-16C",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-16B",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-16A",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-15",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-14",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-13",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-12C",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-12B",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-12A",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-11",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-10D",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-10C",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-10B",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-10A",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-09",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-08C",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-08B",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-08A",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-07",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-06E",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-06D",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-06C",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-06B",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-06A",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-05",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-04D",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-04C",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-04B",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-04A",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-03C",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-03B",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-03A",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-02",
-         "positions": []
-      },
-      {
-         "id": "journals/toa-scene-3.1-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Omu",
    "backgroundColor": "#7a7460",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "toa",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "04 Chapter 3: Dwellers of the Forbidden City"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft"
+   },
+   "img": {
+      "height": 3800,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2800
+   },
+   "journals": [
+      {
+         "id": "journals/toa-scene-3.1-20B",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-20A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-19F",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-19E",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-19D",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-19C",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-19B",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-19A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-18C",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-18B",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-18A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-17",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-16D",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-16C",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-16B",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-16A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-12C",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-12B",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-12A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-10D",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-10C",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-10B",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-10A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-08C",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-08B",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-08A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-06E",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-06D",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-06C",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-06B",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-06A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-04D",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-04C",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-04B",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-04A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-03C",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-03B",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-03A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/toa-scene-3.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

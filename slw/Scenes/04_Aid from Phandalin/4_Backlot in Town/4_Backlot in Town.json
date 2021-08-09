@@ -1,33 +1,37 @@
 {
-   "name": "Backlot in Town",
-   "code": "slw",
    "id": "scenes/slw-scene-4",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -76,
-         "y": -96
-      },
-      "width": 2841,
-      "height": 3606
-   },
-   "journals": [],
-   "grid": {
-      "value": 136,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Backlot in Town",
    "backgroundColor": "#473d2b",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "slw",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "04 Aid from Phandalin"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 136
+   },
+   "img": {
+      "height": 3606,
+      "shift": {
+         "x": -76,
+         "y": -96
+      },
+      "width": 2841
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

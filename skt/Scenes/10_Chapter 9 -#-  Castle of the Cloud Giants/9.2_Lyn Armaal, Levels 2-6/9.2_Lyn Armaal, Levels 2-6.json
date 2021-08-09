@@ -1,16 +1,29 @@
 {
-   "name": "Lyn Armaal, Levels 2-6",
-   "code": "skt",
    "id": "scenes/skt-scene-9.2",
-   "type": "scene",
+   "name": "Lyn Armaal, Levels 2-6",
+   "backgroundColor": "#849fcd",
+   "code": "skt",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "10 Chapter 9: Castle of the Cloud Giants"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 6013,
       "shift": {
          "x": -16,
          "y": -24
       },
-      "width": 4373,
-      "height": 6013
+      "width": 4373
    },
    "journals": [
       {
@@ -239,13 +252,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#849fcd",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -7849,14 +7860,5 @@
          ],
          "sense": 2
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "10 Chapter 9: Castle of the Cloud Giants"
-         ]
-      }
-   }
+   ]
 }

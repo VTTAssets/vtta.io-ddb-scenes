@@ -1,118 +1,142 @@
 {
-   "name": "Eye of the All-Father",
-   "code": "skt",
    "id": "scenes/skt-scene-4.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -22,
-         "y": -14
-      },
-      "width": 2722,
-      "height": 3737
-   },
-   "journals": [
-      {
-         "id": "journals/skt-scene-4.1-11",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-4.1-10A",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-4.1-10",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-4.1-09B",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-4.1-09A",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-4.1-09",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-4.1-08C",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-4.1-08B",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-4.1-08A",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-4.1-08",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-4.1-07",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-4.1-06",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-4.1-05B",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-4.1-05A",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-4.1-05",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-4.1-04",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-4.1-03",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-4.1-02B",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-4.1-02A",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-4.1-02",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-4.1-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 20,
-      "units": "ft"
-   },
+   "name": "Eye of the All-Father",
    "backgroundColor": "#4a3d32",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "skt",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "05 Chapter 4: The Chosen Path"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 20,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 3737,
+      "shift": {
+         "x": -22,
+         "y": -14
+      },
+      "width": 2722
+   },
+   "journals": [
+      {
+         "id": "journals/skt-scene-4.1-11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-4.1-10A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-4.1-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-4.1-09B",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-4.1-09A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-4.1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-4.1-08C",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-4.1-08B",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-4.1-08A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-4.1-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-4.1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-4.1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-4.1-05B",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-4.1-05A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-4.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-4.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-4.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-4.1-02B",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-4.1-02A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-4.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-4.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

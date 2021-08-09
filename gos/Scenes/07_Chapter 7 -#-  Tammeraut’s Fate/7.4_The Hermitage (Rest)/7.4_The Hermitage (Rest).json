@@ -1,50 +1,57 @@
 {
-   "name": "The Hermitage (Rest)",
-   "code": "gos",
    "id": "scenes/gos-scene-7.4",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -65,
-         "y": -49
-      },
-      "width": 2148,
-      "height": 1511
-   },
-   "journals": [
-      {
-         "id": "journals/gos-scene-7.4-25",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-7.4-24",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-7.4-23",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-7.4-22",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 68,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "The Hermitage (Rest)",
    "backgroundColor": "#ffffff",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "gos",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "07 Chapter 7: Tammeraut’s Fate"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 68
+   },
+   "img": {
+      "height": 1511,
+      "shift": {
+         "x": -65,
+         "y": -49
+      },
+      "width": 2148
+   },
+   "journals": [
+      {
+         "id": "journals/gos-scene-7.4-25",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-7.4-24",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-7.4-23",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-7.4-22",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

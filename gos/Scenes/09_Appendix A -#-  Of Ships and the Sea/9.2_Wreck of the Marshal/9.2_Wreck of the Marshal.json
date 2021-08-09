@@ -1,70 +1,82 @@
 {
-   "name": "Wreck of the Marshal",
-   "code": "gos",
    "id": "scenes/gos-scene-9.2",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -136,
-         "y": -137
-      },
-      "width": 4204,
-      "height": 5705
-   },
-   "journals": [
-      {
-         "id": "journals/gos-scene-9.2-M09",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-9.2-M08",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-9.2-M07",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-9.2-M06",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-9.2-M05",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-9.2-M04",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-9.2-M03",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-9.2-M02",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-9.2-M01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 140,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Wreck of the Marshal",
    "backgroundColor": "#f4f5f7",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "gos",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "09 Appendix A: Of Ships and the Sea"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 140
+   },
+   "img": {
+      "height": 5705,
+      "shift": {
+         "x": -136,
+         "y": -137
+      },
+      "width": 4204
+   },
+   "journals": [
+      {
+         "id": "journals/gos-scene-9.2-M09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-9.2-M08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-9.2-M07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-9.2-M06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-9.2-M05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-9.2-M04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-9.2-M03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-9.2-M02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-9.2-M01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

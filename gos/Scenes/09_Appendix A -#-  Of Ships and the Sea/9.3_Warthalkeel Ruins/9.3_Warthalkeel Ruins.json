@@ -1,61 +1,71 @@
 {
-   "name": "Warthalkeel Ruins",
-   "code": "gos",
    "id": "scenes/gos-scene-9.3",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 4200,
-      "height": 5700
-   },
-   "journals": [
-      {
-         "id": "journals/gos-scene-9.3-W07",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-9.3-W06",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-9.3-W05",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-9.3-W04",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-9.3-W03",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-9.3-W02",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-9.3-W01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Warthalkeel Ruins",
    "backgroundColor": "#fbfcfc",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "gos",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "09 Appendix A: Of Ships and the Sea"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft"
+   },
+   "img": {
+      "height": 5700,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 4200
+   },
+   "journals": [
+      {
+         "id": "journals/gos-scene-9.3-W07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-9.3-W06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-9.3-W05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-9.3-W04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-9.3-W03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-9.3-W02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-9.3-W01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

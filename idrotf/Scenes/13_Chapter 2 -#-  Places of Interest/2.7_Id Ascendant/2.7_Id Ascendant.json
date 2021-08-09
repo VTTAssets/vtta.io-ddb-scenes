@@ -1,69 +1,81 @@
 {
-   "name": "Id Ascendant",
-   "code": "idrotf",
    "id": "scenes/idrotf-scene-2.7",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 4000,
-      "height": 2765
-   },
-   "journals": [
-      {
-         "id": "journals/idrotf-scene-2.7-N09",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.7-N08",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.7-N07",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.7-N06",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.7-N05",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.7-N04",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.7-N03",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.7-N02",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.7-N01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Id Ascendant",
    "backgroundColor": "#5c707a",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "idrotf",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "13 Chapter 2: Places of Interest"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft"
+   },
+   "img": {
+      "height": 2765,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 4000
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-2.7-N09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.7-N08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.7-N07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.7-N06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.7-N05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.7-N04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.7-N03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.7-N02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.7-N01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

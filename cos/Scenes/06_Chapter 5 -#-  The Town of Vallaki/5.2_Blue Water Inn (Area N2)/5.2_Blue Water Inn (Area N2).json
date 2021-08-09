@@ -1,16 +1,29 @@
 {
-   "name": "Blue Water Inn (Area N2)",
-   "code": "cos",
    "id": "scenes/cos-scene-5.2",
-   "type": "scene",
+   "name": "Blue Water Inn (Area N2)",
+   "backgroundColor": "#797c71",
+   "code": "cos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 5: The Town of Vallaki"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 74
+   },
    "img": {
+      "height": 3290,
       "shift": {
          "x": -25,
          "y": -22
       },
-      "width": 2390,
-      "height": 3290
+      "width": 2390
    },
    "journals": [
       {
@@ -171,13 +184,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 74,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#797c71",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -2085,14 +2096,5 @@
             1776
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "06 Chapter 5: The Town of Vallaki"
-         ]
-      }
-   }
+   ]
 }

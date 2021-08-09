@@ -1,310 +1,392 @@
 {
-   "name": "Level 1: Dungeon Level",
-   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-1.1",
-   "type": "scene",
+   "name": "Level 1: Dungeon Level",
+   "backgroundColor": "#ffffff",
+   "code": "wdotmm",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "01 Level 1: Dungeon Level"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 5050,
       "shift": {
          "x": -10,
          "y": -29
       },
-      "width": 3754,
-      "height": 5050
+      "width": 3754
    },
    "journals": [
       {
          "id": "journals/wdotmm-scene-1.1-32b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-32a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-31",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-30b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-30a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-30",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-29",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-28d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-28c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-28b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-28a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-28",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-27",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-26d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-26c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-26b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-26a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-26",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-25b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-25a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-25",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-24b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-24a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-24",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-23c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-23b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-23a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-23",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-22",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-21",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-20",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-19c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-19b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-19a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-19",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-18",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-17b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-17a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-17",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-16",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-15",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-14c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-14b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-14a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-14",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-13",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-12",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-11",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-10",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-09b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-09a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-09",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-08c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-08b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-08a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-08",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-07b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-07a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-07",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-06d",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-06c",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-06b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-06a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-06",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-05",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-04",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-03",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-02b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-02a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-02",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/wdotmm-scene-1.1-01",
-         "positions": []
+         "positions": [
+         ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#ffffff",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -8119,14 +8201,5 @@
             3750
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "01 Level 1: Dungeon Level"
-         ]
-      }
-   }
+   ]
 }

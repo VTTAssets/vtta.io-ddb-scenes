@@ -1,71 +1,82 @@
 {
+   "id": "scenes/egtw-scene-5.1",
    "name": "Palma Flora",
    "code": "egtw",
-   "id": "scenes/egtw-scene-5.1",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2550,
-      "height": 1650
-   },
-   "journals": [
-      {
-         "id": "journals/egtw-scene-5.1-P10",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.1-P09",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.1-P08",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.1-P07",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.1-P06",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.1-P05",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.1-P04",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.1-P03",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.1-P02",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.1-P01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "08 Tide of Retribution"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 1650,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2550
+   },
+   "journals": [
+      {
+         "id": "journals/egtw-scene-5.1-P10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.1-P09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.1-P08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.1-P07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.1-P06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.1-P05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.1-P04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.1-P03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.1-P02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.1-P01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

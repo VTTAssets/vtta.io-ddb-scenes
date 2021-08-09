@@ -1,118 +1,142 @@
 {
-   "name": "Arauthator’s Iceberg and Lair",
-   "code": "rot",
    "id": "scenes/rot-scene-10.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -9,
-         "y": -60
-      },
-      "width": 3948,
-      "height": 5715
-   },
-   "journals": [
-      {
-         "id": "journals/rot-scene-10.1-20",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-10.1-19",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-10.1-18b",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-10.1-18a",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-10.1-17",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-10.1-16",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-10.1-15",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-10.1-14",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-10.1-13",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-10.1-12",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-10.1-11",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-10.1-10",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-10.1-09",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-10.1-08",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-10.1-07",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-10.1-06",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-10.1-05",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-10.1-04",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-10.1-03",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-10.1-02",
-         "positions": []
-      },
-      {
-         "id": "journals/rot-scene-10.1-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 85,
-      "type": 1,
-      "distance": 15,
-      "units": "ft"
-   },
+   "name": "Arauthator’s Iceberg and Lair",
    "backgroundColor": "#685344",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "rot",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "03 Chapter 10: The Sea of Moving Ice"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 15,
+      "type": 1,
+      "units": "ft",
+      "value": 85
+   },
+   "img": {
+      "height": 5715,
+      "shift": {
+         "x": -9,
+         "y": -60
+      },
+      "width": 3948
+   },
+   "journals": [
+      {
+         "id": "journals/rot-scene-10.1-20",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-10.1-19",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-10.1-18b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-10.1-18a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-10.1-17",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-10.1-16",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-10.1-15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-10.1-14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-10.1-13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-10.1-12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-10.1-11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-10.1-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-10.1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-10.1-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-10.1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-10.1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-10.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-10.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-10.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-10.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/rot-scene-10.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

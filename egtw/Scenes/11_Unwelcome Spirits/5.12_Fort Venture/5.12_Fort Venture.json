@@ -1,75 +1,87 @@
 {
+   "id": "scenes/egtw-scene-5.12",
    "name": "Fort Venture",
    "code": "egtw",
-   "id": "scenes/egtw-scene-5.12",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2550,
-      "height": 1560
-   },
-   "journals": [
-      {
-         "id": "journals/egtw-scene-5.12-V11",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.12-V10",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.12-V09",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.12-V08",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.12-V07",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.12-V06",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.12-V05",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.12-V04",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.12-V03",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.12-V02",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.12-V01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "11 Unwelcome Spirits"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 1560,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2550
+   },
+   "journals": [
+      {
+         "id": "journals/egtw-scene-5.12-V11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.12-V10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.12-V09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.12-V08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.12-V07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.12-V06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.12-V05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.12-V04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.12-V03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.12-V02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.12-V01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

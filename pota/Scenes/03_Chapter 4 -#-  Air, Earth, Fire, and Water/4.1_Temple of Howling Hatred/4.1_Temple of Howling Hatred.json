@@ -1,114 +1,137 @@
 {
-   "name": "Temple of Howling Hatred",
-   "code": "pota",
    "id": "scenes/pota-scene-4.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -48,
-         "y": -2
-      },
-      "width": 3156,
-      "height": 4002
-   },
-   "journals": [
-      {
-         "id": "journals/pota-scene-4.1-A20",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-4.1-A19",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-4.1-A18",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-4.1-A17",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-4.1-A16",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-4.1-A15",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-4.1-A14",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-4.1-A13",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-4.1-A12",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-4.1-A11",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-4.1-A10",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-4.1-A09",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-4.1-A08",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-4.1-A07",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-4.1-A06",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-4.1-A05",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-4.1-A04",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-4.1-A03",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-4.1-A02",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-4.1-A01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 89,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Temple of Howling Hatred",
    "backgroundColor": "#c7b68d",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "pota",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "03 Chapter 4: Air, Earth, Fire, and Water"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 89
+   },
+   "img": {
+      "height": 4002,
+      "shift": {
+         "x": -48,
+         "y": -2
+      },
+      "width": 3156
+   },
+   "journals": [
+      {
+         "id": "journals/pota-scene-4.1-A20",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-4.1-A19",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-4.1-A18",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-4.1-A17",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-4.1-A16",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-4.1-A15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-4.1-A14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-4.1-A13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-4.1-A12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-4.1-A11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-4.1-A10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-4.1-A09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-4.1-A08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-4.1-A07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-4.1-A06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-4.1-A05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-4.1-A04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-4.1-A03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-4.1-A02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-4.1-A01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

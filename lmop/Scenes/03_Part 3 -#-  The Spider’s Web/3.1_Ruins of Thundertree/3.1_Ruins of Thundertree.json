@@ -1,16 +1,29 @@
 {
-   "name": "Ruins of Thundertree",
-   "code": "lmop",
    "id": "scenes/lmop-scene-3.1",
-   "type": "scene",
+   "name": "Ruins of Thundertree",
+   "backgroundColor": "#7d765d",
+   "code": "lmop",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Part 3: The Spider’s Web"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 150
+   },
    "img": {
+      "height": 3143,
       "shift": {
          "x": -146,
          "y": -153
       },
-      "width": 4510,
-      "height": 3143
+      "width": 4510
    },
    "journals": [
       {
@@ -131,13 +144,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 150,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#7d765d",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1595,14 +1606,5 @@
             3000
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "03 Part 3: The Spider’s Web"
-         ]
-      }
-   }
+   ]
 }

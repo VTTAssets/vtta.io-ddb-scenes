@@ -1,58 +1,67 @@
 {
-   "name": "Walls of Ravenloft",
-   "code": "cos",
    "id": "scenes/cos-scene-4.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -50,
-         "y": -31
-      },
-      "width": 2159,
-      "height": 3141
-   },
-   "journals": [
-      {
-         "id": "journals/cos-scene-4.1-K06",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.1-K05",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.1-K04",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.1-K03",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.1-K02",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.1-K01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 73,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Walls of Ravenloft",
    "backgroundColor": "#c6c8c9",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "cos",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "05 Chapter 4: Castle Ravenloft"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 73
+   },
+   "img": {
+      "height": 3141,
+      "shift": {
+         "x": -50,
+         "y": -31
+      },
+      "width": 2159
+   },
+   "journals": [
+      {
+         "id": "journals/cos-scene-4.1-K06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.1-K05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.1-K04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.1-K03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.1-K02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.1-K01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

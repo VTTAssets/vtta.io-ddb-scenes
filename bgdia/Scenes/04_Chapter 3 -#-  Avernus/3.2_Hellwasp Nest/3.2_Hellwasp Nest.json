@@ -1,42 +1,57 @@
 {
-   "name": "Hellwasp Nest",
-   "code": "bgdia",
    "id": "scenes/bgdia-scene-3.2",
-   "type": "scene",
+   "name": "Hellwasp Nest",
+   "backgroundColor": "#ffffff",
+   "code": "bgdia",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 3: Avernus"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 128
+   },
    "img": {
+      "height": 4014,
       "shift": {
          "x": -126,
          "y": -4
       },
-      "width": 6124,
-      "height": 4014
+      "width": 6124
    },
    "journals": [
       {
          "id": "journals/bgdia-scene-3.2-N04",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/bgdia-scene-3.2-N03",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/bgdia-scene-3.2-N02",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/bgdia-scene-3.2-N01",
-         "positions": []
+         "positions": [
+         ]
       }
    ],
-   "grid": {
-      "value": 128,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#ffffff",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -7282,14 +7297,5 @@
          ],
          "sense": 2
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "04 Chapter 3: Avernus"
-         ]
-      }
-   }
+   ]
 }

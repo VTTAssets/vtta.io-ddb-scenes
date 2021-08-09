@@ -1,82 +1,97 @@
 {
-   "name": "Emperor of the Waves",
-   "code": "gos",
    "id": "scenes/gos-scene-4.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -40,
-         "y": -30
-      },
-      "width": 2266,
-      "height": 1570
-   },
-   "journals": [
-      {
-         "id": "journals/gos-scene-4.1-12",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-4.1-11",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-4.1-10",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-4.1-09",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-4.1-08",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-4.1-07",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-4.1-06",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-4.1-05",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-4.1-04",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-4.1-03",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-4.1-02",
-         "positions": []
-      },
-      {
-         "id": "journals/gos-scene-4.1-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Emperor of the Waves",
    "backgroundColor": "#ffffff",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "gos",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "04 Chapter 4: Salvage Operation"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 1570,
+      "shift": {
+         "x": -40,
+         "y": -30
+      },
+      "width": 2266
+   },
+   "journals": [
+      {
+         "id": "journals/gos-scene-4.1-12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-4.1-11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-4.1-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-4.1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-4.1-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-4.1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-4.1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-4.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-4.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-4.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-4.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/gos-scene-4.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

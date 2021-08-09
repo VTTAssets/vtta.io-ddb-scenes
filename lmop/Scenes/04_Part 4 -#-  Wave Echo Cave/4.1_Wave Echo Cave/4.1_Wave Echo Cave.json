@@ -1,16 +1,29 @@
 {
-   "name": "Wave Echo Cave",
-   "code": "lmop",
    "id": "scenes/lmop-scene-4.1",
-   "type": "scene",
+   "name": "Wave Echo Cave",
+   "backgroundColor": "#554e40",
+   "code": "lmop",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Part 4: Wave Echo Cave"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 121
+   },
    "img": {
+      "height": 6148,
       "shift": {
          "x": -99,
          "y": -100
       },
-      "width": 4512,
-      "height": 6148
+      "width": 4512
    },
    "journals": [
       {
@@ -194,13 +207,35 @@
          ]
       }
    ],
-   "grid": {
-      "value": 121,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#554e40",
+   "lights": [
+      {
+         "bright": 21.1,
+         "darknessThreshold": 0,
+         "dim": 41.9,
+         "tintAlpha": 0.5,
+         "x": 4598,
+         "y": 5445
+      },
+      {
+         "bright": 11.1,
+         "darknessThreshold": 0,
+         "dim": 21.5,
+         "tintAlpha": 0.5,
+         "x": 5021,
+         "y": 5868
+      },
+      {
+         "bright": 15.7,
+         "darknessThreshold": 0,
+         "dim": 31.2,
+         "tintAlpha": 0.5,
+         "x": 5384,
+         "y": 6292
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -7940,39 +7975,5 @@
             4114
          ]
       }
-   ],
-   "lights": [
-      {
-         "bright": 21.1,
-         "darknessThreshold": 0,
-         "dim": 41.9,
-         "tintAlpha": 0.5,
-         "x": 4598,
-         "y": 5445
-      },
-      {
-         "bright": 11.1,
-         "darknessThreshold": 0,
-         "dim": 21.5,
-         "tintAlpha": 0.5,
-         "x": 5021,
-         "y": 5868
-      },
-      {
-         "bright": 15.7,
-         "darknessThreshold": 0,
-         "dim": 31.2,
-         "tintAlpha": 0.5,
-         "x": 5384,
-         "y": 6292
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "04 Part 4: Wave Echo Cave"
-         ]
-      }
-   }
+   ]
 }

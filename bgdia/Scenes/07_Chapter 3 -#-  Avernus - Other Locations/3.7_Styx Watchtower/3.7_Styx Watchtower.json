@@ -1,38 +1,52 @@
 {
-   "name": "Styx Watchtower",
-   "code": "bgdia",
    "id": "scenes/bgdia-scene-3.7",
-   "type": "scene",
+   "name": "Styx Watchtower",
+   "backgroundColor": "#ffffff",
+   "code": "bgdia",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Chapter 3: Avernus - Other Locations"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 154
+   },
    "img": {
+      "height": 3991,
       "shift": {
          "x": -1,
          "y": -159
       },
-      "width": 6094,
-      "height": 3991
+      "width": 6094
    },
    "journals": [
       {
          "id": "journals/bgdia-scene-3.7-T03",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/bgdia-scene-3.7-T02",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/bgdia-scene-3.7-T01",
-         "positions": []
+         "positions": [
+         ]
       }
    ],
-   "grid": {
-      "value": 154,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#ffffff",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1940,14 +1954,5 @@
          ],
          "sense": 0
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "07 Chapter 3: Avernus - Other Locations"
-         ]
-      }
-   }
+   ]
 }

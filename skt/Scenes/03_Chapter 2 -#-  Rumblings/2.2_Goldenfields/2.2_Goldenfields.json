@@ -1,16 +1,29 @@
 {
-   "name": "Goldenfields",
-   "code": "skt",
    "id": "scenes/skt-scene-2.2",
-   "type": "scene",
+   "name": "Goldenfields",
+   "backgroundColor": "#6f4e2b",
+   "code": "skt",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: Rumblings"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 0.25,
+      "type": 0,
+      "units": "mi",
+      "value": 79
+   },
    "img": {
+      "height": 3289,
       "shift": {
          "x": -45,
          "y": -69
       },
-      "width": 2385,
-      "height": 3289
+      "width": 2385
    },
    "journals": [
       {
@@ -278,21 +291,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 79,
-      "type": 0,
-      "distance": 0.25,
-      "units": "mi"
-   },
-   "backgroundColor": "#6f4e2b",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "03 Chapter 2: Rumblings"
-         ]
-      }
-   }
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

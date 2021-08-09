@@ -1,16 +1,29 @@
 {
-   "name": "Vallaki (Area N)",
-   "code": "cos",
    "id": "scenes/cos-scene-5.1",
-   "type": "scene",
+   "name": "Vallaki (Area N)",
+   "backgroundColor": "#8f9a91",
+   "code": "cos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 5: The Town of Vallaki"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 60
+   },
    "img": {
+      "height": 1200,
       "shift": {
          "x": -51,
          "y": -18
       },
-      "width": 1950,
-      "height": 1200
+      "width": 1950
    },
    "journals": [
       {
@@ -33,7 +46,8 @@
       },
       {
          "id": "journals/cos-scene-5.1-N07",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-5.1-N06",
@@ -90,21 +104,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 60,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#8f9a91",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "06 Chapter 5: The Town of Vallaki"
-         ]
-      }
-   }
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

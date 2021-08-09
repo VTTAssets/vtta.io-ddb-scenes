@@ -1,85 +1,101 @@
 {
-   "name": "Gem Mine",
-   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.19",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 4000,
-      "height": 2765
-   },
-   "journals": [
-      {
-         "id": "journals/idrotf-scene-1.19-M13",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.19-M12",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.19-M11",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.19-M10",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.19-M09",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.19-M08",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.19-M07",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.19-M06",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.19-M05",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.19-M04",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.19-M03",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.19-M02",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.19-M01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Gem Mine",
    "backgroundColor": "#8498a7",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "idrotf",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "11 Termalaine"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft"
+   },
+   "img": {
+      "height": 2765,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 4000
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-1.19-M13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.19-M01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

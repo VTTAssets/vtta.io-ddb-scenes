@@ -1,222 +1,272 @@
 {
-   "name": "Level 11: Troglodyte Warrens",
-   "code": "wdotmm",
    "id": "scenes/wdotmm-scene-11.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -3,
-         "y": -1
-      },
-      "width": 2862,
-      "height": 3851
-   },
-   "journals": [
-      {
-         "id": "journals/wdotmm-scene-11.1-17d",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-17c",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-17b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-17a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-17",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-16",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-15c",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-15b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-15a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-15",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-14",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-13",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-12",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-11b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-11a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-11",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-10b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-10a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-10",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-09d",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-09c",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-09b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-09a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-09",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-08c",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-08b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-08a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-08",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-07h",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-07g",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-07f",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-07e",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-07d",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-07c",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-07b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-07a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-07",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-06",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-05",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-04",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-03",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-02d",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-02c",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-02b",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-02a",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-02",
-         "positions": []
-      },
-      {
-         "id": "journals/wdotmm-scene-11.1-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Level 11: Troglodyte Warrens",
    "backgroundColor": "#ffffff",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "wdotmm",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "11 Level 11: Troglodyte Warrens"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 3851,
+      "shift": {
+         "x": -3,
+         "y": -1
+      },
+      "width": 2862
+   },
+   "journals": [
+      {
+         "id": "journals/wdotmm-scene-11.1-17d",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-17c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-17b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-17a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-17",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-16",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-15c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-15b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-15a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-11b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-11a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-10b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-10a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-09d",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-09c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-09b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-09a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-08c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-08b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-08a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-07h",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-07g",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-07f",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-07e",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-07d",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-07c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-07b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-07a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-02d",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-02c",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-02b",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-02a",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdotmm-scene-11.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

@@ -1,16 +1,29 @@
 {
-   "name": "Shrine of Savras",
-   "code": "doip",
    "id": "scenes/doip-scene-11.1",
-   "type": "scene",
+   "name": "Shrine of Savras",
+   "backgroundColor": "#706b4c",
+   "code": "doip",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "11 Shrine of Savras"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 2100,
       "shift": {
          "x": -47,
          "y": -49
       },
-      "width": 3299,
-      "height": 2100
+      "width": 3299
    },
    "journals": [
       {
@@ -120,13 +133,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#706b4c",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -3707,14 +3718,5 @@
             837
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "11 Shrine of Savras"
-         ]
-      }
-   }
+   ]
 }

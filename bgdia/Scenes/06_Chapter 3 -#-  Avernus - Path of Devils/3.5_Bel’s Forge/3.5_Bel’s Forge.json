@@ -1,16 +1,29 @@
 {
-   "name": "Bel’s Forge",
-   "code": "bgdia",
    "id": "scenes/bgdia-scene-3.5",
-   "type": "scene",
+   "name": "Bel’s Forge",
+   "backgroundColor": "#fdfdfd",
+   "code": "bgdia",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 3: Avernus - Path of Devils"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 130
+   },
    "img": {
+      "height": 4004,
       "shift": {
          "x": -101,
          "y": -49
       },
-      "width": 5827,
-      "height": 4004
+      "width": 5827
    },
    "journals": [
       {
@@ -58,13 +71,99 @@
          ]
       }
    ],
-   "grid": {
-      "value": 130,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#fdfdfd",
+   "lights": [
+      {
+         "bright": 18.94,
+         "darknessThreshold": 0,
+         "dim": 37.88,
+         "tintAlpha": 0.5,
+         "x": 3705,
+         "y": 2080
+      },
+      {
+         "bright": 43.58,
+         "darknessThreshold": 0,
+         "dim": 87.17,
+         "tintAlpha": 0.5,
+         "x": 6240,
+         "y": 1950
+      },
+      {
+         "bright": 21.92,
+         "darknessThreshold": 0,
+         "dim": 43.85,
+         "tintAlpha": 0.5,
+         "x": 4550,
+         "y": 1690
+      },
+      {
+         "bright": 10.33,
+         "darknessThreshold": 0,
+         "dim": 20.67,
+         "tintAlpha": 0.5,
+         "x": 5785,
+         "y": 3445
+      },
+      {
+         "bright": 12.97,
+         "darknessThreshold": 0,
+         "dim": 25.94,
+         "tintAlpha": 0.5,
+         "x": 5525,
+         "y": 4160
+      },
+      {
+         "bright": 8.5,
+         "darknessThreshold": 0,
+         "dim": 17,
+         "tintAlpha": 0.5,
+         "x": 5200,
+         "y": 4485
+      },
+      {
+         "bright": 12.36,
+         "darknessThreshold": 0,
+         "dim": 24.72,
+         "tintAlpha": 0.5,
+         "x": 4550,
+         "y": 4550
+      },
+      {
+         "bright": 12.47,
+         "darknessThreshold": 0,
+         "dim": 24.95,
+         "tintAlpha": 0.5,
+         "x": 3965,
+         "y": 4290
+      },
+      {
+         "bright": 8.77,
+         "darknessThreshold": 0,
+         "dim": 17.55,
+         "tintAlpha": 0.5,
+         "x": 3380,
+         "y": 3705
+      },
+      {
+         "bright": 6.74,
+         "darknessThreshold": 0,
+         "dim": 13.48,
+         "tintAlpha": 0.5,
+         "x": 3315,
+         "y": 3250
+      },
+      {
+         "bright": 17.54,
+         "darknessThreshold": 0,
+         "dim": 35.08,
+         "tintAlpha": 0.5,
+         "x": 3380,
+         "y": 2730
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1178,103 +1277,5 @@
          ],
          "sense": 0
       }
-   ],
-   "lights": [
-      {
-         "bright": 18.94,
-         "darknessThreshold": 0,
-         "dim": 37.88,
-         "tintAlpha": 0.5,
-         "x": 3705,
-         "y": 2080
-      },
-      {
-         "bright": 43.58,
-         "darknessThreshold": 0,
-         "dim": 87.17,
-         "tintAlpha": 0.5,
-         "x": 6240,
-         "y": 1950
-      },
-      {
-         "bright": 21.92,
-         "darknessThreshold": 0,
-         "dim": 43.85,
-         "tintAlpha": 0.5,
-         "x": 4550,
-         "y": 1690
-      },
-      {
-         "bright": 10.33,
-         "darknessThreshold": 0,
-         "dim": 20.67,
-         "tintAlpha": 0.5,
-         "x": 5785,
-         "y": 3445
-      },
-      {
-         "bright": 12.97,
-         "darknessThreshold": 0,
-         "dim": 25.94,
-         "tintAlpha": 0.5,
-         "x": 5525,
-         "y": 4160
-      },
-      {
-         "bright": 8.5,
-         "darknessThreshold": 0,
-         "dim": 17,
-         "tintAlpha": 0.5,
-         "x": 5200,
-         "y": 4485
-      },
-      {
-         "bright": 12.36,
-         "darknessThreshold": 0,
-         "dim": 24.72,
-         "tintAlpha": 0.5,
-         "x": 4550,
-         "y": 4550
-      },
-      {
-         "bright": 12.47,
-         "darknessThreshold": 0,
-         "dim": 24.95,
-         "tintAlpha": 0.5,
-         "x": 3965,
-         "y": 4290
-      },
-      {
-         "bright": 8.77,
-         "darknessThreshold": 0,
-         "dim": 17.55,
-         "tintAlpha": 0.5,
-         "x": 3380,
-         "y": 3705
-      },
-      {
-         "bright": 6.74,
-         "darknessThreshold": 0,
-         "dim": 13.48,
-         "tintAlpha": 0.5,
-         "x": 3315,
-         "y": 3250
-      },
-      {
-         "bright": 17.54,
-         "darknessThreshold": 0,
-         "dim": 35.08,
-         "tintAlpha": 0.5,
-         "x": 3380,
-         "y": 2730
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "06 Chapter 3: Avernus - Path of Devils"
-         ]
-      }
-   }
+   ]
 }

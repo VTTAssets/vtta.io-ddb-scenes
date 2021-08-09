@@ -1,16 +1,29 @@
 {
-   "name": "Gralhund Villa",
-   "code": "wdh",
    "id": "scenes/wdh-scene-3.1",
-   "type": "scene",
+   "name": "Gralhund Villa",
+   "backgroundColor": "#fdfdfd",
+   "code": "wdh",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 3: Fireball"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 54
+   },
    "img": {
+      "height": 2835,
       "shift": {
          "x": -25,
          "y": -19
       },
-      "width": 2092,
-      "height": 2835
+      "width": 2092
    },
    "journals": [
       {
@@ -197,13 +210,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 54,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#fdfdfd",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -2788,14 +2799,5 @@
          ],
          "sense": 2
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "04 Chapter 3: Fireball"
-         ]
-      }
-   }
+   ]
 }

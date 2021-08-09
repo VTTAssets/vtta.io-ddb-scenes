@@ -1,118 +1,142 @@
 {
-   "name": "Fane of the Eye",
-   "code": "pota",
    "id": "scenes/pota-scene-5.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -5,
-         "y": -14
-      },
-      "width": 3161,
-      "height": 4004
-   },
-   "journals": [
-      {
-         "id": "journals/pota-scene-5.1-F21",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.1-F20",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.1-F19",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.1-F18",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.1-F17",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.1-F16",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.1-F15",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.1-F14",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.1-F13",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.1-F12",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.1-F11",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.1-F10",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.1-F09",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.1-F08",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.1-F07",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.1-F06",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.1-F05",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.1-F04",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.1-F03",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.1-F02",
-         "positions": []
-      },
-      {
-         "id": "journals/pota-scene-5.1-F01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 89,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Fane of the Eye",
    "backgroundColor": "#ccb990",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "pota",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "04 Chapter 5: Temple of the Elder Elemental Eye"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 89
+   },
+   "img": {
+      "height": 4004,
+      "shift": {
+         "x": -5,
+         "y": -14
+      },
+      "width": 3161
+   },
+   "journals": [
+      {
+         "id": "journals/pota-scene-5.1-F21",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.1-F20",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.1-F19",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.1-F18",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.1-F17",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.1-F16",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.1-F15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.1-F14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.1-F13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.1-F12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.1-F11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.1-F10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.1-F09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.1-F08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.1-F07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.1-F06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.1-F05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.1-F04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.1-F03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.1-F02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/pota-scene-5.1-F01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

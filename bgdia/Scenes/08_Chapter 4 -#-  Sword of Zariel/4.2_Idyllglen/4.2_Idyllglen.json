@@ -1,38 +1,52 @@
 {
-   "name": "Idyllglen",
-   "code": "bgdia",
    "id": "scenes/bgdia-scene-4.2",
-   "type": "scene",
+   "name": "Idyllglen",
+   "backgroundColor": "#e8e8e8",
+   "code": "bgdia",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Chapter 4: Sword of Zariel"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 123
+   },
    "img": {
+      "height": 4002,
       "shift": {
          "x": -6,
          "y": -4
       },
-      "width": 6108,
-      "height": 4002
+      "width": 6108
    },
    "journals": [
       {
          "id": "journals/bgdia-scene-4.2-I03",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/bgdia-scene-4.2-I02",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/bgdia-scene-4.2-I01",
-         "positions": []
+         "positions": [
+         ]
       }
    ],
-   "grid": {
-      "value": 123,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#e8e8e8",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1366,14 +1380,5 @@
          ],
          "sense": 2
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "08 Chapter 4: Sword of Zariel"
-         ]
-      }
-   }
+   ]
 }

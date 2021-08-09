@@ -1,16 +1,29 @@
 {
-   "name": "Thalivar’s Beacon",
-   "code": "dc",
    "id": "scenes/dc-scene-7",
-   "type": "scene",
+   "name": "Thalivar’s Beacon",
+   "backgroundColor": "#7f562c",
+   "code": "dc",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Thalivar’s Beacon"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 86
+   },
    "img": {
+      "height": 2284,
       "shift": {
          "x": -50,
          "y": -59
       },
-      "width": 3600,
-      "height": 2284
+      "width": 3600
    },
    "journals": [
       {
@@ -144,13 +157,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 86,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#7f562c",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1181,14 +1192,5 @@
             2332
          ]
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "07 Thalivar’s Beacon"
-         ]
-      }
-   }
+   ]
 }

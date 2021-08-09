@@ -1,73 +1,86 @@
 {
-   "name": "Verbeeg Lair",
-   "code": "idrotf",
    "id": "scenes/idrotf-scene-1.13",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 4000,
-      "height": 2765
-   },
-   "journals": [
-      {
-         "id": "journals/idrotf-scene-1.13-V10",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.13-V09",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.13-V08",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.13-V07",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.13-V06",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.13-V05",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.13-V04",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.13-V03",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.13-V02",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-1.13-V01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Verbeeg Lair",
    "backgroundColor": "#5c707a",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "idrotf",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "08 Good Mead"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft"
+   },
+   "img": {
+      "height": 2765,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 4000
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-1.13-V10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.13-V09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.13-V08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.13-V07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.13-V06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.13-V05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.13-V04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.13-V03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.13-V02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-1.13-V01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

@@ -1,16 +1,29 @@
 {
-   "name": "Cragmaw Castle",
-   "code": "lmop",
    "id": "scenes/lmop-scene-3.2",
-   "type": "scene",
+   "name": "Cragmaw Castle",
+   "backgroundColor": "#777259",
+   "code": "lmop",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Part 3: The Spider’s Web"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 143
+   },
    "img": {
+      "height": 3131,
       "shift": {
          "x": -42,
          "y": -80
       },
-      "width": 4494,
-      "height": 3131
+      "width": 4494
    },
    "journals": [
       {
@@ -144,13 +157,59 @@
          ]
       }
    ],
-   "grid": {
-      "value": 143,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#777259",
+   "lights": [
+      {
+         "bright": 56.22,
+         "darknessThreshold": 0,
+         "dim": 112.45,
+         "tintAlpha": 0.5,
+         "x": 1430,
+         "y": 1287
+      },
+      {
+         "bright": 65.06,
+         "darknessThreshold": 0,
+         "dim": 130.13,
+         "tintAlpha": 0.5,
+         "x": 1430,
+         "y": 3718
+      },
+      {
+         "bright": 59.67,
+         "darknessThreshold": 0,
+         "dim": 119.35,
+         "tintAlpha": 0.5,
+         "x": 4504,
+         "y": 3789
+      },
+      {
+         "bright": 58.21,
+         "darknessThreshold": 0,
+         "dim": 116.42,
+         "tintAlpha": 0.5,
+         "x": 5434,
+         "y": 1930
+      },
+      {
+         "bright": 67.43,
+         "darknessThreshold": 0,
+         "dim": 134.86,
+         "tintAlpha": 0.5,
+         "x": 3789,
+         "y": 1144
+      },
+      {
+         "bright": 41.27,
+         "darknessThreshold": 0,
+         "dim": 82.55,
+         "tintAlpha": 0.5,
+         "x": 2431,
+         "y": 1215
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -3550,63 +3609,5 @@
             1073
          ]
       }
-   ],
-   "lights": [
-      {
-         "bright": 56.22,
-         "darknessThreshold": 0,
-         "dim": 112.45,
-         "tintAlpha": 0.5,
-         "x": 1430,
-         "y": 1287
-      },
-      {
-         "bright": 65.06,
-         "darknessThreshold": 0,
-         "dim": 130.13,
-         "tintAlpha": 0.5,
-         "x": 1430,
-         "y": 3718
-      },
-      {
-         "bright": 59.67,
-         "darknessThreshold": 0,
-         "dim": 119.35,
-         "tintAlpha": 0.5,
-         "x": 4504,
-         "y": 3789
-      },
-      {
-         "bright": 58.21,
-         "darknessThreshold": 0,
-         "dim": 116.42,
-         "tintAlpha": 0.5,
-         "x": 5434,
-         "y": 1930
-      },
-      {
-         "bright": 67.43,
-         "darknessThreshold": 0,
-         "dim": 134.86,
-         "tintAlpha": 0.5,
-         "x": 3789,
-         "y": 1144
-      },
-      {
-         "bright": 41.27,
-         "darknessThreshold": 0,
-         "dim": 82.55,
-         "tintAlpha": 0.5,
-         "x": 2431,
-         "y": 1215
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "03 Part 3: The Spider’s Web"
-         ]
-      }
-   }
+   ]
 }

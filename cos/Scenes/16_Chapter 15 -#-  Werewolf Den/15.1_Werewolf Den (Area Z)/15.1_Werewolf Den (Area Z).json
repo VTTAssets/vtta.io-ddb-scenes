@@ -1,16 +1,29 @@
 {
-   "name": "Werewolf Den (Area Z)",
-   "code": "cos",
    "id": "scenes/cos-scene-15.1",
-   "type": "scene",
+   "name": "Werewolf Den (Area Z)",
+   "backgroundColor": "#666b64",
+   "code": "cos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "16 Chapter 15: Werewolf Den"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 74
+   },
    "img": {
+      "height": 3280,
       "shift": {
          "x": -63,
          "y": -47
       },
-      "width": 2390,
-      "height": 3280
+      "width": 2390
    },
    "journals": [
       {
@@ -42,11 +55,13 @@
       },
       {
          "id": "journals/cos-scene-15.1-Z05b",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-15.1-Z05a",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/cos-scene-15.1-Z05",
@@ -102,13 +117,259 @@
          ]
       }
    ],
-   "grid": {
-      "value": 74,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
-   "backgroundColor": "#666b64",
+   "lights": [
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 1628,
+         "y": 3219
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 1517,
+         "y": 3182
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 1702,
+         "y": 3330
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 1773,
+         "y": 3460
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 1867,
+         "y": 3578
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 1915,
+         "y": 3691
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 2125,
+         "y": 3630
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 2097,
+         "y": 3503
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 2108,
+         "y": 3319
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 2217,
+         "y": 3121
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 2220,
+         "y": 2960
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 2307,
+         "y": 2803
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 1519,
+         "y": 2906
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 1846,
+         "y": 2944
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 1867,
+         "y": 2644
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 1730,
+         "y": 2429
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 1429,
+         "y": 2420
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 1444,
+         "y": 2526
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 2093,
+         "y": 2492
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 2207,
+         "y": 2407
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 1980,
+         "y": 2055
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 1878,
+         "y": 2143
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 1630,
+         "y": 2077
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 1761,
+         "y": 1925
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 1629,
+         "y": 1792
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 1451,
+         "y": 1788
+      },
+      {
+         "bright": 4.94,
+         "darknessThreshold": 0,
+         "dim": 9.89,
+         "tintAlpha": 0.5,
+         "x": 1350,
+         "y": 1956
+      },
+      {
+         "bright": 46.05,
+         "darknessThreshold": 0,
+         "dim": 92.11,
+         "tintAlpha": 0.5,
+         "x": 2664,
+         "y": 1443
+      },
+      {
+         "bright": 53.99,
+         "darknessThreshold": 0,
+         "dim": 107.99,
+         "tintAlpha": 0.5,
+         "x": 2886,
+         "y": 3404
+      },
+      {
+         "bright": 43.54,
+         "darknessThreshold": 0,
+         "dim": 87.09,
+         "tintAlpha": 0.5,
+         "x": 1221,
+         "y": 3959
+      },
+      {
+         "bright": 34.39,
+         "darknessThreshold": 0,
+         "dim": 68.79,
+         "tintAlpha": 0.5,
+         "x": 2183,
+         "y": 4070
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -2768,263 +3029,5 @@
             2460
          ]
       }
-   ],
-   "lights": [
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 1628,
-         "y": 3219
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 1517,
-         "y": 3182
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 1702,
-         "y": 3330
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 1773,
-         "y": 3460
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 1867,
-         "y": 3578
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 1915,
-         "y": 3691
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 2125,
-         "y": 3630
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 2097,
-         "y": 3503
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 2108,
-         "y": 3319
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 2217,
-         "y": 3121
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 2220,
-         "y": 2960
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 2307,
-         "y": 2803
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 1519,
-         "y": 2906
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 1846,
-         "y": 2944
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 1867,
-         "y": 2644
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 1730,
-         "y": 2429
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 1429,
-         "y": 2420
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 1444,
-         "y": 2526
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 2093,
-         "y": 2492
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 2207,
-         "y": 2407
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 1980,
-         "y": 2055
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 1878,
-         "y": 2143
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 1630,
-         "y": 2077
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 1761,
-         "y": 1925
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 1629,
-         "y": 1792
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 1451,
-         "y": 1788
-      },
-      {
-         "bright": 4.94,
-         "darknessThreshold": 0,
-         "dim": 9.89,
-         "tintAlpha": 0.5,
-         "x": 1350,
-         "y": 1956
-      },
-      {
-         "bright": 46.05,
-         "darknessThreshold": 0,
-         "dim": 92.11,
-         "tintAlpha": 0.5,
-         "x": 2664,
-         "y": 1443
-      },
-      {
-         "bright": 53.99,
-         "darknessThreshold": 0,
-         "dim": 107.99,
-         "tintAlpha": 0.5,
-         "x": 2886,
-         "y": 3404
-      },
-      {
-         "bright": 43.54,
-         "darknessThreshold": 0,
-         "dim": 87.09,
-         "tintAlpha": 0.5,
-         "x": 1221,
-         "y": 3959
-      },
-      {
-         "bright": 34.39,
-         "darknessThreshold": 0,
-         "dim": 68.79,
-         "tintAlpha": 0.5,
-         "x": 2183,
-         "y": 4070
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "16 Chapter 15: Werewolf Den"
-         ]
-      }
-   }
+   ]
 }

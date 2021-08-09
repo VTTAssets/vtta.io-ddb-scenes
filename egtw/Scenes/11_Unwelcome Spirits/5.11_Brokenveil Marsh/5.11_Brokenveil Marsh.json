@@ -1,67 +1,77 @@
 {
+   "id": "scenes/egtw-scene-5.11",
    "name": "Brokenveil Marsh",
    "code": "egtw",
-   "id": "scenes/egtw-scene-5.11",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2550,
-      "height": 1650
-   },
-   "journals": [
-      {
-         "id": "journals/egtw-scene-5.11-B09",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.11-B08",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.11-B07",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.11-B06",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.11-B05",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.11-B04",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.11-B03",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.11-B02",
-         "positions": []
-      },
-      {
-         "id": "journals/egtw-scene-5.11-B01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "11 Unwelcome Spirits"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 1650,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2550
+   },
+   "journals": [
+      {
+         "id": "journals/egtw-scene-5.11-B09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.11-B08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.11-B07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.11-B06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.11-B05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.11-B04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.11-B03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.11-B02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/egtw-scene-5.11-B01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

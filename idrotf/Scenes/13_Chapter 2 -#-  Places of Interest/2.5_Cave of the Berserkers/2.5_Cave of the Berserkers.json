@@ -1,65 +1,76 @@
 {
-   "name": "Cave of the Berserkers",
-   "code": "idrotf",
    "id": "scenes/idrotf-scene-2.5",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2210,
-      "height": 3000
-   },
-   "journals": [
-      {
-         "id": "journals/idrotf-scene-2.5-Q08",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.5-Q07",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.5-Q06",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.5-Q05",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.5-Q04",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.5-Q03",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.5-Q02",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.5-Q01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Cave of the Berserkers",
    "backgroundColor": "#9eadb8",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "idrotf",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "13 Chapter 2: Places of Interest"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft"
+   },
+   "img": {
+      "height": 3000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2210
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-2.5-Q08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.5-Q07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.5-Q06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.5-Q05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.5-Q04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.5-Q03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.5-Q02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.5-Q01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

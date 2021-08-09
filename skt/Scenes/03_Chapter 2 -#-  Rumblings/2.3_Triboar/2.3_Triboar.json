@@ -1,16 +1,29 @@
 {
-   "name": "Triboar",
-   "code": "skt",
    "id": "scenes/skt-scene-2.3",
-   "type": "scene",
+   "name": "Triboar",
+   "backgroundColor": "#0f0e0e",
+   "code": "skt",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Chapter 2: Rumblings"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 40,
+      "type": 0,
+      "units": "ft",
+      "value": 72
+   },
    "img": {
+      "height": 3286,
       "shift": {
          "x": -55,
          "y": -23
       },
-      "width": 2471,
-      "height": 3286
+      "width": 2471
    },
    "journals": [
       {
@@ -353,21 +366,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 72,
-      "type": 0,
-      "distance": 40,
-      "units": "ft"
-   },
-   "backgroundColor": "#0f0e0e",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "03 Chapter 2: Rumblings"
-         ]
-      }
-   }
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

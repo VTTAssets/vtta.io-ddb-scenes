@@ -1,16 +1,29 @@
 {
-   "name": "Ebondeath’s Mausoleum",
-   "code": "dc",
    "id": "scenes/dc-scene-4",
-   "type": "scene",
+   "name": "Ebondeath’s Mausoleum",
+   "backgroundColor": "#1f2326",
+   "code": "dc",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "03 Ebondeath’s Mausoleum"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 86
+   },
    "img": {
+      "height": 2279,
       "shift": {
          "x": -48,
          "y": -63
       },
-      "width": 3600,
-      "height": 2279
+      "width": 3600
    },
    "journals": [
       {
@@ -103,13 +116,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 86,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#1f2326",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -3447,14 +3458,5 @@
          ],
          "door": 2
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "03 Ebondeath’s Mausoleum"
-         ]
-      }
-   }
+   ]
 }

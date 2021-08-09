@@ -1,16 +1,29 @@
 {
-   "name": "Mountain’s Toe Gold Mine",
-   "code": "doip",
    "id": "scenes/doip-scene-10.1",
-   "type": "scene",
+   "name": "Mountain’s Toe Gold Mine",
+   "backgroundColor": "#6d6d4c",
+   "code": "doip",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "10 Mountain’s Toe Gold Mine"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 2105,
       "shift": {
          "x": -49,
          "y": -46
       },
-      "width": 3296,
-      "height": 2105
+      "width": 3296
    },
    "journals": [
       {
@@ -153,13 +166,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#6d6d4c",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -8558,14 +8569,5 @@
          ],
          "door": 1
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "10 Mountain’s Toe Gold Mine"
-         ]
-      }
-   }
+   ]
 }

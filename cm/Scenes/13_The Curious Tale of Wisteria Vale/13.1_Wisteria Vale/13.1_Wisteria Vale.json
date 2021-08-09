@@ -1,55 +1,62 @@
 {
+   "id": "scenes/cm-scene-13.1",
    "name": "Wisteria Vale",
    "code": "cm",
-   "id": "scenes/cm-scene-13.1",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 3000,
-      "height": 2044
-   },
-   "journals": [
-      {
-         "id": "journals/cm-scene-13.1-W06",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-13.1-W05",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-13.1-W04",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-13.1-W03",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-13.1-W02",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-13.1-W01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "13 The Curious Tale of Wisteria Vale"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 2044,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-13.1-W06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-13.1-W05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-13.1-W04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-13.1-W03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-13.1-W02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-13.1-W01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

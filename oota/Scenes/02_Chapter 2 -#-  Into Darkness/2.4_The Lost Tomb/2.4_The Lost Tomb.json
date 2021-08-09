@@ -1,54 +1,62 @@
 {
-   "name": "The Lost Tomb",
-   "code": "oota",
    "id": "scenes/oota-scene-2.4",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -175,
-         "y": -66
-      },
-      "width": 3383,
-      "height": 2757
-   },
-   "journals": [
-      {
-         "id": "journals/oota-scene-2.4-05",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-2.4-04",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-2.4-03",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-2.4-02",
-         "positions": []
-      },
-      {
-         "id": "journals/oota-scene-2.4-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 185,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "The Lost Tomb",
    "backgroundColor": "#8d786b",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "oota",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "02 Chapter 2: Into Darkness"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 185
+   },
+   "img": {
+      "height": 2757,
+      "shift": {
+         "x": -175,
+         "y": -66
+      },
+      "width": 3383
+   },
+   "journals": [
+      {
+         "id": "journals/oota-scene-2.4-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-2.4-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-2.4-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-2.4-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/oota-scene-2.4-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

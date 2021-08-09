@@ -1,16 +1,29 @@
 {
-   "name": "Wachterhaus (Area N4)",
-   "code": "cos",
    "id": "scenes/cos-scene-5.4",
-   "type": "scene",
+   "name": "Wachterhaus (Area N4)",
+   "backgroundColor": "#797c71",
+   "code": "cos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "06 Chapter 5: The Town of Vallaki"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 76
+   },
    "img": {
+      "height": 3315,
       "shift": {
          "x": -12,
          "y": -11
       },
-      "width": 2407,
-      "height": 3315
+      "width": 2407
    },
    "journals": [
       {
@@ -210,13 +223,43 @@
          ]
       }
    ],
-   "grid": {
-      "value": 76,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#797c71",
+   "lights": [
+      {
+         "bright": 5.76,
+         "darknessThreshold": 0,
+         "dim": 11.52,
+         "tintAlpha": 0.5,
+         "x": 1786,
+         "y": 3610
+      },
+      {
+         "bright": 5.76,
+         "darknessThreshold": 0,
+         "dim": 11.52,
+         "tintAlpha": 0.5,
+         "x": 1482,
+         "y": 3610
+      },
+      {
+         "bright": 5.76,
+         "darknessThreshold": 0,
+         "dim": 11.52,
+         "tintAlpha": 0.5,
+         "x": 1482,
+         "y": 3914
+      },
+      {
+         "bright": 5.76,
+         "darknessThreshold": 0,
+         "dim": 11.52,
+         "tintAlpha": 0.5,
+         "x": 1786,
+         "y": 3914
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1702,47 +1745,5 @@
             1672
          ]
       }
-   ],
-   "lights": [
-      {
-         "bright": 5.76,
-         "darknessThreshold": 0,
-         "dim": 11.52,
-         "tintAlpha": 0.5,
-         "x": 1786,
-         "y": 3610
-      },
-      {
-         "bright": 5.76,
-         "darknessThreshold": 0,
-         "dim": 11.52,
-         "tintAlpha": 0.5,
-         "x": 1482,
-         "y": 3610
-      },
-      {
-         "bright": 5.76,
-         "darknessThreshold": 0,
-         "dim": 11.52,
-         "tintAlpha": 0.5,
-         "x": 1482,
-         "y": 3914
-      },
-      {
-         "bright": 5.76,
-         "darknessThreshold": 0,
-         "dim": 11.52,
-         "tintAlpha": 0.5,
-         "x": 1786,
-         "y": 3914
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "06 Chapter 5: The Town of Vallaki"
-         ]
-      }
-   }
+   ]
 }

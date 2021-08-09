@@ -1,62 +1,72 @@
 {
-   "name": "The Morkoth",
-   "code": "skt",
    "id": "scenes/skt-scene-11.2",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -50,
-         "y": -48
-      },
-      "width": 2429,
-      "height": 1632
-   },
-   "journals": [
-      {
-         "id": "journals/skt-scene-11.2-07",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-11.2-06",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-11.2-05",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-11.2-04",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-11.2-03",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-11.2-02",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-11.2-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 51,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "The Morkoth",
    "backgroundColor": "#7e5d39",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "skt",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "12 Chapter 11: Caught in the Tentacles"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 51
+   },
+   "img": {
+      "height": 1632,
+      "shift": {
+         "x": -50,
+         "y": -48
+      },
+      "width": 2429
+   },
+   "journals": [
+      {
+         "id": "journals/skt-scene-11.2-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-11.2-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-11.2-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-11.2-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-11.2-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-11.2-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-11.2-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

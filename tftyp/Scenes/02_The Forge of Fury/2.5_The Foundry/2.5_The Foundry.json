@@ -1,16 +1,29 @@
 {
-   "name": "The Foundry",
-   "code": "tftyp",
    "id": "scenes/tftyp-scene-2.5",
-   "type": "scene",
+   "name": "The Foundry",
+   "backgroundColor": "#191918",
+   "code": "tftyp",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "02 The Forge of Fury"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 2141,
       "shift": {
          "x": -23,
          "y": -47
       },
-      "width": 3762,
-      "height": 2141
+      "width": 3762
    },
    "journals": [
       {
@@ -59,13 +72,27 @@
          ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#191918",
+   "lights": [
+      {
+         "bright": 21.02,
+         "darknessThreshold": 0,
+         "dim": 42.04,
+         "tintAlpha": 0.5,
+         "x": 2725,
+         "y": 2350
+      },
+      {
+         "bright": 21.23,
+         "darknessThreshold": 0,
+         "dim": 42.47,
+         "tintAlpha": 0.5,
+         "x": 2639.5833333333335,
+         "y": 1652.0833333333333
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -4676,31 +4703,5 @@
          ],
          "sense": 2
       }
-   ],
-   "lights": [
-      {
-         "bright": 21.02,
-         "darknessThreshold": 0,
-         "dim": 42.04,
-         "tintAlpha": 0.5,
-         "x": 2725,
-         "y": 2350
-      },
-      {
-         "bright": 21.23,
-         "darknessThreshold": 0,
-         "dim": 42.47,
-         "tintAlpha": 0.5,
-         "x": 2639.5833333333335,
-         "y": 1652.0833333333333
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "02 The Forge of Fury"
-         ]
-      }
-   }
+   ]
 }

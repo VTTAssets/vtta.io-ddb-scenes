@@ -1,46 +1,52 @@
 {
-   "name": "Converted Windmill",
-   "code": "wdh",
    "id": "scenes/wdh-scene-4.8",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -25,
-         "y": -52
-      },
-      "width": 2049,
-      "height": 1437
-   },
-   "journals": [
-      {
-         "id": "journals/wdh-scene-4.8-W03",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-4.8-W02",
-         "positions": []
-      },
-      {
-         "id": "journals/wdh-scene-4.8-W01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 61,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Converted Windmill",
    "backgroundColor": "#fbfbfb",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "wdh",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "05 Chapter 4: Dragon Season"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 61
+   },
+   "img": {
+      "height": 1437,
+      "shift": {
+         "x": -25,
+         "y": -52
+      },
+      "width": 2049
+   },
+   "journals": [
+      {
+         "id": "journals/wdh-scene-4.8-W03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.8-W02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/wdh-scene-4.8-W01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

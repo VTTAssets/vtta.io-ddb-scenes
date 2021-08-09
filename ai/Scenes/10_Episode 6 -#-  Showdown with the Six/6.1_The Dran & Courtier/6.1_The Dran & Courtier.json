@@ -1,67 +1,77 @@
 {
+   "id": "scenes/ai-scene-6.1",
    "name": "The Dran & Courtier",
    "code": "ai",
-   "id": "scenes/ai-scene-6.1",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 3000,
-      "height": 1971
-   },
-   "journals": [
-      {
-         "id": "journals/ai-scene-6.1-09",
-         "positions": []
-      },
-      {
-         "id": "journals/ai-scene-6.1-08",
-         "positions": []
-      },
-      {
-         "id": "journals/ai-scene-6.1-07",
-         "positions": []
-      },
-      {
-         "id": "journals/ai-scene-6.1-06",
-         "positions": []
-      },
-      {
-         "id": "journals/ai-scene-6.1-05",
-         "positions": []
-      },
-      {
-         "id": "journals/ai-scene-6.1-04",
-         "positions": []
-      },
-      {
-         "id": "journals/ai-scene-6.1-03",
-         "positions": []
-      },
-      {
-         "id": "journals/ai-scene-6.1-02",
-         "positions": []
-      },
-      {
-         "id": "journals/ai-scene-6.1-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "10 Episode 6: Showdown with the Six"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 1971,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/ai-scene-6.1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-6.1-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-6.1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-6.1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-6.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-6.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-6.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-6.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/ai-scene-6.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

@@ -1,82 +1,97 @@
 {
-   "name": "Rooms of Weeping",
-   "code": "cos",
    "id": "scenes/cos-scene-4.4",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -18,
-         "y": -9
-      },
-      "width": 2226,
-      "height": 1552
-   },
-   "journals": [
-      {
-         "id": "journals/cos-scene-4.4-K46",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.4-K45",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.4-K44",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.4-K43",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.4-K42",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.4-K41",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.4-K40",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.4-K39",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.4-K38",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.4-K37",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.4-K36",
-         "positions": []
-      },
-      {
-         "id": "journals/cos-scene-4.4-K35",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 58,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Rooms of Weeping",
    "backgroundColor": "#c0c0bf",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "cos",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "05 Chapter 4: Castle Ravenloft"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 58
+   },
+   "img": {
+      "height": 1552,
+      "shift": {
+         "x": -18,
+         "y": -9
+      },
+      "width": 2226
+   },
+   "journals": [
+      {
+         "id": "journals/cos-scene-4.4-K46",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.4-K45",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.4-K44",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.4-K43",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.4-K42",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.4-K41",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.4-K40",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.4-K39",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.4-K38",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.4-K37",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.4-K36",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cos-scene-4.4-K35",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

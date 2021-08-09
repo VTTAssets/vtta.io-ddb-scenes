@@ -1,33 +1,37 @@
 {
-   "name": "Krigvind",
-   "code": "skt",
    "id": "scenes/skt-scene-7.3",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -20,
-         "y": -20
-      },
-      "width": 5948,
-      "height": 3617
-   },
-   "journals": [],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Krigvind",
    "backgroundColor": "#4c3722",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "skt",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "08 Chapter 7: Berg of the Frost Giants"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 3617,
+      "shift": {
+         "x": -20,
+         "y": -20
+      },
+      "width": 5948
+   },
+   "journals": [
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

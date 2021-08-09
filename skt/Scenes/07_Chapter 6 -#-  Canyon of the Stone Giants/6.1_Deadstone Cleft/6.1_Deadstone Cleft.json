@@ -1,110 +1,132 @@
 {
-   "name": "Deadstone Cleft",
-   "code": "skt",
    "id": "scenes/skt-scene-6.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -25,
-         "y": -40
-      },
-      "width": 4239,
-      "height": 5839
-   },
-   "journals": [
-      {
-         "id": "journals/skt-scene-6.1-15D",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-6.1-15C",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-6.1-15B",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-6.1-15A",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-6.1-15",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-6.1-14",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-6.1-13",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-6.1-12",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-6.1-11",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-6.1-10",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-6.1-09",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-6.1-08",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-6.1-07",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-6.1-06",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-6.1-05",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-6.1-04",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-6.1-03",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-6.1-02",
-         "positions": []
-      },
-      {
-         "id": "journals/skt-scene-6.1-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Deadstone Cleft",
    "backgroundColor": "#60604b",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "skt",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "07 Chapter 6: Canyon of the Stone Giants"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 5839,
+      "shift": {
+         "x": -25,
+         "y": -40
+      },
+      "width": 4239
+   },
+   "journals": [
+      {
+         "id": "journals/skt-scene-6.1-15D",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-6.1-15C",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-6.1-15B",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-6.1-15A",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-6.1-15",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-6.1-14",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-6.1-13",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-6.1-12",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-6.1-11",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-6.1-10",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-6.1-09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-6.1-08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-6.1-07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-6.1-06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-6.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-6.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-6.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-6.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/skt-scene-6.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

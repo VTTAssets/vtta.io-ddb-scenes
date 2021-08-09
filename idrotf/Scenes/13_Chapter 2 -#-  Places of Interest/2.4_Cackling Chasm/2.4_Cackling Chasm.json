@@ -1,65 +1,76 @@
 {
-   "name": "Cackling Chasm",
-   "code": "idrotf",
    "id": "scenes/idrotf-scene-2.4",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 2210,
-      "height": 3000
-   },
-   "journals": [
-      {
-         "id": "journals/idrotf-scene-2.4-Z08",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.4-Z07",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.4-Z06",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.4-Z05",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.4-Z04",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.4-Z03",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.4-Z02",
-         "positions": []
-      },
-      {
-         "id": "journals/idrotf-scene-2.4-Z01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
+   "name": "Cackling Chasm",
    "backgroundColor": "#abbbc7",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "idrotf",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "13 Chapter 2: Places of Interest"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft"
+   },
+   "img": {
+      "height": 3000,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 2210
+   },
+   "journals": [
+      {
+         "id": "journals/idrotf-scene-2.4-Z08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.4-Z07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.4-Z06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.4-Z05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.4-Z04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.4-Z03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.4-Z02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/idrotf-scene-2.4-Z01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

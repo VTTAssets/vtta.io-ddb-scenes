@@ -1,16 +1,29 @@
 {
-   "name": "Chapter 1: Saltmarsh",
-   "code": "gos",
    "id": "scenes/gos-scene-1.1",
-   "type": "scene",
+   "name": "Chapter 1: Saltmarsh",
+   "backgroundColor": "#7d7f6b",
+   "code": "gos",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "01 Chapter 1: Saltmarsh"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 100,
+      "type": 1,
+      "units": "ft",
+      "value": 56
+   },
    "img": {
+      "height": 3189,
       "shift": {
          "x": 8,
          "y": 0
       },
-      "width": 2436,
-      "height": 3189
+      "width": 2436
    },
    "journals": [
       {
@@ -284,21 +297,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 56,
-      "type": 1,
-      "distance": 100,
-      "units": "ft"
-   },
-   "backgroundColor": "#7d7f6b",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "01 Chapter 1: Saltmarsh"
-         ]
-      }
-   }
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

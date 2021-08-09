@@ -1,16 +1,29 @@
 {
-   "name": "Fortress Level",
-   "code": "tftyp",
    "id": "scenes/tftyp-scene-1.1",
-   "type": "scene",
+   "name": "Fortress Level",
+   "backgroundColor": "#9b907d",
+   "code": "tftyp",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "01 The Sunless Citadel"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 5723,
       "shift": {
          "x": -17,
          "y": -8
       },
-      "width": 2765,
-      "height": 5723
+      "width": 2765
    },
    "journals": [
       {
@@ -343,7 +356,8 @@
       },
       {
          "id": "journals/tftyp-scene-1.1-17",
-         "positions": []
+         "positions": [
+         ]
       },
       {
          "id": "journals/tftyp-scene-1.1-16",
@@ -594,13 +608,107 @@
          ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#9b907d",
+   "lights": [
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1375,
+         "y": 6750
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1125,
+         "y": 4525
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1125,
+         "y": 4825
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1275,
+         "y": 4675
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 975,
+         "y": 4675
+      },
+      {
+         "bright": 0,
+         "darknessThreshold": 0,
+         "dim": 50,
+         "tintAlpha": 0.5,
+         "x": 1375,
+         "y": 4975
+      },
+      {
+         "bright": 0,
+         "darknessThreshold": 0,
+         "dim": 7.15,
+         "tintAlpha": 0.5,
+         "x": 1125,
+         "y": 4675
+      },
+      {
+         "bright": 30,
+         "darknessThreshold": 0,
+         "dim": 30,
+         "tintAlpha": 0.5,
+         "x": 2350,
+         "y": 5550
+      },
+      {
+         "bright": 3.89,
+         "darknessThreshold": 0,
+         "dim": 7.78,
+         "tintAlpha": 0.5,
+         "x": 2475,
+         "y": 6775
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 1775,
+         "y": 4875
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 2000,
+         "y": 5025
+      },
+      {
+         "bright": 20,
+         "darknessThreshold": 0,
+         "dim": 40,
+         "tintAlpha": 0.5,
+         "x": 2625,
+         "y": 5650
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -3744,111 +3852,5 @@
          ],
          "door": 1
       }
-   ],
-   "lights": [
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1375,
-         "y": 6750
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1125,
-         "y": 4525
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1125,
-         "y": 4825
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1275,
-         "y": 4675
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 975,
-         "y": 4675
-      },
-      {
-         "bright": 0,
-         "darknessThreshold": 0,
-         "dim": 50,
-         "tintAlpha": 0.5,
-         "x": 1375,
-         "y": 4975
-      },
-      {
-         "bright": 0,
-         "darknessThreshold": 0,
-         "dim": 7.15,
-         "tintAlpha": 0.5,
-         "x": 1125,
-         "y": 4675
-      },
-      {
-         "bright": 30,
-         "darknessThreshold": 0,
-         "dim": 30,
-         "tintAlpha": 0.5,
-         "x": 2350,
-         "y": 5550
-      },
-      {
-         "bright": 3.89,
-         "darknessThreshold": 0,
-         "dim": 7.78,
-         "tintAlpha": 0.5,
-         "x": 2475,
-         "y": 6775
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 1775,
-         "y": 4875
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 2000,
-         "y": 5025
-      },
-      {
-         "bright": 20,
-         "darknessThreshold": 0,
-         "dim": 40,
-         "tintAlpha": 0.5,
-         "x": 2625,
-         "y": 5650
-      }
-   ],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "01 The Sunless Citadel"
-         ]
-      }
-   }
+   ]
 }

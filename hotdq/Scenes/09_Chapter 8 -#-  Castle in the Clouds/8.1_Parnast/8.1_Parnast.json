@@ -1,54 +1,62 @@
 {
-   "name": "Parnast",
-   "code": "hotdq",
    "id": "scenes/hotdq-scene-8.1",
-   "type": "scene",
-   "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": -48,
-         "y": -11
-      },
-      "width": 1582,
-      "height": 2035
-   },
-   "journals": [
-      {
-         "id": "journals/hotdq-scene-8.1-05",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-8.1-04",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-8.1-03",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-8.1-02",
-         "positions": []
-      },
-      {
-         "id": "journals/hotdq-scene-8.1-01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 10,
-      "units": "ft"
-   },
+   "name": "Parnast",
    "backgroundColor": "#626262",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
+   "code": "hotdq",
+   "entity": "Scene",
    "flags": {
       "vtta": {
          "folders": [
             "09 Chapter 8: Castle in the Clouds"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 10,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 2035,
+      "shift": {
+         "x": -48,
+         "y": -11
+      },
+      "width": 1582
+   },
+   "journals": [
+      {
+         "id": "journals/hotdq-scene-8.1-05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-8.1-04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-8.1-03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-8.1-02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/hotdq-scene-8.1-01",
+         "positions": [
+         ]
+      }
+   ],
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
+   "walls": [
+   ]
 }

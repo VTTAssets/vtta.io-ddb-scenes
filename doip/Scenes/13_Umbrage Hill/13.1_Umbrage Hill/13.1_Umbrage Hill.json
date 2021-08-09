@@ -1,16 +1,29 @@
 {
-   "name": "Umbrage Hill",
-   "code": "doip",
    "id": "scenes/doip-scene-13.1",
-   "type": "scene",
+   "name": "Umbrage Hill",
+   "backgroundColor": "#717050",
+   "code": "doip",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "13 Umbrage Hill"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
    "img": {
+      "height": 2102,
       "shift": {
          "x": -47,
          "y": -48
       },
-      "width": 3301,
-      "height": 2102
+      "width": 3301
    },
    "journals": [
       {
@@ -49,13 +62,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "backgroundColor": "#717050",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -750,14 +761,5 @@
          ],
          "sense": 0
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "13 Umbrage Hill"
-         ]
-      }
-   }
+   ]
 }

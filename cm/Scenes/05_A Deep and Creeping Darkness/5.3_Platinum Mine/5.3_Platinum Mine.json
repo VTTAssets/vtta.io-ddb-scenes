@@ -1,67 +1,77 @@
 {
+   "id": "scenes/cm-scene-5.3",
    "name": "Platinum Mine",
    "code": "cm",
-   "id": "scenes/cm-scene-5.3",
-   "type": "scene",
    "entity": "Scene",
-   "img": {
-      "shift": {
-         "x": 0,
-         "y": 0
-      },
-      "width": 3000,
-      "height": 2132
-   },
-   "journals": [
-      {
-         "id": "journals/cm-scene-5.3-M09",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-5.3-M08",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-5.3-M07",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-5.3-M06",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-5.3-M05",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-5.3-M04",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-5.3-M03",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-5.3-M02",
-         "positions": []
-      },
-      {
-         "id": "journals/cm-scene-5.3-M01",
-         "positions": []
-      }
-   ],
-   "grid": {
-      "value": 50,
-      "type": 1,
-      "distance": 5,
-      "units": "ft"
-   },
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "05 A Deep and Creeping Darkness"
          ]
       }
-   }
+   },
+   "grid": {
+      "distance": 5,
+      "type": 1,
+      "units": "ft",
+      "value": 50
+   },
+   "img": {
+      "height": 2132,
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 3000
+   },
+   "journals": [
+      {
+         "id": "journals/cm-scene-5.3-M09",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.3-M08",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.3-M07",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.3-M06",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.3-M05",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.3-M04",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.3-M03",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.3-M02",
+         "positions": [
+         ]
+      },
+      {
+         "id": "journals/cm-scene-5.3-M01",
+         "positions": [
+         ]
+      }
+   ],
+   "monsters": [
+   ],
+   "type": "scene"
 }

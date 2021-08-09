@@ -1,16 +1,29 @@
 {
-   "name": "Castle Naerytar - Level 3",
-   "code": "hotdq",
    "id": "scenes/hotdq-scene-6.3",
-   "type": "scene",
+   "name": "Castle Naerytar - Level 3",
+   "backgroundColor": "#907c6b",
+   "code": "hotdq",
    "entity": "Scene",
+   "flags": {
+      "vtta": {
+         "folders": [
+            "07 Chapter 6: Castle Naerytar"
+         ]
+      }
+   },
+   "grid": {
+      "distance": 20,
+      "type": 1,
+      "units": "ft",
+      "value": 124
+   },
    "img": {
+      "height": 2600,
       "shift": {
          "x": -116,
          "y": -124
       },
-      "width": 2022,
-      "height": 2600
+      "width": 2022
    },
    "journals": [
       {
@@ -122,13 +135,11 @@
          ]
       }
    ],
-   "grid": {
-      "value": 124,
-      "type": 1,
-      "distance": 20,
-      "units": "ft"
-   },
-   "backgroundColor": "#907c6b",
+   "lights": [
+   ],
+   "monsters": [
+   ],
+   "type": "scene",
    "walls": [
       {
          "c": [
@@ -1040,14 +1051,5 @@
          ],
          "door": 1
       }
-   ],
-   "lights": [],
-   "monsters": [],
-   "flags": {
-      "vtta": {
-         "folders": [
-            "07 Chapter 6: Castle Naerytar"
-         ]
-      }
-   }
+   ]
 }
