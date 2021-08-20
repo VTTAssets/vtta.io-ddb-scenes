@@ -41,10 +41,6 @@
             {
                "x": 1400,
                "y": 4750
-            },
-            {
-               "x": 1125,
-               "y": 4575
             }
          ]
       },
@@ -54,10 +50,6 @@
             {
                "x": 1875,
                "y": 4975
-            },
-            {
-               "x": 1400,
-               "y": 4750
             }
          ]
       },
@@ -67,10 +59,6 @@
             {
                "x": 2225,
                "y": 4925
-            },
-            {
-               "x": 1875,
-               "y": 4975
             }
          ]
       },
@@ -80,10 +68,6 @@
             {
                "x": 2075,
                "y": 4725
-            },
-            {
-               "x": 2225,
-               "y": 4925
             }
          ]
       },
@@ -101,10 +85,6 @@
             {
                "x": 1025,
                "y": 5175
-            },
-            {
-               "x": 2075,
-               "y": 4725
             }
          ]
       },
@@ -114,18 +94,6 @@
             {
                "x": 2375,
                "y": 4825
-            },
-            {
-               "x": 2325,
-               "y": 4625
-            },
-            {
-               "x": 1725,
-               "y": 5125
-            },
-            {
-               "x": 1025,
-               "y": 5175
             }
          ]
       },
@@ -135,10 +103,6 @@
             {
                "x": 2225,
                "y": 5175
-            },
-            {
-               "x": 2375,
-               "y": 4825
             }
          ]
       },
@@ -148,10 +112,6 @@
             {
                "x": 2475,
                "y": 5125
-            },
-            {
-               "x": 2225,
-               "y": 5175
             }
          ]
       },
@@ -161,10 +121,6 @@
             {
                "x": 2675,
                "y": 4975
-            },
-            {
-               "x": 2475,
-               "y": 5125
             }
          ]
       },
@@ -174,10 +130,6 @@
             {
                "x": 2675,
                "y": 5125
-            },
-            {
-               "x": 2675,
-               "y": 4975
             }
          ]
       },
@@ -187,10 +139,6 @@
             {
                "x": 2675,
                "y": 4725
-            },
-            {
-               "x": 2675,
-               "y": 5125
             }
          ]
       },
@@ -200,10 +148,6 @@
             {
                "x": 3075,
                "y": 4775
-            },
-            {
-               "x": 2675,
-               "y": 4725
             }
          ]
       },
@@ -213,10 +157,6 @@
             {
                "x": 2975,
                "y": 5175
-            },
-            {
-               "x": 3075,
-               "y": 4775
             }
          ]
       },
@@ -226,10 +166,6 @@
             {
                "x": 2675,
                "y": 5625
-            },
-            {
-               "x": 2975,
-               "y": 5175
             }
          ]
       },
@@ -238,10 +174,6 @@
          "positions": [
             {
                "x": 3075,
-               "y": 5625
-            },
-            {
-               "x": 2675,
                "y": 5625
             }
          ]
@@ -256,10 +188,6 @@
             {
                "x": 2725,
                "y": 5325
-            },
-            {
-               "x": 3075,
-               "y": 5625
             }
          ]
       },
@@ -269,14 +197,6 @@
             {
                "x": 1950,
                "y": 5425
-            },
-            {
-               "x": 2975,
-               "y": 5875
-            },
-            {
-               "x": 2725,
-               "y": 5325
             }
          ]
       },
@@ -285,10 +205,6 @@
          "positions": [
             {
                "x": 1325,
-               "y": 5425
-            },
-            {
-               "x": 1950,
                "y": 5425
             }
          ]
@@ -299,10 +215,6 @@
             {
                "x": 1525,
                "y": 5425
-            },
-            {
-               "x": 1325,
-               "y": 5425
             }
          ]
       },
@@ -312,10 +224,6 @@
             {
                "x": 1125,
                "y": 5575
-            },
-            {
-               "x": 1525,
-               "y": 5425
             }
          ]
       },
@@ -325,10 +233,6 @@
             {
                "x": 2325,
                "y": 5525
-            },
-            {
-               "x": 1125,
-               "y": 5575
             }
          ]
       },
@@ -338,19 +242,6 @@
             {
                "x": 1575,
                "y": 5625
-            },
-            {
-               "x": 2325,
-               "y": 5525
-            }
-         ]
-      },
-      {
-         "id": "journals/tftyp-scene-1.1-18",
-         "positions": [
-            {
-               "x": 1675,
-               "y": 5875
             }
          ]
       },
@@ -377,18 +268,6 @@
             {
                "x": 2075,
                "y": 5825
-            },
-            {
-               "x": 1575,
-               "y": 6175
-            },
-            {
-               "x": 1425,
-               "y": 5875
-            },
-            {
-               "x": 2075,
-               "y": 5825
             }
          ]
       },
@@ -398,20 +277,12 @@
             {
                "x": 2225,
                "y": 6175
-            },
-            {
-               "x": 2225,
-               "y": 6175
             }
          ]
       },
       {
          "id": "journals/tftyp-scene-1.1-14",
          "positions": [
-            {
-               "x": 2525,
-               "y": 6225
-            },
             {
                "x": 2525,
                "y": 6225
@@ -438,18 +309,6 @@
                "y": 5425
             },
             {
-               "x": 2475,
-               "y": 5925
-            },
-            {
-               "x": 1975,
-               "y": 6175
-            },
-            {
-               "x": 1775,
-               "y": 6175
-            },
-            {
                "x": 1825,
                "y": 5425
             }
@@ -458,10 +317,6 @@
       {
          "id": "journals/tftyp-scene-1.1-12",
          "positions": [
-            {
-               "x": 1225,
-               "y": 6400
-            },
             {
                "x": 1225,
                "y": 6400
@@ -474,10 +329,6 @@
             {
                "x": 1675,
                "y": 6825
-            },
-            {
-               "x": 1675,
-               "y": 6825
             }
          ]
       },
@@ -487,20 +338,12 @@
             {
                "x": 1675,
                "y": 6525
-            },
-            {
-               "x": 1675,
-               "y": 6525
             }
          ]
       },
       {
          "id": "journals/tftyp-scene-1.1-09",
          "positions": [
-            {
-               "x": 2000,
-               "y": 6600
-            },
             {
                "x": 2000,
                "y": 6600
@@ -522,20 +365,12 @@
             {
                "x": 2475,
                "y": 6625
-            },
-            {
-               "x": 2475,
-               "y": 6625
             }
          ]
       },
       {
          "id": "journals/tftyp-scene-1.1-06",
          "positions": [
-            {
-               "x": 2775,
-               "y": 6575
-            },
             {
                "x": 2775,
                "y": 6575
@@ -548,20 +383,12 @@
             {
                "x": 3000,
                "y": 6500
-            },
-            {
-               "x": 3000,
-               "y": 6500
             }
          ]
       },
       {
          "id": "journals/tftyp-scene-1.1-04",
          "positions": [
-            {
-               "x": 2950,
-               "y": 6275
-            },
             {
                "x": 2950,
                "y": 6275
@@ -574,20 +401,12 @@
             {
                "x": 3225,
                "y": 6275
-            },
-            {
-               "x": 3225,
-               "y": 6275
             }
          ]
       },
       {
          "id": "journals/tftyp-scene-1.1-02",
          "positions": [
-            {
-               "x": 1625,
-               "y": 2575
-            },
             {
                "x": 1625,
                "y": 2575
@@ -600,10 +419,15 @@
             {
                "x": 2850,
                "y": 1775
-            },
+            }
+         ]
+      },
+      {
+         "id": "journals/tftyp-scene-1.1-18",
+         "positions": [
             {
-               "x": 2850,
-               "y": 1775
+               "x": 1675,
+               "y": 5825
             }
          ]
       }
@@ -631,6 +455,30 @@
             {
                "x": 2750,
                "y": 6700
+            },
+            {
+               "x": 3050,
+               "y": 5100
+            },
+            {
+               "x": 2900,
+               "y": 5100
+            },
+            {
+               "x": 2900,
+               "y": 5000
+            },
+            {
+               "x": 2750,
+               "y": 4800
+            },
+            {
+               "x": 2800,
+               "y": 4650
+            },
+            {
+               "x": 2750,
+               "y": 4650
             }
          ]
       },
@@ -648,6 +496,26 @@
             {
                "x": 2950,
                "y": 6500
+            },
+            {
+               "x": 2650,
+               "y": 5550
+            },
+            {
+               "x": 2700,
+               "y": 5550
+            },
+            {
+               "x": 2750,
+               "y": 5550
+            },
+            {
+               "x": 2750,
+               "y": 5700
+            },
+            {
+               "x": 2650,
+               "y": 5700
             }
          ]
       },
@@ -695,6 +563,364 @@
                "x": 2100,
                "y": 6050,
                "name": "Meepo"
+            },
+            {
+               "x": 2100,
+               "y": 5800
+            },
+            {
+               "x": 2050,
+               "y": 5850
+            },
+            {
+               "x": 2100,
+               "y": 5900
+            },
+            {
+               "x": 1550,
+               "y": 6100
+            },
+            {
+               "x": 1650,
+               "y": 6150
+            },
+            {
+               "x": 1600,
+               "y": 6150
+            },
+            {
+               "x": 1500,
+               "y": 5850
+            },
+            {
+               "x": 1500,
+               "y": 5800
+            },
+            {
+               "x": 1450,
+               "y": 5800
+            },
+            {
+               "x": 1650,
+               "y": 5600,
+               "name": "Elite Kobold"
+            },
+            {
+               "x": 1600,
+               "y": 5650,
+               "name": "Elite Kobold"
+            },
+            {
+               "x": 1700,
+               "y": 5650,
+               "name": "Elite Kobold"
+            },
+            {
+               "x": 2150,
+               "y": 5450
+            },
+            {
+               "x": 2450,
+               "y": 5550
+            },
+            {
+               "x": 2250,
+               "y": 5600
+            },
+            {
+               "x": 1200,
+               "y": 5575,
+               "name": "Elite Kobold"
+            },
+            {
+               "x": 1200,
+               "y": 5676,
+               "name": "Elite Kobold"
+            },
+            {
+               "x": 1250,
+               "y": 5500
+            },
+            {
+               "x": 1200,
+               "y": 5450
+            },
+            {
+               "x": 1300,
+               "y": 5350
+            },
+            {
+               "x": 2350,
+               "y": 5150
+            },
+            {
+               "x": 2300,
+               "y": 5150
+            },
+            {
+               "x": 2300,
+               "y": 5200
+            }
+         ]
+      },
+      {
+         "id": "monsters/swarm-of-rats",
+         "positions": [
+            {
+               "x": 2100,
+               "y": 6300
+            }
+         ]
+      },
+      {
+         "id": "monsters/goblin",
+         "positions": [
+            {
+               "x": 1700,
+               "y": 5800
+            },
+            {
+               "x": 1800,
+               "y": 5850
+            },
+            {
+               "x": 1650,
+               "y": 5850
+            },
+            {
+               "x": 1750,
+               "y": 5800
+            },
+            {
+               "x": 2700,
+               "y": 5000
+            },
+            {
+               "x": 2650,
+               "y": 5000
+            },
+            {
+               "x": 2450,
+               "y": 4950
+            },
+            {
+               "x": 2400,
+               "y": 4950
+            },
+            {
+               "x": 2500,
+               "y": 4950
+            },
+            {
+               "x": 2350,
+               "y": 4600
+            },
+            {
+               "x": 2300,
+               "y": 4650
+            },
+            {
+               "x": 2350,
+               "y": 4650
+            },
+            {
+               "x": 1700,
+               "y": 5150
+            },
+            {
+               "x": 1650,
+               "y": 5100
+            },
+            {
+               "x": 1650,
+               "y": 5150
+            },
+            {
+               "x": 950,
+               "y": 5100
+            },
+            {
+               "x": 950,
+               "y": 5150
+            },
+            {
+               "x": 1000,
+               "y": 5100
+            },
+            {
+               "x": 1250,
+               "y": 5000
+            },
+            {
+               "x": 1250,
+               "y": 4900
+            },
+            {
+               "x": 1400,
+               "y": 4950
+            },
+            {
+               "x": 1350,
+               "y": 4850
+            }
+         ]
+      },
+      {
+         "id": "monsters/kobold-commoner",
+         "positions": [
+            {
+               "x": 2350,
+               "y": 5600
+            },
+            {
+               "x": 2250,
+               "y": 5450
+            },
+            {
+               "x": 2300,
+               "y": 5550
+            },
+            {
+               "x": 2350,
+               "y": 5400
+            },
+            {
+               "x": 2250,
+               "y": 5350
+            },
+            {
+               "x": 2450,
+               "y": 5450
+            },
+            {
+               "x": 2250,
+               "y": 5650
+            }
+         ]
+      },
+      {
+         "id": "monsters/yusdrayl",
+         "positions": [
+            {
+               "x": 1157,
+               "y": 5625
+            }
+         ]
+      },
+      {
+         "id": "monsters/guthash",
+         "positions": [
+            {
+               "x": 2700,
+               "y": 4700
+            }
+         ]
+      },
+      {
+         "id": "monsters/erky-timbers",
+         "positions": [
+            {
+               "x": 2100,
+               "y": 5150
+            }
+         ]
+      },
+      {
+         "id": "monsters/white-dragon-wyrmling",
+         "positions": [
+            {
+               "x": 2000,
+               "y": 4650,
+               "name": "Calcryx"
+            }
+         ]
+      },
+      {
+         "id": "monsters/goblin-commoner",
+         "positions": [
+            {
+               "x": 1450,
+               "y": 4900
+            },
+            {
+               "x": 1400,
+               "y": 4800
+            },
+            {
+               "x": 1300,
+               "y": 4900
+            },
+            {
+               "x": 1500,
+               "y": 5050
+            },
+            {
+               "x": 1400,
+               "y": 5000
+            },
+            {
+               "x": 1300,
+               "y": 4950
+            },
+            {
+               "x": 1250,
+               "y": 4850
+            },
+            {
+               "x": 1200,
+               "y": 4950
+            },
+            {
+               "x": 1250,
+               "y": 5050
+            },
+            {
+               "x": 1150,
+               "y": 5050
+            }
+         ]
+      },
+      {
+         "id": "monsters/grenl",
+         "positions": [
+            {
+               "x": 1100,
+               "y": 4750
+            }
+         ]
+      },
+      {
+         "id": "monsters/durnn",
+         "positions": [
+            {
+               "x": 1000,
+               "y": 4550
+            }
+         ]
+      },
+      {
+         "id": "monsters/hobgoblin",
+         "positions": [
+            {
+               "x": 1000,
+               "y": 4650
+            },
+            {
+               "x": 1150,
+               "y": 4550
+            },
+            {
+               "x": 1000,
+               "y": 4700
+            }
+         ]
+      },
+      {
+         "id": "monsters/twig-blight",
+         "positions": [
+            {
+               "x": 1050,
+               "y": 4550
             }
          ]
       }
@@ -1400,7 +1626,8 @@
             6087
          ],
          "dir": 0,
-         "door": 1
+         "door": 1,
+         "ds": 2
       },
       {
          "c": [
@@ -2376,7 +2603,8 @@
             5750
          ],
          "dir": 0,
-         "door": 1
+         "door": 1,
+         "ds": 2
       },
       {
          "c": [
@@ -2413,7 +2641,8 @@
             5950
          ],
          "dir": 0,
-         "door": 1
+         "door": 1,
+         "ds": 2
       },
       {
          "c": [
@@ -2505,7 +2734,8 @@
             5550
          ],
          "dir": 0,
-         "door": 1
+         "door": 1,
+         "ds": 2
       },
       {
          "c": [
@@ -2641,7 +2871,8 @@
             5650
          ],
          "dir": 0,
-         "door": 1
+         "door": 1,
+         "ds": 2
       },
       {
          "c": [
@@ -2668,7 +2899,9 @@
             2100,
             5675
          ],
-         "dir": 0
+         "dir": 0,
+         "door": 1,
+         "ds": 2
       },
       {
          "c": [
@@ -2915,7 +3148,8 @@
             5100
          ],
          "dir": 0,
-         "door": 1
+         "door": 1,
+         "ds": 2
       },
       {
          "c": [
@@ -3172,7 +3406,8 @@
             4825
          ],
          "dir": 0,
-         "door": 1
+         "door": 1,
+         "ds": 2
       },
       {
          "c": [
@@ -3200,7 +3435,8 @@
             4850
          ],
          "dir": 0,
-         "door": 1
+         "door": 1,
+         "ds": 2
       },
       {
          "c": [
@@ -3320,7 +3556,8 @@
             5350
          ],
          "dir": 0,
-         "door": 1
+         "door": 1,
+         "ds": 2
       },
       {
          "c": [
@@ -4592,10 +4829,12 @@
          "dim": 40,
          "bright": 20,
          "angle": 0,
-         "tintAlpha": 0.5,
+         "tintColor": "",
+         "tintAlpha": 0.49,
          "lightAnimation": {
-            "speed": 5,
-            "intensity": 5
+            "speed": 1,
+            "intensity": 2,
+            "type": "torch"
          },
          "darknessThreshold": 0,
          "darkness": {
@@ -4610,10 +4849,12 @@
          "dim": 40,
          "bright": 20,
          "angle": 0,
-         "tintAlpha": 0.5,
+         "tintColor": "",
+         "tintAlpha": 0.49,
          "lightAnimation": {
-            "speed": 5,
-            "intensity": 5
+            "speed": 1,
+            "intensity": 2,
+            "type": "torch"
          },
          "darknessThreshold": 0,
          "darkness": {
@@ -4628,10 +4869,12 @@
          "dim": 40,
          "bright": 20,
          "angle": 0,
-         "tintAlpha": 0.5,
+         "tintColor": "",
+         "tintAlpha": 0.49,
          "lightAnimation": {
-            "speed": 5,
-            "intensity": 5
+            "speed": 1,
+            "intensity": 2,
+            "type": "torch"
          },
          "darknessThreshold": 0,
          "darkness": {
@@ -4646,10 +4889,12 @@
          "dim": 40,
          "bright": 20,
          "angle": 0,
-         "tintAlpha": 0.5,
+         "tintColor": "",
+         "tintAlpha": 0.49,
          "lightAnimation": {
-            "speed": 5,
-            "intensity": 5
+            "speed": 1,
+            "intensity": 2,
+            "type": "torch"
          },
          "darknessThreshold": 0,
          "darkness": {
@@ -4659,51 +4904,17 @@
          "hidden": false
       },
       {
-         "x": 1375,
-         "y": 4975,
-         "dim": 50,
-         "bright": 0,
-         "angle": 0,
-         "tintAlpha": 0.5,
-         "lightAnimation": {
-            "speed": 5,
-            "intensity": 5
-         },
-         "darknessThreshold": 0,
-         "darkness": {
-            "min": 0,
-            "max": 1
-         },
-         "hidden": false
-      },
-      {
-         "x": 1125,
-         "y": 4675,
-         "dim": 7.15,
-         "bright": 0,
-         "angle": 0,
-         "tintAlpha": 0.5,
-         "lightAnimation": {
-            "speed": 5,
-            "intensity": 5
-         },
-         "darknessThreshold": 0,
-         "darkness": {
-            "min": 0,
-            "max": 1
-         },
-         "hidden": false
-      },
-      {
-         "x": 2350,
-         "y": 5550,
-         "dim": 30,
+         "x": 2325,
+         "y": 5375,
+         "dim": 60,
          "bright": 30,
          "angle": 0,
-         "tintAlpha": 0.5,
+         "tintColor": "",
+         "tintAlpha": 0.49,
          "lightAnimation": {
-            "speed": 5,
-            "intensity": 5
+            "speed": 1,
+            "intensity": 2,
+            "type": "torch"
          },
          "darknessThreshold": 0,
          "darkness": {
@@ -4738,10 +4949,12 @@
          "dim": 40,
          "bright": 20,
          "angle": 0,
-         "tintAlpha": 0.5,
+         "tintColor": "",
+         "tintAlpha": 0.49,
          "lightAnimation": {
-            "speed": 5,
-            "intensity": 5
+            "speed": 1,
+            "intensity": 2,
+            "type": "torch"
          },
          "darknessThreshold": 0,
          "darkness": {
@@ -4756,10 +4969,12 @@
          "dim": 40,
          "bright": 20,
          "angle": 0,
-         "tintAlpha": 0.5,
+         "tintColor": "",
+         "tintAlpha": 0.49,
          "lightAnimation": {
-            "speed": 5,
-            "intensity": 5
+            "speed": 1,
+            "intensity": 2,
+            "type": "torch"
          },
          "darknessThreshold": 0,
          "darkness": {
@@ -4771,13 +4986,395 @@
       {
          "x": 2625,
          "y": 5650,
-         "dim": 40,
-         "bright": 20,
+         "dim": 10,
+         "bright": 5,
          "angle": 0,
-         "tintAlpha": 0.5,
+         "tintColor": "",
+         "tintAlpha": 0.49,
          "lightAnimation": {
-            "speed": 5,
-            "intensity": 5
+            "speed": 2,
+            "intensity": 3,
+            "type": "torch"
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false
+      },
+      {
+         "x": 2225,
+         "y": 5475,
+         "dim": 60,
+         "bright": 30,
+         "angle": 0,
+         "tintColor": null,
+         "tintAlpha": 0.49,
+         "lightAnimation": {
+            "speed": 1,
+            "intensity": 2,
+            "type": "torch"
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false
+      },
+      {
+         "x": 2275,
+         "y": 5575,
+         "dim": 60,
+         "bright": 30,
+         "angle": 0,
+         "tintColor": null,
+         "tintAlpha": 0.49,
+         "lightAnimation": {
+            "speed": 1,
+            "intensity": 2,
+            "type": "torch"
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false
+      },
+      {
+         "x": 2475,
+         "y": 5525,
+         "dim": 60,
+         "bright": 30,
+         "angle": 0,
+         "tintColor": null,
+         "tintAlpha": 0.49,
+         "lightAnimation": {
+            "speed": 1,
+            "intensity": 2,
+            "type": "torch"
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false
+      },
+      {
+         "x": 2425,
+         "y": 5625,
+         "dim": 60,
+         "bright": 30,
+         "angle": 0,
+         "tintColor": null,
+         "tintAlpha": 0.49,
+         "lightAnimation": {
+            "speed": 1,
+            "intensity": 2,
+            "type": "torch"
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false
+      },
+      {
+         "x": 2225,
+         "y": 5675,
+         "dim": 60,
+         "bright": 30,
+         "angle": 0,
+         "tintColor": null,
+         "tintAlpha": 0.49,
+         "lightAnimation": {
+            "speed": 1,
+            "intensity": 2,
+            "type": "torch"
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false
+      },
+      {
+         "x": 2100,
+         "y": 5850,
+         "dim": 5,
+         "bright": 0,
+         "angle": 0,
+         "tintColor": "#e09900",
+         "tintAlpha": 0.25,
+         "lightAnimation": {
+            "speed": 6,
+            "intensity": 9,
+            "type": "pulse"
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false
+      },
+      {
+         "x": 1600,
+         "y": 6150,
+         "dim": 5,
+         "bright": 0,
+         "angle": 0,
+         "tintColor": "#e09900",
+         "tintAlpha": 0.25,
+         "lightAnimation": {
+            "speed": 6,
+            "intensity": 9,
+            "type": "pulse"
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false
+      },
+      {
+         "x": 1500,
+         "y": 5850,
+         "dim": 5,
+         "bright": 0,
+         "angle": 0,
+         "tintColor": "#e09900",
+         "tintAlpha": 0.25,
+         "lightAnimation": {
+            "speed": 6,
+            "intensity": 9,
+            "type": "pulse"
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false
+      },
+      {
+         "x": 1700,
+         "y": 5150,
+         "dim": 5,
+         "bright": 0,
+         "angle": 0,
+         "tintColor": "#e09900",
+         "tintAlpha": 0.25,
+         "lightAnimation": {
+            "speed": 6,
+            "intensity": 9,
+            "type": "pulse"
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false
+      },
+      {
+         "x": 2350,
+         "y": 4650,
+         "dim": 5,
+         "bright": 0,
+         "angle": 0,
+         "tintColor": "#e09900",
+         "tintAlpha": 0.25,
+         "lightAnimation": {
+            "speed": 6,
+            "intensity": 9,
+            "type": "pulse"
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false
+      },
+      {
+         "x": 1000,
+         "y": 5150,
+         "dim": 5,
+         "bright": 0,
+         "angle": 0,
+         "tintColor": "#e09900",
+         "tintAlpha": 0.25,
+         "lightAnimation": {
+            "speed": 6,
+            "intensity": 9,
+            "type": "pulse"
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false
+      },
+      {
+         "x": 1575,
+         "y": 4875,
+         "dim": 25,
+         "bright": 0,
+         "angle": 0,
+         "tintColor": "#d980f9",
+         "tintAlpha": 0.16,
+         "lightAnimation": {
+            "speed": 1,
+            "intensity": 2,
+            "type": "pulse"
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false
+      },
+      {
+         "x": 1525,
+         "y": 4675,
+         "dim": 25,
+         "bright": 0,
+         "angle": 0,
+         "tintColor": "#d980f9",
+         "tintAlpha": 0.16,
+         "lightAnimation": {
+            "speed": 1,
+            "intensity": 2,
+            "type": "pulse"
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false
+      },
+      {
+         "x": 1286,
+         "y": 4782,
+         "dim": 25,
+         "bright": 0,
+         "angle": 0,
+         "tintColor": "#d980f9",
+         "tintAlpha": 0.16,
+         "lightAnimation": {
+            "speed": 1,
+            "intensity": 2,
+            "type": "pulse"
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false
+      },
+      {
+         "x": 1125,
+         "y": 5025,
+         "dim": 25,
+         "bright": 0,
+         "angle": 0,
+         "tintColor": "#d980f9",
+         "tintAlpha": 0.16,
+         "lightAnimation": {
+            "speed": 1,
+            "intensity": 2,
+            "type": "pulse"
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false
+      },
+      {
+         "x": 1175,
+         "y": 5225,
+         "dim": 25,
+         "bright": 0,
+         "angle": 0,
+         "tintColor": "#d980f9",
+         "tintAlpha": 0.16,
+         "lightAnimation": {
+            "speed": 1,
+            "intensity": 2,
+            "type": "pulse"
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false
+      },
+      {
+         "x": 1525,
+         "y": 5225,
+         "dim": 25,
+         "bright": 0,
+         "angle": 0,
+         "tintColor": "#d980f9",
+         "tintAlpha": 0.16,
+         "lightAnimation": {
+            "speed": 1,
+            "intensity": 2,
+            "type": "pulse"
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false
+      },
+      {
+         "x": 1575,
+         "y": 5025,
+         "dim": 25,
+         "bright": 0,
+         "angle": 0,
+         "tintColor": "#d980f9",
+         "tintAlpha": 0.16,
+         "lightAnimation": {
+            "speed": 1,
+            "intensity": 2,
+            "type": "pulse"
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false
+      },
+      {
+         "x": 1125,
+         "y": 4675,
+         "dim": 7.5,
+         "bright": 0,
+         "angle": 0,
+         "tintColor": "#d980f9",
+         "tintAlpha": 0.16,
+         "lightAnimation": {
+            "speed": 1,
+            "intensity": 2,
+            "type": "pulse"
          },
          "darknessThreshold": 0,
          "darkness": {
