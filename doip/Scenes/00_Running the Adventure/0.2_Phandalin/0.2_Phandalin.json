@@ -1,30 +1,29 @@
 {
    "name": "Phandalin",
-   "backgroundColor": "#606356",
    "code": "doip",
-   "entity": "Scene",
    "id": "scenes/doip-scene-0.2",
    "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "height": 2267,
+      "width": 2891,
+      "shift": {
+         "x": -60,
+         "y": -19
+      }
+   },
+   "grid": {
+      "value": 71,
+      "type": 1,
+      "distance": 50,
+      "units": "ft"
+   },
    "flags": {
       "vtta": {
          "folders": [
             "00 Running the Adventure"
          ]
       }
-   },
-   "grid": {
-      "units": "ft",
-      "distance": 50,
-      "type": 1,
-      "value": 71
-   },
-   "img": {
-      "height": 2267,
-      "shift": {
-         "x": -60,
-         "y": -19
-      },
-      "width": 2891
    },
    "journals": [
       {
@@ -82,10 +81,14 @@
          ]
       }
    ],
-   "lights": [
-   ],
-   "monsters": [
-   ],
-   "walls": [
-   ]
+   "monsters": [],
+   "walls": [],
+   "lights": [],
+   "quality": {
+      "grid": true,
+      "walls": true,
+      "lights": true,
+      "journals": true,
+      "monsters": true
+   }
 }
