@@ -1,0 +1,41 @@
+{
+  "name": "Thither",
+  "code": "twbtw",
+  "id": "scenes/twbtw-scene-3.1",
+  "type": "scene",
+  "entity": "Scene",
+  "img": {
+    "shift": {
+      "x": 47,
+      "y": -46
+    },
+    "width": 4200,
+    "height": 5700
+  },
+  "journals": [
+    {
+      "id": "journals/twbtw-scene-3.1-03",
+      "positions": []
+    },
+    {
+      "id": "journals/twbtw-scene-3.1-02",
+      "positions": []
+    },
+    {
+      "id": "journals/twbtw-scene-3.1-01",
+      "positions": []
+    }
+  ],
+  "grid": {
+    "value": 158,
+    "type": 1,
+    "distance": 1,
+    "units": "mi"
+  },
+  "monsters": [],
+  "flags": {
+    "vtta": {
+      "folders": ["04 Thither"]
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+   "name": "Palace of Heart’s Desire, Upper",
+   "code": "twbtw",
+   "id": "scenes/twbtw-scene-5.2",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 4200,
+      "height": 5700
+   },
+   "journals": [
+      {
+         "id": "journals/twbtw-scene-5.2-P51",
+         "positions": []
+      },
+      {
+         "id": "journals/twbtw-scene-5.2-P50",
+         "positions": []
+      },
+      {
+         "id": "journals/twbtw-scene-5.2-P49",
+         "positions": []
+      },
+      {
+         "id": "journals/twbtw-scene-5.2-P48",
+         "positions": []
+      },
+      {
+         "id": "journals/twbtw-scene-5.2-P47",
+         "positions": []
+      },
+      {
+         "id": "journals/twbtw-scene-5.2-P46",
+         "positions": []
+      },
+      {
+         "id": "journals/twbtw-scene-5.2-P45",
+         "positions": []
+      },
+      {
+         "id": "journals/twbtw-scene-5.2-P44",
+         "positions": []
+      },
+      {
+         "id": "journals/twbtw-scene-5.2-P43",
+         "positions": []
+      },
+      {
+         "id": "journals/twbtw-scene-5.2-P42",
+         "positions": []
+      },
+      {
+         "id": "journals/twbtw-scene-5.2-P41",
+         "positions": []
+      },
+      {
+         "id": "journals/twbtw-scene-5.2-P40",
+         "positions": []
+      },
+      {
+         "id": "journals/twbtw-scene-5.2-P39",
+         "positions": []
+      },
+      {
+         "id": "journals/twbtw-scene-5.2-P38",
+         "positions": []
+      },
+      {
+         "id": "journals/twbtw-scene-5.2-P37",
+         "positions": []
+      },
+      {
+         "id": "journals/twbtw-scene-5.2-P36",
+         "positions": []
+      },
+      {
+         "id": "journals/twbtw-scene-5.2-P35",
+         "positions": []
+      },
+      {
+         "id": "journals/twbtw-scene-5.2-P34",
+         "positions": []
+      },
+      {
+         "id": "journals/twbtw-scene-5.2-P33",
+         "positions": []
+      },
+      {
+         "id": "journals/twbtw-scene-5.2-P32",
+         "positions": []
+      }
+   ],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "08 Palace of Heart’s Desire"
+         ]
+      }
+   }
+}
